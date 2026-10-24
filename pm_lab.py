@@ -2566,12 +2566,12 @@ def cmd_build_static(args) -> int:
     )
     tpl_path = Path(__file__).resolve().parent / "dashboard_template.html"
     tpl = tpl_path.read_text(encoding="utf-8")
-    (out / "dashboard.html").write_text(
-        tpl.replace("__STAKE__", str(args.stake)).replace(
-            "__SOURCE__", "dashboard_data.json"
-        ),
-        encoding="utf-8",
+    html = tpl.replace("__STAKE__", str(args.stake)).replace(
+        "__SOURCE__", "dashboard_data.json"
     )
+    (out / "dashboard.html").write_text(html, encoding="utf-8")
+    # GitHub Pages serves index.html at the site root; without it the README wins
+    (out / "index.html").write_text(html, encoding="utf-8")
     print(
         f"static dashboard -> {out / 'dashboard.html'}  "
         f"equity {state['equity']:+.2f}  open {state['open']}  "
