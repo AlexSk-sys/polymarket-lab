@@ -1,0 +1,62 @@
+name: forward
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: forward
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install
+        run: pip install -r requirements.txt
+
+      - name: record paper bets
+        run: >
+          python pm_lab.py paper record
+          --threshold 0.70 --min-price 0.10 --max-price 0.90
+          --min-volume 10000 --max-days 14 --max 300
+
+      - name: settle resolved paper bets
+        run: python pm_lab.py paper settle
+
+      - name: capture fresh wallet entries
+        run: >
+          python pm_lab.py signals
+          --watch watch_big.json
+          --min-usdc 2000 --min-price 0.10 --max-price 0.90
+          --max-age 7200 --append --out signals_hourly.json
+
+      - name: score signals
+        run: python pm_lab.py evaluate signals_hourly.json --horizons 60,240 --write-back
+
+      - name: build static dashboard
+        run: python pm_lab.py build-static --stake 20
+
+      - name: commit state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "forward run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

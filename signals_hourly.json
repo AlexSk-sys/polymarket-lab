@@ -1,0 +1,2092 @@
+[
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 72291.3562,
+    "whale_price": 0.49,
+    "now_price": 0.51,
+    "moved": 0.04081632653061228,
+    "title": "Spread: Ohio (-10.5)",
+    "outcome": "Ohio",
+    "token_id": "45608724355967228363330066955556198036697423576891899381502328628698134078942",
+    "condition_id": "0xb83258d53be5c25e3827b5a4d1cdf9cc8ecf4f02d475919de41b5cc13594497e",
+    "trade_ts": 1792868088.0,
+    "detected_at": "2026-10-24T18:59:11.009014+00:00",
+    "returns": {
+      "60": 0.01960784313725492,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 2939.487299960475,
+    "whale_price": 0.6762338935,
+    "now_price": 0.67,
+    "moved": -0.00921854636379583,
+    "title": "Will Tigres de la UANL win on 2026-10-24?",
+    "outcome": "No",
+    "token_id": "28268697468721321662286930984809453612094438305392908508308592794849882706870",
+    "condition_id": "0xdb68b1d33ea80e1008583b18c8e934f06a6ec42f4719f14b8667a7008c457a01",
+    "trade_ts": 1792867701.0,
+    "detected_at": "2026-10-24T18:59:11.086224+00:00",
+    "returns": {
+      "60": 0.007462686567164185,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 10735.5,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Spread: Lions (-3.5)",
+    "outcome": "Lions",
+    "token_id": "45406003951593692075624491927027268008480832353472673893496144306795436314422",
+    "condition_id": "0xa4f38dd4b82cd39d0f153cabeff3f21e9e1c3f89633bbc02943a16bd6a5ef4be",
+    "trade_ts": 1792868228.0,
+    "detected_at": "2026-10-24T18:59:15.488175+00:00",
+    "returns": {
+      "60": -0.00980392156862746,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 7950.0,
+    "whale_price": 0.53,
+    "now_price": 0.54,
+    "moved": 0.018867924528301903,
+    "title": "Bengals vs. Ravens: O/U 48.5",
+    "outcome": "Under",
+    "token_id": "77391913095190871504257937094236784524136413534759319790985337649644877557466",
+    "condition_id": "0x8ed198f4234ce8a1178878aae2de96ec4cd1b82e1d640b499d191e56a5c35582",
+    "trade_ts": 1792868165.0,
+    "detected_at": "2026-10-24T18:59:15.569938+00:00",
+    "returns": {
+      "60": 0.0277777777777778,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 32193.75,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Spread: Vikings (-6.5)",
+    "outcome": "Colts",
+    "token_id": "30282227417034743031334733838055412817798257349262050149451303001640708260345",
+    "condition_id": "0x40492ef07253b59553012ae459c9511aa925222f19eaca64bd9acc7414b522ab",
+    "trade_ts": 1792868109.0,
+    "detected_at": "2026-10-24T18:59:15.647563+00:00",
+    "returns": {
+      "60": -0.00980392156862746,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 15388.931999999999,
+    "whale_price": 0.52,
+    "now_price": 0.53,
+    "moved": 0.019230769230769246,
+    "title": "Spread: Browns (-2.5)",
+    "outcome": "Titans",
+    "token_id": "105095313090427269538160297957554054820792061799477131510781811614746272221469",
+    "condition_id": "0x40e02a5e141e34e78983a3ad7902c0427113bf222bd6716ebdf15343d64af6eb",
+    "trade_ts": 1792868043.0,
+    "detected_at": "2026-10-24T18:59:15.731127+00:00",
+    "returns": {
+      "60": -0.028301886792452855,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 32193.24,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Spread: Jets (-4.5)",
+    "outcome": "Dolphins",
+    "token_id": "48201434649508881159672290524385277814421472169450247713767928560148118982890",
+    "condition_id": "0xb825122927642542b37f083dbd0a16a7536ce61e23ae3cf5dd112ef59b837698",
+    "trade_ts": 1792867991.0,
+    "detected_at": "2026-10-24T18:59:15.807990+00:00",
+    "returns": {
+      "60": -0.00980392156862746,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 13799.199999625002,
+    "whale_price": 0.4799721739,
+    "now_price": 0.48,
+    "moved": 5.7974402503089206e-05,
+    "title": "Spread: Panthers (-2.5)",
+    "outcome": "Buccaneers",
+    "token_id": "17719253460519112170076043070906086334521449566991695696830759969171621056901",
+    "condition_id": "0xe2d2714a58833559cc2c4528d59db2cd0eae7952e566b924a4679fdee629553f",
+    "trade_ts": 1792867916.0,
+    "detected_at": "2026-10-24T18:59:15.906885+00:00",
+    "returns": {
+      "60": -0.010416666666666676,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 23010.0,
+    "whale_price": 0.59,
+    "now_price": 0.59,
+    "moved": 0.0,
+    "title": "Spread: Panthers (-3.5)",
+    "outcome": "Buccaneers",
+    "token_id": "46930809614692430407764056809131504438073715609977632695399501121333085501127",
+    "condition_id": "0x5b3fab3d8af7306b0e9b78939ff4c9b965276a543dd586769f11f2d4d6f1a721",
+    "trade_ts": 1792867826.0,
+    "detected_at": "2026-10-24T18:59:15.992556+00:00",
+    "returns": {
+      "60": -0.00847457627118645,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 3796.44,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Rams vs. Raiders: O/U 48.5",
+    "outcome": "Under",
+    "token_id": "10158677450331812537744343750437602583710467429563699027530735514821589078921",
+    "condition_id": "0xaca2fac5143baa630a5d8b47672dfbbde297b1d7060ce9984f6422f518187628",
+    "trade_ts": 1792868732.0,
+    "detected_at": "2026-10-24T19:06:10.195658+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 2650.0,
+    "whale_price": 0.53,
+    "now_price": 0.53,
+    "moved": 0.0,
+    "title": "Spread: Browns (-2.5)",
+    "outcome": "Titans",
+    "token_id": "105095313090427269538160297957554054820792061799477131510781811614746272221469",
+    "condition_id": "0x40e02a5e141e34e78983a3ad7902c0427113bf222bd6716ebdf15343d64af6eb",
+    "trade_ts": 1792868682.0,
+    "detected_at": "2026-10-24T19:06:10.276404+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 16960.0,
+    "whale_price": 0.53,
+    "now_price": 0.53,
+    "moved": 0.0,
+    "title": "Spread: Browns (-2.5)",
+    "outcome": "Titans",
+    "token_id": "105095313090427269538160297957554054820792061799477131510781811614746272221469",
+    "condition_id": "0x40e02a5e141e34e78983a3ad7902c0427113bf222bd6716ebdf15343d64af6eb",
+    "trade_ts": 1792868603.0,
+    "detected_at": "2026-10-24T19:06:10.348529+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 28258.983299226533,
+    "whale_price": 0.5073831446,
+    "now_price": 0.51,
+    "moved": 0.005157552882571666,
+    "title": "Rams vs. Raiders: O/U 48.5",
+    "outcome": "Under",
+    "token_id": "10158677450331812537744343750437602583710467429563699027530735514821589078921",
+    "condition_id": "0xaca2fac5143baa630a5d8b47672dfbbde297b1d7060ce9984f6422f518187628",
+    "trade_ts": 1792868373.0,
+    "detected_at": "2026-10-24T19:06:10.417285+00:00",
+    "returns": {
+      "60": 0.00980392156862746,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2027.554399976526,
+    "whale_price": 0.5904798849,
+    "now_price": 0.64,
+    "moved": 0.08386418634461426,
+    "title": "West Virginia vs. TCU",
+    "outcome": "West Virginia",
+    "token_id": "102027489445529935341284329976297360398259505867707031966299294548177360862463",
+    "condition_id": "0xa80c2d9cb6c10fd914ef6315e185667762fcbc38ea0c1d51251d490cee75985c",
+    "trade_ts": 1792868750.0,
+    "detected_at": "2026-10-24T19:06:14.845564+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 67571.102,
+    "whale_price": 0.58,
+    "now_price": 0.6,
+    "moved": 0.03448275862068969,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792870539.0,
+    "detected_at": "2026-10-24T20:00:07.140962+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 2432.3680000000004,
+    "whale_price": 0.67,
+    "now_price": 0.71,
+    "moved": 0.059701492537313314,
+    "title": "Tennessee vs. South Carolina",
+    "outcome": "South Carolina",
+    "token_id": "55320613956802806515774904336504519728786148578047879904942054708840923189700",
+    "condition_id": "0xbea43d17be710b3a0de383651ac7a6c6b0e48ca129c854724401b667655602e7",
+    "trade_ts": 1792871441.0,
+    "detected_at": "2026-10-24T20:00:07.594658+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 7875.672000000001,
+    "whale_price": 0.56,
+    "now_price": 0.57,
+    "moved": 0.017857142857142672,
+    "title": "Spread: Rams (-2.5)",
+    "outcome": "Rams",
+    "token_id": "18693179156596142904871843439681549119164561945957226687286400654045278448855",
+    "condition_id": "0x4c46c7b7a01c43d63e397601206a7169e27cfa79cc2f21d641f87c111793344d",
+    "trade_ts": 1792869128.0,
+    "detected_at": "2026-10-24T20:00:08.640561+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2263.7504000000004,
+    "whale_price": 0.32,
+    "now_price": 0.001,
+    "moved": -0.996875,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869590.0,
+    "detected_at": "2026-10-24T20:00:08.855196+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4161.223600422315,
+    "whale_price": 0.3625090797,
+    "now_price": 0.001,
+    "moved": -0.9972414484050233,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869362.0,
+    "detected_at": "2026-10-24T20:00:08.972601+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3589.90419995998,
+    "whale_price": 0.372876722,
+    "now_price": 0.001,
+    "moved": -0.9973181484898379,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869278.0,
+    "detected_at": "2026-10-24T20:00:09.070985+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4920.389999383975,
+    "whale_price": 0.3771717275,
+    "now_price": 0.001,
+    "moved": -0.9973486878069354,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869272.0,
+    "detected_at": "2026-10-24T20:00:09.155258+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3250.0,
+    "whale_price": 0.26,
+    "now_price": 0.001,
+    "moved": -0.9961538461538462,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869126.0,
+    "detected_at": "2026-10-24T20:00:09.239511+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4321.0244,
+    "whale_price": 0.22,
+    "now_price": 0.001,
+    "moved": -0.9954545454545455,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869029.0,
+    "detected_at": "2026-10-24T20:00:09.327622+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5750.0,
+    "whale_price": 0.23,
+    "now_price": 0.001,
+    "moved": -0.9956521739130435,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868987.0,
+    "detected_at": "2026-10-24T20:00:09.414912+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3147.527,
+    "whale_price": 0.23,
+    "now_price": 0.001,
+    "moved": -0.9956521739130435,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868979.0,
+    "detected_at": "2026-10-24T20:00:09.504413+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3067.5624,
+    "whale_price": 0.24,
+    "now_price": 0.001,
+    "moved": -0.9958333333333333,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868964.0,
+    "detected_at": "2026-10-24T20:00:09.595969+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 37316.308605,
+    "whale_price": 0.2487753907,
+    "now_price": 0.001,
+    "moved": -0.9959803097999917,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868946.0,
+    "detected_at": "2026-10-24T20:00:09.688187+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 26197.575096,
+    "whale_price": 0.2381597736,
+    "now_price": 0.001,
+    "moved": -0.9958011380978236,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868930.0,
+    "detected_at": "2026-10-24T20:00:09.782200+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 29900.0,
+    "whale_price": 0.23,
+    "now_price": 0.001,
+    "moved": -0.9956521739130435,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868907.0,
+    "detected_at": "2026-10-24T20:00:09.882212+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2871.9306,
+    "whale_price": 0.22,
+    "now_price": 0.001,
+    "moved": -0.9954545454545455,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868888.0,
+    "detected_at": "2026-10-24T20:00:09.973564+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 31702.300504,
+    "whale_price": 0.2264450036,
+    "now_price": 0.001,
+    "moved": -0.9955839166945523,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868874.0,
+    "detected_at": "2026-10-24T20:00:10.075255+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 75595.229885,
+    "whale_price": 0.2159863711,
+    "now_price": 0.001,
+    "moved": -0.9953700782373115,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868846.0,
+    "detected_at": "2026-10-24T20:00:10.165088+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 16000.0,
+    "whale_price": 0.2,
+    "now_price": 0.001,
+    "moved": -0.995,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868832.0,
+    "detected_at": "2026-10-24T20:00:10.267936+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 27421.012206638556,
+    "whale_price": 0.1876018642,
+    "now_price": 0.001,
+    "moved": -0.9946695625639737,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "LOS",
+    "token_id": "94890717475109014675345769008997201788285602056449309396050420824133111234663",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792868816.0,
+    "detected_at": "2026-10-24T20:00:10.365498+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2281.9999998981116,
+    "whale_price": 0.6086264564,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: Astra Invicta vs LEGION - Game 2 Winner",
+    "outcome": "Astra Invicta",
+    "token_id": "2729705512156812180757363034801491855136696140549890209362741705338993859507",
+    "condition_id": "0xa3db5facce45bf5a424868f009e49fa56d77a1e6eae95d594cb0cf22c8396242",
+    "trade_ts": 1792869498.0,
+    "detected_at": "2026-10-24T20:00:13.754997+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2281.9999950598076,
+    "whale_price": 0.8742773951,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: Astra Invicta vs LEGION - Game 2 Winner",
+    "outcome": "Astra Invicta",
+    "token_id": "2729705512156812180757363034801491855136696140549890209362741705338993859507",
+    "condition_id": "0xa3db5facce45bf5a424868f009e49fa56d77a1e6eae95d594cb0cf22c8396242",
+    "trade_ts": 1792869315.0,
+    "detected_at": "2026-10-24T20:00:13.839910+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "name": "",
+    "side": "BUY",
+    "usdc": 3266.0100000099,
+    "whale_price": 0.7875596817,
+    "now_price": null,
+    "moved": null,
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "token_id": "79358534393719733920973721301879048772972682478379544527646964029685639737332",
+    "condition_id": "0x830e5064d693a920da168c76a4ffc3cd94c05103f0cd88f84e130a1b1c4eac42",
+    "trade_ts": 1792869992.0,
+    "detected_at": "2026-10-24T20:00:14.661732+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2100.0,
+    "whale_price": 0.42,
+    "now_price": 0.16,
+    "moved": -0.6190476190476191,
+    "title": "Will SS Lazio win on 2026-10-24?",
+    "outcome": "No",
+    "token_id": "61805122578404169554825832980722013734217919052448510613168449682342872470259",
+    "condition_id": "0xdec7210d8f15d3bd8fc55971ef4b738c84c7092e0fb7ac6d3e72a5c253820523",
+    "trade_ts": 1792871493.0,
+    "detected_at": "2026-10-24T20:00:16.651504+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "SELL",
+    "usdc": 4166.7582,
+    "whale_price": 0.46,
+    "now_price": 0.45,
+    "moved": 0.021739130434782625,
+    "title": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
+    "outcome": "Yes",
+    "token_id": "21099887182068653164347641846316470453763034851874063977340528628016776716246",
+    "condition_id": "0x0c9ada12c527451fbdd43c0397a8a006b8aaf2a01567ae069d37220b51937595",
+    "trade_ts": 1792871364.0,
+    "detected_at": "2026-10-24T20:00:18.536672+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "SELL",
+    "usdc": 3464.5,
+    "whale_price": 0.82,
+    "now_price": 0.999,
+    "moved": -0.21829268292682935,
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "token_id": "79358534393719733920973721301879048772972682478379544527646964029685639737332",
+    "condition_id": "0x830e5064d693a920da168c76a4ffc3cd94c05103f0cd88f84e130a1b1c4eac42",
+    "trade_ts": 1792870029.0,
+    "detected_at": "2026-10-24T20:00:19.151104+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "SELL",
+    "usdc": 13857.179999999998,
+    "whale_price": 0.82,
+    "now_price": 0.999,
+    "moved": -0.21829268292682935,
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "token_id": "79358534393719733920973721301879048772972682478379544527646964029685639737332",
+    "condition_id": "0x830e5064d693a920da168c76a4ffc3cd94c05103f0cd88f84e130a1b1c4eac42",
+    "trade_ts": 1792870026.0,
+    "detected_at": "2026-10-24T20:00:19.244822+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "SELL",
+    "usdc": 4473.7,
+    "whale_price": 0.83,
+    "now_price": 0.999,
+    "moved": -0.20361445783132537,
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "token_id": "79358534393719733920973721301879048772972682478379544527646964029685639737332",
+    "condition_id": "0x830e5064d693a920da168c76a4ffc3cd94c05103f0cd88f84e130a1b1c4eac42",
+    "trade_ts": 1792870014.0,
+    "detected_at": "2026-10-24T20:00:19.330920+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "BUY",
+    "usdc": 4158.7200001644,
+    "whale_price": 0.8095620012,
+    "now_price": null,
+    "moved": null,
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "token_id": "79358534393719733920973721301879048772972682478379544527646964029685639737332",
+    "condition_id": "0x830e5064d693a920da168c76a4ffc3cd94c05103f0cd88f84e130a1b1c4eac42",
+    "trade_ts": 1792869992.0,
+    "detected_at": "2026-10-24T20:00:19.430151+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "BUY",
+    "usdc": 10998.659997433728,
+    "whale_price": 0.8096267975,
+    "now_price": null,
+    "moved": null,
+    "title": "Indiana vs. Michigan",
+    "outcome": "Indiana",
+    "token_id": "79358534393719733920973721301879048772972682478379544527646964029685639737332",
+    "condition_id": "0x830e5064d693a920da168c76a4ffc3cd94c05103f0cd88f84e130a1b1c4eac42",
+    "trade_ts": 1792869992.0,
+    "detected_at": "2026-10-24T20:00:19.525186+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 3500.0000001123003,
+    "whale_price": 0.4494096613,
+    "now_price": 0.36,
+    "moved": -0.19894913037998813,
+    "title": "Gil Vicente FC vs. FC Porto: O/U 2.5",
+    "outcome": "Over",
+    "token_id": "78294936557135831439805633920677215756379806092023439840400987174068960469693",
+    "condition_id": "0xb8ca00e699cfb6e672852467c8937ef83429f61917adedfcb62ad6ea52241909",
+    "trade_ts": 1792871442.0,
+    "detected_at": "2026-10-24T20:00:20.106064+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3579.6699989999997,
+    "whale_price": 0.75,
+    "now_price": 0.75,
+    "moved": 0.0,
+    "title": "Dota 2: Astra Invicta vs LEGION (BO3) - PARI Universe Group B",
+    "outcome": "Astra Invicta",
+    "token_id": "66366897707016291493916025127152559420007781361273248222687785605346600262913",
+    "condition_id": "0x90b546c70a556b207e2c3db652251ad2ca91a3e30efbf72a4d77df049c8a554f",
+    "trade_ts": 1792871780.0,
+    "detected_at": "2026-10-24T20:00:20.733190+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 5798.3099999999995,
+    "whale_price": 0.75,
+    "now_price": 0.75,
+    "moved": 0.0,
+    "title": "Dota 2: Astra Invicta vs LEGION (BO3) - PARI Universe Group B",
+    "outcome": "Astra Invicta",
+    "token_id": "66366897707016291493916025127152559420007781361273248222687785605346600262913",
+    "condition_id": "0x90b546c70a556b207e2c3db652251ad2ca91a3e30efbf72a4d77df049c8a554f",
+    "trade_ts": 1792871769.0,
+    "detected_at": "2026-10-24T20:00:20.829833+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2689.839999,
+    "whale_price": 0.75,
+    "now_price": 0.75,
+    "moved": 0.0,
+    "title": "Dota 2: Astra Invicta vs LEGION (BO3) - PARI Universe Group B",
+    "outcome": "Astra Invicta",
+    "token_id": "66366897707016291493916025127152559420007781361273248222687785605346600262913",
+    "condition_id": "0x90b546c70a556b207e2c3db652251ad2ca91a3e30efbf72a4d77df049c8a554f",
+    "trade_ts": 1792871622.0,
+    "detected_at": "2026-10-24T20:00:20.910740+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 6223.009998,
+    "whale_price": 0.75,
+    "now_price": 0.75,
+    "moved": 0.0,
+    "title": "Dota 2: Astra Invicta vs LEGION (BO3) - PARI Universe Group B",
+    "outcome": "Astra Invicta",
+    "token_id": "66366897707016291493916025127152559420007781361273248222687785605346600262913",
+    "condition_id": "0x90b546c70a556b207e2c3db652251ad2ca91a3e30efbf72a4d77df049c8a554f",
+    "trade_ts": 1792871613.0,
+    "detected_at": "2026-10-24T20:00:21.002127+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92b5f14c68ccae0cd7d0ba52b098ffaab990fec6",
+    "name": "Schnoodled",
+    "side": "BUY",
+    "usdc": 4769.52,
+    "whale_price": 0.51,
+    "now_price": 0.73,
+    "moved": 0.4313725490196078,
+    "title": "Spread: BYU (-7.5)",
+    "outcome": "BYU",
+    "token_id": "115305668380122584675713284659851478528918442612602747131050175756663575739150",
+    "condition_id": "0x3521d02bc05591d1661d70d9b6841a8abdda21825bdcfa772eafc9e70b06a33e",
+    "trade_ts": 1792869390.0,
+    "detected_at": "2026-10-24T20:00:21.287560+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92b5f14c68ccae0cd7d0ba52b098ffaab990fec6",
+    "name": "Schnoodled",
+    "side": "BUY",
+    "usdc": 9999.999999379515,
+    "whale_price": 0.5099056674,
+    "now_price": 0.73,
+    "moved": 0.4316373530858308,
+    "title": "Spread: BYU (-7.5)",
+    "outcome": "BYU",
+    "token_id": "115305668380122584675713284659851478528918442612602747131050175756663575739150",
+    "condition_id": "0x3521d02bc05591d1661d70d9b6841a8abdda21825bdcfa772eafc9e70b06a33e",
+    "trade_ts": 1792869324.0,
+    "detected_at": "2026-10-24T20:00:21.380899+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x54ce7dd357766fc3255645e55ef41edd51cc9f80",
+    "name": "mde4life1986",
+    "side": "BUY",
+    "usdc": 25317.559800000003,
+    "whale_price": 0.54,
+    "now_price": 0.59,
+    "moved": 0.09259259259259246,
+    "title": "Bengals vs. Ravens",
+    "outcome": "Bengals",
+    "token_id": "95766531878097112964815622175314367311075025714777309355430576358605571695751",
+    "condition_id": "0xc5f590356b401a3d7b259437fcc9257889534b2846a8179b74cb0ab253f3ac2b",
+    "trade_ts": 1792870232.0,
+    "detected_at": "2026-10-24T20:00:22.619062+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3349.9999991600002,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "11303311987215829144104894100882278398192795853084562569078606887599563691170",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869654.0,
+    "detected_at": "2026-10-24T20:00:23.938325+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3350.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "11303311987215829144104894100882278398192795853084562569078606887599563691170",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869653.0,
+    "detected_at": "2026-10-24T20:00:24.026120+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3449.98999914,
+    "whale_price": 0.69,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "11303311987215829144104894100882278398192795853084562569078606887599563691170",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869590.0,
+    "detected_at": "2026-10-24T20:00:24.110586+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3199.9999992,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "11303311987215829144104894100882278398192795853084562569078606887599563691170",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869362.0,
+    "detected_at": "2026-10-24T20:00:24.192793+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3165.4699992,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "11303311987215829144104894100882278398192795853084562569078606887599563691170",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869360.0,
+    "detected_at": "2026-10-24T20:00:24.299677+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3080.0,
+    "whale_price": 0.77,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: G2 Esports vs LOS (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "11303311987215829144104894100882278398192795853084562569078606887599563691170",
+    "condition_id": "0xbcb48b2f52bf9b54d2f3d77681bb6f024692700ae14013901d414fc7714e45b4",
+    "trade_ts": 1792869057.0,
+    "detected_at": "2026-10-24T20:00:24.420759+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "name": "wangyou1288",
+    "side": "BUY",
+    "usdc": 19989.711,
+    "whale_price": 0.7,
+    "now_price": 0.71,
+    "moved": 0.0142857142857143,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "79849140802431862558385216350211463116234571445532374594602115294683578502379",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792875131.0,
+    "detected_at": "2026-10-24T21:00:04.046427+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 2480.7434999999996,
+    "whale_price": 0.59,
+    "now_price": 0.59,
+    "moved": -0.0,
+    "title": "Cali: Gustavo Heide vs Matheus Pucinelli de Almeida",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "token_id": "27162531119506840893905116275529870991140889979830663654056122859526048013761",
+    "condition_id": "0xc0b3c7bf9e958df886b79dd43c0dcf4b5080e0d54454c949f2b29c553c67c10e",
+    "trade_ts": 1792875543.0,
+    "detected_at": "2026-10-24T21:00:05.772785+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 3151.5469999999996,
+    "whale_price": 0.41,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872993.0,
+    "detected_at": "2026-10-24T21:00:07.706615+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 6013.9404,
+    "whale_price": 0.78,
+    "now_price": 0.001,
+    "moved": -0.9987179487179487,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873607.0,
+    "detected_at": "2026-10-24T21:00:09.156469+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 10140.0,
+    "whale_price": 0.78,
+    "now_price": 0.001,
+    "moved": -0.9987179487179487,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873536.0,
+    "detected_at": "2026-10-24T21:00:09.231279+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3029.7344,
+    "whale_price": 0.77,
+    "now_price": 0.001,
+    "moved": -0.9987012987012986,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873500.0,
+    "detected_at": "2026-10-24T21:00:09.294526+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2216.9147000000003,
+    "whale_price": 0.77,
+    "now_price": 0.001,
+    "moved": -0.9987012987012986,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873494.0,
+    "detected_at": "2026-10-24T21:00:09.353528+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2602.70220004023,
+    "whale_price": 0.776001777,
+    "now_price": 0.001,
+    "moved": -0.9987113431571433,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873484.0,
+    "detected_at": "2026-10-24T21:00:09.417439+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3299.312600104705,
+    "whale_price": 0.7463646955,
+    "now_price": 0.001,
+    "moved": -0.9986601724250501,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873437.0,
+    "detected_at": "2026-10-24T21:00:09.479716+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 6890.0956,
+    "whale_price": 0.79,
+    "now_price": 0.001,
+    "moved": -0.9987341772151899,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873302.0,
+    "detected_at": "2026-10-24T21:00:09.545268+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5446.9584,
+    "whale_price": 0.78,
+    "now_price": 0.001,
+    "moved": -0.9987179487179487,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873295.0,
+    "detected_at": "2026-10-24T21:00:09.609097+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3413.5409,
+    "whale_price": 0.77,
+    "now_price": 0.001,
+    "moved": -0.9987012987012986,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873281.0,
+    "detected_at": "2026-10-24T21:00:09.678308+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4691.062,
+    "whale_price": 0.76,
+    "now_price": 0.001,
+    "moved": -0.9986842105263158,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873272.0,
+    "detected_at": "2026-10-24T21:00:09.737110+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 6472.7025,
+    "whale_price": 0.75,
+    "now_price": 0.001,
+    "moved": -0.9986666666666667,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873232.0,
+    "detected_at": "2026-10-24T21:00:09.799302+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3261.9051999999997,
+    "whale_price": 0.74,
+    "now_price": 0.001,
+    "moved": -0.9986486486486487,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873224.0,
+    "detected_at": "2026-10-24T21:00:09.863536+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 7959.708,
+    "whale_price": 0.76,
+    "now_price": 0.001,
+    "moved": -0.9986842105263158,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873194.0,
+    "detected_at": "2026-10-24T21:00:09.926055+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5297.6925,
+    "whale_price": 0.75,
+    "now_price": 0.001,
+    "moved": -0.9986666666666667,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873190.0,
+    "detected_at": "2026-10-24T21:00:09.987754+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 19660.6659,
+    "whale_price": 0.65535553,
+    "now_price": 0.001,
+    "moved": -0.9984741106861492,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873154.0,
+    "detected_at": "2026-10-24T21:00:10.048360+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 6773.497600000001,
+    "whale_price": 0.64,
+    "now_price": 0.001,
+    "moved": -0.9984375,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873149.0,
+    "detected_at": "2026-10-24T21:00:10.108829+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4989.0223,
+    "whale_price": 0.59,
+    "now_price": 0.001,
+    "moved": -0.9983050847457627,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873062.0,
+    "detected_at": "2026-10-24T21:00:10.174184+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 11753.472,
+    "whale_price": 0.6,
+    "now_price": 0.001,
+    "moved": -0.9983333333333333,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872977.0,
+    "detected_at": "2026-10-24T21:00:10.233991+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2324.4053,
+    "whale_price": 0.59,
+    "now_price": 0.001,
+    "moved": -0.9983050847457627,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872954.0,
+    "detected_at": "2026-10-24T21:00:10.297685+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 29249.7987,
+    "whale_price": 0.59,
+    "now_price": 0.001,
+    "moved": -0.9983050847457627,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872939.0,
+    "detected_at": "2026-10-24T21:00:10.368489+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 8156.726399999999,
+    "whale_price": 0.59,
+    "now_price": 0.001,
+    "moved": -0.9983050847457627,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872885.0,
+    "detected_at": "2026-10-24T21:00:10.430183+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2535.6119999126236,
+    "whale_price": 0.5886245296,
+    "now_price": 0.001,
+    "moved": -0.9983011241466958,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872875.0,
+    "detected_at": "2026-10-24T21:00:10.494971+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 60000.0,
+    "whale_price": 0.6,
+    "now_price": 0.001,
+    "moved": -0.9983333333333333,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872855.0,
+    "detected_at": "2026-10-24T21:00:10.559322+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 51877.416,
+    "whale_price": 0.6,
+    "now_price": 0.001,
+    "moved": -0.9983333333333333,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872848.0,
+    "detected_at": "2026-10-24T21:00:10.629214+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 37759.71910200933,
+    "whale_price": 0.5942889774,
+    "now_price": 0.001,
+    "moved": -0.998317316931613,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872848.0,
+    "detected_at": "2026-10-24T21:00:10.707178+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 75259.67539468726,
+    "whale_price": 0.5969724766,
+    "now_price": 0.001,
+    "moved": -0.9983248808961924,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872804.0,
+    "detected_at": "2026-10-24T21:00:10.769187+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2358.6479999999997,
+    "whale_price": 0.6,
+    "now_price": 0.001,
+    "moved": -0.9983333333333333,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872803.0,
+    "detected_at": "2026-10-24T21:00:10.836379+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 46888.084903999996,
+    "whale_price": 0.5861010613,
+    "now_price": 0.001,
+    "moved": -0.9982938096071999,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872791.0,
+    "detected_at": "2026-10-24T21:00:10.897868+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 39821.921099645675,
+    "whale_price": 0.5797661349,
+    "now_price": 0.001,
+    "moved": -0.9982751665890722,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872753.0,
+    "detected_at": "2026-10-24T21:00:10.965024+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 39297.099599999994,
+    "whale_price": 0.57,
+    "now_price": 0.001,
+    "moved": -0.9982456140350877,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872735.0,
+    "detected_at": "2026-10-24T21:00:11.036449+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x074a3a0ffc6e1077a9d7fcbd774029e0cc6ef0e0",
+    "name": "adururu",
+    "side": "BUY",
+    "usdc": 2598.14129994143,
+    "whale_price": 0.4256003702,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872753.0,
+    "detected_at": "2026-10-24T21:00:11.619873+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "BUY",
+    "usdc": 2864.4969000132805,
+    "whale_price": 0.293492332,
+    "now_price": 0.001,
+    "moved": -0.9965927559565679,
+    "title": "Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5",
+    "outcome": "Over",
+    "token_id": "12463281476257086223109574994300920658079014423931288425637762892166201109000",
+    "condition_id": "0x36ad25f5cd99e3a72e4cd8d2755c0e8e664ee46bc07103d6237193715ca5ef6a",
+    "trade_ts": 1792873698.0,
+    "detected_at": "2026-10-24T21:00:16.082734+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "BUY",
+    "usdc": 2624.9995,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792872753.0,
+    "detected_at": "2026-10-24T21:00:16.149668+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 4450.3235011792385,
+    "whale_price": 0.1662421326,
+    "now_price": 0.173,
+    "moved": 0.04065075016969542,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792873527.0,
+    "detected_at": "2026-10-24T21:00:17.162951+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2450.0,
+    "whale_price": 0.49,
+    "now_price": 0.5,
+    "moved": 0.02040816326530614,
+    "title": "Spread: Bulls (-1.5)",
+    "outcome": "Bulls",
+    "token_id": "16198909379075150365161901733817950928309274081081869795000293842352957483019",
+    "condition_id": "0x65fccbb83831c43e5a37dcbee5fe86d788fa20ba646504b10afe588479114285",
+    "trade_ts": 1792875105.0,
+    "detected_at": "2026-10-24T21:00:18.119607+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2550.0,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Spread: Boise State (-14.5)",
+    "outcome": "Washington State",
+    "token_id": "97192133090041182087894534334043121003368858438844548035006977211979381087145",
+    "condition_id": "0x4551a46d07b64a884e8e4d280bcfe37e9c26c2417b4e188a7a2ab463c3ddf343",
+    "trade_ts": 1792874835.0,
+    "detected_at": "2026-10-24T21:00:18.177869+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0b0e1eb890038cc0f98d26d34842bbe4d1434826",
+    "name": "beautifulobsession",
+    "side": "BUY",
+    "usdc": 10000.00000015,
+    "whale_price": 0.47,
+    "now_price": 0.48,
+    "moved": 0.02127659574468087,
+    "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
+    "outcome": "Alexander Volkanovski",
+    "token_id": "16397821245492459575378572295506711097526778236443089974922515657339036237831",
+    "condition_id": "0xfe5ed516e9a226c11a4970cf27293d843e8d5ebeccd8513034599fb58edb05fb",
+    "trade_ts": 1792875180.0,
+    "detected_at": "2026-10-24T21:00:19.362795+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0df2c9deeb278ade65454023eca05cdcaa025d51",
+    "name": "Ksi172",
+    "side": "BUY",
+    "usdc": 6441.628299363314,
+    "whale_price": 0.2773630091,
+    "now_price": 0.001,
+    "moved": -0.9963946165595591,
+    "title": "Club Atlético de Madrid vs. RC Deportivo A Coruña: O/U 2.5",
+    "outcome": "Over",
+    "token_id": "12463281476257086223109574994300920658079014423931288425637762892166201109000",
+    "condition_id": "0x36ad25f5cd99e3a72e4cd8d2755c0e8e664ee46bc07103d6237193715ca5ef6a",
+    "trade_ts": 1792873697.0,
+    "detected_at": "2026-10-24T21:00:20.193918+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 8900.0,
+    "whale_price": 0.89,
+    "now_price": 0.89,
+    "moved": 0.0,
+    "title": "Will Ethereum dip to $1,500 by December 31, 2026?",
+    "outcome": "No",
+    "token_id": "38508858428676968447825900892305750232615791339175195608011299023691549494960",
+    "condition_id": "0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780",
+    "trade_ts": 1792872948.0,
+    "detected_at": "2026-10-24T21:00:20.896056+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 4319.9946,
+    "whale_price": 0.54,
+    "now_price": 0.54,
+    "moved": 0.0,
+    "title": "Dolphins vs. Jets: O/U 38.5",
+    "outcome": "Over",
+    "token_id": "43771607845893714145892994074172306410863418923049088534208011190080977307699",
+    "condition_id": "0x4630e844ddaa026bdb1428c234a258ddc3361673fc72759de467c711a3787a3a",
+    "trade_ts": 1792873331.0,
+    "detected_at": "2026-10-24T21:00:21.375334+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 2297.2630000000004,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792874267.0,
+    "detected_at": "2026-10-24T21:00:23.816467+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 3022.6470002555516,
+    "whale_price": 0.4565973408,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792874255.0,
+    "detected_at": "2026-10-24T21:00:23.881427+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 4234.581700093728,
+    "whale_price": 0.4685660904,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792874249.0,
+    "detected_at": "2026-10-24T21:00:23.946431+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2102.76,
+    "whale_price": 0.81,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792874625.0,
+    "detected_at": "2026-10-24T21:00:24.761013+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2663.6407,
+    "whale_price": 0.53272814,
+    "now_price": 0.001,
+    "moved": -0.99812286995014,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792874160.0,
+    "detected_at": "2026-10-24T21:00:24.826217+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3372.6,
+    "whale_price": 0.84,
+    "now_price": 0.001,
+    "moved": -0.9988095238095238,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873863.0,
+    "detected_at": "2026-10-24T21:00:24.888578+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2313.08,
+    "whale_price": 0.77,
+    "now_price": 0.001,
+    "moved": -0.9987012987012986,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873785.0,
+    "detected_at": "2026-10-24T21:00:24.953769+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2816.2500000086316,
+    "whale_price": 0.7444460951,
+    "now_price": 0.001,
+    "moved": -0.9986567193963646,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873707.0,
+    "detected_at": "2026-10-24T21:00:25.014098+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2646.32,
+    "whale_price": 0.76,
+    "now_price": 0.001,
+    "moved": -0.9986842105263158,
+    "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "23920575616719082342744817328768276956665801449963063110447335343135545738302",
+    "condition_id": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+    "trade_ts": 1792873454.0,
+    "detected_at": "2026-10-24T21:00:25.074278+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  }
+]

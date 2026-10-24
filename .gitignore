@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.ruff_cache/
+*.pyc
+
+# large throwaway research dumps; the runtime state is tracked on purpose
+snap_*.json
+signals_big*.json
+signals_day*.json
+signals_random*.json
+signals_one*.json
+signals_back*.json
+signals_fresh*.json
+signals_test.json
+signals_forward*.json
+signals_norebate.json
+calls_check.jsonl
+equity_*.png
