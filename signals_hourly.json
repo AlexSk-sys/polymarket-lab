@@ -2088,5 +2088,1050 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 28510.005,
+    "whale_price": 0.5,
+    "now_price": 0.38,
+    "moved": -0.24,
+    "title": "Will Inter Miami CF win on 2026-10-24?",
+    "outcome": "Yes",
+    "token_id": "110777438500885278454349169529128493018189407991790580340153824685022177377547",
+    "condition_id": "0x8e98d858132f0665cedfdb874f97ac1b36ac887f890b87e25064c998a0b14eb1",
+    "trade_ts": 1792877286.0,
+    "detected_at": "2026-10-24T21:48:18.217715+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 91297.1933,
+    "whale_price": 0.61,
+    "now_price": 0.63,
+    "moved": 0.03278688524590167,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792878059.0,
+    "detected_at": "2026-10-24T21:48:21.009283+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 3960.0,
+    "whale_price": 0.6,
+    "now_price": 0.96,
+    "moved": 0.6,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "79849140802431862558385216350211463116234571445532374594602115294683578502379",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876800.0,
+    "detected_at": "2026-10-24T21:48:21.393280+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 8721.0,
+    "whale_price": 0.57,
+    "now_price": 0.57,
+    "moved": 0.0,
+    "title": "Spread: Rams (-2.5)",
+    "outcome": "Rams",
+    "token_id": "18693179156596142904871843439681549119164561945957226687286400654045278448855",
+    "condition_id": "0x4c46c7b7a01c43d63e397601206a7169e27cfa79cc2f21d641f87c111793344d",
+    "trade_ts": 1792876161.0,
+    "detected_at": "2026-10-24T21:48:22.478160+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 14843.939999999999,
+    "whale_price": 0.57,
+    "now_price": 0.57,
+    "moved": 0.0,
+    "title": "Spread: Rams (-2.5)",
+    "outcome": "Rams",
+    "token_id": "18693179156596142904871843439681549119164561945957226687286400654045278448855",
+    "condition_id": "0x4c46c7b7a01c43d63e397601206a7169e27cfa79cc2f21d641f87c111793344d",
+    "trade_ts": 1792876079.0,
+    "detected_at": "2026-10-24T21:48:22.574717+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 8771.867999999999,
+    "whale_price": 0.41,
+    "now_price": 0.04,
+    "moved": -0.9024390243902439,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877349.0,
+    "detected_at": "2026-10-24T21:48:22.703909+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 11006.1589,
+    "whale_price": 0.41,
+    "now_price": 0.04,
+    "moved": -0.9024390243902439,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877288.0,
+    "detected_at": "2026-10-24T21:48:22.805086+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 29770.0942,
+    "whale_price": 0.42528706,
+    "now_price": 0.04,
+    "moved": -0.9059458804131026,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877160.0,
+    "detected_at": "2026-10-24T21:48:22.910110+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2549.8,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877121.0,
+    "detected_at": "2026-10-24T21:48:23.011843+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 21972.576198000002,
+    "whale_price": 0.3662096033,
+    "now_price": 0.04,
+    "moved": -0.8907729353912331,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877082.0,
+    "detected_at": "2026-10-24T21:48:23.113372+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2624.3433999999997,
+    "whale_price": 0.37,
+    "now_price": 0.04,
+    "moved": -0.891891891891892,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876983.0,
+    "detected_at": "2026-10-24T21:48:23.221684+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 10873.864300147116,
+    "whale_price": 0.3879164446,
+    "now_price": 0.04,
+    "moved": -0.8968850107882228,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876937.0,
+    "detected_at": "2026-10-24T21:48:23.320014+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3900.0,
+    "whale_price": 0.39,
+    "now_price": 0.04,
+    "moved": -0.8974358974358975,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876929.0,
+    "detected_at": "2026-10-24T21:48:23.415668+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 36185.5536,
+    "whale_price": 0.42,
+    "now_price": 0.04,
+    "moved": -0.9047619047619048,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876889.0,
+    "detected_at": "2026-10-24T21:48:23.513563+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 35114.995299999995,
+    "whale_price": 0.41,
+    "now_price": 0.04,
+    "moved": -0.9024390243902439,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876881.0,
+    "detected_at": "2026-10-24T21:48:23.613860+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3510.8628,
+    "whale_price": 0.41,
+    "now_price": 0.04,
+    "moved": -0.9024390243902439,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876863.0,
+    "detected_at": "2026-10-24T21:48:23.711711+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 20500.0,
+    "whale_price": 0.41,
+    "now_price": 0.04,
+    "moved": -0.9024390243902439,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876856.0,
+    "detected_at": "2026-10-24T21:48:23.810837+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4882.374,
+    "whale_price": 0.42,
+    "now_price": 0.04,
+    "moved": -0.9047619047619048,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876845.0,
+    "detected_at": "2026-10-24T21:48:23.912270+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5393.8944,
+    "whale_price": 0.41,
+    "now_price": 0.04,
+    "moved": -0.9024390243902439,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876802.0,
+    "detected_at": "2026-10-24T21:48:24.015702+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 24459.7071,
+    "whale_price": 0.407661785,
+    "now_price": 0.04,
+    "moved": -0.9018794464632,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876782.0,
+    "detected_at": "2026-10-24T21:48:24.120158+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 24000.0,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876779.0,
+    "detected_at": "2026-10-24T21:48:24.220509+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 23484.192000000003,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876766.0,
+    "detected_at": "2026-10-24T21:48:24.319697+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 32841.748,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876758.0,
+    "detected_at": "2026-10-24T21:48:24.417995+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 28000.0,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876746.0,
+    "detected_at": "2026-10-24T21:48:24.524222+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 44875.97720568205,
+    "whale_price": 0.3947796549,
+    "now_price": 0.04,
+    "moved": -0.8986776559948809,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876730.0,
+    "detected_at": "2026-10-24T21:48:24.618144+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 14530.608,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876730.0,
+    "detected_at": "2026-10-24T21:48:24.712220+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 107242.692,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876709.0,
+    "detected_at": "2026-10-24T21:48:24.813814+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 76035.5739,
+    "whale_price": 0.39,
+    "now_price": 0.04,
+    "moved": -0.8974358974358975,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876703.0,
+    "detected_at": "2026-10-24T21:48:24.911923+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 6241.5,
+    "whale_price": 0.38,
+    "now_price": 0.04,
+    "moved": -0.8947368421052632,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876698.0,
+    "detected_at": "2026-10-24T21:48:25.011193+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 3333.2486000000004,
+    "whale_price": 0.37,
+    "now_price": 0.04,
+    "moved": -0.891891891891892,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876680.0,
+    "detected_at": "2026-10-24T21:48:25.113537+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5317.4415,
+    "whale_price": 0.35,
+    "now_price": 0.04,
+    "moved": -0.8857142857142858,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876659.0,
+    "detected_at": "2026-10-24T21:48:25.210603+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x074a3a0ffc6e1077a9d7fcbd774029e0cc6ef0e0",
+    "name": "adururu",
+    "side": "BUY",
+    "usdc": 2205.2548,
+    "whale_price": 0.49,
+    "now_price": 0.35,
+    "moved": -0.28571428571428575,
+    "title": "Will Inter Miami CF win on 2026-10-24?",
+    "outcome": "Yes",
+    "token_id": "110777438500885278454349169529128493018189407991790580340153824685022177377547",
+    "condition_id": "0x8e98d858132f0665cedfdb874f97ac1b36ac887f890b87e25064c998a0b14eb1",
+    "trade_ts": 1792875654.0,
+    "detected_at": "2026-10-24T21:48:25.857986+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 18250.858599,
+    "whale_price": 0.6083619533,
+    "now_price": 0.97,
+    "moved": 0.5944455348305885,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "79849140802431862558385216350211463116234571445532374594602115294683578502379",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876758.0,
+    "detected_at": "2026-10-24T21:48:26.148077+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 5444.791399999999,
+    "whale_price": 0.59,
+    "now_price": 0.6,
+    "moved": 0.0169491525423729,
+    "title": "Counter-Strike: G2 vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Aurora Gaming",
+    "token_id": "40570695257360916258442795842561650150330193504929186730569016866792717394677",
+    "condition_id": "0xd7451151584c0e3cab8400d15210e2e13993771e97fdd076c7efc56b185e74ef",
+    "trade_ts": 1792877594.0,
+    "detected_at": "2026-10-24T21:48:27.044090+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 12939.848,
+    "whale_price": 0.8,
+    "now_price": 0.81,
+    "moved": 0.012500000000000011,
+    "title": "Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Vitality",
+    "token_id": "102432719691185305092584869226434435702809665191736729289617562342929966925215",
+    "condition_id": "0x8ed2af44ad6eac3494475002d5f780e89d8ec5b3ee4a124fe259d36e709b1c3f",
+    "trade_ts": 1792877199.0,
+    "detected_at": "2026-10-24T21:48:27.141336+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 5220.96660011354,
+    "whale_price": 0.5660075237,
+    "now_price": 0.001,
+    "moved": -0.9982332390328259,
+    "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev (Featherweight, Main Card)",
+    "outcome": "Movsar Evloev",
+    "token_id": "69352961295025318198487855123356054376242382640227851906649340515271146176312",
+    "condition_id": "0xfe5ed516e9a226c11a4970cf27293d843e8d5ebeccd8513034599fb58edb05fb",
+    "trade_ts": 1792875731.0,
+    "detected_at": "2026-10-24T21:48:28.346991+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2000.0,
+    "whale_price": 0.4,
+    "now_price": 0.04,
+    "moved": -0.9,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877112.0,
+    "detected_at": "2026-10-24T21:48:29.368596+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "BUY",
+    "usdc": 2205.2548,
+    "whale_price": 0.49,
+    "now_price": 0.35,
+    "moved": -0.28571428571428575,
+    "title": "Will Inter Miami CF win on 2026-10-24?",
+    "outcome": "Yes",
+    "token_id": "110777438500885278454349169529128493018189407991790580340153824685022177377547",
+    "condition_id": "0x8e98d858132f0665cedfdb874f97ac1b36ac887f890b87e25064c998a0b14eb1",
+    "trade_ts": 1792875654.0,
+    "detected_at": "2026-10-24T21:48:30.417100+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2284.0002000000004,
+    "whale_price": 0.54,
+    "now_price": 0.54,
+    "moved": 0.0,
+    "title": "Spread: Cavaliers (-11.5)",
+    "outcome": "Nets",
+    "token_id": "95632109175665242955975142132650059441404186575610942366246288522387138469044",
+    "condition_id": "0x2e033cdef8bd82c1f08adf53e2ac973e243bb2494e664211ad23b06224f0f3d1",
+    "trade_ts": 1792878423.0,
+    "detected_at": "2026-10-24T21:48:32.450207+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2599.9998,
+    "whale_price": 0.53,
+    "now_price": 0.54,
+    "moved": 0.018867924528301903,
+    "title": "Spurs vs. Mavericks: O/U 231.5",
+    "outcome": "Under",
+    "token_id": "12911224724258684827179915956934059596265605903056651292420178154528746801913",
+    "condition_id": "0x26bf37598302355ba9e0da53c3dcc68b0913224c1275cb541a69e055acb92640",
+    "trade_ts": 1792878359.0,
+    "detected_at": "2026-10-24T21:48:32.547385+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2450.0,
+    "whale_price": 0.49,
+    "now_price": 0.5,
+    "moved": 0.02040816326530614,
+    "title": "San Diego State vs. Colorado State",
+    "outcome": "Colorado State",
+    "token_id": "99194836308793706128165531004652644996125806605762048422543342649486408171586",
+    "condition_id": "0x9a126bba422b60395cf79ba4f4254929ada279e0a7c7b01f4ba3587b5371363d",
+    "trade_ts": 1792878269.0,
+    "detected_at": "2026-10-24T21:48:32.648483+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2550.0,
+    "whale_price": 0.51,
+    "now_price": 0.53,
+    "moved": 0.03921568627450984,
+    "title": "Spread: San Diego State (-1.5)",
+    "outcome": "Colorado State",
+    "token_id": "50320936311170025116721682524941520495682745361532253592379950862180354897264",
+    "condition_id": "0x963b3ac95fbc7a8d2a731e4d7c1e9bf9e3888885fce9b355f5d17810e532b44a",
+    "trade_ts": 1792878009.0,
+    "detected_at": "2026-10-24T21:48:32.745957+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2849.9999999999995,
+    "whale_price": 0.57,
+    "now_price": 0.57,
+    "moved": 0.0,
+    "title": "Spread: Cavaliers (-8.5)",
+    "outcome": "Cavaliers",
+    "token_id": "67219759478288480353408817493023087191333596988049478467952393948036153959385",
+    "condition_id": "0xdaf1d6b558a55476007b34653210ed03e1a78d8d2be9c3ac921b2b5a3684c50f",
+    "trade_ts": 1792877874.0,
+    "detected_at": "2026-10-24T21:48:32.841251+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 21917.82,
+    "whale_price": 0.5,
+    "now_price": 0.5,
+    "moved": 0.0,
+    "title": "Spread: Boise State (-14.5)",
+    "outcome": "Washington State",
+    "token_id": "97192133090041182087894534334043121003368858438844548035006977211979381087145",
+    "condition_id": "0x4551a46d07b64a884e8e4d280bcfe37e9c26c2417b4e188a7a2ab463c3ddf343",
+    "trade_ts": 1792878459.0,
+    "detected_at": "2026-10-24T21:48:33.199113+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0df2c9deeb278ade65454023eca05cdcaa025d51",
+    "name": "Ksi172",
+    "side": "BUY",
+    "usdc": 4500.528,
+    "whale_price": 0.48,
+    "now_price": 0.35,
+    "moved": -0.27083333333333337,
+    "title": "Will Inter Miami CF win on 2026-10-24?",
+    "outcome": "Yes",
+    "token_id": "110777438500885278454349169529128493018189407991790580340153824685022177377547",
+    "condition_id": "0x8e98d858132f0665cedfdb874f97ac1b36ac887f890b87e25064c998a0b14eb1",
+    "trade_ts": 1792875654.0,
+    "detected_at": "2026-10-24T21:48:34.960341+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 9821.391568962084,
+    "whale_price": 0.3599513187,
+    "now_price": null,
+    "moved": null,
+    "title": "CR Vasco da Gama vs. SC Corinthians Paulista: O/U 1.5 AND Santos FC vs. EC Bahia: O/U 1.5 AND Associação Chapecoense de Futebol vs. Fluminense FC: O/U 1.5 AND SE Palmeiras vs. Red Bull Bragantino: O/U 1.5 AND D.C. United SC vs. FC Cincinnati: O/U 1.5",
+    "outcome": "",
+    "token_id": "1736958460134341852722513822966375342866552638750919170455863261022457430016",
+    "condition_id": "0x03d7156a09c6b93833fa2d449aa13891300000000000000000000000000000",
+    "trade_ts": 1792876815.0,
+    "detected_at": "2026-10-24T21:48:51.122286+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "SELL",
+    "usdc": 10135.699200000001,
+    "whale_price": 0.66,
+    "now_price": 0.65,
+    "moved": 0.015151515151515164,
+    "title": "2026 Balance of Power: D Senate, D House",
+    "outcome": "Yes",
+    "token_id": "34722410608062854697106861099776685947172185964394483545370684749662285977831",
+    "condition_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "trade_ts": 1792876376.0,
+    "detected_at": "2026-10-24T21:48:51.220850+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 4802.250099341113,
+    "whale_price": 0.1764281173,
+    "now_price": null,
+    "moved": null,
+    "title": "CR Vasco da Gama vs. SC Corinthians Paulista: O/U 1.5 AND Santos FC vs. EC Bahia: O/U 1.5 AND Associação Chapecoense de Futebol vs. Fluminense FC: O/U 1.5 AND CA Rosario Central vs. CA Huracán: CA Rosario Central O/U 0.5 AND SE Palmeiras vs. Red Bull Bragantino: O/U 1.5 AND CR Brasil vs. Londrina EC: O/U 1.5 AND Will CR Vasco da Gama win on 2026-10-24? AND Will SE Palmeiras win on 2026-10-24?",
+    "outcome": "",
+    "token_id": "1533515220526128066999936473282005905888850165099119277084206407746098036736",
+    "condition_id": "0x0363f058e1a8dd490cec3b6d2c95bb1b380000000000000000000000000000",
+    "trade_ts": 1792875849.0,
+    "detected_at": "2026-10-24T21:49:07.211644+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2898.307829850577,
+    "whale_price": 0.2982652114,
+    "now_price": null,
+    "moved": null,
+    "title": "CR Vasco da Gama vs. SC Corinthians Paulista: O/U 2.5 AND CA San Lorenzo de Almagro vs. CA Newell's Old Boys: O/U 1.5",
+    "outcome": "",
+    "token_id": "1412466464705962399323377696474836302413249159134507115017414905831628996608",
+    "condition_id": "0x031f6d7cfc3ab3e92185b13c4ac82d4ad50000000000000000000000000000",
+    "trade_ts": 1792877228.0,
+    "detected_at": "2026-10-24T21:49:24.026857+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 6160.940000099999,
+    "whale_price": 0.29,
+    "now_price": 0.039,
+    "moved": -0.8655172413793104,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Team Secret Whales",
+    "token_id": "21310882232103693793966163207369627974528905004406720161528626580624185618047",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876515.0,
+    "detected_at": "2026-10-24T21:49:24.692237+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 3640.6429000000003,
+    "whale_price": 0.89,
+    "now_price": 0.98,
+    "moved": 0.10112359550561795,
+    "title": "Michigan State vs. UCLA",
+    "outcome": "UCLA",
+    "token_id": "5184402867920492012809864566661778575653440712637508766854187763501747632194",
+    "condition_id": "0x9e3de011c5203e7190b70d15f5b0d5cc6a78a874246e64e3b0b26a5bcb773019",
+    "trade_ts": 1792876343.0,
+    "detected_at": "2026-10-24T21:49:26.581011+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 5782.999999843488,
+    "whale_price": 0.8289443949,
+    "now_price": 0.828,
+    "moved": -0.0011392741247909842,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792878113.0,
+    "detected_at": "2026-10-24T21:49:27.109300+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2712.68,
+    "whale_price": 0.73,
+    "now_price": 0.993,
+    "moved": 0.36027397260273974,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "79849140802431862558385216350211463116234571445532374594602115294683578502379",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877921.0,
+    "detected_at": "2026-10-24T21:49:27.860135+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2400.0,
+    "whale_price": 0.6,
+    "now_price": 0.993,
+    "moved": 0.655,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "79849140802431862558385216350211463116234571445532374594602115294683578502379",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792877123.0,
+    "detected_at": "2026-10-24T21:49:27.955861+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2359.9999999690804,
+    "whale_price": 0.5937111399,
+    "now_price": 0.993,
+    "moved": 0.6725305173947941,
+    "title": "LoL: Invictus Gaming vs Team Secret Whales (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "79849140802431862558385216350211463116234571445532374594602115294683578502379",
+    "condition_id": "0x2c88ce62d6f0ba319699270508edf08575b55616a99e7d96adf4c08b84a07af9",
+    "trade_ts": 1792876850.0,
+    "detected_at": "2026-10-24T21:49:28.049706+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
