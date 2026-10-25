@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2500.000000118608,
+    "whale_price": 0.5016364364,
+    "now_price": 0.5,
+    "moved": -0.0032621960472885548,
+    "title": "FC Internazionale Milano vs. ACF Fiorentina: 1st Half O/U 1.5",
+    "outcome": "Over",
+    "token_id": "113382370195115106859505987468637014396284441421272979580291280344288265868452",
+    "condition_id": "0xa4d804dc37ad1a648fa34fb0bb7a32adde021f58e3c91014554d4d45fb7bcf9d",
+    "trade_ts": 1792927217.0,
+    "detected_at": "2026-10-25T11:22:05.619340+00:00"
+  }
+]

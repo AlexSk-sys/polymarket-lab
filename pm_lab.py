@@ -2782,7 +2782,9 @@ def cmd_dashboard(args) -> int:
     tpl_path = Path(__file__).resolve().parent / "dashboard_template.html"
     tpl = tpl_path.read_text(encoding="utf-8") if tpl_path.exists() else DASHBOARD_HTML
     (out_dir / "dashboard_local.html").write_text(
-        tpl.replace("__STAKE__", str(args.stake)).replace("__SOURCE__", "/api/live"),
+        tpl.replace("__STAKE__", str(args.stake))
+        .replace("__SOURCE__", "/api/live")
+        .replace("__INTERVAL__", "2000"),
         encoding="utf-8",
     )
     p = payload["paper"]
@@ -2812,8 +2814,10 @@ def cmd_build_static(args) -> int:
     )
     tpl_path = Path(__file__).resolve().parent / "dashboard_template.html"
     tpl = tpl_path.read_text(encoding="utf-8")
-    html = tpl.replace("__STAKE__", str(args.stake)).replace(
-        "__SOURCE__", "dashboard_data.json"
+    html = (
+        tpl.replace("__STAKE__", str(args.stake))
+        .replace("__SOURCE__", "dashboard_data.json")
+        .replace("__INTERVAL__", "30000")
     )
     (out / "dashboard.html").write_text(html, encoding="utf-8")
     # GitHub Pages serves index.html at the site root; without it the README wins

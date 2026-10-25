@@ -25,8 +25,8 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent
 GAMMA = "https://gamma-api.polymarket.com"
 
-CACHE_TTL = 60.0  # seconds between live re-marks
-HISTORY_EVERY = 60.0  # seconds between history points
+CACHE_TTL = 5.0  # seconds between live re-marks (Gamma itself is the limit)
+HISTORY_EVERY = 60.0  # seconds between persisted history points
 
 _lock = threading.Lock()
 _cache: dict = {"ts": 0.0, "data": None}
@@ -35,25 +35,40 @@ _last_hist = 0.0
 _stake = 20.0
 
 
-def _get(url: str):
+def _get(url: str, timeout: float = 5.0):
     req = urllib.request.Request(
         url, headers={"Accept": "application/json", "User-Agent": "pm-lab/1.0"}
     )
-    with urllib.request.urlopen(req, timeout=20) as r:
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.loads(r.read())
 
 
-def _market(cid: str) -> dict | None:
-    try:
-        rows = _get(f"{GAMMA}/markets?condition_ids={cid}&closed=false")
-    except (urllib.error.URLError, TimeoutError, ValueError):
-        return None
-    if not isinstance(rows, list):
-        return None
-    for m in rows:
-        if str(m.get("conditionId", "")).lower() == cid.lower():
-            return m
-    return None
+def _markets(cids: list[str]) -> dict[str, dict]:
+    """All open markets from Gamma in a few parallel small requests.
+
+    One id per request took ~76 calls and tens of seconds. Repeated
+    condition_ids in one URL works, but a 77-id query occasionally hung for the
+    whole 20 s timeout on Gamma's side; chunks of 20 in parallel are ~0.2 s each
+    and one slow chunk only loses its own marks for one cycle.
+    """
+
+    def chunk(part: list[str]) -> list:
+        qs = "&".join("condition_ids=" + c for c in part)
+        try:
+            rows = _get(f"{GAMMA}/markets?limit=100&{qs}")
+        except (urllib.error.URLError, TimeoutError, ValueError):
+            return []
+        return rows if isinstance(rows, list) else []
+
+    parts = [cids[i : i + 20] for i in range(0, len(cids), 20)]
+    out: dict[str, dict] = {}
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        for rows in pool.map(chunk, parts):
+            for m in rows:
+                cid = str(m.get("conditionId", "")).lower()
+                if cid:
+                    out[cid] = m
+    return out
 
 
 def _mark(m: dict | None) -> float | None:
@@ -102,23 +117,43 @@ def _history() -> list[dict]:
     return rows[-2000:]
 
 
-def live_state() -> dict:
+def _recompute_guarded() -> dict | None:
     global _computing
-    now = time.time()
     with _lock:
-        if _cache["data"] and now - _cache["ts"] < CACHE_TTL:
-            return _cache["data"]
-        # A re-mark of ~82 markets takes tens of seconds. Without this guard the
-        # page's poll would start a new batch while the previous one is still
-        # running, and they pile up until nothing returns at all.
-        if _computing and _cache["data"]:
+        if _computing:
             return _cache["data"]
         _computing = True
     try:
-        return _recompute(now)
+        return _recompute(time.time())
     finally:
         with _lock:
             _computing = False
+
+
+def live_state() -> dict:
+    """Return the last snapshot immediately; the background thread refreshes it.
+
+    Gamma occasionally takes 20 s for the batch. Computing on the request
+    thread made the page wait that long; now the page always gets the last good
+    state and the timestamp tells how fresh it is.
+    """
+    with _lock:
+        if _cache["data"] is not None:
+            return _cache["data"]
+    while True:
+        data = _recompute_guarded()
+        if data:
+            return data
+        time.sleep(0.1)
+
+
+def _background() -> None:
+    while True:
+        try:
+            _recompute_guarded()
+        except Exception:  # noqa: BLE001, S110 - keep the refresher alive
+            pass
+        time.sleep(CACHE_TTL)
 
 
 def _recompute(now: float) -> dict:
@@ -129,12 +164,12 @@ def _recompute(now: float) -> dict:
 
     realized = sum(b["pnl"] for b in settled) * _stake
 
-    with ThreadPoolExecutor(max_workers=12) as pool:
-        marks = list(pool.map(lambda b: _mark(_market(b["condition_id"])), open_bets))
+    by_id = _markets([b["condition_id"] for b in open_bets])
 
     rows = []
     unreal = 0.0
-    for b, px in zip(open_bets, marks):
+    for b in open_bets:
+        px = _mark(by_id.get(b["condition_id"].lower()))
         if px is None:
             continue
         pnl = (px - b["entry"]) / b["entry"] if b["entry"] else 0.0
@@ -179,6 +214,18 @@ def _recompute(now: float) -> dict:
                 + "\n"
             )
     state["history"] = _history()
+    # The file gets one point a minute (a day of history stays small). The chart
+    # also gets a provisional point at `now`, so the last segment moves every
+    # cache cycle instead of waiting for the next persisted point.
+    if not state["history"] or state["history"][-1]["ts"] < now - 1:
+        state["history"].append(
+            {
+                "ts": now,
+                "equity": equity,
+                "realized": realized,
+                "unrealized": unreal,
+            }
+        )
 
     with _lock:
         _cache["ts"] = now
@@ -217,6 +264,7 @@ def main() -> None:
     ap.add_argument("--stake", type=float, default=20.0)
     args = ap.parse_args()
     _stake = args.stake
+    threading.Thread(target=_background, daemon=True).start()
     srv = ThreadingHTTPServer(("127.0.0.1", args.port), Handler)
     print(f"serving {BASE} on http://127.0.0.1:{args.port}/dashboard_local.html")
     print(f"live endpoint: /api/live   stake ${_stake:.0f} per bet")

@@ -63,7 +63,7 @@ const pct   = v => (v>=0?"+":"−")+(Math.abs(v)*100).toFixed(2)+"%";
 function svgChart(el, hist, realized){
   const W = Math.max(320, el.clientWidth || 1000), H = Math.max(200, el.clientHeight || 300);
   if(!hist || hist.length < 2){
-    el.innerHTML = '<div class="dim" style="padding:18px">collecting history — one point per minute</div>';
+    el.innerHTML = '<div class="dim" style="padding:18px">collecting history — live line updates every 2 s, points every minute</div>';
     return;
   }
   const pad = {l:64,r:16,t:14,b:26};
@@ -129,6 +129,7 @@ async function tick(){
     if(!r.ok) throw new Error(r.status);
     const d = await r.json();
     if(d.error) throw new Error(d.error);
+    D = d;
     document.getElementById("live").style.background = "var(--green)";
     document.getElementById("livetxt").textContent = "live";
     render(d);
@@ -138,6 +139,6 @@ async function tick(){
   }
 }
 tick();
-setInterval(tick, 15000);
+setInterval(tick, __INTERVAL__);
 window.addEventListener("resize", () => { if(D) render(D); });
 </script></body></html>
