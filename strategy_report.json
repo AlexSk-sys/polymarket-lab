@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-10-25T11:17:05.894052+00:00",
+  "file": "signals_selected.json",
+  "signals": 0,
+  "resolved": 0,
+  "open": 0,
+  "strategy": {
+    "n": 0,
+    "mean": null,
+    "median": null,
+    "win": null,
+    "t": null,
+    "pnl": 0.0,
+    "max_drawdown": 0.0,
+    "worst_12": 0.0,
+    "full_losses": 0,
+    "longest_loss_streak": 0
+  },
+  "sizing": {
+    "bankroll": 1000.0,
+    "stake": 20.0,
+    "risk": 0.02,
+    "max_drawdown_pct": 0.0
+  },
+  "review_at_resolved": 50
+}

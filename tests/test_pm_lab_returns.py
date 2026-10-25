@@ -209,5 +209,20 @@ class StrategyLagTest(unittest.TestCase):
         self.assertEqual(len(pm_lab.strategy_rows(rows, max_lag=300)), 1)
 
 
+class EquityDrawdownTest(unittest.TestCase):
+    def test_drawdown_from_peak(self):
+        pnl, dd = pm_lab.equity_drawdown([1.0, -1.0, 2.0], 10.0)
+        self.assertEqual(pnl, 20.0)
+        self.assertEqual(dd, -10.0)
+
+    def test_monotonic_curve_has_no_drawdown(self):
+        pnl, dd = pm_lab.equity_drawdown([1.0, 1.0], 10.0)
+        self.assertEqual(pnl, 20.0)
+        self.assertEqual(dd, 0.0)
+
+    def test_empty_is_zero(self):
+        self.assertEqual(pm_lab.equity_drawdown([], 10.0), (0.0, 0.0))
+
+
 if __name__ == "__main__":
     unittest.main()

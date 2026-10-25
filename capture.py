@@ -41,10 +41,11 @@ ARGS = [
     # 24h catch-up after sleep; state prevents re-reporting old trades.
     "--max-age",
     "86400",
-    # A book price is only meaningful for a fresh trade: older rows would be
-    # recorded with a current book that no longer matches the whale's entry.
+    # A book price is only meaningful for a fresh trade: 5 minutes of lag costs
+    # ~2pp per event on the month replay (paired t=-2.96), so do not admit a
+    # 15-minute-old entry.
     "--live-age",
-    "900",
+    "300",
     "--min-usdc",
     "2000",
     "--min-price",

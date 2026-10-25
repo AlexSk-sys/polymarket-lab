@@ -943,6 +943,16 @@ def resolution_return(
     return sign * (payout - entry) / entry
 
 
+def equity_drawdown(vals: list[float], stake: float) -> tuple[float, float]:
+    """Final P&L and the deepest peak-to-trough fall for a fixed stake."""
+    run = peak = dd = 0.0
+    for v in vals:
+        run += v * stake
+        peak = max(peak, run)
+        dd = min(dd, run - peak)
+    return run, dd
+
+
 RESOLUTION_CACHE = Path(".resolution_cache.json")
 
 
@@ -3221,7 +3231,8 @@ def cmd_resolve(args) -> int:
     open_rows = [s for s in signals if s.get("resolution") is None]
     scored = [s for s in closed if (s.get("returns") or {}).get("res") is not None]
     picked = strategy_rows(scored, args.max_adverse_move, True)
-    vals = [s["returns"]["res"] for s in picked]
+    ordered = sorted(picked, key=_sort_ts)
+    vals = [s["returns"]["res"] for s in ordered]
     print(
         f"{args.signals}: {len(signals)} signals, "
         f"{len(closed)} resolved, {len(open_rows)} open"
@@ -3231,20 +3242,80 @@ def cmd_resolve(args) -> int:
             json.dumps(signals, indent=2, ensure_ascii=False), encoding="utf-8"
         )
         print(f"  written back ({changed} changed)")
-    if len(vals) < 2:
-        print(
-            f"  hold to resolution: {len(vals)} resolved markets, not enough to judge"
-        )
+
+    n = len(vals)
+    mean = median = se = t = win = None
+    pnl, drawdown = equity_drawdown(vals, args.stake)
+    full_losses = sum(1 for v in vals if v <= -0.9)
+    streak = longest = 0
+    for v in vals:
+        if v < 0:
+            streak += 1
+            longest = max(longest, streak)
+        else:
+            streak = 0
+    worst12 = (
+        min((sum(vals[i : i + 12]) for i in range(max(1, n - 11))), default=0.0)
+        * args.stake
+    )
+    if n >= 2:
+        _, mean, se = _stats(vals)
+        ordered_vals = sorted(vals)
+        median = ordered_vals[n // 2]
+        win = sum(1 for v in vals if v > 0) / n
+        t = mean / se
+
+    report = {
+        "generated_at": datetime.now(UTC).isoformat(),
+        "file": args.signals,
+        "signals": len(signals),
+        "resolved": len(closed),
+        "open": len(open_rows),
+        "strategy": {
+            "n": n,
+            "mean": mean,
+            "median": median,
+            "win": win,
+            "t": t,
+            "pnl": pnl,
+            "max_drawdown": drawdown,
+            "worst_12": worst12,
+            "full_losses": full_losses,
+            "longest_loss_streak": longest,
+        },
+        "sizing": {
+            "bankroll": args.bankroll,
+            "stake": args.stake,
+            "risk": args.risk,
+            "max_drawdown_pct": (abs(drawdown) / args.bankroll)
+            if args.bankroll
+            else None,
+        },
+        "review_at_resolved": args.review_at,
+    }
+    Path(args.report).write_text(
+        json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+
+    if n < 2:
+        print(f"  hold to resolution: {n} resolved markets, not enough to judge")
         return 0
-    st = _stats(vals)
-    n, mean, se = st
-    vals_sorted = sorted(vals)
-    win = sum(1 for v in vals if v > 0) / n
     print(
         f"  hold to resolution, one per market, no-chase: n={n} "
-        f"mean={fpct(mean)} median={fpct(vals_sorted[n // 2])} win={win:.1%} "
-        f"SE={fpct(se)} t={mean / se:+.2f} P&L=${mean * n * args.stake:+,.2f}"
+        f"mean={fpct(mean)} median={fpct(median)} win={win:.1%} "
+        f"SE={fpct(se)} t={t:+.2f} P&L=${pnl:+,.2f}"
     )
+    print(
+        f"  risk: stake ${args.stake:,.0f} = {args.risk:.1%} of "
+        f"${args.bankroll:,.0f}; max DD ${drawdown:+,.2f} "
+        f"({abs(drawdown) / args.bankroll:.1%}); worst 12 ${worst12:+,.2f}; "
+        f"full losses {full_losses}; longest loss streak {longest}"
+    )
+    if n < args.review_at:
+        print(
+            f"  forward verdict at {args.review_at} resolved "
+            f"(+{args.review_at - n} to go)"
+        )
     return 0
 
 
@@ -3604,6 +3675,10 @@ def main(argv: list[str] | None = None) -> int:
     rs.add_argument("--cache", default=str(RESOLUTION_CACHE))
     rs.add_argument("--max-adverse-move", type=float, default=0.02)
     rs.add_argument("--stake", type=float, default=20.0)
+    rs.add_argument("--bankroll", type=float, default=1000.0)
+    rs.add_argument("--risk", type=float, default=0.02)
+    rs.add_argument("--report", default="strategy_report.json")
+    rs.add_argument("--review-at", type=int, default=50)
     rs.set_defaults(func=cmd_resolve)
 
     sel = sub.add_parser(
