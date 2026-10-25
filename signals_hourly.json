@@ -5508,5 +5508,480 @@
       "60": -0.07692307692307698,
       "240": null
     }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 5380.2639007139,
+    "whale_price": 0.369338443,
+    "now_price": 0.38,
+    "moved": 0.028866632223280335,
+    "title": "Will Toulouse FC win on 2026-10-24?",
+    "outcome": "No",
+    "token_id": "40755461005729039018006934471258077426028719602743150750321696554657101416080",
+    "condition_id": "0x4d183da9a33c6223ab8ac56de1a1333837d98e198b4ef9540ab34f1fcdf6c2e3",
+    "trade_ts": 1792917666.0,
+    "detected_at": "2026-10-25T09:20:27.055696+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 5238.623999603177,
+    "whale_price": 0.6097478193,
+    "now_price": 0.62,
+    "moved": 0.016813804618062703,
+    "title": "Spread: Toulouse FC (-1.5)",
+    "outcome": "ES Troyes AC",
+    "token_id": "42402346514190458839440613733495178936129952675940117090163954374858214237360",
+    "condition_id": "0x4fd566258db781d7d399e8a93be054b5f3df4f180b7cbdf52ce95876d13d1a79",
+    "trade_ts": 1792917654.0,
+    "detected_at": "2026-10-25T09:20:27.161681+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 101381.12479999999,
+    "whale_price": 0.74,
+    "now_price": 0.75,
+    "moved": 0.013513513513513526,
+    "title": "Will Real Madrid CF win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "90883489004081780618656788559830046738681376889831440455435885082986244302734",
+    "condition_id": "0x77706c139c0596bfe18973e428c1dc22a3f08bbf6a6cbe1d41a6e7aac5eb63c1",
+    "trade_ts": 1792916661.0,
+    "detected_at": "2026-10-25T09:20:27.265623+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 3559.0923999999995,
+    "whale_price": 0.59,
+    "now_price": 0.6,
+    "moved": 0.0169491525423729,
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
+    "condition_id": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
+    "trade_ts": 1792916595.0,
+    "detected_at": "2026-10-25T09:20:27.373838+00:00",
+    "returns": {
+      "60": -0.008333333333333342,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 5606.8643999999995,
+    "whale_price": 0.59,
+    "now_price": 0.6,
+    "moved": 0.0169491525423729,
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
+    "condition_id": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
+    "trade_ts": 1792916570.0,
+    "detected_at": "2026-10-25T09:20:27.481198+00:00",
+    "returns": {
+      "60": -0.008333333333333342,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 119245.76139999999,
+    "whale_price": 0.59,
+    "now_price": 0.6,
+    "moved": 0.0169491525423729,
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
+    "condition_id": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
+    "trade_ts": 1792916561.0,
+    "detected_at": "2026-10-25T09:20:27.591455+00:00",
+    "returns": {
+      "60": -0.008333333333333342,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "SELL",
+    "usdc": 2495.7549999518637,
+    "whale_price": 0.5970905724,
+    "now_price": 0.86,
+    "moved": -0.4403174991412744,
+    "title": "Daegu Pegasus vs. Seoul Thunders",
+    "outcome": "Seoul Thunders",
+    "token_id": "31385014955809311012318048522767978966564123958345763191651969575142060128594",
+    "condition_id": "0xf9899611e7fb2b262e77a38b4cbecd4abadb275478362a027095e93fd229d226",
+    "trade_ts": 1792915844.0,
+    "detected_at": "2026-10-25T09:20:29.500671+00:00",
+    "returns": {
+      "60": -0.06976744186046518,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "BUY",
+    "usdc": 3867.036600058854,
+    "whale_price": 0.8957922486,
+    "now_price": null,
+    "moved": null,
+    "title": "Bitcoin Up or Down - October 25, 3:45AM-4:00AM ET",
+    "outcome": "Up",
+    "token_id": "18423611860115646190450244622265838660675012991170080175990548060668546074308",
+    "condition_id": "0x19bdfa0cbe75949fe0735a00209790eb08ae6716a6badfdeb220424f4a26e078",
+    "trade_ts": 1792914894.0,
+    "detected_at": "2026-10-25T09:20:45.539858+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "BUY",
+    "usdc": 2308.278000073468,
+    "whale_price": 0.3698997481,
+    "now_price": null,
+    "moved": null,
+    "title": "Bitcoin Up or Down - October 25, 3:45AM-4:00AM ET",
+    "outcome": "Up",
+    "token_id": "18423611860115646190450244622265838660675012991170080175990548060668546074308",
+    "condition_id": "0x19bdfa0cbe75949fe0735a00209790eb08ae6716a6badfdeb220424f4a26e078",
+    "trade_ts": 1792914894.0,
+    "detected_at": "2026-10-25T09:21:01.610626+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "SELL",
+    "usdc": 10650.871000647296,
+    "whale_price": 0.8065132928,
+    "now_price": null,
+    "moved": null,
+    "title": "Will FC Tōkyō win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "55832395098753180441874630448804414122540322445374976226997956628376321292674",
+    "condition_id": "0x3ce99dd7b30039697ff36ea18fd73b2136006bb00ad5fa522ecb6165698f6697",
+    "trade_ts": 1792914849.0,
+    "detected_at": "2026-10-25T09:21:18.641770+00:00",
+    "returns": {
+      "60": -0.23928521565962232,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 21517.499999999996,
+    "whale_price": 0.57,
+    "now_price": 0.57,
+    "moved": 0.0,
+    "title": "Spread: Rams (-2.5)",
+    "outcome": "Rams",
+    "token_id": "18693179156596142904871843439681549119164561945957226687286400654045278448855",
+    "condition_id": "0x4c46c7b7a01c43d63e397601206a7169e27cfa79cc2f21d641f87c111793344d",
+    "trade_ts": 1792914869.0,
+    "detected_at": "2026-10-25T09:21:20.551767+00:00",
+    "returns": {
+      "60": -0.008771929824561412,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 9985.524000000001,
+    "whale_price": 0.4,
+    "now_price": 0.41,
+    "moved": 0.024999999999999883,
+    "title": "Steelers vs. Saints",
+    "outcome": "Saints",
+    "token_id": "16013029087006534797924862977185419395437649810045162973335886530817974510015",
+    "condition_id": "0xf21c1426d2f0d964ae4c7bea7b320087ca9685d086202e0a1e62bf1dc4dcbf64",
+    "trade_ts": 1792913940.0,
+    "detected_at": "2026-10-25T09:21:20.805196+00:00",
+    "returns": {
+      "60": -0.012195121951219388,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2100.0,
+    "whale_price": 0.42,
+    "now_price": 0.42,
+    "moved": 0.0,
+    "title": "Will Manchester United FC win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "51205583800298935965504834272191507654261300708771202218133137057292287506473",
+    "condition_id": "0x85b1a99b2f2f2fbdd04383cebe5df8c6dd96a6f1ec1ef3c85d08b0878f0727cd",
+    "trade_ts": 1792918019.0,
+    "detected_at": "2026-10-25T09:21:29.105940+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2e3ecedec4b004c61670f0dcda382ec0da1f0f92",
+    "name": "hello.67",
+    "side": "BUY",
+    "usdc": 2239.9217000999997,
+    "whale_price": 0.6399776286,
+    "now_price": 0.71,
+    "moved": 0.10941377990536841,
+    "title": "Will the highest temperature in Guangzhou be 33°C on October 26?",
+    "outcome": "No",
+    "token_id": "64033502186325708534933559754021156995975860213546272459956992130058699441832",
+    "condition_id": "0x71286ee913490a0bd0909b64930a582739f2ce1f82d6bb08c49b7d9e73acfef3",
+    "trade_ts": 1792914039.0,
+    "detected_at": "2026-10-25T09:21:29.978644+00:00",
+    "returns": {
+      "60": -0.028169014084507067,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 4873.821710340673,
+    "whale_price": 0.4822203065,
+    "now_price": null,
+    "moved": null,
+    "title": "Liverpool FC vs. Brighton & Hove Albion FC: O/U 1.5 AND Hull City AFC vs. Brentford FC: O/U 1.5 AND Atalanta BC vs. Frosinone Calcio: O/U 1.5 AND FC Internazionale Milano vs. ACF Fiorentina: O/U 1.5 AND TSG 1899 Hoffenheim vs. Bayer 04 Leverkusen: O/U 1.5",
+    "outcome": "",
+    "token_id": "1563907781611820166251046833688439799118946238870981661272681228836286758912",
+    "condition_id": "0x037523f3a06a7c478ed1cdbbd28caaeeb60000000000000000000000000000",
+    "trade_ts": 1792917359.0,
+    "detected_at": "2026-10-25T09:21:47.688648+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 5486.774399999999,
+    "whale_price": 0.57,
+    "now_price": 0.52,
+    "moved": -0.08771929824561392,
+    "title": "Dota 2: Team Liquid vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "token_id": "6290868136526110899883160957631196375250247639573143468090426856701492384808",
+    "condition_id": "0x9e1cda89f20b93b1443a1831ef7f8e91e4a514973ac643007d58b7e42dc80b1e",
+    "trade_ts": 1792919808.0,
+    "detected_at": "2026-10-25T09:21:49.279112+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2717.7174000000005,
+    "whale_price": 0.54,
+    "now_price": 0.52,
+    "moved": -0.03703703703703707,
+    "title": "Dota 2: Team Liquid vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "token_id": "6290868136526110899883160957631196375250247639573143468090426856701492384808",
+    "condition_id": "0x9e1cda89f20b93b1443a1831ef7f8e91e4a514973ac643007d58b7e42dc80b1e",
+    "trade_ts": 1792919736.0,
+    "detected_at": "2026-10-25T09:21:49.387519+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 4242.678000000001,
+    "whale_price": 0.44,
+    "now_price": 0.52,
+    "moved": 0.18181818181818185,
+    "title": "Dota 2: Team Liquid vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "token_id": "6290868136526110899883160957631196375250247639573143468090426856701492384808",
+    "condition_id": "0x9e1cda89f20b93b1443a1831ef7f8e91e4a514973ac643007d58b7e42dc80b1e",
+    "trade_ts": 1792919399.0,
+    "detected_at": "2026-10-25T09:21:49.493599+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 2896.3011597417844,
+    "whale_price": 0.2839221897,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 10.5 Total Corners AND Liverpool FC vs. Brighton & Hove Albion FC: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1535782918607245754797468170351766441479768405566595724095756940903991738368",
+    "condition_id": "0x036538ea7a6a7276413e0412475d47c8d20000000000000000000000000000",
+    "trade_ts": 1792919282.0,
+    "detected_at": "2026-10-25T09:22:08.346168+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 7245.1619095522865,
+    "whale_price": 0.2965289195,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 10.5 Total Corners AND Manchester United FC vs. AFC Bournemouth: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1756281975335181605887422328496647508331753398088937264294124021220712120320",
+    "condition_id": "0x03e205370d73b9ffade7b36e68fb8ca5dc0000000000000000000000000000",
+    "trade_ts": 1792917291.0,
+    "detected_at": "2026-10-25T09:22:24.391699+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 4838.572020302686,
+    "whale_price": 0.33274535,
+    "now_price": null,
+    "moved": null,
+    "title": "Sunderland AFC vs. Leeds United FC: O/U 9.5 Total Corners AND Manchester United FC vs. AFC Bournemouth: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1805912302859564339171727843747075052040373842606254026066981249371728773120",
+    "condition_id": "0x03fe1c3236b43e9b6f46ea86ecb4e805430000000000000000000000000000",
+    "trade_ts": 1792917075.0,
+    "detected_at": "2026-10-25T09:22:40.424358+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 2905.1241201547705,
+    "whale_price": 0.3468376755,
+    "now_price": null,
+    "moved": null,
+    "title": "Hull City AFC vs. Brentford FC: O/U 10.5 Total Corners AND Manchester United FC vs. AFC Bournemouth: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1657007754201426151143969728736198396682801249780652119920500975812082663424",
+    "condition_id": "0x03a9d5498944d96f9d6f68225c245a4f460000000000000000000000000000",
+    "trade_ts": 1792916811.0,
+    "detected_at": "2026-10-25T09:22:56.468076+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 9678.698920839302,
+    "whale_price": 0.3360655432,
+    "now_price": null,
+    "moved": null,
+    "title": "Manchester United FC vs. AFC Bournemouth: O/U 10.5 Total Corners AND Liverpool FC vs. Brighton & Hove Albion FC: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1589025459624022729827730789429337729514202160592774074585881197043655901184",
+    "condition_id": "0x03835b461598d59f4159c6f34b8e622b1a0000000000000000000000000000",
+    "trade_ts": 1792916636.0,
+    "detected_at": "2026-10-25T09:23:12.505644+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 4825.915889549714,
+    "whale_price": 0.2785447746,
+    "now_price": null,
+    "moved": null,
+    "title": "Crystal Palace FC vs. Newcastle United FC: O/U 9.5 Total Corners AND Liverpool FC vs. Brighton & Hove Albion FC: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1509650147635959768831376329715795085192303043623790388973173694323713114112",
+    "condition_id": "0x03566e84214606940076622d48f6c60d810000000000000000000000000000",
+    "trade_ts": 1792916522.0,
+    "detected_at": "2026-10-25T09:23:28.535544+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 11942.000000159465,
+    "whale_price": 0.5699866209,
+    "now_price": 0.5,
+    "moved": -0.12278642749454748,
+    "title": "Dota 2: Team Liquid vs OG - Game 1 Winner",
+    "outcome": "OG",
+    "token_id": "6290868136526110899883160957631196375250247639573143468090426856701492384808",
+    "condition_id": "0x9e1cda89f20b93b1443a1831ef7f8e91e4a514973ac643007d58b7e42dc80b1e",
+    "trade_ts": 1792919775.0,
+    "detected_at": "2026-10-25T09:23:29.530228+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
