@@ -4,10 +4,13 @@ REM a verdict in 1-3 days instead of weeks.
 REM Schedule with Task Scheduler, repeat every 1 hour.
 cd /d "%~dp0"
 
-".venv\Scripts\python.exe" pm_lab.py signals --watch watch_big.json --min-usdc 2000 --min-price 0.10 --max-price 0.90 --max-age 7200 --append --out signals_hourly.json
+REM ===================================================================
+REM Capture is NOT here. It runs from the PolymarketCapture task every
+REM 5 minutes (capture.py) because the copy edge decays with latency:
+REM 72h replay +7.8% at 60s, +8.9% at 5m, +2.3% at the old ~30m lag.
+REM This task only scores, renders and plots.
+REM ===================================================================
 
-REM --write-back persists the computed returns into the file, otherwise the
-REM dashboard and the next run would both see zeros
 ".venv\Scripts\python.exe" pm_lab.py evaluate signals_hourly.json --horizons 60,240 --write-back --one-per-market --max-adverse-move 0.02
 
 REM refresh the live dashboard payload (the open page polls it every 30 s)

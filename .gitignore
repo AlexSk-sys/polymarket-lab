@@ -7,6 +7,7 @@ __pycache__/
 # owned by `pm_lab.py build-static`
 dashboard_local_data.json
 dashboard_local.html
+capture_error.log
 
 # large throwaway research dumps; the runtime state is tracked on purpose
 snap_*.json

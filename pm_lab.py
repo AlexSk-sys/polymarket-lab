@@ -690,12 +690,16 @@ def cmd_signals(args) -> int:
             except json.JSONDecodeError:
                 old = []
             old.extend(fresh)
-            p.write_text(json.dumps(old, indent=2), encoding="utf-8")
+            p.write_text(
+                json.dumps(old, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
             print(f"frozen signals: {p} ({len(old)} accumulated)")
         else:
             # write an empty file anyway: a downstream step that reads a missing
             # file fails, and "no signals this hour" is a valid result
-            p.write_text(json.dumps(fresh, indent=2), encoding="utf-8")
+            p.write_text(
+                json.dumps(fresh, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
             print(f"frozen signals: {p} ({len(fresh)})")
     return 0
 
@@ -946,6 +950,7 @@ def strategy_rows(
     rows: list[dict],
     max_adverse_move: float | None = None,
     one_per_market: bool = False,
+    max_lag: float | None = None,
 ) -> list[dict]:
     """Rows a copy strategy could actually hold, without double counting.
 
@@ -954,8 +959,32 @@ def strategy_rows(
       largest loss source in the overnight sample.
     * `one_per_market` keeps the earliest row per condition: ten watched
       wallets buying the same event is one position, not ten.
+    * `max_lag` keeps only signals detected within this many seconds of the
+      whale's fill. The replay edge decays from +7.8% (60s) to +2.3% (30m), so
+      a slow sample and a fast sample are not the same strategy.
     """
     out = list(rows)
+    if max_lag is not None:
+        fresh = []
+        for x in out:
+            if x.get("backfilled"):
+                fresh.append(x)
+                continue
+            detected, trade_ts = x.get("detected_at"), x.get("trade_ts")
+            if not (detected and trade_ts):
+                fresh.append(x)
+                continue
+            try:
+                lag = (
+                    datetime.fromisoformat(detected)
+                    - datetime.fromtimestamp(float(trade_ts), UTC)
+                ).total_seconds()
+            except (TypeError, ValueError):
+                fresh.append(x)
+                continue
+            if lag <= max_lag:
+                fresh.append(x)
+        out = fresh
     if max_adverse_move is not None:
         out = [
             x
@@ -2330,9 +2359,15 @@ def cmd_chart(args) -> int:
     else:
         rows = json.loads(raw)
 
-    if args.one_per_market or args.max_adverse_move is not None:
+    if (
+        args.one_per_market
+        or args.max_adverse_move is not None
+        or args.max_lag is not None
+    ):
         total = len(rows)
-        rows = strategy_rows(rows, args.max_adverse_move, args.one_per_market)
+        rows = strategy_rows(
+            rows, args.max_adverse_move, args.one_per_market, args.max_lag
+        )
         print(f"strategy rows: {len(rows)} of {total}")
 
     pts = []
@@ -2653,7 +2688,9 @@ def cmd_dashboard(args) -> int:
             rows = json.loads(sig_path.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             rows = []
-        rows = strategy_rows(rows, args.max_adverse_move, args.one_per_market)
+        rows = strategy_rows(
+            rows, args.max_adverse_move, args.one_per_market, args.max_lag
+        )
         for h in (60, 240):
             payload["signals"][str(h)] = cumulative(rows, "", h)
 
@@ -2852,13 +2889,20 @@ def cmd_evaluate(args) -> int:
         )
     print("  A mean that lives in the top 1% is a lottery ticket, not a strategy.")
 
-    if args.one_per_market or args.max_adverse_move is not None:
-        picked = strategy_rows(rows, args.max_adverse_move, args.one_per_market)
+    if (
+        args.one_per_market
+        or args.max_adverse_move is not None
+        or args.max_lag is not None
+    ):
+        picked = strategy_rows(
+            rows, args.max_adverse_move, args.one_per_market, args.max_lag
+        )
         print()
         print(
             f"=== executable strategy: {len(picked)} of {len(rows)} rows "
             f"(one per market={args.one_per_market}, "
-            f"max adverse move={args.max_adverse_move}) ==="
+            f"max adverse move={args.max_adverse_move}, "
+            f"max lag={args.max_lag}) ==="
         )
         table(picked)
         print(
@@ -3286,6 +3330,13 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="count the earliest signal per market only",
     )
+    ch.add_argument(
+        "--max-lag",
+        type=float,
+        default=None,
+        metavar="SECONDS",
+        help="keep only signals detected within this many seconds of the whale",
+    )
     ch.set_defaults(func=cmd_chart)
 
     db = sub.add_parser("dashboard", help="live HTML dashboard, auto-refreshing")
@@ -3295,6 +3346,7 @@ def main(argv: list[str] | None = None) -> int:
     db.add_argument("--stake", type=float, default=20.0)
     db.add_argument("--max-adverse-move", type=float, default=None, metavar="FRAC")
     db.add_argument("--one-per-market", action="store_true")
+    db.add_argument("--max-lag", type=float, default=None, metavar="SECONDS")
     db.set_defaults(func=cmd_dashboard)
 
     bs = sub.add_parser("build-static", help="render dashboard for a static host")
@@ -3321,6 +3373,13 @@ def main(argv: list[str] | None = None) -> int:
         "--one-per-market",
         action="store_true",
         help="in the executable view, count the earliest signal per market only",
+    )
+    e.add_argument(
+        "--max-lag",
+        type=float,
+        default=None,
+        metavar="SECONDS",
+        help="in the executable view, keep only signals detected within this many seconds",
     )
     e.add_argument(
         "--walk-forward",

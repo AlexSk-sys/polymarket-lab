@@ -9,6 +9,7 @@ Two defects from the 2026-10-25 overnight run are pinned here:
 """
 
 import unittest
+from datetime import UTC, datetime
 from typing import ClassVar
 
 import pm_lab
@@ -163,6 +164,29 @@ class StrategyRowsTest(unittest.TestCase):
     def test_both_filters(self):
         out = pm_lab.strategy_rows(self.ROWS, 0.02, True)
         self.assertEqual({x["condition_id"] for x in out}, {"a", "c"})
+
+
+def _lag_row(lag_seconds: int, backfilled: bool = False) -> dict:
+    detected = datetime(2026, 10, 25, 1, 0, tzinfo=UTC)
+    return {
+        "condition_id": f"c{lag_seconds}",
+        "detected_at": detected.isoformat(),
+        "trade_ts": detected.timestamp() - lag_seconds,
+        "moved": 0.0,
+        "backfilled": backfilled,
+        "returns": {"60": 0.0},
+    }
+
+
+class StrategyLagTest(unittest.TestCase):
+    def test_keeps_fast_and_boundary(self):
+        rows = [_lag_row(60), _lag_row(300), _lag_row(600)]
+        out = pm_lab.strategy_rows(rows, max_lag=300)
+        self.assertEqual({x["condition_id"] for x in out}, {"c60", "c300"})
+
+    def test_backfilled_rows_ignore_wall_clock_lag(self):
+        rows = [_lag_row(86400, backfilled=True)]
+        self.assertEqual(len(pm_lab.strategy_rows(rows, max_lag=300)), 1)
 
 
 if __name__ == "__main__":
