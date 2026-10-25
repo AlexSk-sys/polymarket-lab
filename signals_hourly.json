@@ -7063,7 +7063,7 @@
     "trade_ts": 1792954415.0,
     "detected_at": "2026-10-25T18:55:07.847960+00:00",
     "returns": {
-      "60": null,
+      "60": -0.1858974358974359,
       "240": null
     }
   },
@@ -7082,7 +7082,7 @@
     "trade_ts": 1792954149.0,
     "detected_at": "2026-10-25T18:55:07.943449+00:00",
     "returns": {
-      "60": null,
+      "60": 0.56171875,
       "240": null
     }
   },
@@ -8696,6 +8696,1431 @@
     "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
     "trade_ts": 1792947578.0,
     "detected_at": "2026-10-25T18:55:07.943732+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "SELL",
+    "usdc": 11047.0536,
+    "whale_price": 0.66,
+    "now_price": 0.65,
+    "moved": 0.015151515151515164,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792964351.0,
+    "detected_at": "2026-10-25T21:40:15.963990+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf1c9a36fd5e982f27337a8692c78b2b1b2e3363f",
+    "name": "rookie765",
+    "side": "BUY",
+    "usdc": 24665.6604,
+    "whale_price": 0.34,
+    "now_price": 0.35,
+    "moved": 0.029411764705882214,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792964340.0,
+    "detected_at": "2026-10-25T21:40:16.102354+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 7063.498799999999,
+    "whale_price": 0.62,
+    "now_price": 0.68,
+    "moved": 0.09677419354838718,
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "53781445402973928381138196330447206332311283276278686884241494610532113968251",
+    "condition_id": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
+    "trade_ts": 1792964288.0,
+    "detected_at": "2026-10-25T21:40:16.241034+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 7673.4279,
+    "whale_price": 0.61,
+    "now_price": 0.68,
+    "moved": 0.11475409836065584,
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "53781445402973928381138196330447206332311283276278686884241494610532113968251",
+    "condition_id": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
+    "trade_ts": 1792964253.0,
+    "detected_at": "2026-10-25T21:40:16.377211+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 4051.148630292,
+    "whale_price": 0.6389824338,
+    "now_price": 0.646,
+    "moved": -0.010982408637224805,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792964210.0,
+    "detected_at": "2026-10-25T21:40:16.515159+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2223.0,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-1.5)",
+    "outcome": "Pistons",
+    "token_id": "102954275732686169997686989798041447446516845748246845850419021451901057601675",
+    "condition_id": "0x7bd379c00a1dc7088d5a46ae3f680de45201e6dff7f9715e817ed8fe86747508",
+    "trade_ts": 1792963701.0,
+    "detected_at": "2026-10-25T21:40:16.515178+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2400.0,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-2.5)",
+    "outcome": "Pistons",
+    "token_id": "96439415971385351603119062168350725912261264481177959595960958759542249371766",
+    "condition_id": "0xc3dc81d5f2e0147f3b080ac8c0b8d013b697cba7924d35d69d96ecb155527586",
+    "trade_ts": 1792963698.0,
+    "detected_at": "2026-10-25T21:40:16.515182+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 3900.0,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Real Madrid CF win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "90883489004081780618656788559830046738681376889831440455435885082986244302734",
+    "condition_id": "0x77706c139c0596bfe18973e428c1dc22a3f08bbf6a6cbe1d41a6e7aac5eb63c1",
+    "trade_ts": 1792963646.0,
+    "detected_at": "2026-10-25T21:40:16.515185+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3016.135700246253,
+    "whale_price": 0.4082606389,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: CA River Plate (-1.5)",
+    "outcome": "CA River Plate",
+    "token_id": "28880771644974138546330269471507257782224042463896569855410426614873266566570",
+    "condition_id": "0x947a7440c684fa956aedf73cf1c2a291193addc083129e7be8c19f79db4519d4",
+    "trade_ts": 1792963602.0,
+    "detected_at": "2026-10-25T21:40:16.515188+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 5943.36330009,
+    "whale_price": 0.4832002683,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pacers (-6.5)",
+    "outcome": "Pacers",
+    "token_id": "90155329881748979617768618019333685212081901784939922351680769204160901045514",
+    "condition_id": "0x9023d2dd1a57817e294a000c3f7bf489c113851b17b45d78740c4d5e7d301411",
+    "trade_ts": 1792963514.0,
+    "detected_at": "2026-10-25T21:40:16.515191+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 2164.3362,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+    "outcome": "LYON",
+    "token_id": "23356949443234644215223743731864412357753531553965963323774417603979627434508",
+    "condition_id": "0xee382461657355b417a3ba3f75e6de8f898a2a633157641e18d70262fc12b6f8",
+    "trade_ts": 1792963397.0,
+    "detected_at": "2026-10-25T21:40:16.515195+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 5094.798100350211,
+    "whale_price": 0.554700673,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+    "outcome": "LYON",
+    "token_id": "23356949443234644215223743731864412357753531553965963323774417603979627434508",
+    "condition_id": "0xee382461657355b417a3ba3f75e6de8f898a2a633157641e18d70262fc12b6f8",
+    "trade_ts": 1792963376.0,
+    "detected_at": "2026-10-25T21:40:16.515198+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2122.73,
+    "whale_price": 0.79,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+    "outcome": "Gen.G",
+    "token_id": "30051129446975232867464299337725750907576805990947358309957306096585423437729",
+    "condition_id": "0xee382461657355b417a3ba3f75e6de8f898a2a633157641e18d70262fc12b6f8",
+    "trade_ts": 1792963152.0,
+    "detected_at": "2026-10-25T21:40:16.515201+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x71ca04d689bc38c5e4dcda8a4d743f279c5a3501",
+    "name": "Ronaldo2100",
+    "side": "SELL",
+    "usdc": 2506.0672,
+    "whale_price": 0.662,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792963085.0,
+    "detected_at": "2026-10-25T21:40:16.515204+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 6027.0,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pacers (-6.5)",
+    "outcome": "Pacers",
+    "token_id": "90155329881748979617768618019333685212081901784939922351680769204160901045514",
+    "condition_id": "0x9023d2dd1a57817e294a000c3f7bf489c113851b17b45d78740c4d5e7d301411",
+    "trade_ts": 1792963041.0,
+    "detected_at": "2026-10-25T21:40:16.515207+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3200.0,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+    "outcome": "Gen.G",
+    "token_id": "30051129446975232867464299337725750907576805990947358309957306096585423437729",
+    "condition_id": "0xee382461657355b417a3ba3f75e6de8f898a2a633157641e18d70262fc12b6f8",
+    "trade_ts": 1792962846.0,
+    "detected_at": "2026-10-25T21:40:16.515210+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2226.014,
+    "whale_price": 0.34,
+    "now_price": null,
+    "moved": null,
+    "title": "Lakers vs. Jazz",
+    "outcome": "Jazz",
+    "token_id": "24652808062575696232537101078481394574142094102444623728069067753043071669418",
+    "condition_id": "0x88b7e613ec70694ceca726fc74705903ca62548f4920ece7ea4ee5697e8ce988",
+    "trade_ts": 1792962800.0,
+    "detected_at": "2026-10-25T21:40:16.515213+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2242.076299905604,
+    "whale_price": 0.8152589686,
+    "now_price": null,
+    "moved": null,
+    "title": "Guayaquil: Younes Lalami Laaroussi vs Daniel Salazar Martinez",
+    "outcome": "Younes Lalami Laaroussi",
+    "token_id": "4878059274098240186483168990029400619044656702033500936495840674296140768373",
+    "condition_id": "0x3e694ec540979b0f66c5ee40f6d9cab5b6398e3139762ea7c9482f4b52fd4587",
+    "trade_ts": 1792962623.0,
+    "detected_at": "2026-10-25T21:40:16.515216+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 14741.348500636215,
+    "whale_price": 0.7344165485,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+    "outcome": "Gen.G",
+    "token_id": "30051129446975232867464299337725750907576805990947358309957306096585423437729",
+    "condition_id": "0xee382461657355b417a3ba3f75e6de8f898a2a633157641e18d70262fc12b6f8",
+    "trade_ts": 1792962402.0,
+    "detected_at": "2026-10-25T21:40:16.515219+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 14710.000000083664,
+    "whale_price": 0.6690930185,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792962212.0,
+    "detected_at": "2026-10-25T21:40:16.515222+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "SELL",
+    "usdc": 9710.6425,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "2026 Balance of Power: D Senate, D House",
+    "outcome": "Yes",
+    "token_id": "34722410608062854697106861099776685947172185964394483545370684749662285977831",
+    "condition_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "trade_ts": 1792961960.0,
+    "detected_at": "2026-10-25T21:40:16.515225+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2500.00000005,
+    "whale_price": 0.21,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Real Madrid CF (-1.5)",
+    "outcome": "Real Madrid CF",
+    "token_id": "96664327037131608405736271966105115537836085406556986445355287326487228703193",
+    "condition_id": "0x747c9ba95a3aa7172b44bc85657d9e2cffae67942f6a034f7fee0c392f51b61b",
+    "trade_ts": 1792961798.0,
+    "detected_at": "2026-10-25T21:40:16.515229+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 5075.0,
+    "whale_price": 0.29,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: GEN (-1.5) vs LYON (+1.5)",
+    "outcome": "LYON",
+    "token_id": "100174193067433097774428589988385697681415440019777623444579939885345651978168",
+    "condition_id": "0xde61156b8f4a34503e771ab66a68615d15175f844efed5cf829c14dc60a305be",
+    "trade_ts": 1792961591.0,
+    "detected_at": "2026-10-25T21:40:16.515232+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2729.453,
+    "whale_price": 0.74,
+    "now_price": null,
+    "moved": null,
+    "title": "Rams vs. Raiders",
+    "outcome": "Rams",
+    "token_id": "90635844554975619499513160555849439300671871096029809929867973058225825552081",
+    "condition_id": "0xc8c3c2b216d26a649da337893e368ca02053d5f3122c569ac03febedf99978dc",
+    "trade_ts": 1792961589.0,
+    "detected_at": "2026-10-25T21:40:16.515235+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf1c9a36fd5e982f27337a8692c78b2b1b2e3363f",
+    "name": "rookie765",
+    "side": "SELL",
+    "usdc": 2970.2316,
+    "whale_price": 0.28,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: GEN (-1.5) vs LYON (+1.5)",
+    "outcome": "LYON",
+    "token_id": "100174193067433097774428589988385697681415440019777623444579939885345651978168",
+    "condition_id": "0xde61156b8f4a34503e771ab66a68615d15175f844efed5cf829c14dc60a305be",
+    "trade_ts": 1792961553.0,
+    "detected_at": "2026-10-25T21:40:16.515238+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 3532.7738,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 3.5",
+    "outcome": "Over",
+    "token_id": "93049605525988054573833906754234556526169439458366669054547011671900054952929",
+    "condition_id": "0xbf28c9c08416866c674426359a24725c74058bcca4a000ba64b1ef675e1d6dce",
+    "trade_ts": 1792961454.0,
+    "detected_at": "2026-10-25T21:40:16.515241+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2600.0,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Lions (-3.5)",
+    "outcome": "Lions",
+    "token_id": "45406003951593692075624491927027268008480832353472673893496144306795436314422",
+    "condition_id": "0xa4f38dd4b82cd39d0f153cabeff3f21e9e1c3f89633bbc02943a16bd6a5ef4be",
+    "trade_ts": 1792961295.0,
+    "detected_at": "2026-10-25T21:40:16.515244+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 6695.64999719,
+    "whale_price": 0.77,
+    "now_price": null,
+    "moved": null,
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "token_id": "90564222315647711927559059028681258195887479142002676141177763413031779932680",
+    "condition_id": "0x2345fcf9acc0308ed06ce53dfe765176643720d74b1f4a3f6d2f638d99a65e0b",
+    "trade_ts": 1792961291.0,
+    "detected_at": "2026-10-25T21:40:16.515247+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x71ca04d689bc38c5e4dcda8a4d743f279c5a3501",
+    "name": "Ronaldo2100",
+    "side": "SELL",
+    "usdc": 2110.8338299873603,
+    "whale_price": 0.6720046576,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792960820.0,
+    "detected_at": "2026-10-25T21:40:16.515250+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "SELL",
+    "usdc": 12042.66,
+    "whale_price": 0.42,
+    "now_price": null,
+    "moved": null,
+    "title": "Rams vs. Raiders",
+    "outcome": "Raiders",
+    "token_id": "81135491566707051946124515494658509304719639404206193887190428425663141745663",
+    "condition_id": "0xc8c3c2b216d26a649da337893e368ca02053d5f3122c569ac03febedf99978dc",
+    "trade_ts": 1792960608.0,
+    "detected_at": "2026-10-25T21:40:16.515254+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+    "name": "spendingmoney",
+    "side": "SELL",
+    "usdc": 2012.58328995408,
+    "whale_price": 0.684279824,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792960527.0,
+    "detected_at": "2026-10-25T21:40:16.515257+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xfc0847fe2ea938d6e2624650eb29ef8d8142a137",
+    "name": "0xfC0847fe2Ea938D6e2624650eB29eF8d8142A137-1771999665274",
+    "side": "BUY",
+    "usdc": 14998.829998831294,
+    "whale_price": 0.4087528794,
+    "now_price": null,
+    "moved": null,
+    "title": "Rams vs. Raiders",
+    "outcome": "Raiders",
+    "token_id": "81135491566707051946124515494658509304719639404206193887190428425663141745663",
+    "condition_id": "0xc8c3c2b216d26a649da337893e368ca02053d5f3122c569ac03febedf99978dc",
+    "trade_ts": 1792960515.0,
+    "detected_at": "2026-10-25T21:40:16.515260+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 7152.354,
+    "whale_price": 0.9,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?",
+    "outcome": "Yes",
+    "token_id": "1689950543806317773337530280926430142670579667870391801780343754845480907767",
+    "condition_id": "0x258ff19b4baff0ed24bc28f58e83c8be6f2f91d9134700703e0aa51810c51a63",
+    "trade_ts": 1792960449.0,
+    "detected_at": "2026-10-25T21:40:16.515264+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x71ca04d689bc38c5e4dcda8a4d743f279c5a3501",
+    "name": "Ronaldo2100",
+    "side": "SELL",
+    "usdc": 2623.470370078485,
+    "whale_price": 0.6727623367,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792960355.0,
+    "detected_at": "2026-10-25T21:40:16.515267+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 5126.00000016,
+    "whale_price": 0.39,
+    "now_price": null,
+    "moved": null,
+    "title": "Packers vs. Lions",
+    "outcome": "Packers",
+    "token_id": "1666991381228647698331073536260515289680028541151182380970766963465047055846",
+    "condition_id": "0x2345fcf9acc0308ed06ce53dfe765176643720d74b1f4a3f6d2f638d99a65e0b",
+    "trade_ts": 1792960178.0,
+    "detected_at": "2026-10-25T21:40:16.515270+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 11624.1918,
+    "whale_price": 0.39,
+    "now_price": null,
+    "moved": null,
+    "title": "Packers vs. Lions",
+    "outcome": "Packers",
+    "token_id": "1666991381228647698331073536260515289680028541151182380970766963465047055846",
+    "condition_id": "0x2345fcf9acc0308ed06ce53dfe765176643720d74b1f4a3f6d2f638d99a65e0b",
+    "trade_ts": 1792960077.0,
+    "detected_at": "2026-10-25T21:40:16.515273+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 2548.384899841566,
+    "whale_price": 0.5321341034,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Rams (-3.5)",
+    "outcome": "Rams",
+    "token_id": "3086699852183018244349378586877247195412030274996768216952572094491384234783",
+    "condition_id": "0xb36314ea76f9c11c6e04c84b5af8520d05b7f806656e73749ecd78ce61cb53ca",
+    "trade_ts": 1792960073.0,
+    "detected_at": "2026-10-25T21:40:16.515276+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 5412.000000338284,
+    "whale_price": 0.3597199409,
+    "now_price": null,
+    "moved": null,
+    "title": "Packers vs. Lions",
+    "outcome": "Packers",
+    "token_id": "1666991381228647698331073536260515289680028541151182380970766963465047055846",
+    "condition_id": "0x2345fcf9acc0308ed06ce53dfe765176643720d74b1f4a3f6d2f638d99a65e0b",
+    "trade_ts": 1792959992.0,
+    "detected_at": "2026-10-25T21:40:16.515279+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 23706.810600000004,
+    "whale_price": 0.66,
+    "now_price": null,
+    "moved": null,
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "token_id": "90564222315647711927559059028681258195887479142002676141177763413031779932680",
+    "condition_id": "0x2345fcf9acc0308ed06ce53dfe765176643720d74b1f4a3f6d2f638d99a65e0b",
+    "trade_ts": 1792959981.0,
+    "detected_at": "2026-10-25T21:40:16.515282+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 17005.5212,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Rams vs. Raiders",
+    "outcome": "Rams",
+    "token_id": "90635844554975619499513160555849439300671871096029809929867973058225825552081",
+    "condition_id": "0xc8c3c2b216d26a649da337893e368ca02053d5f3122c569ac03febedf99978dc",
+    "trade_ts": 1792959974.0,
+    "detected_at": "2026-10-25T21:40:16.515285+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 98676.71220000001,
+    "whale_price": 0.66,
+    "now_price": null,
+    "moved": null,
+    "title": "Packers vs. Lions",
+    "outcome": "Lions",
+    "token_id": "90564222315647711927559059028681258195887479142002676141177763413031779932680",
+    "condition_id": "0x2345fcf9acc0308ed06ce53dfe765176643720d74b1f4a3f6d2f638d99a65e0b",
+    "trade_ts": 1792959518.0,
+    "detected_at": "2026-10-25T21:40:16.515288+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b",
+    "name": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
+    "side": "BUY",
+    "usdc": 2537.29819928214,
+    "whale_price": 0.1439405811,
+    "now_price": null,
+    "moved": null,
+    "title": "Exact Score: Udinese Calcio 0 - 3 AC Milan?",
+    "outcome": "Yes",
+    "token_id": "111702321656811152369680482002468752479183410278775483635806441374220728886196",
+    "condition_id": "0xf1098db6543b6dbba27fcd135999dc7b7cc1e53becb0c6150e86f4854af81998",
+    "trade_ts": 1792959422.0,
+    "detected_at": "2026-10-25T21:40:16.515291+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 3200.0,
+    "whale_price": 0.32,
+    "now_price": null,
+    "moved": null,
+    "title": "Broncos vs. Cardinals",
+    "outcome": "Cardinals",
+    "token_id": "47393014975154060136626569463717797664409623627295970118580101061873334345233",
+    "condition_id": "0x776e643bfc12ad924f07eca0f9b288aa3f4b334e5f8fcc37101d63b821aef988",
+    "trade_ts": 1792959381.0,
+    "detected_at": "2026-10-25T21:40:16.515293+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 3200.0,
+    "whale_price": 0.32,
+    "now_price": null,
+    "moved": null,
+    "title": "Broncos vs. Cardinals",
+    "outcome": "Cardinals",
+    "token_id": "47393014975154060136626569463717797664409623627295970118580101061873334345233",
+    "condition_id": "0x776e643bfc12ad924f07eca0f9b288aa3f4b334e5f8fcc37101d63b821aef988",
+    "trade_ts": 1792959380.0,
+    "detected_at": "2026-10-25T21:40:16.515296+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3100.0,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Broncos (-8.5)",
+    "outcome": "Cardinals",
+    "token_id": "91160110545536845694331912893379261062329189204758342739896419279134879653683",
+    "condition_id": "0x61f61acf1286066e09e97c28fde9874ed976a969194f21910ea2eeec833278d7",
+    "trade_ts": 1792959194.0,
+    "detected_at": "2026-10-25T21:40:16.515299+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3100.0,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Broncos (-8.5)",
+    "outcome": "Cardinals",
+    "token_id": "91160110545536845694331912893379261062329189204758342739896419279134879653683",
+    "condition_id": "0x61f61acf1286066e09e97c28fde9874ed976a969194f21910ea2eeec833278d7",
+    "trade_ts": 1792959182.0,
+    "detected_at": "2026-10-25T21:40:16.515301+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2950.0,
+    "whale_price": 0.59,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Broncos (-7.5)",
+    "outcome": "Cardinals",
+    "token_id": "19794246460209395056220819788017862092588052010151026823616645937124160541969",
+    "condition_id": "0x560ce728eea742e049e59d8ed5b37df50d81d12e70eb026dc7495575f6fff1ba",
+    "trade_ts": 1792959182.0,
+    "detected_at": "2026-10-25T21:40:16.515304+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 3013.4724,
+    "whale_price": 0.74,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "token_id": "29683528605994613745427090191570104131844605554255675667838841545647628376802",
+    "condition_id": "0x22b25d373b8e47ea61a820c6a0df788ebac14cc4b03a4ff2850d24afd2d78853",
+    "trade_ts": 1792959050.0,
+    "detected_at": "2026-10-25T21:40:16.515307+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2700.0,
+    "whale_price": 0.27,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Movistar KOI",
+    "token_id": "13857969204128441926988607189896875342543527722572761429354002816560815454571",
+    "condition_id": "0x22b25d373b8e47ea61a820c6a0df788ebac14cc4b03a4ff2850d24afd2d78853",
+    "trade_ts": 1792959027.0,
+    "detected_at": "2026-10-25T21:40:16.515310+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 6223.010000199999,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "token_id": "29683528605994613745427090191570104131844605554255675667838841545647628376802",
+    "condition_id": "0x22b25d373b8e47ea61a820c6a0df788ebac14cc4b03a4ff2850d24afd2d78853",
+    "trade_ts": 1792958835.0,
+    "detected_at": "2026-10-25T21:40:16.515312+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 6223.010000199999,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "token_id": "29683528605994613745427090191570104131844605554255675667838841545647628376802",
+    "condition_id": "0x22b25d373b8e47ea61a820c6a0df788ebac14cc4b03a4ff2850d24afd2d78853",
+    "trade_ts": 1792958826.0,
+    "detected_at": "2026-10-25T21:40:16.515315+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 6223.010000199999,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "token_id": "29683528605994613745427090191570104131844605554255675667838841545647628376802",
+    "condition_id": "0x22b25d373b8e47ea61a820c6a0df788ebac14cc4b03a4ff2850d24afd2d78853",
+    "trade_ts": 1792958817.0,
+    "detected_at": "2026-10-25T21:40:16.515317+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 6223.010000199999,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "token_id": "29683528605994613745427090191570104131844605554255675667838841545647628376802",
+    "condition_id": "0x22b25d373b8e47ea61a820c6a0df788ebac14cc4b03a4ff2850d24afd2d78853",
+    "trade_ts": 1792958808.0,
+    "detected_at": "2026-10-25T21:40:16.515319+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 4890.783410152857,
+    "whale_price": 0.553377897,
+    "now_price": null,
+    "moved": null,
+    "title": "CA River Plate vs. Racing Club: CA River Plate O/U 0.5 AND FC Barcelona vs. Real Madrid CF: FC Barcelona O/U 1.5 AND CA Independiente vs. CA Boca Juniors: CA Boca Juniors O/U 0.5",
+    "outcome": "",
+    "token_id": "1656578168830329752838967814376084248784447922286496471554984043766492430336",
+    "condition_id": "0x03a9970b54466d951ff4da724acde791940000000000000000000000000000",
+    "trade_ts": 1792958690.0,
+    "detected_at": "2026-10-25T21:40:16.515322+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 8000.0,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the U.S. invade Iran before 2027?",
+    "outcome": "No",
+    "token_id": "1910830010387565971650098373488592514702818137344973088263643820608151819241",
+    "condition_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+    "trade_ts": 1792958541.0,
+    "detected_at": "2026-10-25T21:40:16.515325+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 4329.92000032,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958525.0,
+    "detected_at": "2026-10-25T21:40:16.515327+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 13777.64,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958511.0,
+    "detected_at": "2026-10-25T21:40:16.515330+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 20666.46,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958502.0,
+    "detected_at": "2026-10-25T21:40:16.515332+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 34444.1,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958493.0,
+    "detected_at": "2026-10-25T21:40:16.515335+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 34444.1,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958487.0,
+    "detected_at": "2026-10-25T21:40:16.515338+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 3447.4356000000002,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958481.0,
+    "detected_at": "2026-10-25T21:40:16.515340+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 14255.3438,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958475.0,
+    "detected_at": "2026-10-25T21:40:16.515343+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 4393.6992,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 4.5",
+    "outcome": "Over",
+    "token_id": "19432791343995156627233123308270218746931996798505906217985887993271623699595",
+    "condition_id": "0x88a786bf629ab8d95fadec85460dfa68f959cb4c622d634a976004439c2b63d2",
+    "trade_ts": 1792958465.0,
+    "detected_at": "2026-10-25T21:40:16.515345+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 22944.103000000003,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792958457.0,
+    "detected_at": "2026-10-25T21:40:16.515348+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 9864.2078,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 4.5",
+    "outcome": "Over",
+    "token_id": "19432791343995156627233123308270218746931996798505906217985887993271623699595",
+    "condition_id": "0x88a786bf629ab8d95fadec85460dfa68f959cb4c622d634a976004439c2b63d2",
+    "trade_ts": 1792958441.0,
+    "detected_at": "2026-10-25T21:40:16.515350+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 6100.0,
+    "whale_price": 0.61,
+    "now_price": null,
+    "moved": null,
+    "title": "Giants vs. Texans",
+    "outcome": "Giants",
+    "token_id": "46926610137543864241478406193179361916768466822998393853234572880514683423166",
+    "condition_id": "0xeada9270789da2e8358f7d00c276a42f0551eb3a6be09f08cbe710c75f793e98",
+    "trade_ts": 1792958432.0,
+    "detected_at": "2026-10-25T21:40:16.515353+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "BUY",
+    "usdc": 3055.9943999999996,
+    "whale_price": 0.24,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792958244.0,
+    "detected_at": "2026-10-25T21:40:16.515356+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "name": "wangyou1288",
+    "side": "BUY",
+    "usdc": 7821.298509754482,
+    "whale_price": 0.5430388049,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: GEN (-1.5) vs LYON (+1.5) AND LoL: Dplus KIA vs Movistar KOI - Game 2 Winner",
+    "outcome": "",
+    "token_id": "1643225857596614578383730393979791610158604078364946119050214764722184519680",
+    "condition_id": "0x03a2086a946494ef3b5f207afc1a4846a80000000000000000000000000000",
+    "trade_ts": 1792958147.0,
+    "detected_at": "2026-10-25T21:40:16.515359+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2263.50000016,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: TS (-1.5) vs FURIA (+1.5)",
+    "outcome": "Spirit",
+    "token_id": "99846855022010129058184303651845843627713537584111760397208162650371782203731",
+    "condition_id": "0x242e0c10850405b62a8dcc26eee411bb562f54acfaab0ad2036eca7d0913a744",
+    "trade_ts": 1792958090.0,
+    "detected_at": "2026-10-25T21:40:16.515362+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 5033.999999744643,
+    "whale_price": 0.7693225864,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792957877.0,
+    "detected_at": "2026-10-25T21:40:16.515365+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 6606.999999992344,
+    "whale_price": 0.6872831459,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amapá?",
+    "outcome": "Yes",
+    "token_id": "106065276045357806320609774556329031079474847295342526506532891782476703273135",
+    "condition_id": "0xa0c4607a7d7c5ffe77cae5ffe47ccdc2207c8faceaaa225cf5a7de4ec93e543a",
+    "trade_ts": 1792957718.0,
+    "detected_at": "2026-10-25T21:40:16.515368+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2399.1199996828236,
+    "whale_price": 0.2397256632,
+    "now_price": null,
+    "moved": null,
+    "title": "Real Madrid CF leading at halftime?",
+    "outcome": "Yes",
+    "token_id": "38480067961303548702938652784230887818836415882164029318847416799387419589244",
+    "condition_id": "0x0ba7acfa1ede42c7c23361c46c179e3002957b79e29bf34b898ae0dc36e534d7",
+    "trade_ts": 1792957676.0,
+    "detected_at": "2026-10-25T21:40:16.515370+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2322.6052001026164,
+    "whale_price": 0.8196919016,
+    "now_price": null,
+    "moved": null,
+    "title": "Guayaquil: Mateo Del Pino vs Wilson Leite",
+    "outcome": "Mateo Del Pino",
+    "token_id": "30906904261127814780815873320356801429876425888595924011530742872028394965505",
+    "condition_id": "0x87e54c619dc5e8520644f0f1f3931dc118e91225acf44e8e9320691e3026d1b5",
+    "trade_ts": 1792957478.0,
+    "detected_at": "2026-10-25T21:40:16.515373+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "SELL",
+    "usdc": 18447.94369966806,
+    "whale_price": 0.7487269695,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Louisiana enact a data center moratorium by December 31, 2028?",
+    "outcome": "No",
+    "token_id": "90414999267683137603054045192496665278299416425946767014590820823910234365643",
+    "condition_id": "0xac589acdb3583b37429b9a0413bda570950e523103868a43f3136011fe5fd084",
+    "trade_ts": 1792957331.0,
+    "detected_at": "2026-10-25T21:40:16.515376+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "SELL",
+    "usdc": 7132.2804,
+    "whale_price": 0.84,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs Movistar KOI - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "token_id": "23804788341501185084392510404572822369946526686673990203473656225687469977726",
+    "condition_id": "0x9df86fd67b044c2cae1fe48e9ce1eae6ee9294979cba61c8fbb52ad879f7a0b5",
+    "trade_ts": 1792957236.0,
+    "detected_at": "2026-10-25T21:40:16.515379+00:00",
     "returns": {
       "60": null,
       "240": null
