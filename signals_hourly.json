@@ -5562,7 +5562,7 @@
     "trade_ts": 1792916661.0,
     "detected_at": "2026-10-25T09:20:27.265623+00:00",
     "returns": {
-      "60": null,
+      "60": -0.006666666666666672,
       "240": null
     }
   },
@@ -5979,6 +5979,25 @@
     "condition_id": "0x9e1cda89f20b93b1443a1831ef7f8e91e4a514973ac643007d58b7e42dc80b1e",
     "trade_ts": 1792919775.0,
     "detected_at": "2026-10-25T09:23:29.530228+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x46072f22bc5624f7ff43489d570fdc7e745ad542",
+    "name": "0x46072f22bC5624f7Ff43489d570FDc7e745Ad542-1774720903403",
+    "side": "BUY",
+    "usdc": 4384.698770447805,
+    "whale_price": 0.4740745626,
+    "now_price": null,
+    "moved": null,
+    "title": "Will FC Internazionale Milano win on 2026-10-25? AND Will Celtic FC win on 2026-10-25?",
+    "outcome": "",
+    "token_id": "1436353421332798497698023335622976255015246009157200902916316072992724484096",
+    "condition_id": "0x032cf27d731e94a8b1e7c0950503237bce0000000000000000000000000000",
+    "trade_ts": 1792920284.0,
+    "detected_at": "2026-10-25T09:25:44.000252+00:00",
     "returns": {
       "60": null,
       "240": null
