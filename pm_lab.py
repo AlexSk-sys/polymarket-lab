@@ -905,6 +905,72 @@ def make_lookup(series: list[tuple[float, float]]):
 MIN_EVALUABLE_ENTRY = 0.02
 
 
+def entry_price(signal: dict) -> float | None:
+    """The price a copy-trader could actually pay at detection.
+
+    A live signal with no book has no executable entry: the whale's fill is
+    gone. Scoring it at the whale's price is what turned six untradeable
+    events into a fake +$89 in the overnight sample.
+    """
+    now = signal.get("now_price")
+    if now:
+        return float(now)
+    if signal.get("backfilled") and signal.get("whale_price"):
+        return float(signal["whale_price"])
+    return None
+
+
+def horizon_window_valid(signal: dict, horizon: int) -> bool:
+    """False when the horizon ends before the signal was detectable.
+
+    Returns are measured from the whale's fill to fill+horizon, while the entry
+    is the price at detection. With a delayed capture the window can be
+    negative, scoring a move that happened before we could enter.
+    """
+    if signal.get("backfilled"):
+        return True
+    detected, trade_ts = signal.get("detected_at"), signal.get("trade_ts")
+    if not (detected and trade_ts):
+        return True
+    try:
+        age = (
+            datetime.fromisoformat(detected)
+            - datetime.fromtimestamp(float(trade_ts), UTC)
+        ).total_seconds()
+    except (TypeError, ValueError):
+        return True
+    return age < horizon * 60
+
+
+def strategy_rows(
+    rows: list[dict],
+    max_adverse_move: float | None = None,
+    one_per_market: bool = False,
+) -> list[dict]:
+    """Rows a copy strategy could actually hold, without double counting.
+
+    * `max_adverse_move` drops entries whose price already moved against the
+      whale by more than this fraction: chasing a falling knife was the single
+      largest loss source in the overnight sample.
+    * `one_per_market` keeps the earliest row per condition: ten watched
+      wallets buying the same event is one position, not ten.
+    """
+    out = list(rows)
+    if max_adverse_move is not None:
+        out = [
+            x
+            for x in out
+            if x.get("moved") is None or float(x["moved"]) >= -max_adverse_move
+        ]
+    if one_per_market:
+        first: dict[str, dict] = {}
+        for x in sorted(out, key=_sort_ts):
+            key = x.get("condition_id") or x.get("token_id") or str(id(x))
+            first.setdefault(key, x)
+        out = list(first.values())
+    return out
+
+
 def horizon_return(
     side: str | None,
     entry: float | None,
@@ -2264,6 +2330,11 @@ def cmd_chart(args) -> int:
     else:
         rows = json.loads(raw)
 
+    if args.one_per_market or args.max_adverse_move is not None:
+        total = len(rows)
+        rows = strategy_rows(rows, args.max_adverse_move, args.one_per_market)
+        print(f"strategy rows: {len(rows)} of {total}")
+
     pts = []
     for x in rows:
         if args.horizon:
@@ -2582,6 +2653,7 @@ def cmd_dashboard(args) -> int:
             rows = json.loads(sig_path.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             rows = []
+        rows = strategy_rows(rows, args.max_adverse_move, args.one_per_market)
         for h in (60, 240):
             payload["signals"][str(h)] = cumulative(rows, "", h)
 
@@ -2645,10 +2717,14 @@ def cmd_evaluate(args) -> int:
     now_ts = time.time()
     rows = []
     idxs = []
+    cleared = []
     for idx, s in enumerate(signals):
-        entry = s.get("now_price") or s.get("whale_price")
+        entry = entry_price(s)
         stored = s.get("returns") or {}
         if not entry:
+            # No executable entry: clear any earlier score, otherwise a stale
+            # number survives in the file and keeps showing up in charts.
+            cleared.append(idx)
             continue
         evaluable = entry >= MIN_EVALUABLE_ENTRY
         row = {
@@ -2658,6 +2734,9 @@ def cmd_evaluate(args) -> int:
             "side": s.get("side"),
             "usdc": s.get("usdc"),
             "trade_ts": s.get("trade_ts") or 0.0,
+            "detected_at": s.get("detected_at") or "",
+            "condition_id": s.get("condition_id") or "",
+            "moved": s.get("moved"),
             "returns": {},
         }
         for h in horizons:
@@ -2670,6 +2749,9 @@ def cmd_evaluate(args) -> int:
                 row["returns"][h] = cached
                 continue
             if not evaluable:
+                row["returns"][h] = None
+                continue
+            if not horizon_window_valid(s, h):
                 row["returns"][h] = None
                 continue
             tok, base_ts = s.get("token_id"), s.get("trade_ts")
@@ -2690,6 +2772,8 @@ def cmd_evaluate(args) -> int:
         # not have to fetch the same prices again
         for row, idx in zip(rows, idxs):
             signals[idx]["returns"] = {str(h): v for h, v in row["returns"].items()}
+        for idx in cleared:
+            signals[idx]["returns"] = {str(h): None for h in horizons}
         Path(args.signals).write_text(
             json.dumps(signals, indent=2, ensure_ascii=False), encoding="utf-8"
         )
@@ -2699,42 +2783,51 @@ def cmd_evaluate(args) -> int:
         print(json.dumps(rows, indent=2))
         return 0
 
+    entries = [entry_price(s) for s in signals]
+    unpriced = sum(1 for e in entries if e is None)
+    thin = sum(1 for e in entries if e is not None and 0 < e < MIN_EVALUABLE_ENTRY)
     print(f"{len(rows)} frozen signals, {len(horizons)} horizons")
-    thin = sum(
-        1
-        for s in signals
-        if 0 < (s.get("now_price") or s.get("whale_price") or 0) < MIN_EVALUABLE_ENTRY
-    )
+    if unpriced:
+        print(
+            f"  {unpriced} live signals have no book price and are not scored: "
+            "the whale's fill is not an executable entry"
+        )
     if thin:
         print(
             f"  {thin} signals left unscored: entry below ${MIN_EVALUABLE_ENTRY:.2f} "
             "(decided or illiquid book, a return there is division by noise)"
         )
-    print(
-        f"{'horizon':>8} {'n':>4} {'flat':>7} {'mean':>9} {'median':>9} "
-        f"{'win%*':>7} {'SE':>7}"
-    )
-    for h in horizons:
-        vals = [r["returns"][h] for r in rows if r["returns"].get(h) is not None]
-        if not vals:
-            print(f"{h:>7}m {0:>4}      n/a")
-            continue
-        vals.sort()
-        n = len(vals)
-        mean = sum(vals) / n
-        med = vals[n // 2]
-        # A zero return is not a loss: the market simply did not move. Counting
-        # those as losses is what makes a dead-flat strategy look like a 30%
-        # win rate, so they are reported separately and excluded from win%.
-        flat = sum(1 for v in vals if v == 0) / n
-        moved = [v for v in vals if v != 0]
-        wins = (sum(1 for v in moved if v > 0) / len(moved)) if moved else None
-        var = sum((v - mean) ** 2 for v in vals) / (n - 1) if n > 1 else 0.0
-        se = math.sqrt(var / n) if n > 1 else None
+
+    def table(sub_rows: list[dict]) -> None:
         print(
-            f"{h:>7}m {n:>4} {fpct(flat):>7} {fpct(mean):>9} {fpct(med):>9} "
-            f"{fpct(wins):>7} {fpct(se):>7}"
+            f"{'horizon':>8} {'n':>4} {'flat':>7} {'mean':>9} {'median':>9} "
+            f"{'win%*':>7} {'SE':>7}"
         )
+        for h in horizons:
+            vals = [
+                r["returns"][h] for r in sub_rows if r["returns"].get(h) is not None
+            ]
+            if not vals:
+                print(f"{h:>7}m {0:>4}      n/a")
+                continue
+            vals.sort()
+            n = len(vals)
+            mean = sum(vals) / n
+            med = vals[n // 2]
+            # A zero return is not a loss: the market simply did not move.
+            # Counting those as losses makes a dead-flat strategy look like a
+            # 30% win rate, so they are reported separately and excluded.
+            flat = sum(1 for v in vals if v == 0) / n
+            moved = [v for v in vals if v != 0]
+            wins = (sum(1 for v in moved if v > 0) / len(moved)) if moved else None
+            var = sum((v - mean) ** 2 for v in vals) / (n - 1) if n > 1 else 0.0
+            se = math.sqrt(var / n) if n > 1 else None
+            print(
+                f"{h:>7}m {n:>4} {fpct(flat):>7} {fpct(mean):>9} {fpct(med):>9} "
+                f"{fpct(wins):>7} {fpct(se):>7}"
+            )
+
+    table(rows)
     print("\n* win% is over non-flat outcomes only. SE is the standard error of")
     print("  the mean: if |mean| < 2*SE the result is indistinguishable from zero.")
     print("Entry is the price available AFTER detection, so the delay is already")
@@ -2758,6 +2851,20 @@ def cmd_evaluate(args) -> int:
             f"return; mean without them = {fpct(rest)}"
         )
     print("  A mean that lives in the top 1% is a lottery ticket, not a strategy.")
+
+    if args.one_per_market or args.max_adverse_move is not None:
+        picked = strategy_rows(rows, args.max_adverse_move, args.one_per_market)
+        print()
+        print(
+            f"=== executable strategy: {len(picked)} of {len(rows)} rows "
+            f"(one per market={args.one_per_market}, "
+            f"max adverse move={args.max_adverse_move}) ==="
+        )
+        table(picked)
+        print(
+            "  One position per market and no chasing: this is what a portfolio "
+            "could actually have held."
+        )
 
     if args.by_wallet:
         print()
@@ -3167,6 +3274,18 @@ def main(argv: list[str] | None = None) -> int:
     ch.add_argument("--stake", type=float, default=20.0)
     ch.add_argument("--horizon", type=int, default=0)
     ch.add_argument("--png", default="equity.png")
+    ch.add_argument(
+        "--max-adverse-move",
+        type=float,
+        default=None,
+        metavar="FRAC",
+        help="skip entries already worse than the whale by more than FRAC (e.g. 0.02)",
+    )
+    ch.add_argument(
+        "--one-per-market",
+        action="store_true",
+        help="count the earliest signal per market only",
+    )
     ch.set_defaults(func=cmd_chart)
 
     db = sub.add_parser("dashboard", help="live HTML dashboard, auto-refreshing")
@@ -3174,6 +3293,8 @@ def main(argv: list[str] | None = None) -> int:
     db.add_argument("--paper", default="paper.jsonl")
     db.add_argument("--signals", default="signals_hourly.json")
     db.add_argument("--stake", type=float, default=20.0)
+    db.add_argument("--max-adverse-move", type=float, default=None, metavar="FRAC")
+    db.add_argument("--one-per-market", action="store_true")
     db.set_defaults(func=cmd_dashboard)
 
     bs = sub.add_parser("build-static", help="render dashboard for a static host")
@@ -3189,6 +3310,18 @@ def main(argv: list[str] | None = None) -> int:
     e.add_argument("--fdr", action="store_true")
     e.add_argument("--write-back", action="store_true")
     e.add_argument("--q", type=float, default=0.10)
+    e.add_argument(
+        "--max-adverse-move",
+        type=float,
+        default=None,
+        metavar="FRAC",
+        help="in the executable view, skip entries already worse than the whale by more than FRAC",
+    )
+    e.add_argument(
+        "--one-per-market",
+        action="store_true",
+        help="in the executable view, count the earliest signal per market only",
+    )
     e.add_argument(
         "--walk-forward",
         type=int,

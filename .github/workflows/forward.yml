@@ -47,7 +47,10 @@ jobs:
           --max-age 7200 --append --out signals_hourly.json
 
       - name: score signals
-        run: python pm_lab.py evaluate signals_hourly.json --horizons 60,240 --write-back
+        run: >
+          python pm_lab.py evaluate signals_hourly.json
+          --horizons 60,240 --write-back
+          --one-per-market --max-adverse-move 0.02
 
       - name: build static dashboard
         run: python pm_lab.py build-static --stake 20

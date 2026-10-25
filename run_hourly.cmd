@@ -8,11 +8,11 @@ cd /d "%~dp0"
 
 REM --write-back persists the computed returns into the file, otherwise the
 REM dashboard and the next run would both see zeros
-".venv\Scripts\python.exe" pm_lab.py evaluate signals_hourly.json --horizons 60,240 --write-back
+".venv\Scripts\python.exe" pm_lab.py evaluate signals_hourly.json --horizons 60,240 --write-back --one-per-market --max-adverse-move 0.02
 
 REM refresh the live dashboard payload (the open page polls it every 30 s)
-".venv\Scripts\python.exe" pm_lab.py dashboard --stake 20
+".venv\Scripts\python.exe" pm_lab.py dashboard --stake 20 --one-per-market --max-adverse-move 0.02
 
 REM static snapshots, for the record
-".venv\Scripts\python.exe" pm_lab.py chart --file signals_hourly.json --horizon 60 --stake 20 --png equity_forward_60m.png
+".venv\Scripts\python.exe" pm_lab.py chart --file signals_hourly.json --horizon 60 --stake 20 --png equity_forward_60m.png --one-per-market --max-adverse-move 0.02
 ".venv\Scripts\python.exe" pm_lab.py chart --file paper.jsonl --stake 20 --png equity_paper.png

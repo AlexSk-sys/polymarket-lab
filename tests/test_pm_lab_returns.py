@@ -9,6 +9,7 @@ Two defects from the 2026-10-25 overnight run are pinned here:
 """
 
 import unittest
+from typing import ClassVar
 
 import pm_lab
 
@@ -78,6 +79,90 @@ class HorizonStatusTest(unittest.TestCase):
         base = self.NOW - 240 * 60 - pm_lab.RETRY_WINDOW
         self.assertEqual(pm_lab.horizon_status(240, base, self.NOW), "retry")
         self.assertEqual(pm_lab.horizon_status(240, base - 1, self.NOW), "expired")
+
+
+class EntryPriceTest(unittest.TestCase):
+    def test_live_signal_without_book_is_not_tradeable(self):
+        # 37 such rows in the overnight file produced a fake +$89 when the
+        # whale's fill was used as the entry
+        self.assertIsNone(pm_lab.entry_price({"now_price": None, "whale_price": 0.61}))
+        self.assertIsNone(pm_lab.entry_price({"whale_price": 0.61}))
+
+    def test_live_signal_uses_book_price(self):
+        self.assertEqual(
+            pm_lab.entry_price({"now_price": 0.52, "whale_price": 0.61}), 0.52
+        )
+
+    def test_backfilled_row_falls_back_to_whale_price(self):
+        self.assertEqual(
+            pm_lab.entry_price(
+                {"now_price": None, "whale_price": 0.4, "backfilled": True}
+            ),
+            0.4,
+        )
+
+    def test_backfilled_row_prefers_book_price(self):
+        self.assertEqual(
+            pm_lab.entry_price(
+                {"now_price": 0.45, "whale_price": 0.4, "backfilled": True}
+            ),
+            0.45,
+        )
+
+
+class HorizonWindowTest(unittest.TestCase):
+    DETECTED = "2026-10-25T01:00:00+00:00"
+    TRADE_TS = 1792886400.0  # 2026-10-25T00:00:00Z, one hour before detection
+
+    def test_window_that_ends_before_detection_is_invalid(self):
+        sig = {"detected_at": self.DETECTED, "trade_ts": self.TRADE_TS}
+        self.assertFalse(pm_lab.horizon_window_valid(sig, 60))
+
+    def test_longer_horizon_is_still_valid(self):
+        sig = {"detected_at": self.DETECTED, "trade_ts": self.TRADE_TS}
+        self.assertTrue(pm_lab.horizon_window_valid(sig, 240))
+
+    def test_backfilled_rows_skip_the_check(self):
+        sig = {
+            "detected_at": "2026-10-25T12:00:00+00:00",
+            "trade_ts": self.TRADE_TS - 86400,
+            "backfilled": True,
+        }
+        self.assertTrue(pm_lab.horizon_window_valid(sig, 60))
+
+    def test_missing_timestamps_are_not_rejected(self):
+        self.assertTrue(pm_lab.horizon_window_valid({}, 60))
+
+
+class StrategyRowsTest(unittest.TestCase):
+    ROWS: ClassVar[list[dict]] = [
+        {"condition_id": "a", "moved": -0.01, "trade_ts": 10, "returns": {"60": 0.1}},
+        {"condition_id": "a", "moved": 0.0, "trade_ts": 20, "returns": {"60": 0.2}},
+        {"condition_id": "b", "moved": -0.5, "trade_ts": 5, "returns": {"60": -1.0}},
+        {"condition_id": "c", "moved": None, "trade_ts": 30, "returns": {"60": 0.0}},
+    ]
+
+    def test_no_flags_keeps_everything(self):
+        self.assertEqual(len(pm_lab.strategy_rows(self.ROWS)), 4)
+
+    def test_adverse_move_filter(self):
+        out = pm_lab.strategy_rows(self.ROWS, max_adverse_move=0.02)
+        self.assertEqual({x["condition_id"] for x in out}, {"a", "c"})
+
+    def test_unknown_move_is_kept(self):
+        out = pm_lab.strategy_rows(self.ROWS, max_adverse_move=0.02)
+        self.assertTrue(any(x["condition_id"] == "c" for x in out))
+
+    def test_one_per_market_keeps_the_earliest(self):
+        out = pm_lab.strategy_rows(self.ROWS, one_per_market=True)
+        self.assertEqual({x["condition_id"] for x in out}, {"a", "b", "c"})
+        self.assertEqual(
+            next(x for x in out if x["condition_id"] == "a")["trade_ts"], 10
+        )
+
+    def test_both_filters(self):
+        out = pm_lab.strategy_rows(self.ROWS, 0.02, True)
+        self.assertEqual({x["condition_id"] for x in out}, {"a", "c"})
 
 
 if __name__ == "__main__":
