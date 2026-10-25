@@ -7047,5 +7047,1658 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+    "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+    "side": "SELL",
+    "usdc": 9750.0,
+    "whale_price": 0.78,
+    "now_price": 0.78,
+    "moved": -0.0,
+    "title": "LoL: Dplus KIA vs Movistar KOI (BO3) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "30687812597080277142347109372586508048018494599161483191327867364915765094927",
+    "condition_id": "0x77857649362a43a3954b8441931040ce9117becc3512574d741597cb3bc212d3",
+    "trade_ts": 1792954415.0,
+    "detected_at": "2026-10-25T18:55:07.847960+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2000.0,
+    "whale_price": 0.5,
+    "now_price": 0.64,
+    "moved": 0.28,
+    "title": "Bengals vs. Ravens",
+    "outcome": "Bengals",
+    "token_id": "95766531878097112964815622175314367311075025714777309355430576358605571695751",
+    "condition_id": "0xc5f590356b401a3d7b259437fcc9257889534b2846a8179b74cb0ab253f3ac2b",
+    "trade_ts": 1792954149.0,
+    "detected_at": "2026-10-25T18:55:07.943449+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 2348.0460000000003,
+    "whale_price": 0.45,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 4.5",
+    "outcome": "Over",
+    "token_id": "19432791343995156627233123308270218746931996798505906217985887993271623699595",
+    "condition_id": "0x88a786bf629ab8d95fadec85460dfa68f959cb4c622d634a976004439c2b63d2",
+    "trade_ts": 1792953864.0,
+    "detected_at": "2026-10-25T18:55:07.943467+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 245027.133,
+    "whale_price": 0.45,
+    "now_price": null,
+    "moved": null,
+    "title": "FC Barcelona vs. Real Madrid CF: O/U 4.5",
+    "outcome": "Over",
+    "token_id": "19432791343995156627233123308270218746931996798505906217985887993271623699595",
+    "condition_id": "0x88a786bf629ab8d95fadec85460dfa68f959cb4c622d634a976004439c2b63d2",
+    "trade_ts": 1792953744.0,
+    "detected_at": "2026-10-25T18:55:07.943472+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3102.9999978696023,
+    "whale_price": 0.7769322318,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953726.0,
+    "detected_at": "2026-10-25T18:55:07.943476+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 11666.55,
+    "whale_price": 0.35,
+    "now_price": null,
+    "moved": null,
+    "title": "Bengals vs. Ravens",
+    "outcome": "Bengals",
+    "token_id": "95766531878097112964815622175314367311075025714777309355430576358605571695751",
+    "condition_id": "0xc5f590356b401a3d7b259437fcc9257889534b2846a8179b74cb0ab253f3ac2b",
+    "trade_ts": 1792953717.0,
+    "detected_at": "2026-10-25T18:55:07.943480+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 17960.937501577155,
+    "whale_price": 0.1985303497,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953716.0,
+    "detected_at": "2026-10-25T18:55:07.943484+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "BUY",
+    "usdc": 2161.57609979262,
+    "whale_price": 0.202185954,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953716.0,
+    "detected_at": "2026-10-25T18:55:07.943488+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "BUY",
+    "usdc": 11300.66420033554,
+    "whale_price": 0.7819928158,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953708.0,
+    "detected_at": "2026-10-25T18:55:07.943491+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "BUY",
+    "usdc": 3503.1839999999997,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953708.0,
+    "detected_at": "2026-10-25T18:55:07.943494+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2000.0000000779999,
+    "whale_price": 0.2487824339,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953699.0,
+    "detected_at": "2026-10-25T18:55:07.943498+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "name": "Kch-Temp",
+    "side": "BUY",
+    "usdc": 149559.92,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Broncos (-4.5)",
+    "outcome": "Cardinals",
+    "token_id": "17577551731772208961500655920474843320484230964050091661842699709039013877126",
+    "condition_id": "0x01203a2014dd063b46d1390121086741d74a9aa54f1176340999c6f5129019e2",
+    "trade_ts": 1792953674.0,
+    "detected_at": "2026-10-25T18:55:07.943501+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2871.1878,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953632.0,
+    "detected_at": "2026-10-25T18:55:07.943504+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "SELL",
+    "usdc": 7142.1062991305,
+    "whale_price": 0.242734763,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953546.0,
+    "detected_at": "2026-10-25T18:55:07.943508+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2960.0,
+    "whale_price": 0.74,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953428.0,
+    "detected_at": "2026-10-25T18:55:07.943510+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "BUY",
+    "usdc": 17354.170399384915,
+    "whale_price": 0.7394183305,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792953077.0,
+    "detected_at": "2026-10-25T18:55:07.943514+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2483.46,
+    "whale_price": 0.73,
+    "now_price": null,
+    "moved": null,
+    "title": "Giants vs. Texans: O/U 52.5",
+    "outcome": "Under",
+    "token_id": "948134548017758450269542565014076482542318698519982063015099465412775475372",
+    "condition_id": "0xea1e328da7fc87a3c77578e64d43c06cfb3e53e7c4091e75b8bef59025c6760a",
+    "trade_ts": 1792952748.0,
+    "detected_at": "2026-10-25T18:55:07.943517+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2019.9499998670337,
+    "whale_price": 0.5101381291,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792952670.0,
+    "detected_at": "2026-10-25T18:55:07.943520+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2024.0800001839045,
+    "whale_price": 0.5049977509,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "G2 Esports",
+    "token_id": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792952670.0,
+    "detected_at": "2026-10-25T18:55:07.943523+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2205.416900077143,
+    "whale_price": 0.8769994791,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "35271058643933362818492917741721523875538927392263510154565346684446733896534",
+    "condition_id": "0xc7fe1273bbe938d7077935b4f58724d1e3e6d2906b4cf3ee55625f52f92d2c04",
+    "trade_ts": 1792952636.0,
+    "detected_at": "2026-10-25T18:55:07.943527+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3899.999995109951,
+    "whale_price": 0.8963261888,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "35271058643933362818492917741721523875538927392263510154565346684446733896534",
+    "condition_id": "0xc7fe1273bbe938d7077935b4f58724d1e3e6d2906b4cf3ee55625f52f92d2c04",
+    "trade_ts": 1792952288.0,
+    "detected_at": "2026-10-25T18:55:07.943530+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2759.9499989389155,
+    "whale_price": 0.6916301958,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792952217.0,
+    "detected_at": "2026-10-25T18:55:07.943533+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2186.0875,
+    "whale_price": 0.61,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792952178.0,
+    "detected_at": "2026-10-25T18:55:07.943536+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 5214.143499878152,
+    "whale_price": 0.8501325544,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "35271058643933362818492917741721523875538927392263510154565346684446733896534",
+    "condition_id": "0xc7fe1273bbe938d7077935b4f58724d1e3e6d2906b4cf3ee55625f52f92d2c04",
+    "trade_ts": 1792952166.0,
+    "detected_at": "2026-10-25T18:55:07.943540+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 17135.463100382953,
+    "whale_price": 0.8542203176,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs BetBoom Team - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "35271058643933362818492917741721523875538927392263510154565346684446733896534",
+    "condition_id": "0xc7fe1273bbe938d7077935b4f58724d1e3e6d2906b4cf3ee55625f52f92d2c04",
+    "trade_ts": 1792952129.0,
+    "detected_at": "2026-10-25T18:55:07.943543+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "BUY",
+    "usdc": 4252.514,
+    "whale_price": 0.2,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792952102.0,
+    "detected_at": "2026-10-25T18:55:07.943547+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2233.6749999999997,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792952021.0,
+    "detected_at": "2026-10-25T18:55:07.943550+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2600.0,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Ravens (-4.5)",
+    "outcome": "Ravens",
+    "token_id": "30887533442033301981163695299999078103613560112038500658493421104653420148144",
+    "condition_id": "0xdeedeacfd7c93543dc07cf93f5d76ca4dd2fc904803892082fd2e553ce5dcf0c",
+    "trade_ts": 1792952018.0,
+    "detected_at": "2026-10-25T18:55:07.943554+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 9600.0,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792951985.0,
+    "detected_at": "2026-10-25T18:55:07.943557+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 64088.7024,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792951977.0,
+    "detected_at": "2026-10-25T18:55:07.943560+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 7911.297599999999,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792951977.0,
+    "detected_at": "2026-10-25T18:55:07.943563+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5019.7739,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792951937.0,
+    "detected_at": "2026-10-25T18:55:07.943566+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 3149.9500000000003,
+    "whale_price": 0.62999,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings: O/U 42.5",
+    "outcome": "Under",
+    "token_id": "40375931255128820889386040599152744336933744896000054790359013050616173905118",
+    "condition_id": "0xcc1ba437f16fd2084fec6b1da10aefc4d908c66592edd784068e653eea647d24",
+    "trade_ts": 1792951797.0,
+    "detected_at": "2026-10-25T18:55:07.943569+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 4115.29000029,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792951719.0,
+    "detected_at": "2026-10-25T18:55:07.943573+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 4995.104499761931,
+    "whale_price": 0.8291882259,
+    "now_price": null,
+    "moved": null,
+    "title": "W75 Saguenay: Reese Brantmeier vs Yuki Naito",
+    "outcome": "Reese Brantmeier",
+    "token_id": "103320503905494947144795368770302017762544118703678548544434090343768265977327",
+    "condition_id": "0x7cb18bd4c1255fea18e36408dee5ce084ae32b4a0849bda78d5a599dc78f919c",
+    "trade_ts": 1792951667.0,
+    "detected_at": "2026-10-25T18:55:07.943576+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "name": "wangyou1288",
+    "side": "BUY",
+    "usdc": 19356.3132,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "115307626956394150385336714364536347449666885744958067673136291850249631141472",
+    "condition_id": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+    "trade_ts": 1792951541.0,
+    "detected_at": "2026-10-25T18:55:07.943579+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 4839.619999872286,
+    "whale_price": 0.4680953427,
+    "now_price": null,
+    "moved": null,
+    "title": "US Lecce vs. Juventus FC: O/U 3.5",
+    "outcome": "Over",
+    "token_id": "75900358984708749690136109558774352816149415940090874053513526804857945818716",
+    "condition_id": "0x16861ae2d66d6eee7da8b6e396f27f4355c53f79394ae65f923945a200876cfa",
+    "trade_ts": 1792951485.0,
+    "detected_at": "2026-10-25T18:55:07.943582+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x1dbf0ac12fc39564bf646b54b6f31de8942f1a6b",
+    "name": "Jugar",
+    "side": "BUY",
+    "usdc": 3663.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "Falcons",
+    "token_id": "53964270837579321506711388093377576472143529066572796063562745329479315410099",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792951356.0,
+    "detected_at": "2026-10-25T18:55:07.943586+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2504.4575998327364,
+    "whale_price": 0.6298177282,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Buccaneers (-8.5)",
+    "outcome": "Buccaneers",
+    "token_id": "63997070310118776259486345651608954800045488967427317972342938066542345900707",
+    "condition_id": "0x6e134b2de866ad4aa3426530d5102fa17e7d7afd6b45815062b6f7215edee4da",
+    "trade_ts": 1792951335.0,
+    "detected_at": "2026-10-25T18:55:07.943589+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2800.0000000000005,
+    "whale_price": 0.56,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Buccaneers (-10.5)",
+    "outcome": "Buccaneers",
+    "token_id": "113109151535396414375376238349007290929344570624232030288619850744218022325994",
+    "condition_id": "0xa8addfce44f39cce16eab5b36e2a4bd2c11a4d82abade7a2633d23696d80f2f8",
+    "trade_ts": 1792951331.0,
+    "detected_at": "2026-10-25T18:55:07.943592+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2017.757,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Buccaneers (-13.5)",
+    "outcome": "Buccaneers",
+    "token_id": "53721735847888225009189367173935633447058758835138170088537086441326650498676",
+    "condition_id": "0xb17e434446cb091fd49a6696dd75382cb45674b21b9877455c4e4ce16003699b",
+    "trade_ts": 1792951310.0,
+    "detected_at": "2026-10-25T18:55:07.943595+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2800.0000000000005,
+    "whale_price": 0.56,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Buccaneers (-9.5)",
+    "outcome": "Buccaneers",
+    "token_id": "36025795118503471069010985260038413223833947299492687307403751954243605843965",
+    "condition_id": "0xff11de2acbfef04e7f1b9dc09c8d5315bdff1da4bea6e7b2ccf74da6789f80e1",
+    "trade_ts": 1792951220.0,
+    "detected_at": "2026-10-25T18:55:07.943598+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2900.0,
+    "whale_price": 0.58,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Buccaneers (-8.5)",
+    "outcome": "Buccaneers",
+    "token_id": "63997070310118776259486345651608954800045488967427317972342938066542345900707",
+    "condition_id": "0x6e134b2de866ad4aa3426530d5102fa17e7d7afd6b45815062b6f7215edee4da",
+    "trade_ts": 1792951212.0,
+    "detected_at": "2026-10-25T18:55:07.943601+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2700.0,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings: O/U 40.5",
+    "outcome": "Under",
+    "token_id": "9155122010818792041744563558541849334695221370462350547795593737391741664729",
+    "condition_id": "0x661d7705b12da0b09886b9e544872f6261df82d04b66bf040f0d52548f6dfbc8",
+    "trade_ts": 1792951172.0,
+    "detected_at": "2026-10-25T18:55:07.943604+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2700.0,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings: O/U 40.5",
+    "outcome": "Under",
+    "token_id": "9155122010818792041744563558541849334695221370462350547795593737391741664729",
+    "condition_id": "0x661d7705b12da0b09886b9e544872f6261df82d04b66bf040f0d52548f6dfbc8",
+    "trade_ts": 1792951172.0,
+    "detected_at": "2026-10-25T18:55:07.943607+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 7437.7685,
+    "whale_price": 0.19,
+    "now_price": null,
+    "moved": null,
+    "title": "Buccaneers vs. Panthers",
+    "outcome": "Panthers",
+    "token_id": "74628329841011909674872704681128884694740504845886408181727145389216018083705",
+    "condition_id": "0xc4ed37df67763741b43c67e51b011504365724339298faa7b4ff4041eb81065c",
+    "trade_ts": 1792951166.0,
+    "detected_at": "2026-10-25T18:55:07.943610+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2700.0,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings: O/U 40.5",
+    "outcome": "Under",
+    "token_id": "9155122010818792041744563558541849334695221370462350547795593737391741664729",
+    "condition_id": "0x661d7705b12da0b09886b9e544872f6261df82d04b66bf040f0d52548f6dfbc8",
+    "trade_ts": 1792951161.0,
+    "detected_at": "2026-10-25T18:55:07.943613+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2700.0,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings: O/U 40.5",
+    "outcome": "Under",
+    "token_id": "9155122010818792041744563558541849334695221370462350547795593737391741664729",
+    "condition_id": "0x661d7705b12da0b09886b9e544872f6261df82d04b66bf040f0d52548f6dfbc8",
+    "trade_ts": 1792951161.0,
+    "detected_at": "2026-10-25T18:55:07.943616+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2750.0,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: 49ers (-3.5)",
+    "outcome": "49ers",
+    "token_id": "2608672040217849753057016145380561694996271391515099082441231610605630546684",
+    "condition_id": "0xbdac75c065ab41bb5f85968cb98b4cdf3cc3bd32f4179bdb102669969a4a44a1",
+    "trade_ts": 1792951098.0,
+    "detected_at": "2026-10-25T18:55:07.943619+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 30000.0,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Lakers (-6.5)",
+    "outcome": "Lakers",
+    "token_id": "114589761465422284193385722544127147371727529118024981248019100988608734129703",
+    "condition_id": "0x3a003a3cf86bffaf8ee1932aa13c308de7b913ecf8098e59f13b906d1ed53829",
+    "trade_ts": 1792950725.0,
+    "detected_at": "2026-10-25T18:55:07.943622+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3350.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "49ers",
+    "token_id": "10652943931944192861732193730292026481606574014596856199352389724191582666163",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792950642.0,
+    "detected_at": "2026-10-25T18:55:07.943624+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3350.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "49ers",
+    "token_id": "10652943931944192861732193730292026481606574014596856199352389724191582666163",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792950639.0,
+    "detected_at": "2026-10-25T18:55:07.943627+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3350.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "49ers",
+    "token_id": "10652943931944192861732193730292026481606574014596856199352389724191582666163",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792950636.0,
+    "detected_at": "2026-10-25T18:55:07.943630+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3350.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "49ers",
+    "token_id": "10652943931944192861732193730292026481606574014596856199352389724191582666163",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792950636.0,
+    "detected_at": "2026-10-25T18:55:07.943633+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3350.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "49ers",
+    "token_id": "10652943931944192861732193730292026481606574014596856199352389724191582666163",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792950558.0,
+    "detected_at": "2026-10-25T18:55:07.943636+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2450.0,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Buccaneers vs. Panthers: O/U 48.5",
+    "outcome": "Under",
+    "token_id": "111936446118640841657759156915730851023687627637262809988961437059728002004809",
+    "condition_id": "0x7b4a073fc5ab0b2c869fbd33f085e17fbfa10a41cef4674936bcd13e7ccdff88",
+    "trade_ts": 1792950287.0,
+    "detected_at": "2026-10-25T18:55:07.943639+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 10666.56,
+    "whale_price": 0.32,
+    "now_price": null,
+    "moved": null,
+    "title": "Giants vs. Texans",
+    "outcome": "Giants",
+    "token_id": "46926610137543864241478406193179361916768466822998393853234572880514683423166",
+    "condition_id": "0xeada9270789da2e8358f7d00c276a42f0551eb3a6be09f08cbe710c75f793e98",
+    "trade_ts": 1792949900.0,
+    "detected_at": "2026-10-25T18:55:07.943642+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 44564.03000036,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Dolphins vs. Jets",
+    "outcome": "Jets",
+    "token_id": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
+    "condition_id": "0x7375d74f6b9d318b9f0cdef5920ecc6163ac6cb58d741c2ef5cae590f0653b26",
+    "trade_ts": 1792949795.0,
+    "detected_at": "2026-10-25T18:55:07.943645+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2656.07,
+    "whale_price": 0.6640175,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Invictus Gaming",
+    "token_id": "74585335571137206686048551414191818609594858103439866114776818775786802886390",
+    "condition_id": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
+    "trade_ts": 1792949793.0,
+    "detected_at": "2026-10-25T18:55:07.943648+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 38140.5999,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "Dolphins vs. Jets",
+    "outcome": "Jets",
+    "token_id": "26308412986171077383906006203876027703641964141555613293088155238275700441642",
+    "condition_id": "0x7375d74f6b9d318b9f0cdef5920ecc6163ac6cb58d741c2ef5cae590f0653b26",
+    "trade_ts": 1792949771.0,
+    "detected_at": "2026-10-25T18:55:07.943651+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2239.999999823374,
+    "whale_price": 0.5510139222,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "90920902319173215756605933747464134593943766171761687265699443620447785465680",
+    "condition_id": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
+    "trade_ts": 1792949492.0,
+    "detected_at": "2026-10-25T18:55:07.943655+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2934.66,
+    "whale_price": 0.59,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Buccaneers (-3.5)",
+    "outcome": "Buccaneers",
+    "token_id": "1484704318063933614015354091358578103244004715253430225770870042113151364449",
+    "condition_id": "0x5471b7fa0a75847ee2c21ebb5b85926bb633bcbaa1c26b404c786658b135a8d8",
+    "trade_ts": 1792949442.0,
+    "detected_at": "2026-10-25T18:55:07.943657+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 3145.4097,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "Real Sociedad de Fútbol vs. Levante UD: O/U 3.5",
+    "outcome": "Under",
+    "token_id": "63133258691845651862188325915113599628652263788862153272185679436060724034071",
+    "condition_id": "0xc212ec25043407a2f78707b5c13695ae1f05fe9b0fc57b0151e727b5500891f8",
+    "trade_ts": 1792949384.0,
+    "detected_at": "2026-10-25T18:55:07.943661+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2550.0,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "Dolphins vs. Jets",
+    "outcome": "Dolphins",
+    "token_id": "19198675040555309543553273746084660469649783173556411899472846193233142502159",
+    "condition_id": "0x7375d74f6b9d318b9f0cdef5920ecc6163ac6cb58d741c2ef5cae590f0653b26",
+    "trade_ts": 1792949297.0,
+    "detected_at": "2026-10-25T18:55:07.943664+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2550.0,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "Dolphins vs. Jets",
+    "outcome": "Dolphins",
+    "token_id": "19198675040555309543553273746084660469649783173556411899472846193233142502159",
+    "condition_id": "0x7375d74f6b9d318b9f0cdef5920ecc6163ac6cb58d741c2ef5cae590f0653b26",
+    "trade_ts": 1792949295.0,
+    "detected_at": "2026-10-25T18:55:07.943666+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 67129.90000026,
+    "whale_price": 0.58,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings",
+    "outcome": "Vikings",
+    "token_id": "94497403776499220583511328275820565305431827313452459848927232066348312125511",
+    "condition_id": "0xd354cde0a6ad3ce336aec61bace74559910ff3bfc4ea89236528b2fb365df870",
+    "trade_ts": 1792949099.0,
+    "detected_at": "2026-10-25T18:55:07.943670+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 5919.9131,
+    "whale_price": 0.73,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "90920902319173215756605933747464134593943766171761687265699443620447785465680",
+    "condition_id": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
+    "trade_ts": 1792949019.0,
+    "detected_at": "2026-10-25T18:55:07.943673+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2679.9999998858825,
+    "whale_price": 0.6799999999,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "90920902319173215756605933747464134593943766171761687265699443620447785465680",
+    "condition_id": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
+    "trade_ts": 1792948926.0,
+    "detected_at": "2026-10-25T18:55:07.943676+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 2533.5300001000005,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings",
+    "outcome": "Vikings",
+    "token_id": "94497403776499220583511328275820565305431827313452459848927232066348312125511",
+    "condition_id": "0xd354cde0a6ad3ce336aec61bace74559910ff3bfc4ea89236528b2fb365df870",
+    "trade_ts": 1792948880.0,
+    "detected_at": "2026-10-25T18:55:07.943679+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2759.9999988889394,
+    "whale_price": 0.6911539308,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "90920902319173215756605933747464134593943766171761687265699443620447785465680",
+    "condition_id": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
+    "trade_ts": 1792948869.0,
+    "detected_at": "2026-10-25T18:55:07.943682+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 3072.6800001300003,
+    "whale_price": 0.39,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Vikings (-3.5)",
+    "outcome": "Vikings",
+    "token_id": "14099152249309719786819495937200544256664293323184363359315480226229488505250",
+    "condition_id": "0x2c3e522564d2dd2c1a9d7aaf4c479614ef5e2d8810ba26e29801d14a5ba58e1c",
+    "trade_ts": 1792948863.0,
+    "detected_at": "2026-10-25T18:55:07.943685+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 7183.6970007114,
+    "whale_price": 0.389945718,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Vikings (-3.5)",
+    "outcome": "Vikings",
+    "token_id": "14099152249309719786819495937200544256664293323184363359315480226229488505250",
+    "condition_id": "0x2c3e522564d2dd2c1a9d7aaf4c479614ef5e2d8810ba26e29801d14a5ba58e1c",
+    "trade_ts": 1792948842.0,
+    "detected_at": "2026-10-25T18:55:07.943688+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 11320.509999025686,
+    "whale_price": 0.4974750018,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Vikings (-2.5)",
+    "outcome": "Vikings",
+    "token_id": "1130187413822933905585879942068026047680488050522947806887032160228260915996",
+    "condition_id": "0x89f0fa863b14a3d3fbcb1408570b56ad21bfaa50c24253e75485565e284f7f56",
+    "trade_ts": 1792948826.0,
+    "detected_at": "2026-10-25T18:55:07.943691+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3800.0,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Titans",
+    "token_id": "2880618343253638272871479473734238559117365865810192982477440984582292736545",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792948707.0,
+    "detected_at": "2026-10-25T18:55:07.943693+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 3800.0,
+    "whale_price": 0.38,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "Falcons",
+    "token_id": "53964270837579321506711388093377576472143529066572796063562745329479315410099",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792948653.0,
+    "detected_at": "2026-10-25T18:55:07.943696+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 8666.58,
+    "whale_price": 0.39,
+    "now_price": null,
+    "moved": null,
+    "title": "49ers vs. Falcons",
+    "outcome": "Falcons",
+    "token_id": "53964270837579321506711388093377576472143529066572796063562745329479315410099",
+    "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+    "trade_ts": 1792948565.0,
+    "detected_at": "2026-10-25T18:55:07.943699+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 68694.23000031,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings",
+    "outcome": "Vikings",
+    "token_id": "94497403776499220583511328275820565305431827313452459848927232066348312125511",
+    "condition_id": "0xd354cde0a6ad3ce336aec61bace74559910ff3bfc4ea89236528b2fb365df870",
+    "trade_ts": 1792948394.0,
+    "detected_at": "2026-10-25T18:55:07.943702+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+    "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+    "side": "BUY",
+    "usdc": 2101.0578,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: DK (-1.5) vs Movistar KOI (+1.5)",
+    "outcome": "Dplus KIA",
+    "token_id": "5427071960398452815868124106805217557063322453651147382942479149582535731004",
+    "condition_id": "0xd93d895c862bb48989e6c5415712d5894086e41b5eec756afc603a75a6aa7618",
+    "trade_ts": 1792948362.0,
+    "detected_at": "2026-10-25T18:55:07.943705+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 74772.15999932999,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Colts vs. Vikings",
+    "outcome": "Vikings",
+    "token_id": "94497403776499220583511328275820565305431827313452459848927232066348312125511",
+    "condition_id": "0xd354cde0a6ad3ce336aec61bace74559910ff3bfc4ea89236528b2fb365df870",
+    "trade_ts": 1792948355.0,
+    "detected_at": "2026-10-25T18:55:07.943708+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x46072f22bc5624f7ff43489d570fdc7e745ad542",
+    "name": "0x46072f22bC5624f7Ff43489d570FDc7e745Ad542-1774720903403",
+    "side": "BUY",
+    "usdc": 5436.559209980126,
+    "whale_price": 0.3987344146,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Real Sociedad de Fútbol win on 2026-10-25? AND Will FC Barcelona win on 2026-10-25?",
+    "outcome": "",
+    "token_id": "1589326850068230591198572865578532140289026894908235804487324736929080016896",
+    "condition_id": "0x038386f146fa584f50ca4e339a387e82c10000000000000000000000000000",
+    "trade_ts": 1792948125.0,
+    "detected_at": "2026-10-25T18:55:07.943711+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 151250.0,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792947755.0,
+    "detected_at": "2026-10-25T18:55:07.943714+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x558f2f82cf0394c28ce3c8e117ee747aeab51a56",
+    "name": "LesterDiamond",
+    "side": "BUY",
+    "usdc": 2284.7849999829,
+    "whale_price": 0.7854193881,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Vikings (-17.5)",
+    "outcome": "Colts",
+    "token_id": "60301674338967655293472239562507117389241434837615542884917349188388500242376",
+    "condition_id": "0xca9fe99e0fbccb8b45bec369a39bdd523f4bf3370925e5bcfa0b3505e0f8f117",
+    "trade_ts": 1792947710.0,
+    "detected_at": "2026-10-25T18:55:07.943717+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 27500.000000000004,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792947596.0,
+    "detected_at": "2026-10-25T18:55:07.943720+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 182381.0749,
+    "whale_price": 0.41,
+    "now_price": null,
+    "moved": null,
+    "title": "Buccaneers vs. Panthers",
+    "outcome": "Buccaneers",
+    "token_id": "46892845728220670287107462308943570199705502885479387753657974620295537306055",
+    "condition_id": "0xc4ed37df67763741b43c67e51b011504365724339298faa7b4ff4041eb81065c",
+    "trade_ts": 1792947588.0,
+    "detected_at": "2026-10-25T18:55:07.943723+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 14418.925099999999,
+    "whale_price": 0.41,
+    "now_price": null,
+    "moved": null,
+    "title": "Buccaneers vs. Panthers",
+    "outcome": "Buccaneers",
+    "token_id": "46892845728220670287107462308943570199705502885479387753657974620295537306055",
+    "condition_id": "0xc4ed37df67763741b43c67e51b011504365724339298faa7b4ff4041eb81065c",
+    "trade_ts": 1792947588.0,
+    "detected_at": "2026-10-25T18:55:07.943726+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 292018.39700000006,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792947578.0,
+    "detected_at": "2026-10-25T18:55:07.943729+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 92981.603,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Browns vs. Titans",
+    "outcome": "Browns",
+    "token_id": "4620080113344970379648706374846042350200548728927938492955991331604293181058",
+    "condition_id": "0x5d3ed1888dabb8a627ac61dcef595dcdf47eae1651796730f860de681a186abd",
+    "trade_ts": 1792947578.0,
+    "detected_at": "2026-10-25T18:55:07.943732+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
