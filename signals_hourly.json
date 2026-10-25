@@ -3133,5 +3133,1829 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "name": "wangyou1288",
+    "side": "BUY",
+    "usdc": 9855.9992,
+    "whale_price": 0.76,
+    "now_price": 0.76,
+    "moved": 0.0,
+    "title": "LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "token_id": "23446750129630730353478406542600806239288234080824168570465134784982770332889",
+    "condition_id": "0xa9d7f76df2b1c7c34ead19da3a35511dc919a22fba75791cdd29bd920b5ad605",
+    "trade_ts": 1792884297.0,
+    "detected_at": "2026-10-25T00:13:26.093178+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 7850.00000013,
+    "whale_price": 0.51,
+    "now_price": 0.54,
+    "moved": 0.058823529411764754,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792885286.0,
+    "detected_at": "2026-10-25T00:13:26.317054+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 51000.0,
+    "whale_price": 0.51,
+    "now_price": 0.54,
+    "moved": 0.058823529411764754,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792885268.0,
+    "detected_at": "2026-10-25T00:13:26.424069+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 6529.4,
+    "whale_price": 0.5,
+    "now_price": 0.54,
+    "moved": 0.08000000000000007,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792885247.0,
+    "detected_at": "2026-10-25T00:13:26.528823+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 34600.81,
+    "whale_price": 0.5,
+    "now_price": 0.54,
+    "moved": 0.08000000000000007,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792885241.0,
+    "detected_at": "2026-10-25T00:13:26.624486+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 99999.99999365458,
+    "whale_price": 0.5025482185,
+    "now_price": 0.54,
+    "moved": 0.07452375736558314,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792884578.0,
+    "detected_at": "2026-10-25T00:13:26.741913+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5533.7883,
+    "whale_price": 0.53,
+    "now_price": 0.001,
+    "moved": -0.9981132075471698,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884107.0,
+    "detected_at": "2026-10-25T00:13:27.021536+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf1c9a36fd5e982f27337a8692c78b2b1b2e3363f",
+    "name": "rookie765",
+    "side": "BUY",
+    "usdc": 9120.0,
+    "whale_price": 0.57,
+    "now_price": 0.001,
+    "moved": -0.9982456140350877,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792883657.0,
+    "detected_at": "2026-10-25T00:13:27.738513+00:00",
+    "returns": {
+      "60": -0.5,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2ce8505aa641791eb8460f6ac6bf5c0511e34527",
+    "name": "0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513",
+    "side": "BUY",
+    "usdc": 5723.4144,
+    "whale_price": 0.48,
+    "now_price": 0.88,
+    "moved": 0.8333333333333334,
+    "title": "Virginia Tech vs. Clemson: O/U 49.5",
+    "outcome": "Under",
+    "token_id": "15664636344047255254997833331186370546635477472332448191875420888087806468103",
+    "condition_id": "0xf04096f5d9abf31d067828e5e7df9708202f3bddefff813d74d7dc3db3ad0874",
+    "trade_ts": 1792882658.0,
+    "detected_at": "2026-10-25T00:13:27.991581+00:00",
+    "returns": {
+      "60": -0.15909090909090912,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 20032.121500375004,
+    "whale_price": 0.8574649335,
+    "now_price": 0.999,
+    "moved": 0.16506222117128716,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792885461.0,
+    "detected_at": "2026-10-25T00:13:28.477321+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 32853.74289940992,
+    "whale_price": 0.755544696,
+    "now_price": 0.999,
+    "moved": 0.3222248866134586,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792885338.0,
+    "detected_at": "2026-10-25T00:13:28.591143+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 5094.6907001792215,
+    "whale_price": 0.7791405077,
+    "now_price": 0.999,
+    "moved": 0.2821820841391225,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792885292.0,
+    "detected_at": "2026-10-25T00:13:28.694745+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 6712.004000000001,
+    "whale_price": 0.26,
+    "now_price": 0.001,
+    "moved": 0.9961538461538462,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "token_id": "59225229592817468606178212478743046517611364269428799861376809985090395332209",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792885233.0,
+    "detected_at": "2026-10-25T00:13:28.803241+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 5726.403500019406,
+    "whale_price": 0.5487831022,
+    "now_price": 0.002,
+    "moved": -0.9963555729176385,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "token_id": "59225229592817468606178212478743046517611364269428799861376809985090395332209",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792882509.0,
+    "detected_at": "2026-10-25T00:13:28.905250+00:00",
+    "returns": {
+      "60": 66.5,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 2876.0715000000005,
+    "whale_price": 0.45,
+    "now_price": 0.998,
+    "moved": -1.2177777777777778,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792882463.0,
+    "detected_at": "2026-10-25T00:13:29.014279+00:00",
+    "returns": {
+      "60": 0.16332665330661325,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 4917.427900000001,
+    "whale_price": 0.77,
+    "now_price": 0.999,
+    "moved": 0.2974025974025974,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792882269.0,
+    "detected_at": "2026-10-25T00:13:29.117837+00:00",
+    "returns": {
+      "60": -0.10410410410410409,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 4868.799199213586,
+    "whale_price": 0.2288337317,
+    "now_price": 0.001,
+    "moved": 0.995630014890851,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "token_id": "59225229592817468606178212478743046517611364269428799861376809985090395332209",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792882262.0,
+    "detected_at": "2026-10-25T00:13:29.229468+00:00",
+    "returns": {
+      "60": -104.0,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 4957.0289,
+    "whale_price": 0.47,
+    "now_price": 0.002,
+    "moved": -0.9957446808510638,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "token_id": "59225229592817468606178212478743046517611364269428799861376809985090395332209",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792881846.0,
+    "detected_at": "2026-10-25T00:13:29.338150+00:00",
+    "returns": {
+      "60": 51.49999999999999,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 4894.217699552818,
+    "whale_price": 0.4600568042,
+    "now_price": 0.002,
+    "moved": -0.9956527107484524,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Gabriel Debru",
+    "token_id": "59225229592817468606178212478743046517611364269428799861376809985090395332209",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792881845.0,
+    "detected_at": "2026-10-25T00:13:29.443174+00:00",
+    "returns": {
+      "60": 51.49999999999999,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 2096.149,
+    "whale_price": 0.58,
+    "now_price": 0.998,
+    "moved": -0.7206896551724139,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792881755.0,
+    "detected_at": "2026-10-25T00:13:29.545392+00:00",
+    "returns": {
+      "60": 0.23346693386773545,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 4012.952000043819,
+    "whale_price": 0.5903335947,
+    "now_price": 0.998,
+    "moved": -0.6905695507760673,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792881744.0,
+    "detected_at": "2026-10-25T00:13:29.652626+00:00",
+    "returns": {
+      "60": 0.23346693386773545,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 3074.862,
+    "whale_price": 0.6,
+    "now_price": 0.998,
+    "moved": -0.6633333333333334,
+    "title": "Fort Worth: Jenson Brooksby vs Gabriel Debru",
+    "outcome": "Jenson Brooksby",
+    "token_id": "91654806167703875024166866153496484514503607001545194494263355738177365695546",
+    "condition_id": "0xc0e062c3334dc997a1c44b56594af3e1e30b145cce1b23d6924afc6d4e452e4b",
+    "trade_ts": 1792881582.0,
+    "detected_at": "2026-10-25T00:13:29.757514+00:00",
+    "returns": {
+      "60": 0.2635270541082164,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 6000.00000033,
+    "whale_price": 0.51,
+    "now_price": 0.49,
+    "moved": -0.03921568627450984,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "76ers",
+    "token_id": "106647056619855688014304644580165701821742502185948043562844834727888379262951",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792884602.0,
+    "detected_at": "2026-10-25T00:13:31.310198+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 5029.0,
+    "whale_price": 0.47,
+    "now_price": 0.48,
+    "moved": 0.02127659574468087,
+    "title": "Wizards vs. Bulls",
+    "outcome": "Wizards",
+    "token_id": "56537132308407216199557790225840729381611207653509422096718502961313005228606",
+    "condition_id": "0x1becab13514c999f7cf2f7605e2008ea4623a29f81ada1df5e2d69bb8d69c322",
+    "trade_ts": 1792883453.0,
+    "detected_at": "2026-10-25T00:13:31.426029+00:00",
+    "returns": {
+      "60": -0.010416666666666676,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 4560.0,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880250.0,
+    "detected_at": "2026-10-25T00:13:47.443125+00:00",
+    "returns": {
+      "60": 0.7535087719298248,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 5916.0,
+    "whale_price": 0.58,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880214.0,
+    "detected_at": "2026-10-25T00:14:03.476674+00:00",
+    "returns": {
+      "60": 0.7232758620689658,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 38400.0,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884171.0,
+    "detected_at": "2026-10-25T00:14:05.170457+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 7317.5569,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884137.0,
+    "detected_at": "2026-10-25T00:14:05.270828+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 41761.605599999995,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884107.0,
+    "detected_at": "2026-10-25T00:14:05.399303+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 9400.0,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884098.0,
+    "detected_at": "2026-10-25T00:14:05.500099+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 76432.409904,
+    "whale_price": 0.4777025619,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884086.0,
+    "detected_at": "2026-10-25T00:14:05.605356+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 55954.1768,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884057.0,
+    "detected_at": "2026-10-25T00:14:05.703777+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 64522.0277,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884044.0,
+    "detected_at": "2026-10-25T00:14:05.803121+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 140442.28899,
+    "whale_price": 0.4681409633,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884029.0,
+    "detected_at": "2026-10-25T00:14:05.909570+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 93796.8448,
+    "whale_price": 0.468984224,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884008.0,
+    "detected_at": "2026-10-25T00:14:06.011697+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 23000.0,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884000.0,
+    "detected_at": "2026-10-25T00:14:06.122078+00:00",
+    "returns": {
+      "60": 1.172826086956522,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 46000.0,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792883984.0,
+    "detected_at": "2026-10-25T00:14:06.229610+00:00",
+    "returns": {
+      "60": 1.172826086956522,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 31074.218202283606,
+    "whale_price": 0.4445073912,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792883951.0,
+    "detected_at": "2026-10-25T00:14:06.331843+00:00",
+    "returns": {
+      "60": 1.2485565364880262,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 25800.0,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792883777.0,
+    "detected_at": "2026-10-25T00:14:06.429559+00:00",
+    "returns": {
+      "60": 1.324418604651163,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 53750.0,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792883774.0,
+    "detected_at": "2026-10-25T00:14:06.543554+00:00",
+    "returns": {
+      "60": 1.324418604651163,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 145914.46320000003,
+    "whale_price": 0.44,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880768.0,
+    "detected_at": "2026-10-25T00:14:22.583705+00:00",
+    "returns": {
+      "60": -0.9988636363636364,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 19756.865999999998,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880330.0,
+    "detected_at": "2026-10-25T00:14:38.590599+00:00",
+    "returns": {
+      "60": -0.9988372093023256,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 51600.0,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880316.0,
+    "detected_at": "2026-10-25T00:14:54.596893+00:00",
+    "returns": {
+      "60": -0.9988372093023256,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 30100.0,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880304.0,
+    "detected_at": "2026-10-25T00:15:10.609564+00:00",
+    "returns": {
+      "60": -0.9988372093023256,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 42658.9004,
+    "whale_price": 0.426589004,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880298.0,
+    "detected_at": "2026-10-25T00:15:26.630811+00:00",
+    "returns": {
+      "60": -0.9988279116542816,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 15350.135099711633,
+    "whale_price": 0.4131225709,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880288.0,
+    "detected_at": "2026-10-25T00:15:42.638329+00:00",
+    "returns": {
+      "60": -0.9987897054404199,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 61859.81339999999,
+    "whale_price": 0.42,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880285.0,
+    "detected_at": "2026-10-25T00:15:58.662307+00:00",
+    "returns": {
+      "60": -0.9988095238095238,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 17203.5024,
+    "whale_price": 0.42,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "22914002862955522308366950728729009103953267491684266727193336545661481260964",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880213.0,
+    "detected_at": "2026-10-25T00:16:14.670488+00:00",
+    "returns": {
+      "60": -0.9988095238095238,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 17011.2094,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884027.0,
+    "detected_at": "2026-10-25T00:16:15.408334+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 11399.999999999998,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880331.0,
+    "detected_at": "2026-10-25T00:16:31.432614+00:00",
+    "returns": {
+      "60": 0.7535087719298248,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 23200.0,
+    "whale_price": 0.58,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880274.0,
+    "detected_at": "2026-10-25T00:16:47.446084+00:00",
+    "returns": {
+      "60": 0.7232758620689658,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "name": "Siddhartha1",
+    "side": "BUY",
+    "usdc": 7214.449199999999,
+    "whale_price": 0.59,
+    "now_price": 0.6,
+    "moved": 0.0169491525423729,
+    "title": "Will FC Barcelona win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "28032922121340574564753529975027027359615112054359670441462060501417320722117",
+    "condition_id": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
+    "trade_ts": 1792881035.0,
+    "detected_at": "2026-10-25T00:16:47.904213+00:00",
+    "returns": {
+      "60": -0.008333333333333342,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa797d6bd8fe6e404bb4d8e4ab3d97c38336fdede",
+    "name": "LonnieHawkins",
+    "side": "BUY",
+    "usdc": 3184.358700055095,
+    "whale_price": 0.7478689545,
+    "now_price": 0.65,
+    "moved": -0.13086377487808928,
+    "title": "Will Club León FC vs. Deportivo Toluca FC end in a draw?",
+    "outcome": "No",
+    "token_id": "68050187672174123615467964320199052855586553622391985420910150589555394201017",
+    "condition_id": "0xa8157090132bd19e21307f9ed90080e844890af6362090100b2917f101d31523",
+    "trade_ts": 1792885469.0,
+    "detected_at": "2026-10-25T00:16:48.268522+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 2750.0,
+    "whale_price": 0.5,
+    "now_price": 0.35,
+    "moved": -0.30000000000000004,
+    "title": "Spread: 76ers (-13.5)",
+    "outcome": "76ers",
+    "token_id": "41376581731345081715654071842554987669393652826330624328924319870867753495238",
+    "condition_id": "0x7d29de09481a383e7b95c25d727af4b514599d526ca24e08c05d3e4c1cb89d1a",
+    "trade_ts": 1792885887.0,
+    "detected_at": "2026-10-25T00:16:48.496997+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 49547.0865,
+    "whale_price": 0.51,
+    "now_price": 0.63,
+    "moved": 0.23529411764705882,
+    "title": "Spread: 76ers (-12.5)",
+    "outcome": "Bucks",
+    "token_id": "91479430532746599086927991518574896264029178764098944112121777860450693866257",
+    "condition_id": "0xca48f69442b4e1dbd12ea301bfd5ae9d6452c0cec403912c05f7fec8b865937b",
+    "trade_ts": 1792885290.0,
+    "detected_at": "2026-10-25T00:16:48.601539+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 7472.88000033,
+    "whale_price": 0.51,
+    "now_price": 0.699,
+    "moved": 0.37058823529411755,
+    "title": "Spread: Heat (-4.5)",
+    "outcome": "Hornets",
+    "token_id": "22881551536127069928054724306259938324655144122968442723396048669649409296186",
+    "condition_id": "0x2c3714040173776c97224ba6d1c76e9f8dcc31085408c1e1f2721035ed1ed29d",
+    "trade_ts": 1792882449.0,
+    "detected_at": "2026-10-25T00:16:49.651584+00:00",
+    "returns": {
+      "60": 0.3962804005722461,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2108.1168,
+    "whale_price": 0.48,
+    "now_price": 0.598,
+    "moved": 0.24583333333333332,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792883444.0,
+    "detected_at": "2026-10-25T00:16:49.878180+00:00",
+    "returns": {
+      "60": -0.6404682274247492,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2289.1344,
+    "whale_price": 0.48,
+    "now_price": 0.598,
+    "moved": 0.24583333333333332,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792883396.0,
+    "detected_at": "2026-10-25T00:16:49.984712+00:00",
+    "returns": {
+      "60": -0.7073578595317725,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 3313.9514999999997,
+    "whale_price": 0.57,
+    "now_price": 0.404,
+    "moved": -0.2912280701754385,
+    "title": "Heat vs. Hornets",
+    "outcome": "Hornets",
+    "token_id": "93533380181100357341199364944266333541971674383324642433175651282474869513332",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792883214.0,
+    "detected_at": "2026-10-25T00:16:50.092110+00:00",
+    "returns": {
+      "60": 1.004950495049505,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 3729.8915,
+    "whale_price": 0.59,
+    "now_price": 0.598,
+    "moved": 0.013559322033898319,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792882623.0,
+    "detected_at": "2026-10-25T00:16:50.199025+00:00",
+    "returns": {
+      "60": -0.9414715719063544,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2499.9775,
+    "whale_price": 0.59,
+    "now_price": 0.598,
+    "moved": 0.013559322033898319,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792882622.0,
+    "detected_at": "2026-10-25T00:16:50.300426+00:00",
+    "returns": {
+      "60": -0.9414715719063544,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2499.995,
+    "whale_price": 0.62,
+    "now_price": 0.598,
+    "moved": -0.03548387096774197,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792882550.0,
+    "detected_at": "2026-10-25T00:16:50.397675+00:00",
+    "returns": {
+      "60": -0.9414715719063544,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2499.995,
+    "whale_price": 0.62,
+    "now_price": 0.598,
+    "moved": -0.03548387096774197,
+    "title": "Heat vs. Hornets",
+    "outcome": "Heat",
+    "token_id": "6049743270164148344786555505836642790803074598545044364312174108991153839970",
+    "condition_id": "0x4630a51d1a38778be0ab9e30d5a13bed6c88ef3220ae1dee70fe96f292362050",
+    "trade_ts": 1792882550.0,
+    "detected_at": "2026-10-25T00:16:50.497854+00:00",
+    "returns": {
+      "60": -0.9414715719063544,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2499.9999998089656,
+    "whale_price": 0.5799999999,
+    "now_price": 0.001,
+    "moved": -0.9982758620686683,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884212.0,
+    "detected_at": "2026-10-25T00:16:51.673531+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "SELL",
+    "usdc": 2947.364,
+    "whale_price": 0.56,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792880382.0,
+    "detected_at": "2026-10-25T00:16:51.788847+00:00",
+    "returns": {
+      "60": 0.02678571428571431,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3000.00000015,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880375.0,
+    "detected_at": "2026-10-25T00:17:07.802158+00:00",
+    "returns": {
+      "60": 0.7535087719298248,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3000.00000015,
+    "whale_price": 0.57,
+    "now_price": 0.001,
+    "moved": -0.9982456140350877,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792880363.0,
+    "detected_at": "2026-10-25T00:17:07.911514+00:00",
+    "returns": {
+      "60": 544.0,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "name": "",
+    "side": "BUY",
+    "usdc": 8322.43899960966,
+    "whale_price": 0.8307983109,
+    "now_price": null,
+    "moved": null,
+    "title": "Tennessee vs. South Carolina",
+    "outcome": "South Carolina",
+    "token_id": "55320613956802806515774904336504519728786148578047879904942054708840923189700",
+    "condition_id": "0xbea43d17be710b3a0de383651ac7a6c6b0e48ca129c854724401b667655602e7",
+    "trade_ts": 1792883262.0,
+    "detected_at": "2026-10-25T00:17:24.580601+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+    "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+    "side": "SELL",
+    "usdc": 4760.700000000001,
+    "whale_price": 0.75,
+    "now_price": 0.75,
+    "moved": -0.0,
+    "title": "LoL: Team Liquid vs Bilibili Gaming (BO1) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "token_id": "23446750129630730353478406542600806239288234080824168570465134784982770332889",
+    "condition_id": "0xa9d7f76df2b1c7c34ead19da3a35511dc919a22fba75791cdd29bd920b5ad605",
+    "trade_ts": 1792887158.0,
+    "detected_at": "2026-10-25T00:17:26.378150+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 6812.76000021,
+    "whale_price": 0.47,
+    "now_price": 0.66,
+    "moved": 0.4042553191489363,
+    "title": "Spread: UTSA (-2.5)",
+    "outcome": "Tulane",
+    "token_id": "101548547871850933197055849616715572883977718788793890014882813737156016635932",
+    "condition_id": "0xffa8fe667030fa6d2f281ee67be4584fce10a8c4c157ef42e76765710262b11f",
+    "trade_ts": 1792886336.0,
+    "detected_at": "2026-10-25T00:17:27.134825+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 8461.38000015,
+    "whale_price": 0.55,
+    "now_price": 0.56,
+    "moved": 0.018181818181818195,
+    "title": "Sporting Kansas City vs. Austin FC: O/U 3.5",
+    "outcome": "Under",
+    "token_id": "32292813710942648263608237975736758953642682563131881603953416406594457259810",
+    "condition_id": "0x3d3d6f0d959595b341b6156afe3346ed0e74aa89cf6e9768c0083e389f7d448d",
+    "trade_ts": 1792885485.0,
+    "detected_at": "2026-10-25T00:17:27.234437+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 5840.1700002,
+    "whale_price": 0.54,
+    "now_price": 0.56,
+    "moved": 0.03703703703703707,
+    "title": "Sporting Kansas City vs. Austin FC: O/U 3.5",
+    "outcome": "Under",
+    "token_id": "32292813710942648263608237975736758953642682563131881603953416406594457259810",
+    "condition_id": "0x3d3d6f0d959595b341b6156afe3346ed0e74aa89cf6e9768c0083e389f7d448d",
+    "trade_ts": 1792885455.0,
+    "detected_at": "2026-10-25T00:17:27.334749+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 3060.8900001,
+    "whale_price": 0.54,
+    "now_price": 0.56,
+    "moved": 0.03703703703703707,
+    "title": "Sporting Kansas City vs. Austin FC: O/U 3.5",
+    "outcome": "Under",
+    "token_id": "32292813710942648263608237975736758953642682563131881603953416406594457259810",
+    "condition_id": "0x3d3d6f0d959595b341b6156afe3346ed0e74aa89cf6e9768c0083e389f7d448d",
+    "trade_ts": 1792885445.0,
+    "detected_at": "2026-10-25T00:17:27.436764+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 25740.4700005473,
+    "whale_price": 0.5096819991,
+    "now_price": 0.53,
+    "moved": 0.039864073943905586,
+    "title": "Steelers vs. Saints: O/U 44.5",
+    "outcome": "Under",
+    "token_id": "104126468026072617362497811412384184436384452019189917685719060848234399473961",
+    "condition_id": "0xf1c0d24c097f6ad7004302ecfa27d3b7ad922e768548bdfbfc6b84d79a5cd9b3",
+    "trade_ts": 1792880073.0,
+    "detected_at": "2026-10-25T00:17:27.543644+00:00",
+    "returns": {
+      "60": -0.009433962264150952,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 62381.87000007,
+    "whale_price": 0.51,
+    "now_price": 0.53,
+    "moved": 0.03921568627450984,
+    "title": "Steelers vs. Saints: O/U 44.5",
+    "outcome": "Under",
+    "token_id": "104126468026072617362497811412384184436384452019189917685719060848234399473961",
+    "condition_id": "0xf1c0d24c097f6ad7004302ecfa27d3b7ad922e768548bdfbfc6b84d79a5cd9b3",
+    "trade_ts": 1792880073.0,
+    "detected_at": "2026-10-25T00:17:27.650356+00:00",
+    "returns": {
+      "60": -0.009433962264150952,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0df2c9deeb278ade65454023eca05cdcaa025d51",
+    "name": "Ksi172",
+    "side": "BUY",
+    "usdc": 3083.9586,
+    "whale_price": 0.58,
+    "now_price": 0.3,
+    "moved": -0.48275862068965514,
+    "title": "Will Atlanta United FC win on 2026-10-24?",
+    "outcome": "Yes",
+    "token_id": "29692394660205943514397457745494707337439185948706611568576364488886033835394",
+    "condition_id": "0x63d77a6f6bb92a038fb01e618571ce59fa4d520f60a3cf7f9296298b6d37c56b",
+    "trade_ts": 1792885682.0,
+    "detected_at": "2026-10-25T00:17:29.351045+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0df2c9deeb278ade65454023eca05cdcaa025d51",
+    "name": "Ksi172",
+    "side": "BUY",
+    "usdc": 2186.6567999999997,
+    "whale_price": 0.57,
+    "now_price": 0.3,
+    "moved": -0.47368421052631576,
+    "title": "Will Atlanta United FC win on 2026-10-24?",
+    "outcome": "Yes",
+    "token_id": "29692394660205943514397457745494707337439185948706611568576364488886033835394",
+    "condition_id": "0x63d77a6f6bb92a038fb01e618571ce59fa4d520f60a3cf7f9296298b6d37c56b",
+    "trade_ts": 1792885658.0,
+    "detected_at": "2026-10-25T00:17:29.456189+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x1dbf0ac12fc39564bf646b54b6f31de8942f1a6b",
+    "name": "Jugar",
+    "side": "BUY",
+    "usdc": 2352.0,
+    "whale_price": 0.35,
+    "now_price": null,
+    "moved": null,
+    "title": "Texas A&M vs. Alabama",
+    "outcome": "Texas A&M",
+    "token_id": "54613023649200079622277674281088882847031804793928203893870883759047245124445",
+    "condition_id": "0x6ad17b1df348defae614e24381f6e53e98c8ae092c029a120bf0ce71b7658383",
+    "trade_ts": 1792880090.0,
+    "detected_at": "2026-10-25T00:17:46.285693+00:00",
+    "returns": {
+      "60": -0.9985714285714286,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2414.0969496582784,
+    "whale_price": 0.2883214042,
+    "now_price": null,
+    "moved": null,
+    "title": "O'Higgins FC vs. CD Cobresal: O/U 2.5 AND América de Cali vs. Cúcuta Deportivo FC: O/U 4.5",
+    "outcome": "",
+    "token_id": "1366950469996248353130740639009064459264915199472391945583487216007361069056",
+    "condition_id": "0x0305aaa2e8f2942b67d7bbb86db3eb8f4c0000000000000000000000000000",
+    "trade_ts": 1792886781.0,
+    "detected_at": "2026-10-25T00:18:02.447925+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 4000.000000207194,
+    "whale_price": 0.6223149601,
+    "now_price": 0.539,
+    "moved": -0.13387908927436365,
+    "title": "Spread: Heat (-1.5)",
+    "outcome": "Heat",
+    "token_id": "109490279706823050139854789229820557695889958452777190695400519393955510770162",
+    "condition_id": "0x5bc5f8c484a8ac50ceff81b4b8b46c31b3194e27d21d9f4ef375299cef86b709",
+    "trade_ts": 1792881866.0,
+    "detected_at": "2026-10-25T00:18:02.555854+00:00",
+    "returns": {
+      "60": -0.8608534322820037,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2306.2600001600003,
+    "whale_price": 0.46,
+    "now_price": 0.46,
+    "moved": 0.0,
+    "title": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
+    "outcome": "MOUZ",
+    "token_id": "90338230544232330475078106003388842977357666900906127074223662737358520849369",
+    "condition_id": "0x9e4d7890b00a9ed359f99708e5be49d526f7f9313fab36fbacc4146b883419d8",
+    "trade_ts": 1792884237.0,
+    "detected_at": "2026-10-25T00:18:03.209672+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 5898.74,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "Dplus KIA",
+    "token_id": "73671766847733039924808986444978424765133487283741169069359765240728527044547",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792883766.0,
+    "detected_at": "2026-10-25T00:18:03.308554+00:00",
+    "returns": {
+      "60": 1.324418604651163,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 4160.7279,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792881311.0,
+    "detected_at": "2026-10-25T00:18:21.455233+00:00",
+    "returns": {
+      "60": 0.5865079365079365,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 2128.1892000000003,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792881174.0,
+    "detected_at": "2026-10-25T00:18:37.469554+00:00",
+    "returns": {
+      "60": 0.4698529411764706,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2450.0,
+    "whale_price": 0.49,
+    "now_price": 0.99,
+    "moved": 1.0204081632653061,
+    "title": "Spread: Hornets (-12.5)",
+    "outcome": "Heat",
+    "token_id": "23098905398016313555261393826358057428805641451730414348360956643213630252988",
+    "condition_id": "0x529f23239357e3c875ae5d52d5e44ddd2719d34798ac4c1d250a4a6e811150d6",
+    "trade_ts": 1792885166.0,
+    "detected_at": "2026-10-25T00:18:38.233689+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2450.0,
+    "whale_price": 0.49,
+    "now_price": 0.99,
+    "moved": 1.0204081632653061,
+    "title": "Spread: Hornets (-12.5)",
+    "outcome": "Heat",
+    "token_id": "23098905398016313555261393826358057428805641451730414348360956643213630252988",
+    "condition_id": "0x529f23239357e3c875ae5d52d5e44ddd2719d34798ac4c1d250a4a6e811150d6",
+    "trade_ts": 1792885164.0,
+    "detected_at": "2026-10-25T00:18:38.331491+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3750.0,
+    "whale_price": 0.75,
+    "now_price": 0.001,
+    "moved": -0.9986666666666667,
+    "title": "BYU vs. UCF",
+    "outcome": "BYU",
+    "token_id": "69438966607275696866982185423883634380732561790747798901885925809499869187851",
+    "condition_id": "0xf23d240852b8951a5f750ca025ebe07db3d06fbb2a1831c25cc837cf52c486d1",
+    "trade_ts": 1792884231.0,
+    "detected_at": "2026-10-25T00:18:38.438211+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3750.0,
+    "whale_price": 0.75,
+    "now_price": 0.001,
+    "moved": -0.9986666666666667,
+    "title": "BYU vs. UCF",
+    "outcome": "BYU",
+    "token_id": "69438966607275696866982185423883634380732561790747798901885925809499869187851",
+    "condition_id": "0xf23d240852b8951a5f750ca025ebe07db3d06fbb2a1831c25cc837cf52c486d1",
+    "trade_ts": 1792884231.0,
+    "detected_at": "2026-10-25T00:18:38.539506+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3600.62,
+    "whale_price": 0.82,
+    "now_price": 0.001,
+    "moved": -0.998780487804878,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792885502.0,
+    "detected_at": "2026-10-25T00:18:38.767381+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3850.0,
+    "whale_price": 0.77,
+    "now_price": 0.001,
+    "moved": -0.9987012987012986,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792885088.0,
+    "detected_at": "2026-10-25T00:18:38.867189+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2614.568400034082,
+    "whale_price": 0.8429496178,
+    "now_price": 0.001,
+    "moved": -0.9988136894793191,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792885035.0,
+    "detected_at": "2026-10-25T00:18:38.971171+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2395.0566000000003,
+    "whale_price": 0.81,
+    "now_price": 0.001,
+    "moved": -0.9987654320987654,
+    "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+    "condition_id": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+    "trade_ts": 1792884915.0,
+    "detected_at": "2026-10-25T00:18:39.067298+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2275.5384,
+    "whale_price": 0.72,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792881563.0,
+    "detected_at": "2026-10-25T00:18:55.093064+00:00",
+    "returns": {
+      "60": 0.38819444444444456,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3200.0,
+    "whale_price": 0.64,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792881249.0,
+    "detected_at": "2026-10-25T00:19:11.141002+00:00",
+    "returns": {
+      "60": 0.56171875,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2398.73200001735,
+    "whale_price": 0.7385667925,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792881138.0,
+    "detected_at": "2026-10-25T00:19:27.156054+00:00",
+    "returns": {
+      "60": 0.35329669591122326,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3199.9999998335893,
+    "whale_price": 0.6495169623,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+    "condition_id": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+    "trade_ts": 1792880946.0,
+    "detected_at": "2026-10-25T00:19:43.170505+00:00",
+    "returns": {
+      "60": 0.538835870368462,
+      "240": null
+    }
   }
 ]
