@@ -62,6 +62,26 @@ class StoredFinalReturnTest(unittest.TestCase):
         self.assertIsNone(pm_lab.stored_final_return({}, 240))
 
 
+class ResolutionReturnTest(unittest.TestCase):
+    def test_buy_win(self):
+        self.assertAlmostEqual(pm_lab.resolution_return("BUY", 0.4, 1.0), 1.5)
+
+    def test_buy_loss(self):
+        self.assertAlmostEqual(pm_lab.resolution_return("BUY", 0.4, 0.0), -1.0)
+
+    def test_sell_win(self):
+        self.assertAlmostEqual(pm_lab.resolution_return("SELL", 0.4, 0.0), 1.0)
+
+    def test_sell_loss(self):
+        self.assertAlmostEqual(pm_lab.resolution_return("SELL", 0.4, 1.0), -1.5)
+
+    def test_open_market_is_none(self):
+        self.assertIsNone(pm_lab.resolution_return("BUY", 0.4, None))
+
+    def test_thin_entry_is_none(self):
+        self.assertIsNone(pm_lab.resolution_return("BUY", 0.001, 1.0))
+
+
 class HorizonStatusTest(unittest.TestCase):
     NOW = 1_800_000_000.0
 

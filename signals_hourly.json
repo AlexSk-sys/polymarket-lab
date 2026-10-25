@@ -5278,7 +5278,7 @@
     "detected_at": "2026-10-25T05:56:57.022690+00:00",
     "returns": {
       "60": 0.013157894736842117,
-      "240": null
+      "240": 0.14473684210526314
     }
   },
   {
@@ -5524,7 +5524,7 @@
     "trade_ts": 1792917666.0,
     "detected_at": "2026-10-25T09:20:27.055696+00:00",
     "returns": {
-      "60": null,
+      "60": -0.013157894736842117,
       "240": null
     }
   },
@@ -5543,7 +5543,7 @@
     "trade_ts": 1792917654.0,
     "detected_at": "2026-10-25T09:20:27.161681+00:00",
     "returns": {
-      "60": null,
+      "60": -0.008064516129032265,
       "240": null
     }
   },
@@ -5752,7 +5752,7 @@
     "trade_ts": 1792918019.0,
     "detected_at": "2026-10-25T09:21:29.105940+00:00",
     "returns": {
-      "60": null,
+      "60": -0.011904761904761916,
       "240": null
     }
   },
@@ -5809,7 +5809,7 @@
     "trade_ts": 1792919808.0,
     "detected_at": "2026-10-25T09:21:49.279112+00:00",
     "returns": {
-      "60": null,
+      "60": 0.9221153846153847,
       "240": null
     }
   },
@@ -5828,7 +5828,7 @@
     "trade_ts": 1792919736.0,
     "detected_at": "2026-10-25T09:21:49.387519+00:00",
     "returns": {
-      "60": null,
+      "60": 0.9221153846153847,
       "240": null
     }
   },
@@ -5847,7 +5847,7 @@
     "trade_ts": 1792919399.0,
     "detected_at": "2026-10-25T09:21:49.493599+00:00",
     "returns": {
-      "60": null,
+      "60": 0.9221153846153847,
       "240": null
     }
   },
@@ -5980,7 +5980,7 @@
     "trade_ts": 1792919775.0,
     "detected_at": "2026-10-25T09:23:29.530228+00:00",
     "returns": {
-      "60": null,
+      "60": 0.9990000000000001,
       "240": null
     }
   },
@@ -6018,7 +6018,7 @@
     "trade_ts": 1792920845.0,
     "detected_at": "2026-10-25T09:34:34.720862+00:00",
     "returns": {
-      "60": null,
+      "60": -0.00980392156862746,
       "240": null
     }
   },
@@ -6037,7 +6037,7 @@
     "trade_ts": 1792920755.0,
     "detected_at": "2026-10-25T09:34:34.835192+00:00",
     "returns": {
-      "60": null,
+      "60": -0.00980392156862746,
       "240": null
     }
   },
@@ -6054,7 +6054,11 @@
     "token_id": "1670540294200373297753702020233513080949081005391326646076247917520660463616",
     "condition_id": "0x03b17e075799e4f1f77aa6551487a297510000000000000000000000000000",
     "trade_ts": 1792921527.0,
-    "detected_at": "2026-10-25T09:47:35.274437+00:00"
+    "detected_at": "2026-10-25T09:47:35.274437+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   },
   {
     "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
@@ -6069,7 +6073,11 @@
     "token_id": "1768432340306789447489280448638109850199619644881311243747600764100671438848",
     "condition_id": "0x03e8e5b1232cf871bdf6d86945467e620d0000000000000000000000000000",
     "trade_ts": 1792921331.0,
-    "detected_at": "2026-10-25T09:47:51.269073+00:00"
+    "detected_at": "2026-10-25T09:47:51.269073+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   },
   {
     "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
@@ -6084,6 +6092,276 @@
     "token_id": "76951175440722833990292511496367112266240891498042261009497282378189178789157",
     "condition_id": "0x85b1a99b2f2f2fbdd04383cebe5df8c6dd96a6f1ec1ef3c85d08b0878f0727cd",
     "trade_ts": 1792921971.0,
-    "detected_at": "2026-10-25T09:54:00.574379+00:00"
+    "detected_at": "2026-10-25T09:54:00.574379+00:00",
+    "returns": {
+      "60": -0.008333333333333342,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 2582.94,
+    "whale_price": 0.5,
+    "now_price": 0.53,
+    "moved": 0.06000000000000005,
+    "title": "Counter-Strike: Vitality vs TheMongolz - Map 1 Winner",
+    "outcome": "TheMongolz",
+    "token_id": "20671266299146082799393233088259478285829080421568862661612508999208855551924",
+    "condition_id": "0x62de3ccfc48532937a58b3f2d0a048dd80126490c87d59b5812b73dc2bb3d993",
+    "trade_ts": 1792922459.0,
+    "detected_at": "2026-10-25T10:02:04.426578+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 10876.684199854411,
+    "whale_price": 0.2594068219,
+    "now_price": 0.34,
+    "moved": 0.3106825699867998,
+    "title": "Will the Democratic Party win the NC-13 House seat?",
+    "outcome": "Yes",
+    "token_id": "43573811958134755182642947255911309025499769388110668035346945826380129761955",
+    "condition_id": "0xf8a4a549f0937ec98b00be5f260f5688e85fe8d3bad51d2664106203f3e07e32",
+    "trade_ts": 1792922555.0,
+    "detected_at": "2026-10-25T10:12:17.028254+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 4839.59930062588,
+    "whale_price": 0.299246276,
+    "now_price": 0.35,
+    "moved": 0.16960519836176677,
+    "title": "Will the Democratic Party win the NC-09 House seat?",
+    "outcome": "Yes",
+    "token_id": "19487052203651431192481379552438807185630235920667385514559604134738032022407",
+    "condition_id": "0xdc23b5a54616abf57d7f89f57a29dbacc0d836ab6f3994f5533c8c41ba929ebb",
+    "trade_ts": 1792922555.0,
+    "detected_at": "2026-10-25T10:12:17.115851+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 2901.095039877127,
+    "whale_price": 0.3181542869,
+    "now_price": null,
+    "moved": null,
+    "title": "Sunderland AFC vs. Leeds United FC: O/U 9.5 Total Corners AND TSG 1899 Hoffenheim vs. Bayer 04 Leverkusen: O/U 9.5 Total Corners",
+    "outcome": "",
+    "token_id": "1553998235999204599610290186897486437809572558530858680885310383136985579520",
+    "condition_id": "0x036f882626b8bf6d7e35efe8f54efc281e0000000000000000000000000000",
+    "trade_ts": 1792922996.0,
+    "detected_at": "2026-10-25T10:12:35.080648+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3717.7515000000003,
+    "whale_price": 0.45,
+    "now_price": 0.43,
+    "moved": -0.04444444444444448,
+    "title": "Dota 2: Team Liquid vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "token_id": "31753622330084498945369696778309177440155130470422822881680061214524213984696",
+    "condition_id": "0xedda0dda472b3925cbf7c2bd64a515b0dda56c89bed7b19fb6a6a70640a3c477",
+    "trade_ts": 1792924355.0,
+    "detected_at": "2026-10-25T10:34:29.712736+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2540.043,
+    "whale_price": 0.45,
+    "now_price": 0.43,
+    "moved": -0.04444444444444448,
+    "title": "Dota 2: Team Liquid vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "token_id": "31753622330084498945369696778309177440155130470422822881680061214524213984696",
+    "condition_id": "0xedda0dda472b3925cbf7c2bd64a515b0dda56c89bed7b19fb6a6a70640a3c477",
+    "trade_ts": 1792924167.0,
+    "detected_at": "2026-10-25T10:34:29.831290+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2378.103,
+    "whale_price": 0.62,
+    "now_price": 0.62,
+    "moved": 0.0,
+    "title": "Will SBV Excelsior win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "102429510141170566646694902997979718017706742412476937400193015116127049427539",
+    "condition_id": "0x570e6c3d72807705a425ed9c48580383502da76dad12090e067d02ee26205dd8",
+    "trade_ts": 1792924145.0,
+    "detected_at": "2026-10-25T10:34:30.031788+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2523.0600000199997,
+    "whale_price": 0.47,
+    "now_price": 0.43,
+    "moved": -0.08510638297872336,
+    "title": "Dota 2: Team Liquid vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "token_id": "31753622330084498945369696778309177440155130470422822881680061214524213984696",
+    "condition_id": "0xedda0dda472b3925cbf7c2bd64a515b0dda56c89bed7b19fb6a6a70640a3c477",
+    "trade_ts": 1792924119.0,
+    "detected_at": "2026-10-25T10:34:30.317827+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 4126.59000019,
+    "whale_price": 0.41,
+    "now_price": 0.43,
+    "moved": 0.04878048780487809,
+    "title": "Dota 2: Team Liquid vs OG - Game 2 Winner",
+    "outcome": "OG",
+    "token_id": "31753622330084498945369696778309177440155130470422822881680061214524213984696",
+    "condition_id": "0xedda0dda472b3925cbf7c2bd64a515b0dda56c89bed7b19fb6a6a70640a3c477",
+    "trade_ts": 1792924091.0,
+    "detected_at": "2026-10-25T10:34:30.692675+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4049.9999999192087,
+    "whale_price": 0.8647323917,
+    "now_price": 0.87,
+    "moved": 0.006091605160810756,
+    "title": "Dota 2: Team Liquid vs OG - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "30713567999138773910071877820252920367472250191304614228777758876009063950345",
+    "condition_id": "0xedda0dda472b3925cbf7c2bd64a515b0dda56c89bed7b19fb6a6a70640a3c477",
+    "trade_ts": 1792925250.0,
+    "detected_at": "2026-10-25T10:48:01.684444+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4050.000000073529,
+    "whale_price": 0.8499999999,
+    "now_price": 0.87,
+    "moved": 0.02352941188512114,
+    "title": "Dota 2: Team Liquid vs OG - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "30713567999138773910071877820252920367472250191304614228777758876009063950345",
+    "condition_id": "0xedda0dda472b3925cbf7c2bd64a515b0dda56c89bed7b19fb6a6a70640a3c477",
+    "trade_ts": 1792925216.0,
+    "detected_at": "2026-10-25T10:48:01.930294+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 41024.6,
+    "whale_price": 0.5,
+    "now_price": 0.5,
+    "moved": 0.0,
+    "title": "Spread: FC Internazionale Milano (-1.5)",
+    "outcome": "FC Internazionale Milano",
+    "token_id": "51323690138427645148240117005886900256787895145583957389072090384745173522587",
+    "condition_id": "0x77078291310f08419d5b017fc742519f1349a9ef88f3e785a7ada93ae42f84f9",
+    "trade_ts": 1792924799.0,
+    "detected_at": "2026-10-25T10:48:06.491676+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 5419.71,
+    "whale_price": 0.5,
+    "now_price": 0.51,
+    "moved": 0.020000000000000018,
+    "title": "FC Internazionale Milano vs. ACF Fiorentina: O/U 3.5",
+    "outcome": "Over",
+    "token_id": "106115084879342355040552631945410417827805435981095635340791876469481039346022",
+    "condition_id": "0x0fedddb87bbd3651d04c40fd7cee3f5a5aa665466dfaf28ffa52b9552535e35b",
+    "trade_ts": 1792924748.0,
+    "detected_at": "2026-10-25T10:48:08.059427+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 7598.380999999999,
+    "whale_price": 0.35,
+    "now_price": 0.36,
+    "moved": 0.0285714285714286,
+    "title": "Counter-Strike: BetBoom Team vs Nemiga - Map 2 Winner",
+    "outcome": "Nemiga",
+    "token_id": "54572330981617575849748443996089181629001034518747652137837245795478959890327",
+    "condition_id": "0xd86dc563f63534ca7fdb2379f57decc06029df24e6d64a237e3c300390390ae0",
+    "trade_ts": 1792925066.0,
+    "detected_at": "2026-10-25T10:53:21.377795+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]

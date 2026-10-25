@@ -11,7 +11,13 @@ REM 72h replay +7.8% at 60s, +8.9% at 5m, +2.3% at the old ~30m lag.
 REM This task only scores, renders and plots.
 REM ===================================================================
 
+REM broad research scan once an hour; the 5-minute strategy capture is separate
+".venv\Scripts\python.exe" pm_lab.py signals --watch watch_big.json --min-usdc 2000 --min-price 0.10 --max-price 0.90 --max-age 7200 --live-age 3600 --max-new 200 --append --out signals_hourly.json
+
 ".venv\Scripts\python.exe" pm_lab.py evaluate signals_hourly.json --horizons 60,240 --write-back --one-per-market --max-adverse-move 0.02
+
+REM hold-to-resolution strategy: selected wallets, final 0/1 payout
+".venv\Scripts\python.exe" pm_lab.py resolve signals_selected.json --write-back
 
 REM refresh the live dashboard payload (the open page polls it every 30 s)
 ".venv\Scripts\python.exe" pm_lab.py dashboard --stake 20 --one-per-market --max-adverse-move 0.02

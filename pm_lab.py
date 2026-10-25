@@ -607,6 +607,7 @@ def cmd_signals(args) -> int:
         state = json.loads(state_path.read_text(encoding="utf-8"))
 
     fresh: list[dict] = []
+    candidates: list[tuple[float, str, dict, float, float, str]] = []
     now_ts = time.time()
     floor = now_ts - args.max_age
     for w in wallets:
@@ -636,32 +637,49 @@ def cmd_signals(args) -> int:
             if not (args.min_price <= price <= args.max_price):
                 continue
             side = t.get("side") or "BUY"
-            now = book_price(t.get("token_id") or "", side)
-            slip = None
-            if now and price > 0:
-                slip = (now["price"] - price) / price
-                if side == "SELL":
-                    slip = -slip
-            fresh.append(
-                {
-                    "wallet": w,
-                    "name": t.get("name") or t.get("pseudonym") or "",
-                    "side": side,
-                    "usdc": usdc,
-                    "whale_price": price,
-                    "now_price": now["price"] if now else None,
-                    "moved": slip,
-                    "title": t.get("title") or "",
-                    "outcome": t.get("outcome") or "",
-                    "token_id": t.get("token_id") or "",
-                    "condition_id": t.get("condition_id") or "",
-                    "trade_ts": ts,
-                    "detected_at": datetime.now(UTC).isoformat(),
-                }
-            )
+            candidates.append((ts, w, t, price, usdc, side))
         state[w] = newest
 
     state_path.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+    # The book lookup is one CLOB request per candidate, and a 24h catch-up can
+    # produce hundreds. Keep the newest ones: the state is already advanced, so
+    # a slow run can never loop forever with the same backlog.
+    candidates.sort(key=lambda c: c[0], reverse=True)
+    cap = args.max_new if args.max_new > 0 else len(candidates)
+    for ts, w, t, price, usdc, side in candidates[:cap]:
+        # A backfill entry is stale: the book no longer shows the price that was
+        # available then, and pricing 24h of trades one CLOB request at a time
+        # made the 5-minute task run for a quarter of an hour. Only live trades
+        # get a book price; older rows are recorded without an executable entry.
+        now = None
+        if now_ts - ts <= args.live_age:
+            now = book_price(t.get("token_id") or "", side)
+        slip = None
+        if now and price > 0:
+            slip = (now["price"] - price) / price
+            if side == "SELL":
+                slip = -slip
+        fresh.append(
+            {
+                "wallet": w,
+                "name": t.get("name") or t.get("pseudonym") or "",
+                "side": side,
+                "usdc": usdc,
+                "whale_price": price,
+                "now_price": now["price"] if now else None,
+                "moved": slip,
+                "title": t.get("title") or "",
+                "outcome": t.get("outcome") or "",
+                "token_id": t.get("token_id") or "",
+                "condition_id": t.get("condition_id") or "",
+                "trade_ts": ts,
+                "detected_at": datetime.now(UTC).isoformat(),
+            }
+        )
+
+    if args.require_book:
+        fresh = [s for s in fresh if s.get("now_price") is not None]
 
     if args.json:
         print(json.dumps(fresh, indent=2))
@@ -907,6 +925,56 @@ def make_lookup(series: list[tuple[float, float]]):
 # rows of +544% and -104% and inflated the 60m mean to +862%. Below this price a
 # row is left unscored instead of inventing a number.
 MIN_EVALUABLE_ENTRY = 0.02
+
+
+def resolution_return(
+    side: str | None,
+    entry: float | None,
+    payout: float | None,
+    min_entry: float = MIN_EVALUABLE_ENTRY,
+) -> float | None:
+    """Return from entry to the market's final 0/1 payout.
+
+    None means "not resolved yet" or "no executable entry", never zero.
+    """
+    if payout is None or entry is None or entry < min_entry:
+        return None
+    sign = 1.0 if (side or "BUY") == "BUY" else -1.0
+    return sign * (payout - entry) / entry
+
+
+RESOLUTION_CACHE = Path(".resolution_cache.json")
+
+
+def load_resolution_cache(path: Path = RESOLUTION_CACHE) -> dict:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def save_resolution_cache(cache: dict, path: Path = RESOLUTION_CACHE) -> None:
+    path.write_text(json.dumps(cache, ensure_ascii=False), encoding="utf-8")
+
+
+def fetch_resolution(condition_id: str, cache: dict) -> dict | None:
+    """Closed markets are final and cached forever; open ones are re-read."""
+    hit = cache.get(condition_id)
+    if hit and hit.get("closed"):
+        return hit
+    try:
+        market = api_get(f"{CLOB}/markets/{condition_id}", {})
+    except RuntimeError:
+        return hit
+    tokens = {}
+    for t in market.get("tokens") or []:
+        tokens[t.get("token_id") or ""] = {
+            "winner": bool(t.get("winner")),
+            "outcome": t.get("outcome") or "",
+        }
+    rec = {"closed": bool(market.get("closed")), "tokens": tokens}
+    cache[condition_id] = rec
+    return rec
 
 
 def entry_price(signal: dict) -> float | None:
@@ -3120,6 +3188,126 @@ def cmd_evaluate(args) -> int:
 # ---------------------------------------------------------------------------
 
 
+def cmd_resolve(args) -> int:
+    """Fill in final 0/1 outcomes and the hold-to-resolution return.
+
+    Closed markets are cached forever; open ones are re-read on the next run.
+    This is the only horizon where a copy-trade thesis has time to play out:
+    the 60m exit is mostly noise.
+    """
+    if not Path(args.signals).exists():
+        print(f"{args.signals}: no file yet")
+        return 0
+    signals = json.loads(Path(args.signals).read_text(encoding="utf-8"))
+    cache = load_resolution_cache(Path(args.cache))
+    changed = 0
+    for s in signals:
+        cid = s.get("condition_id")
+        if not cid:
+            continue
+        rec = fetch_resolution(cid, cache) or {}
+        token = (rec.get("tokens") or {}).get(s.get("token_id") or "")
+        payout = None
+        if rec.get("closed") and token is not None:
+            payout = 1.0 if token.get("winner") else 0.0
+        ret = resolution_return(s.get("side"), entry_price(s), payout)
+        if s.get("resolution") != payout or (s.get("returns") or {}).get("res") != ret:
+            changed += 1
+        s["resolution"] = payout
+        s.setdefault("returns", {})["res"] = ret
+    save_resolution_cache(cache, Path(args.cache))
+
+    closed = [s for s in signals if s.get("resolution") is not None]
+    open_rows = [s for s in signals if s.get("resolution") is None]
+    scored = [s for s in closed if (s.get("returns") or {}).get("res") is not None]
+    picked = strategy_rows(scored, args.max_adverse_move, True)
+    vals = [s["returns"]["res"] for s in picked]
+    print(
+        f"{args.signals}: {len(signals)} signals, "
+        f"{len(closed)} resolved, {len(open_rows)} open"
+    )
+    if args.write_back:
+        Path(args.signals).write_text(
+            json.dumps(signals, indent=2, ensure_ascii=False), encoding="utf-8"
+        )
+        print(f"  written back ({changed} changed)")
+    if len(vals) < 2:
+        print(
+            f"  hold to resolution: {len(vals)} resolved markets, not enough to judge"
+        )
+        return 0
+    st = _stats(vals)
+    n, mean, se = st
+    vals_sorted = sorted(vals)
+    win = sum(1 for v in vals if v > 0) / n
+    print(
+        f"  hold to resolution, one per market, no-chase: n={n} "
+        f"mean={fpct(mean)} median={fpct(vals_sorted[n // 2])} win={win:.1%} "
+        f"SE={fpct(se)} t={mean / se:+.2f} P&L=${mean * n * args.stake:+,.2f}"
+    )
+    return 0
+
+
+def cmd_select(args) -> int:
+    """Rank wallets by their closed hold-to-resolution record and write a watchlist.
+
+    Selection uses only outcomes that were already decided, so the weeks that
+    follow are out of sample for the ranking. `--min-events` is the guard
+    against a 2-3 trade fluke: on the month of history, 5+ events gave +33.8%
+    per out-of-sample event (t=4.8), 8+ gave +25.9% (t=3.7).
+    """
+    files = [Path(p.strip()) for p in args.files.split(",") if p.strip()]
+    cache = load_resolution_cache(Path(args.cache))
+    rows = []
+    for p in files:
+        for s in json.loads(p.read_text(encoding="utf-8")):
+            cid = s.get("condition_id")
+            if not cid:
+                continue
+            rec = fetch_resolution(cid, cache) or {}
+            token = (rec.get("tokens") or {}).get(s.get("token_id") or "")
+            payout = None
+            if rec.get("closed") and token is not None:
+                payout = 1.0 if token.get("winner") else 0.0
+            ret = resolution_return(s.get("side"), entry_price(s), payout)
+            if ret is None:
+                continue
+            s = dict(s)
+            s["_res"] = ret
+            rows.append(s)
+    save_resolution_cache(cache, Path(args.cache))
+
+    first: dict[str, dict] = {}
+    for s in sorted(rows, key=_sort_ts):
+        key = s.get("condition_id") or s.get("token_id") or ""
+        first.setdefault(key, s)
+    ev = [s for s in first.values() if (s.get("moved") or 0) >= -args.max_adverse_move]
+    per: dict[str, list[float]] = {}
+    for s in ev:
+        per.setdefault(s.get("wallet") or "", []).append(s["_res"])
+    ranked = sorted(
+        (
+            (w, len(v), sum(v) / len(v))
+            for w, v in per.items()
+            if len(v) >= args.min_events
+        ),
+        key=lambda t: -t[2],
+    )
+    if not ranked:
+        print(f"no wallet with {args.min_events}+ resolved markets")
+        return 1
+    k = max(1, int(len(ranked) * args.top))
+    picked = [w for w, _, _ in ranked[:k]]
+    Path(args.out).write_text(json.dumps(picked, indent=2), encoding="utf-8")
+    print(
+        f"{len(ranked)} wallets with {args.min_events}+ resolved markets, "
+        f"top {k} -> {args.out}"
+    )
+    for w, n, m in ranked[: min(k, 12)]:
+        print(f"  {w[:16]:18s} n={n:3d} mean={fpct(m)}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="pm_lab", description=__doc__.splitlines()[0])
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -3168,6 +3356,23 @@ def main(argv: list[str] | None = None) -> int:
         type=float,
         default=3600.0,
         help="ignore trades older than this many seconds",
+    )
+    s.add_argument(
+        "--max-new",
+        type=int,
+        default=200,
+        help="cap book lookups per run, newest first (0 = no cap)",
+    )
+    s.add_argument(
+        "--live-age",
+        type=float,
+        default=600.0,
+        help="only price the book for trades this fresh; older entries are n/a",
+    )
+    s.add_argument(
+        "--require-book",
+        action="store_true",
+        help="drop signals without an executable book price (strategy ledger)",
     )
     s.add_argument("--state", default="signals_state.json")
     s.add_argument("--out")
@@ -3390,6 +3595,27 @@ def main(argv: list[str] | None = None) -> int:
     e.add_argument("--min-n", type=int, default=20)
     e.add_argument("--json", action="store_true")
     e.set_defaults(func=cmd_evaluate)
+
+    rs = sub.add_parser(
+        "resolve", help="fill 0/1 outcomes and hold-to-resolution returns"
+    )
+    rs.add_argument("signals")
+    rs.add_argument("--write-back", action="store_true")
+    rs.add_argument("--cache", default=str(RESOLUTION_CACHE))
+    rs.add_argument("--max-adverse-move", type=float, default=0.02)
+    rs.add_argument("--stake", type=float, default=20.0)
+    rs.set_defaults(func=cmd_resolve)
+
+    sel = sub.add_parser(
+        "select", help="rank wallets by closed hold-to-resolution record"
+    )
+    sel.add_argument("--files", required=True, help="comma-separated signal files")
+    sel.add_argument("--out", default="watch_selected.json")
+    sel.add_argument("--min-events", type=int, default=8)
+    sel.add_argument("--top", type=float, default=0.25)
+    sel.add_argument("--max-adverse-move", type=float, default=0.02)
+    sel.add_argument("--cache", default=str(RESOLUTION_CACHE))
+    sel.set_defaults(func=cmd_select)
 
     args = p.parse_args(argv)
     return args.func(args)
