@@ -753,7 +753,6 @@ def _backfill_signals(wallets, lo, hi, args, horizons):
             if not entry or entry <= 0:
                 continue
             side = t.get("side") or "BUY"
-            sign = 1.0 if side == "BUY" else -1.0
             returns = {}
             for h in horizons:
                 tgt = ts + h * 60
@@ -761,7 +760,7 @@ def _backfill_signals(wallets, lo, hi, args, horizons):
                     returns[h] = None
                     continue
                 p = at(tgt, tol=max(900.0, 0.02 * h * 60))
-                returns[h] = sign * (p - entry) / entry if p else None
+                returns[h] = horizon_return(side, entry, p)
             out.append(
                 {
                     "wallet": w,
@@ -897,6 +896,61 @@ def make_lookup(series: list[tuple[float, float]]):
         return vals[i]
 
     return at
+
+
+# A binary contract priced at 1-2 cents is effectively decided. A percentage
+# return measured from such an entry divides by noise: on 2026-10-25 it produced
+# rows of +544% and -104% and inflated the 60m mean to +862%. Below this price a
+# row is left unscored instead of inventing a number.
+MIN_EVALUABLE_ENTRY = 0.02
+
+
+def horizon_return(
+    side: str | None,
+    entry: float | None,
+    p: float | None,
+    min_entry: float = MIN_EVALUABLE_ENTRY,
+) -> float | None:
+    """Return on a binary token from `entry` to `p`, or None if unusable.
+
+    None means "not evaluable", never zero: zero is a real flat outcome.
+    """
+    if p is None or entry is None or entry < min_entry:
+        return None
+    sign = 1.0 if (side or "BUY") == "BUY" else -1.0
+    return sign * (p - entry) / entry
+
+
+def stored_final_return(stored: dict, horizon: int) -> float | None:
+    """A cached value is final only when it is a number.
+
+    A stored None means the horizon had not printed yet at the previous run.
+    Treating it as final froze 240m at zero settled rows: every later run reused
+    the None instead of retrying the horizon.
+    """
+    v = stored.get(str(horizon), stored.get(horizon))
+    return v if isinstance(v, (int, float)) else None
+
+
+# How long to keep retrying a horizon that has no printable price. After this
+# window it is left unscored: a 4h exit on a market that resolved in 2h has no
+# print to observe, and retrying it forever only burns API calls.
+RETRY_WINDOW = 48 * 3600
+
+
+def horizon_status(
+    horizon: int,
+    base_ts: float,
+    now_ts: float,
+    retry_window: float = RETRY_WINDOW,
+) -> str:
+    """Classify a horizon with no cached value: future, retry, or expired."""
+    target = base_ts + horizon * 60
+    if target > now_ts:
+        return "future"
+    if now_ts - target > retry_window:
+        return "expired"
+    return "retry"
 
 
 def _stats(vals: list[float]) -> tuple[int, float, float | None] | None:
@@ -2449,11 +2503,12 @@ window.addEventListener("resize", draw);
 
 
 def cmd_dashboard(args) -> int:
-    """Live local dashboard: an HTML page that polls a JSON file.
+    """Live local dashboard: an HTML page that polls the local server.
 
     Static PNGs answer "how did it look when I ran the script". This answers
-    "how is it doing right now": the page re-fetches `dashboard_data.json` every
-    30 s, and the hourly task rewrites that file.
+    "how is it doing right now": the page re-fetches `/api/live` every 30 s,
+    served by `serve.py`. The JSON written next to it is a frozen snapshot for
+    humans; `build-static` owns the published `dashboard_data.json`.
     """
     out_dir = Path(args.dir)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -2530,18 +2585,22 @@ def cmd_dashboard(args) -> int:
         for h in (60, 240):
             payload["signals"][str(h)] = cumulative(rows, "", h)
 
-    (out_dir / "dashboard_data.json").write_text(
+    # The live page polls /api/live; this file is only a frozen snapshot for
+    # humans. It must not be called dashboard_data.json: build-static writes the
+    # published payload there, and the hourly local task used to overwrite it
+    # with a different schema, which breaks the GitHub Pages dashboard.
+    (out_dir / "dashboard_local_data.json").write_text(
         json.dumps(payload, ensure_ascii=False), encoding="utf-8"
     )
     tpl_path = Path(__file__).resolve().parent / "dashboard_template.html"
     tpl = tpl_path.read_text(encoding="utf-8") if tpl_path.exists() else DASHBOARD_HTML
-    (out_dir / "dashboard.html").write_text(
+    (out_dir / "dashboard_local.html").write_text(
         tpl.replace("__STAKE__", str(args.stake)).replace("__SOURCE__", "/api/live"),
         encoding="utf-8",
     )
     p = payload["paper"]
     print(
-        f"dashboard -> {out_dir / 'dashboard.html'}\n"
+        f"dashboard -> {out_dir / 'dashboard_local.html'}\n"
         f"  paper: n={p.get('n', 0)} final ${p.get('final', 0):+,.2f}"
     )
     return 0
@@ -2583,6 +2642,7 @@ def cmd_build_static(args) -> int:
 def cmd_evaluate(args) -> int:
     signals = json.loads(Path(args.signals).read_text(encoding="utf-8"))
     horizons = [int(h) for h in args.horizons.split(",")]
+    now_ts = time.time()
     rows = []
     idxs = []
     for idx, s in enumerate(signals):
@@ -2590,7 +2650,7 @@ def cmd_evaluate(args) -> int:
         stored = s.get("returns") or {}
         if not entry:
             continue
-        sign = 1.0 if s.get("side") == "BUY" else -1.0
+        evaluable = entry >= MIN_EVALUABLE_ENTRY
         row = {
             "wallet": s.get("wallet"),
             "title": s.get("title"),
@@ -2601,16 +2661,27 @@ def cmd_evaluate(args) -> int:
             "returns": {},
         }
         for h in horizons:
-            # backfill already paid for these; only hit the network on a miss
-            if h in stored or str(h) in stored:
-                row["returns"][h] = stored.get(h, stored.get(str(h)))
+            # A stored number is final, but a stored None only means "the
+            # horizon had not printed yet" and must be retried. This is what
+            # kept 240m empty: the first run wrote nulls and every later run
+            # reused them.
+            cached = stored_final_return(stored, h)
+            if cached is not None and evaluable:
+                row["returns"][h] = cached
+                continue
+            if not evaluable:
+                row["returns"][h] = None
                 continue
             tok, base_ts = s.get("token_id"), s.get("trade_ts")
             if not (tok and base_ts):
                 row["returns"][h] = None
                 continue
+            status = horizon_status(h, float(base_ts), now_ts)
+            if status != "retry":
+                row["returns"][h] = None
+                continue
             p = price_at(tok, base_ts + h * 60)
-            row["returns"][h] = sign * (p - entry) / entry if p is not None else None
+            row["returns"][h] = horizon_return(s.get("side"), entry, p)
         rows.append(row)
         idxs.append(idx)
 
@@ -2629,6 +2700,16 @@ def cmd_evaluate(args) -> int:
         return 0
 
     print(f"{len(rows)} frozen signals, {len(horizons)} horizons")
+    thin = sum(
+        1
+        for s in signals
+        if 0 < (s.get("now_price") or s.get("whale_price") or 0) < MIN_EVALUABLE_ENTRY
+    )
+    if thin:
+        print(
+            f"  {thin} signals left unscored: entry below ${MIN_EVALUABLE_ENTRY:.2f} "
+            "(decided or illiquid book, a return there is division by noise)"
+        )
     print(
         f"{'horizon':>8} {'n':>4} {'flat':>7} {'mean':>9} {'median':>9} "
         f"{'win%*':>7} {'SE':>7}"

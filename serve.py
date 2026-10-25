@@ -218,7 +218,7 @@ def main() -> None:
     args = ap.parse_args()
     _stake = args.stake
     srv = ThreadingHTTPServer(("127.0.0.1", args.port), Handler)
-    print(f"serving {BASE} on http://127.0.0.1:{args.port}/dashboard.html")
+    print(f"serving {BASE} on http://127.0.0.1:{args.port}/dashboard_local.html")
     print(f"live endpoint: /api/live   stake ${_stake:.0f} per bet")
     srv.serve_forever()
 

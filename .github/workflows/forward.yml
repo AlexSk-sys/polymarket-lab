@@ -27,6 +27,9 @@ jobs:
       - name: install
         run: pip install -r requirements.txt
 
+      - name: tests
+        run: python -m unittest discover -s tests -t . -v
+
       - name: record paper bets
         run: >
           python pm_lab.py paper record
