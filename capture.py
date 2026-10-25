@@ -33,10 +33,10 @@ def main() -> int:
             "0.10",
             "--max-price",
             "0.90",
-            # Six hours of catch-up after sleep; the state file still prevents
+            # 24h of catch-up after sleep; the state file still prevents
             # re-reporting trades that were already captured.
             "--max-age",
-            "21600",
+            "86400",
             "--append",
             "--out",
             "signals_hourly.json",

@@ -6040,5 +6040,50 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 2903.1610001001773,
+    "whale_price": 0.3328719409,
+    "now_price": null,
+    "moved": null,
+    "title": "Crystal Palace FC vs. Newcastle United FC: O/U 10.5 Total Corners AND TSG 1899 Hoffenheim vs. Bayer 04 Leverkusen: O/U 9.5 Total Corners",
+    "outcome": "",
+    "token_id": "1670540294200373297753702020233513080949081005391326646076247917520660463616",
+    "condition_id": "0x03b17e075799e4f1f77aa6551487a297510000000000000000000000000000",
+    "trade_ts": 1792921527.0,
+    "detected_at": "2026-10-25T09:47:35.274437+00:00"
+  },
+  {
+    "wallet": "0xa164b901678d14b57b89a8d4e928956fe46a8b02",
+    "name": "SparYel",
+    "side": "BUY",
+    "usdc": 2905.7010797016455,
+    "whale_price": 0.350938552,
+    "now_price": null,
+    "moved": null,
+    "title": "Crystal Palace FC vs. Newcastle United FC: O/U 10.5 Total Corners AND Hull City AFC vs. Brentford FC: O/U 10.5 Total Corners",
+    "outcome": "",
+    "token_id": "1768432340306789447489280448638109850199619644881311243747600764100671438848",
+    "condition_id": "0x03e8e5b1232cf871bdf6d86945467e620d0000000000000000000000000000",
+    "trade_ts": 1792921331.0,
+    "detected_at": "2026-10-25T09:47:51.269073+00:00"
+  },
+  {
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "name": "Siddhartha1",
+    "side": "BUY",
+    "usdc": 21955.599199999997,
+    "whale_price": 0.59,
+    "now_price": 0.6,
+    "moved": 0.0169491525423729,
+    "title": "Will Manchester United FC win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "76951175440722833990292511496367112266240891498042261009497282378189178789157",
+    "condition_id": "0x85b1a99b2f2f2fbdd04383cebe5df8c6dd96a6f1ec1ef3c85d08b0878f0727cd",
+    "trade_ts": 1792921971.0,
+    "detected_at": "2026-10-25T09:54:00.574379+00:00"
   }
 ]
