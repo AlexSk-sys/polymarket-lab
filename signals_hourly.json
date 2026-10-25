@@ -6002,5 +6002,43 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2550.0,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Spread: FC Internazionale Milano (-1.5)",
+    "outcome": "ACF Fiorentina",
+    "token_id": "37740655393182307850943631284108293169863377613527917681972725034857720822277",
+    "condition_id": "0x77078291310f08419d5b017fc742519f1349a9ef88f3e785a7ada93ae42f84f9",
+    "trade_ts": 1792920845.0,
+    "detected_at": "2026-10-25T09:34:34.720862+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe5502f3b033ebcd64233b5ffc43c44c24170be3f",
+    "name": "ferdinand2",
+    "side": "BUY",
+    "usdc": 2550.0,
+    "whale_price": 0.51,
+    "now_price": 0.51,
+    "moved": 0.0,
+    "title": "Spread: FC Internazionale Milano (-1.5)",
+    "outcome": "ACF Fiorentina",
+    "token_id": "37740655393182307850943631284108293169863377613527917681972725034857720822277",
+    "condition_id": "0x77078291310f08419d5b017fc742519f1349a9ef88f3e785a7ada93ae42f84f9",
+    "trade_ts": 1792920755.0,
+    "detected_at": "2026-10-25T09:34:34.835192+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
