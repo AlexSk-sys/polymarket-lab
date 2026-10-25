@@ -4957,5 +4957,404 @@
       "60": 0.538835870368462,
       "240": null
     }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 2473.1277000000005,
+    "whale_price": 0.51,
+    "now_price": 0.75,
+    "moved": 0.47058823529411764,
+    "title": "Nagoya Grampus vs. Yokohama F·Marinos: O/U 3.5",
+    "outcome": "Under",
+    "token_id": "70678459990111295965412340276486491214705114536155376831427362790343172661434",
+    "condition_id": "0x6f9aa3cc585878b42235c021e9a74b0d28a6d14e6a1ff3f97d8e6d49b8421967",
+    "trade_ts": 1792905717.0,
+    "detected_at": "2026-10-25T05:56:04.172399+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2ce8505aa641791eb8460f6ac6bf5c0511e34527",
+    "name": "0x2cE8505aA641791EB8460f6ac6bf5C0511E34527-1746735481513",
+    "side": "BUY",
+    "usdc": 3468.0485,
+    "whale_price": 0.49,
+    "now_price": 0.5,
+    "moved": 0.02040816326530614,
+    "title": "Rams vs. Raiders: O/U 48.5",
+    "outcome": "Over",
+    "token_id": "31383097913112808761196295690869885797460717110599824472909985666930376598878",
+    "condition_id": "0xaca2fac5143baa630a5d8b47672dfbbde297b1d7060ce9984f6422f518187628",
+    "trade_ts": 1792901633.0,
+    "detected_at": "2026-10-25T05:56:06.569487+00:00",
+    "returns": {
+      "60": -0.010000000000000009,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "BUY",
+    "usdc": 3265.150000262696,
+    "whale_price": 0.5866174015,
+    "now_price": null,
+    "moved": null,
+    "title": "Houston vs. Utah: O/U 39.5",
+    "outcome": "Under",
+    "token_id": "19617961467491805427704080760723271879354948515724184430260727162116727224302",
+    "condition_id": "0x707eea8ecd9635bf43de8a01cc8d3188c4e806ee9868be0cd0276ea8183ce602",
+    "trade_ts": 1792904393.0,
+    "detected_at": "2026-10-25T05:56:07.512448+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "SELL",
+    "usdc": 13958.865299786461,
+    "whale_price": 0.7044278758,
+    "now_price": 0.999,
+    "moved": -0.41817215689464626,
+    "title": "Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina",
+    "outcome": "Daria Kasatkina",
+    "token_id": "641399197697968437021401950278291050430587426172565848186604458380316369278",
+    "condition_id": "0x75bba986b27a4ffd76b74e7767cb9311ba5b5fe5eadf97f9ae9d6fe62bcb1f3c",
+    "trade_ts": 1792902515.0,
+    "detected_at": "2026-10-25T05:56:07.647253+00:00",
+    "returns": {
+      "60": 0.2942942942942943,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "BUY",
+    "usdc": 14465.60000003,
+    "whale_price": 0.73,
+    "now_price": null,
+    "moved": null,
+    "title": "Pan Pacific Open, Qualification: Kimberly Birrell vs Daria Kasatkina",
+    "outcome": "Daria Kasatkina",
+    "token_id": "641399197697968437021401950278291050430587426172565848186604458380316369278",
+    "condition_id": "0x75bba986b27a4ffd76b74e7767cb9311ba5b5fe5eadf97f9ae9d6fe62bcb1f3c",
+    "trade_ts": 1792902093.0,
+    "detected_at": "2026-10-25T05:56:07.786655+00:00",
+    "returns": {
+      "60": 0.15753424657534246,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "BUY",
+    "usdc": 2388.47919993176,
+    "whale_price": 0.877684964,
+    "now_price": null,
+    "moved": null,
+    "title": "Bitcoin Up or Down - October 25, 12:15AM-12:20AM ET",
+    "outcome": "Up",
+    "token_id": "26936464361278198186129019931535328512411906836581798684070466374815058626845",
+    "condition_id": "0xab58605692f12ae795484ac7f8b0ab78310c370c2920c04426300a0ed3d2107d",
+    "trade_ts": 1792901712.0,
+    "detected_at": "2026-10-25T05:56:23.978770+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91e67d77b45558ce69238bf8a79e2e902b1ee9c5",
+    "name": "tin54321",
+    "side": "BUY",
+    "usdc": 4999.99999786569,
+    "whale_price": 0.7378271845,
+    "now_price": null,
+    "moved": null,
+    "title": "Warriors vs. Suns: O/U 251.5",
+    "outcome": "Under",
+    "token_id": "50150692654056798835151712627355410807314255103148960785457206713608424946644",
+    "condition_id": "0x0564ca90a67ef3a0ab2efddf069c320e695627d6a776562f14b01dc29f8b412c",
+    "trade_ts": 1792901597.0,
+    "detected_at": "2026-10-25T05:56:40.164166+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 3128.1999992,
+    "whale_price": 0.61,
+    "now_price": null,
+    "moved": null,
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "token_id": "31064012626951063876851991038867535622530265280885562330458705977929888596977",
+    "condition_id": "0xca4de8880bed8fa736aeafbd3ea96b789a1f9caee2815b9f3c9317f084ea5066",
+    "trade_ts": 1792904655.0,
+    "detected_at": "2026-10-25T05:56:42.339134+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x31c518f864d1394361fec967b3daa9093a86ede4",
+    "name": "BTCGambler247",
+    "side": "BUY",
+    "usdc": 9310.0,
+    "whale_price": 0.49,
+    "now_price": 0.49,
+    "moved": 0.0,
+    "title": "Spread: Texans (-10.5)",
+    "outcome": "Texans",
+    "token_id": "57989816888566359633676460727804580792917951431580783469369183006671120444347",
+    "condition_id": "0x853bd604fa8731bee290e6b8271e693a499914f984fc83b24687a70c013a45ec",
+    "trade_ts": 1792903476.0,
+    "detected_at": "2026-10-25T05:56:47.660172+00:00",
+    "returns": {
+      "60": -0.01020408163265307,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x31c518f864d1394361fec967b3daa9093a86ede4",
+    "name": "BTCGambler247",
+    "side": "BUY",
+    "usdc": 9857.9832,
+    "whale_price": 0.39,
+    "now_price": 0.4,
+    "moved": 0.025641025641025664,
+    "title": "Rams vs. Raiders",
+    "outcome": "Raiders",
+    "token_id": "81135491566707051946124515494658509304719639404206193887190428425663141745663",
+    "condition_id": "0xc8c3c2b216d26a649da337893e368ca02053d5f3122c569ac03febedf99978dc",
+    "trade_ts": 1792902944.0,
+    "detected_at": "2026-10-25T05:56:47.793067+00:00",
+    "returns": {
+      "60": -0.012500000000000011,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x701187150980c2421bc3c87a74dbdef31d75c6da",
+    "name": "Electricy",
+    "side": "BUY",
+    "usdc": 2130.0069,
+    "whale_price": 0.31,
+    "now_price": null,
+    "moved": null,
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "token_id": "31064012626951063876851991038867535622530265280885562330458705977929888596977",
+    "condition_id": "0xca4de8880bed8fa736aeafbd3ea96b789a1f9caee2815b9f3c9317f084ea5066",
+    "trade_ts": 1792902539.0,
+    "detected_at": "2026-10-25T05:56:48.683285+00:00",
+    "returns": {
+      "60": 1.1774193548387097,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 44207.22000016001,
+    "whale_price": 0.56,
+    "now_price": 0.56,
+    "moved": 0.0,
+    "title": "Steelers vs. Saints: O/U 44.5",
+    "outcome": "Under",
+    "token_id": "104126468026072617362497811412384184436384452019189917685719060848234399473961",
+    "condition_id": "0xf1c0d24c097f6ad7004302ecfa27d3b7ad922e768548bdfbfc6b84d79a5cd9b3",
+    "trade_ts": 1792904411.0,
+    "detected_at": "2026-10-25T05:56:53.193958+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 36974.18999700329,
+    "whale_price": 0.5599987883,
+    "now_price": 0.56,
+    "moved": 2.1637546818302077e-06,
+    "title": "Steelers vs. Saints: O/U 44.5",
+    "outcome": "Under",
+    "token_id": "104126468026072617362497811412384184436384452019189917685719060848234399473961",
+    "condition_id": "0xf1c0d24c097f6ad7004302ecfa27d3b7ad922e768548bdfbfc6b84d79a5cd9b3",
+    "trade_ts": 1792904309.0,
+    "detected_at": "2026-10-25T05:56:53.331215+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 16965.4908,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "token_id": "31064012626951063876851991038867535622530265280885562330458705977929888596977",
+    "condition_id": "0xca4de8880bed8fa736aeafbd3ea96b789a1f9caee2815b9f3c9317f084ea5066",
+    "trade_ts": 1792900586.0,
+    "detected_at": "2026-10-25T05:56:53.464630+00:00",
+    "returns": {
+      "60": 0.19811320754716977,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 11172.8416,
+    "whale_price": 0.58,
+    "now_price": 0.59,
+    "moved": 0.017241379310344845,
+    "title": "Will Manchester United FC win on 2026-10-25?",
+    "outcome": "No",
+    "token_id": "76951175440722833990292511496367112266240891498042261009497282378189178789157",
+    "condition_id": "0x85b1a99b2f2f2fbdd04383cebe5df8c6dd96a6f1ec1ef3c85d08b0878f0727cd",
+    "trade_ts": 1792904862.0,
+    "detected_at": "2026-10-25T05:56:55.320202+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 7000.000000060784,
+    "whale_price": 0.6607941463,
+    "now_price": 0.67,
+    "moved": 0.013931500076909874,
+    "title": "2026 Balance of Power: D Senate, D House",
+    "outcome": "Yes",
+    "token_id": "34722410608062854697106861099776685947172185964394483545370684749662285977831",
+    "condition_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "trade_ts": 1792903751.0,
+    "detected_at": "2026-10-25T05:56:56.208469+00:00",
+    "returns": {
+      "60": -0.007462686567164185,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 3400.0000000000005,
+    "whale_price": 0.34,
+    "now_price": 0.38,
+    "moved": 0.11764705882352934,
+    "title": "Will Bitcoin reach $82,500 in October?",
+    "outcome": "No",
+    "token_id": "97948818299805593349169876683763026467576272125947257525378877248778151229783",
+    "condition_id": "0x5ce14dd9eb04b5a41104cef63b33194b64b70ae4bb8587957632b99288782822",
+    "trade_ts": 1792906730.0,
+    "detected_at": "2026-10-25T05:56:57.022690+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "SELL",
+    "usdc": 6929.399699727409,
+    "whale_price": 0.6771018799,
+    "now_price": 0.999,
+    "moved": -0.47540573975003664,
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "token_id": "31064012626951063876851991038867535622530265280885562330458705977929888596977",
+    "condition_id": "0xca4de8880bed8fa736aeafbd3ea96b789a1f9caee2815b9f3c9317f084ea5066",
+    "trade_ts": 1792904727.0,
+    "detected_at": "2026-10-25T05:57:00.985557+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 9907.5927,
+    "whale_price": 0.69,
+    "now_price": null,
+    "moved": null,
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "token_id": "31064012626951063876851991038867535622530265280885562330458705977929888596977",
+    "condition_id": "0xca4de8880bed8fa736aeafbd3ea96b789a1f9caee2815b9f3c9317f084ea5066",
+    "trade_ts": 1792904690.0,
+    "detected_at": "2026-10-25T05:57:01.122492+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 3150.0,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Houston vs. Utah",
+    "outcome": "Utah",
+    "token_id": "31064012626951063876851991038867535622530265280885562330458705977929888596977",
+    "condition_id": "0xca4de8880bed8fa736aeafbd3ea96b789a1f9caee2815b9f3c9317f084ea5066",
+    "trade_ts": 1792904675.0,
+    "detected_at": "2026-10-25T05:57:01.260038+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 2760.000000018696,
+    "whale_price": 0.799995658,
+    "now_price": 0.8,
+    "moved": 5.427529457904283e-06,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792901136.0,
+    "detected_at": "2026-10-25T05:57:02.052896+00:00",
+    "returns": {
+      "60": -0.001875000000000071,
+      "240": null
+    }
   }
 ]
