@@ -13640,5 +13640,366 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2100.00000006,
+    "whale_price": 0.59,
+    "now_price": 0.61,
+    "moved": 0.0338983050847458,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "92118110544505678025509478641982017877419822861700776092469253281989772123314",
+    "condition_id": "0x9f20fdcd3f42fda1fcfd85e5a2ec13cd8e9fbc6834c0068ddcbf7c106d81668d",
+    "trade_ts": 1793012246.0,
+    "detected_at": "2026-10-26T10:58:59.872093+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2100.00000009,
+    "whale_price": 0.51,
+    "now_price": 0.61,
+    "moved": 0.19607843137254896,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "92118110544505678025509478641982017877419822861700776092469253281989772123314",
+    "condition_id": "0x9f20fdcd3f42fda1fcfd85e5a2ec13cd8e9fbc6834c0068ddcbf7c106d81668d",
+    "trade_ts": 1793012181.0,
+    "detected_at": "2026-10-26T10:59:00.003224+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 10276.0000001,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "92118110544505678025509478641982017877419822861700776092469253281989772123314",
+    "condition_id": "0x9f20fdcd3f42fda1fcfd85e5a2ec13cd8e9fbc6834c0068ddcbf7c106d81668d",
+    "trade_ts": 1793011707.0,
+    "detected_at": "2026-10-26T10:59:00.003242+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc1de5ffb02d2b354932ccf5e31172545965e21f5",
+    "name": "Barbozaaa321",
+    "side": "BUY",
+    "usdc": 3680.0,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "92118110544505678025509478641982017877419822861700776092469253281989772123314",
+    "condition_id": "0x9f20fdcd3f42fda1fcfd85e5a2ec13cd8e9fbc6834c0068ddcbf7c106d81668d",
+    "trade_ts": 1793011608.0,
+    "detected_at": "2026-10-26T10:59:00.003246+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 27067.36865,
+    "whale_price": 0.895,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+    "outcome": "No",
+    "token_id": "115364229170068359509280114761107502298430910856477421813089992309112580316620",
+    "condition_id": "0xa34edb6c898232378a9cc08744842df2cd89d278ba45b012bed3ac10c7241c4d",
+    "trade_ts": 1793010867.0,
+    "detected_at": "2026-10-26T10:59:00.003250+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5653.299899999999,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "FUT Esports",
+    "token_id": "67511014947003513226994485956303282831049809190475184555373876168407791798455",
+    "condition_id": "0x9924e2a043daa7684b4006e09e73b2646c2bc81b5a72114b6c161dc6c539ceeb",
+    "trade_ts": 1793010213.0,
+    "detected_at": "2026-10-26T10:59:00.003254+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 16796.64240035298,
+    "whale_price": 0.559966662,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "FUT Esports",
+    "token_id": "67511014947003513226994485956303282831049809190475184555373876168407791798455",
+    "condition_id": "0x9924e2a043daa7684b4006e09e73b2646c2bc81b5a72114b6c161dc6c539ceeb",
+    "trade_ts": 1793010212.0,
+    "detected_at": "2026-10-26T10:59:00.003257+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x074a3a0ffc6e1077a9d7fcbd774029e0cc6ef0e0",
+    "name": "adururu",
+    "side": "BUY",
+    "usdc": 2476.0514999999996,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "FUT Esports",
+    "token_id": "67511014947003513226994485956303282831049809190475184555373876168407791798455",
+    "condition_id": "0x9924e2a043daa7684b4006e09e73b2646c2bc81b5a72114b6c161dc6c539ceeb",
+    "trade_ts": 1793010210.0,
+    "detected_at": "2026-10-26T10:59:00.003260+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "BUY",
+    "usdc": 2476.0514999999996,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "FUT Esports",
+    "token_id": "67511014947003513226994485956303282831049809190475184555373876168407791798455",
+    "condition_id": "0x9924e2a043daa7684b4006e09e73b2646c2bc81b5a72114b6c161dc6c539ceeb",
+    "trade_ts": 1793010210.0,
+    "detected_at": "2026-10-26T10:59:00.003263+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 5829.4728,
+    "whale_price": 0.72,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793008413.0,
+    "detected_at": "2026-10-26T10:59:00.003267+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2099.999999852985,
+    "whale_price": 0.5981083824,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "OG",
+    "token_id": "60245523404552001607019734599304417857330286496022867022940316084798320341967",
+    "condition_id": "0x7e9bc1e08a5f2714967a7e6f6dcf26b37f8974f703e47bd5e2b8bf1ecdfb196f",
+    "trade_ts": 1793008193.0,
+    "detected_at": "2026-10-26T10:59:00.003269+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 3250.6686,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum dip to $2,250 by December 31, 2026?",
+    "outcome": "Yes",
+    "token_id": "66335306745821529065179061745515953781644081595464464996921948603911228936814",
+    "condition_id": "0x99a1879635bc8873891cc472d5e39ca0efaf2017c562ae244810747a7f8edbd5",
+    "trade_ts": 1793007989.0,
+    "detected_at": "2026-10-26T10:59:00.003273+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "name": "wangyou1288",
+    "side": "BUY",
+    "usdc": 7947.1927000000005,
+    "whale_price": 0.89,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: T1 vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
+    "outcome": "T1",
+    "token_id": "31623936159095332688024354843260607282774748032416502723809456339512273128295",
+    "condition_id": "0x625a989ce4602b4f93b656d118f5a5a806d8052fef07709a97befc35b8bc8125",
+    "trade_ts": 1793006940.0,
+    "detected_at": "2026-10-26T10:59:00.003276+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 2851.3215997933203,
+    "whale_price": 0.313428828,
+    "now_price": null,
+    "moved": null,
+    "title": "Erste Bank Open: Tomas Machac vs Alex de Minaur",
+    "outcome": "Tomas Machac",
+    "token_id": "354229775489741166113422123732056862764996626130085034405793244839414048711",
+    "condition_id": "0xd669976916d8ad0eb3cf82d7399e92f1242bc8e5b4c4c7f49816d00906f28670",
+    "trade_ts": 1793006919.0,
+    "detected_at": "2026-10-26T10:59:00.003279+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 2714.1741,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "Swiss Indoors Basel: Holger Rune vs Quentin Halys",
+    "outcome": "Holger Rune",
+    "token_id": "41572973733845016915458827480140926245420240655462813590297487925340948127523",
+    "condition_id": "0xd46dd38ddad44010ea09c623d18aa0379cdf140086b7a0c028428113b947becc",
+    "trade_ts": 1793006558.0,
+    "detected_at": "2026-10-26T10:59:00.003282+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 14200.0,
+    "whale_price": 0.71,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793006423.0,
+    "detected_at": "2026-10-26T10:59:00.003286+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9e0720ee9e83fbebed019651a038793970c76e49",
+    "name": "ShadowRealms",
+    "side": "BUY",
+    "usdc": 7035.0,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Nemiga vs Aurora Gaming - Map 2 Winner",
+    "outcome": "Aurora Gaming",
+    "token_id": "92785926820951827852653684276474568519837544051178747783727826396019473539981",
+    "condition_id": "0xcd873c39fe465077313ba8e7515e35d60931f76c38309dc71a3078d37a5ae4e6",
+    "trade_ts": 1793006354.0,
+    "detected_at": "2026-10-26T10:59:00.003289+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 71000.0,
+    "whale_price": 0.71,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793006223.0,
+    "detected_at": "2026-10-26T10:59:00.003293+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 9575.000000574737,
+    "whale_price": 0.5370277826,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "6998761105505340261913732837452570629134568111082548943989168762409706379307",
+    "condition_id": "0x7e9bc1e08a5f2714967a7e6f6dcf26b37f8974f703e47bd5e2b8bf1ecdfb196f",
+    "trade_ts": 1793006139.0,
+    "detected_at": "2026-10-26T10:59:00.003296+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
