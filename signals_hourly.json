@@ -14017,7 +14017,7 @@
     "trade_ts": 1793034938.0,
     "detected_at": "2026-10-26T17:17:30.097130+00:00",
     "returns": {
-      "60": null,
+      "60": 0.11055555555555559,
       "240": null
     }
   },
@@ -14036,7 +14036,7 @@
     "trade_ts": 1793034938.0,
     "detected_at": "2026-10-26T17:17:30.206532+00:00",
     "returns": {
-      "60": null,
+      "60": 0.11055555555555559,
       "240": null
     }
   },
@@ -14055,7 +14055,7 @@
     "trade_ts": 1793034938.0,
     "detected_at": "2026-10-26T17:17:30.325859+00:00",
     "returns": {
-      "60": null,
+      "60": 0.11055555555555559,
       "240": null
     }
   },
@@ -14074,7 +14074,7 @@
     "trade_ts": 1793034938.0,
     "detected_at": "2026-10-26T17:17:30.439912+00:00",
     "returns": {
-      "60": null,
+      "60": 0.11055555555555559,
       "240": null
     }
   },
@@ -14093,7 +14093,7 @@
     "trade_ts": 1793034929.0,
     "detected_at": "2026-10-26T17:17:30.560076+00:00",
     "returns": {
-      "60": null,
+      "60": -0.9954545454545455,
       "240": null
     }
   },
@@ -14112,8 +14112,8 @@
     "trade_ts": 1793034512.0,
     "detected_at": "2026-10-26T17:17:30.674378+00:00",
     "returns": {
-      "60": null,
-      "240": null
+      "60": 0.06434911242603547,
+      "240": 0.08210059171597632
     }
   },
   {
@@ -14131,8 +14131,8 @@
     "trade_ts": 1793034498.0,
     "detected_at": "2026-10-26T17:17:30.783858+00:00",
     "returns": {
-      "60": null,
-      "240": null
+      "60": -0.010000000000000009,
+      "240": -0.030000000000000027
     }
   },
   {
@@ -14681,6 +14681,1830 @@
     "condition_id": "0xd669976916d8ad0eb3cf82d7399e92f1242bc8e5b4c4c7f49816d00906f28670",
     "trade_ts": 1793028254.0,
     "detected_at": "2026-10-26T17:17:30.783972+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 7299.98215,
+    "whale_price": 0.729998215,
+    "now_price": 0.727,
+    "moved": -0.004107153878451567,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793054147.0,
+    "detected_at": "2026-10-26T22:36:09.845555+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 7296.27451,
+    "whale_price": 0.729627451,
+    "now_price": 0.727,
+    "moved": -0.0036010857272419953,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793054147.0,
+    "detected_at": "2026-10-26T22:36:09.973175+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2040.0,
+    "whale_price": 0.51,
+    "now_price": 0.61,
+    "moved": 0.19607843137254896,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793054022.0,
+    "detected_at": "2026-10-26T22:36:10.099893+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "SELL",
+    "usdc": 2262.37449991608,
+    "whale_price": 0.5018799636,
+    "now_price": 0.6,
+    "moved": -0.19550498827684223,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793053866.0,
+    "detected_at": "2026-10-26T22:36:10.273551+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2453.319999952588,
+    "whale_price": 0.579835189,
+    "now_price": 0.4,
+    "moved": -0.31014880161059,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793053842.0,
+    "detected_at": "2026-10-26T22:36:10.407389+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 2599.7776000000003,
+    "whale_price": 0.38,
+    "now_price": 0.61,
+    "moved": 0.6052631578947368,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793053808.0,
+    "detected_at": "2026-10-26T22:36:10.532435+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 61478.9078807568,
+    "whale_price": 0.70998648,
+    "now_price": 0.727,
+    "moved": 0.02396316053793025,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793053553.0,
+    "detected_at": "2026-10-26T22:36:10.669660+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 7100.0,
+    "whale_price": 0.71,
+    "now_price": 0.727,
+    "moved": 0.02394366197183101,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793053547.0,
+    "detected_at": "2026-10-26T22:36:10.805674+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 5000.0,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Nauhany Leme Da Silva vs Despina Papamichail",
+    "outcome": "Despina Papamichail",
+    "token_id": "107997657604855223457196518662496614681244530260336761759537243586001243122689",
+    "condition_id": "0xf5d5e671c20190fa616c30c2c680fef874c28ad664e11359f7b649bc51c53aa5",
+    "trade_ts": 1793053475.0,
+    "detected_at": "2026-10-26T22:36:10.805680+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3320.0,
+    "whale_price": 0.83,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793053010.0,
+    "detected_at": "2026-10-26T22:36:10.805682+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2760.0,
+    "whale_price": 0.69,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793052905.0,
+    "detected_at": "2026-10-26T22:36:10.805684+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3080.0,
+    "whale_price": 0.77,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793052677.0,
+    "detected_at": "2026-10-26T22:36:10.805685+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3080.0,
+    "whale_price": 0.77,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793052675.0,
+    "detected_at": "2026-10-26T22:36:10.805687+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 2647.0953600000003,
+    "whale_price": 0.772,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793052609.0,
+    "detected_at": "2026-10-26T22:36:10.805689+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3120.0,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793052531.0,
+    "detected_at": "2026-10-26T22:36:10.805690+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 11297.848,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "Sioux Falls: Ozan Baris vs James Kent Trotter",
+    "outcome": "James Kent Trotter",
+    "token_id": "83012226336192014676989847029885427900068345437166286246453510018813173921888",
+    "condition_id": "0x6e8872a27eb68c99ca9c685f9b3acc896d8b6f8de31f2db2ead7ed77856ad3b3",
+    "trade_ts": 1793052405.0,
+    "detected_at": "2026-10-26T22:36:10.805691+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 4449.948899999999,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Cowboys (-3.5)",
+    "outcome": "Cowboys",
+    "token_id": "30234321931185642060262771847905935492335703082765208239626730484036732982860",
+    "condition_id": "0xdc3bcaa542d682ecbc81a07c2308cd3c46a4c18d06cda17d062ca1cc23b26511",
+    "trade_ts": 1793052375.0,
+    "detected_at": "2026-10-26T22:36:10.805693+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 5978.434,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793052227.0,
+    "detected_at": "2026-10-26T22:36:10.805695+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 4287.89816,
+    "whale_price": 0.767,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793052200.0,
+    "detected_at": "2026-10-26T22:36:10.805696+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 5137.958,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793052108.0,
+    "detected_at": "2026-10-26T22:36:10.805698+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2053.1224199973603,
+    "whale_price": 0.5141295017,
+    "now_price": null,
+    "moved": null,
+    "title": "CA Unión vs. Estudiantes de La Plata: 1st Half O/U 0.5 AND SCU Torreense vs. Amarante FC: O/U 1.5",
+    "outcome": "",
+    "token_id": "1757718392138072564927585366469261807008710158482235740946617675983502704640",
+    "condition_id": "0x03e2d556b683dab02c52d453d10479e4070000000000000000000000000000",
+    "trade_ts": 1793051957.0,
+    "detected_at": "2026-10-26T22:36:10.805700+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 57833.455,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Grizzlies vs. Jazz",
+    "outcome": "Jazz",
+    "token_id": "23988024383994965149863858271676239596656646459569397939879023427121355858150",
+    "condition_id": "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7",
+    "trade_ts": 1793051759.0,
+    "detected_at": "2026-10-26T22:36:10.805701+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 9997.075,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Grizzlies vs. Jazz",
+    "outcome": "Jazz",
+    "token_id": "23988024383994965149863858271676239596656646459569397939879023427121355858150",
+    "condition_id": "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7",
+    "trade_ts": 1793051759.0,
+    "detected_at": "2026-10-26T22:36:10.805703+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 14100.0,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051738.0,
+    "detected_at": "2026-10-26T22:36:10.805704+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 37600.0,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051720.0,
+    "detected_at": "2026-10-26T22:36:10.805706+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2105.9946,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051718.0,
+    "detected_at": "2026-10-26T22:36:10.805707+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5589.6183,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "token_id": "23743989446471497514938381085665805041335553434289173253749062907261881224132",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793051684.0,
+    "detected_at": "2026-10-26T22:36:10.805709+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 23500.0,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051673.0,
+    "detected_at": "2026-10-26T22:36:10.805711+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 28200.0,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051670.0,
+    "detected_at": "2026-10-26T22:36:10.805712+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x074a3a0ffc6e1077a9d7fcbd774029e0cc6ef0e0",
+    "name": "adururu",
+    "side": "BUY",
+    "usdc": 2341.6344,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051670.0,
+    "detected_at": "2026-10-26T22:36:10.805714+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "BUY",
+    "usdc": 2341.6344,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051670.0,
+    "detected_at": "2026-10-26T22:36:10.805715+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5645.8284,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051658.0,
+    "detected_at": "2026-10-26T22:36:10.805717+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2015.6398999199998,
+    "whale_price": 0.5598999722,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051628.0,
+    "detected_at": "2026-10-26T22:36:10.805718+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 6155.999999999999,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "27912309467499068042098068993277447754185652471361146254273227085136625421840",
+    "condition_id": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+    "trade_ts": 1793051580.0,
+    "detected_at": "2026-10-26T22:36:10.805720+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 2028.3590996873518,
+    "whale_price": 0.2823463308,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Luisina Giovannini vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "token_id": "15379228840959917921283740467904742585869644519849751827842675285312278183602",
+    "condition_id": "0x088af79ab630335222c9484c1feab3ec6490d0f186e2cf7167b2a4c7d942388e",
+    "trade_ts": 1793051528.0,
+    "detected_at": "2026-10-26T22:36:10.805721+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 42000.0,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "token_id": "23743989446471497514938381085665805041335553434289173253749062907261881224132",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793051034.0,
+    "detected_at": "2026-10-26T22:36:10.805722+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 48000.0,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "token_id": "23743989446471497514938381085665805041335553434289173253749062907261881224132",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793051015.0,
+    "detected_at": "2026-10-26T22:36:10.805724+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 42000.0,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "token_id": "23743989446471497514938381085665805041335553434289173253749062907261881224132",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793050980.0,
+    "detected_at": "2026-10-26T22:36:10.805726+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 120000.0,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Team Liquid",
+    "token_id": "23743989446471497514938381085665805041335553434289173253749062907261881224132",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793050904.0,
+    "detected_at": "2026-10-26T22:36:10.805727+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+    "name": "The Spirit of Ukraine>UMA",
+    "side": "BUY",
+    "usdc": 4003.5,
+    "whale_price": 0.85,
+    "now_price": null,
+    "moved": null,
+    "title": "Blue wave in 2026?",
+    "outcome": "Yes",
+    "token_id": "39304778737903437923367588791275882452466557469208611430474206291179458010087",
+    "condition_id": "0xed4fd09a24f20a3afc1d722ace811fffff3cffd9a56a3fbffc47f4d3d47a88ed",
+    "trade_ts": 1793050680.0,
+    "detected_at": "2026-10-26T22:36:10.805729+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "SELL",
+    "usdc": 8965.858200455252,
+    "whale_price": 0.4002783242,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Anyones Legend",
+    "token_id": "108529256474525238875097276542348954173274831189506296246205865707474239804256",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793050589.0,
+    "detected_at": "2026-10-26T22:36:10.805731+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 2609.999999837347,
+    "whale_price": 0.4899999999,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Cowboys (-4.5)",
+    "outcome": "Cowboys",
+    "token_id": "29091002443081048478442129028494703956201464783158338961842984598872942971903",
+    "condition_id": "0xf7bc9fa9bd2e25be85a655e855f319f503271b77e817ff8be43c931b09b99d8f",
+    "trade_ts": 1793050559.0,
+    "detected_at": "2026-10-26T22:36:10.805732+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 4860.421800314453,
+    "whale_price": 0.3760780782,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Luisina Giovannini vs Lucia Bronzetti",
+    "outcome": "Luisina Giovannini",
+    "token_id": "78885958315793270613839262665451426339640217502668313113124914581090350540329",
+    "condition_id": "0x088af79ab630335222c9484c1feab3ec6490d0f186e2cf7167b2a4c7d942388e",
+    "trade_ts": 1793050545.0,
+    "detected_at": "2026-10-26T22:36:10.805733+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 3323.4495997086783,
+    "whale_price": 0.3682692578,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Luisina Giovannini vs Lucia Bronzetti",
+    "outcome": "Luisina Giovannini",
+    "token_id": "78885958315793270613839262665451426339640217502668313113124914581090350540329",
+    "condition_id": "0x088af79ab630335222c9484c1feab3ec6490d0f186e2cf7167b2a4c7d942388e",
+    "trade_ts": 1793050536.0,
+    "detected_at": "2026-10-26T22:36:10.805734+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "SELL",
+    "usdc": 2269.6041999999998,
+    "whale_price": 0.41,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Anyones Legend",
+    "token_id": "108529256474525238875097276542348954173274831189506296246205865707474239804256",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793050533.0,
+    "detected_at": "2026-10-26T22:36:10.805736+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 8575.0,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Cowboys (-4.5)",
+    "outcome": "Cowboys",
+    "token_id": "29091002443081048478442129028494703956201464783158338961842984598872942971903",
+    "condition_id": "0xf7bc9fa9bd2e25be85a655e855f319f503271b77e817ff8be43c931b09b99d8f",
+    "trade_ts": 1793050275.0,
+    "detected_at": "2026-10-26T22:36:10.805737+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "SELL",
+    "usdc": 3314.44260015678,
+    "whale_price": 0.680736058,
+    "now_price": null,
+    "moved": null,
+    "title": "Swiss Indoors Basel: Dominic Stephan Stricker vs Casper Ruud",
+    "outcome": "Casper Ruud",
+    "token_id": "56803517910136433305831207373779939810768713661041963759303105806137228390789",
+    "condition_id": "0x4dad87ef5612585a9cb82e969a2f0cbe5db228a6665766918ec78e7ab42a83e0",
+    "trade_ts": 1793050191.0,
+    "detected_at": "2026-10-26T22:36:10.805738+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3330.0404,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793050128.0,
+    "detected_at": "2026-10-26T22:36:10.805739+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2730.4,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Luisina Giovannini vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "token_id": "15379228840959917921283740467904742585869644519849751827842675285312278183602",
+    "condition_id": "0x088af79ab630335222c9484c1feab3ec6490d0f186e2cf7167b2a4c7d942388e",
+    "trade_ts": 1793050067.0,
+    "detected_at": "2026-10-26T22:36:10.805741+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 2960.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793050062.0,
+    "detected_at": "2026-10-26T22:36:10.805742+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3700.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793050004.0,
+    "detected_at": "2026-10-26T22:36:10.805743+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049933.0,
+    "detected_at": "2026-10-26T22:36:10.805744+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049870.0,
+    "detected_at": "2026-10-26T22:36:10.805746+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "SELL",
+    "usdc": 4674.1608,
+    "whale_price": 0.72,
+    "now_price": null,
+    "moved": null,
+    "title": "Swiss Indoors Basel: Dominic Stephan Stricker vs Casper Ruud",
+    "outcome": "Casper Ruud",
+    "token_id": "56803517910136433305831207373779939810768713661041963759303105806137228390789",
+    "condition_id": "0x4dad87ef5612585a9cb82e969a2f0cbe5db228a6665766918ec78e7ab42a83e0",
+    "trade_ts": 1793049786.0,
+    "detected_at": "2026-10-26T22:36:10.805747+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049768.0,
+    "detected_at": "2026-10-26T22:36:10.805749+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049740.0,
+    "detected_at": "2026-10-26T22:36:10.805751+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049603.0,
+    "detected_at": "2026-10-26T22:36:10.805753+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 2960.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049459.0,
+    "detected_at": "2026-10-26T22:36:10.805754+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 2960.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049356.0,
+    "detected_at": "2026-10-26T22:36:10.805755+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 4886.76496,
+    "whale_price": 0.721,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793049329.0,
+    "detected_at": "2026-10-26T22:36:10.805757+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 8803.1186,
+    "whale_price": 0.59,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793049320.0,
+    "detected_at": "2026-10-26T22:36:10.805758+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 2590.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049305.0,
+    "detected_at": "2026-10-26T22:36:10.805760+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 2187.273,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793049272.0,
+    "detected_at": "2026-10-26T22:36:10.805761+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049267.0,
+    "detected_at": "2026-10-26T22:36:10.805762+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 5000.18,
+    "whale_price": 0.74,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Luisina Giovannini vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "token_id": "15379228840959917921283740467904742585869644519849751827842675285312278183602",
+    "condition_id": "0x088af79ab630335222c9484c1feab3ec6490d0f186e2cf7167b2a4c7d942388e",
+    "trade_ts": 1793049249.0,
+    "detected_at": "2026-10-26T22:36:10.805764+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 3763.2663999882684,
+    "whale_price": 0.7159589518,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: BetBoom Team vs LEGION - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "token_id": "38370790494966881522113359069625339253167428161255959627729490239195924782021",
+    "condition_id": "0xa91a513864072552ff842f5557059b8101e638e925d31820d075bd35bac29c36",
+    "trade_ts": 1793049234.0,
+    "detected_at": "2026-10-26T22:36:10.805766+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 2960.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049197.0,
+    "detected_at": "2026-10-26T22:36:10.805767+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 4222.808399727624,
+    "whale_price": 0.7579316125,
+    "now_price": null,
+    "moved": null,
+    "title": "Curitiba: Luisina Giovannini vs Lucia Bronzetti",
+    "outcome": "Lucia Bronzetti",
+    "token_id": "15379228840959917921283740467904742585869644519849751827842675285312278183602",
+    "condition_id": "0x088af79ab630335222c9484c1feab3ec6490d0f186e2cf7167b2a4c7d942388e",
+    "trade_ts": 1793049185.0,
+    "detected_at": "2026-10-26T22:36:10.805768+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 7613.8928000000005,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+    "outcome": "No",
+    "token_id": "43681720319477188597878188429504394796986333625436226983885469009299707562545",
+    "condition_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "trade_ts": 1793049182.0,
+    "detected_at": "2026-10-26T22:36:10.805770+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 6566.343799520337,
+    "whale_price": 0.5099728251,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793049177.0,
+    "detected_at": "2026-10-26T22:36:10.805772+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2388.999998924937,
+    "whale_price": 0.7186157397,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: BetBoom Team vs LEGION - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "token_id": "38370790494966881522113359069625339253167428161255959627729490239195924782021",
+    "condition_id": "0xa91a513864072552ff842f5557059b8101e638e925d31820d075bd35bac29c36",
+    "trade_ts": 1793049117.0,
+    "detected_at": "2026-10-26T22:36:10.805773+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2198.73820000165,
+    "whale_price": 0.7051079755,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: BetBoom Team vs LEGION - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "token_id": "38370790494966881522113359069625339253167428161255959627729490239195924782021",
+    "condition_id": "0xa91a513864072552ff842f5557059b8101e638e925d31820d075bd35bac29c36",
+    "trade_ts": 1793049087.0,
+    "detected_at": "2026-10-26T22:36:10.805774+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2230.82930013505,
+    "whale_price": 0.666446383,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: BetBoom Team vs LEGION - Game 2 Winner",
+    "outcome": "BetBoom Team",
+    "token_id": "38370790494966881522113359069625339253167428161255959627729490239195924782021",
+    "condition_id": "0xa91a513864072552ff842f5557059b8101e638e925d31820d075bd35bac29c36",
+    "trade_ts": 1793049080.0,
+    "detected_at": "2026-10-26T22:36:10.805776+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 2590.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793049071.0,
+    "detected_at": "2026-10-26T22:36:10.805777+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 25062.90432,
+    "whale_price": 0.768,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+    "outcome": "No",
+    "token_id": "43681720319477188597878188429504394796986333625436226983885469009299707562545",
+    "condition_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "trade_ts": 1793049059.0,
+    "detected_at": "2026-10-26T22:36:10.805778+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 15673.837749999999,
+    "whale_price": 0.755,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+    "outcome": "No",
+    "token_id": "43681720319477188597878188429504394796986333625436226983885469009299707562545",
+    "condition_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "trade_ts": 1793049005.0,
+    "detected_at": "2026-10-26T22:36:10.805779+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3330.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793048927.0,
+    "detected_at": "2026-10-26T22:36:10.805781+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 4344.3552999,
+    "whale_price": 0.6206221857,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "68602230195549743820871878515060376689357536274768463610768337701903413079110",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048883.0,
+    "detected_at": "2026-10-26T22:36:10.805782+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3700.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793048790.0,
+    "detected_at": "2026-10-26T22:36:10.805783+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3700.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793048748.0,
+    "detected_at": "2026-10-26T22:36:10.805785+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+    "name": "DelidelaDele",
+    "side": "BUY",
+    "usdc": 3700.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Estudiantes de La Plata win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "47120007292238591518587491442124409850882063617283976627491399327442401340738",
+    "condition_id": "0xa3a1cce1f39246a36dd7765af11d2f66fbc1246621abdecd25d2bc1c17fa5872",
+    "trade_ts": 1793048733.0,
+    "detected_at": "2026-10-26T22:36:10.805786+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8fbc899fe286351fb21f23c32710e3facb8a5c63",
+    "name": "ukowna",
+    "side": "BUY",
+    "usdc": 10554.385400000001,
+    "whale_price": 0.89,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Paris Saint-Germain FC win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "101083210420641573700090974202921413231279558732263735267781034124743460023101",
+    "condition_id": "0xe59bef319d2d5324621eb5d225b0437e3457ddcac91e284d1d0fc7072e9660db",
+    "trade_ts": 1793048727.0,
+    "detected_at": "2026-10-26T22:36:10.805788+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8fbc899fe286351fb21f23c32710e3facb8a5c63",
+    "name": "ukowna",
+    "side": "BUY",
+    "usdc": 4394.944600000001,
+    "whale_price": 0.89,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Paris Saint-Germain FC win on 2026-10-25?",
+    "outcome": "Yes",
+    "token_id": "101083210420641573700090974202921413231279558732263735267781034124743460023101",
+    "condition_id": "0xe59bef319d2d5324621eb5d225b0437e3457ddcac91e284d1d0fc7072e9660db",
+    "trade_ts": 1793048727.0,
+    "detected_at": "2026-10-26T22:36:10.805789+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5754.647499999999,
+    "whale_price": 0.35,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048576.0,
+    "detected_at": "2026-10-26T22:36:10.805790+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 17500.0,
+    "whale_price": 0.35,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048540.0,
+    "detected_at": "2026-10-26T22:36:10.805792+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 6600.0,
+    "whale_price": 0.66,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "68602230195549743820871878515060376689357536274768463610768337701903413079110",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048528.0,
+    "detected_at": "2026-10-26T22:36:10.805793+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 28000.0,
+    "whale_price": 0.35,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048519.0,
+    "detected_at": "2026-10-26T22:36:10.805795+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 21655.1871012917,
+    "whale_price": 0.3364330651,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "11378265521889666440423966768417031039630970081968018011746711395900408872677",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048499.0,
+    "detected_at": "2026-10-26T22:36:10.805796+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 19535.6456,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyones Legend",
+    "token_id": "68602230195549743820871878515060376689357536274768463610768337701903413079110",
+    "condition_id": "0x0ad892e777bbc7f3ed8f1a705a0a1c68e059e4efb0336c68be666f0e6b2a29b7",
+    "trade_ts": 1793048498.0,
+    "detected_at": "2026-10-26T22:36:10.805798+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2787692672096be48fe4fe0f7921925b7cace0c4",
+    "name": "halanddd123",
+    "side": "BUY",
+    "usdc": 22498.2496,
+    "whale_price": 0.74,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Team Liquid vs Anyone's Legend (BO3) - Worlds Group Stage",
+    "outcome": "Anyones Legend",
+    "token_id": "108529256474525238875097276542348954173274831189506296246205865707474239804256",
+    "condition_id": "0x0c8c7e418f7527b0f91501eaedf5f93d636b35ef64f74105061af6115f3e6bca",
+    "trade_ts": 1793048484.0,
+    "detected_at": "2026-10-26T22:36:10.805799+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 48422.03552840032,
+    "whale_price": 0.7509993599,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+    "outcome": "No",
+    "token_id": "43681720319477188597878188429504394796986333625436226983885469009299707562545",
+    "condition_id": "0x87091dc5932f015d80c40e71e47cb043c3f8b6098484eb5bc3943cf35ee9afc1",
+    "trade_ts": 1793048469.0,
+    "detected_at": "2026-10-26T22:36:10.805800+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 12916.5,
+    "whale_price": 0.79,
+    "now_price": null,
+    "moved": null,
+    "title": "Will CR Flamengo win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "74259105120430343151090328331794296402992350993981671672610524637548834586214",
+    "condition_id": "0xed0db6a34c0cf242540c28d05911830ab408f0dc6cb926c8bff82a70f7786ca7",
+    "trade_ts": 1793047803.0,
+    "detected_at": "2026-10-26T22:36:10.805802+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 28490.600000436003,
+    "whale_price": 0.518,
+    "now_price": null,
+    "moved": null,
+    "title": "Cowboys vs. Eagles: O/U 44.5",
+    "outcome": "Under",
+    "token_id": "51257739792591980903760254378041724834395876552098160480194474895508337978426",
+    "condition_id": "0xdd1ba88eb34abf4065f42ea6ecd9e58103e9dfaa46a242bac0c54c434940ac6c",
+    "trade_ts": 1793047803.0,
+    "detected_at": "2026-10-26T22:36:10.805804+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 8365.783479733904,
+    "whale_price": 0.7309380626,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "outcome": "Yes",
+    "token_id": "72710166409980712002774407052535905861151156175854323762835102340552522606004",
+    "condition_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+    "trade_ts": 1793047614.0,
+    "detected_at": "2026-10-26T22:36:10.805805+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 6073.9848,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "Will CR Flamengo win on 2026-10-26?",
+    "outcome": "Yes",
+    "token_id": "74259105120430343151090328331794296402992350993981671672610524637548834586214",
+    "condition_id": "0xed0db6a34c0cf242540c28d05911830ab408f0dc6cb926c8bff82a70f7786ca7",
+    "trade_ts": 1793047476.0,
+    "detected_at": "2026-10-26T22:36:10.805807+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 3619.00000032,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Swiss Indoors Basel: Dominic Stephan Stricker vs Casper Ruud",
+    "outcome": "Casper Ruud",
+    "token_id": "56803517910136433305831207373779939810768713661041963759303105806137228390789",
+    "condition_id": "0x4dad87ef5612585a9cb82e969a2f0cbe5db228a6665766918ec78e7ab42a83e0",
+    "trade_ts": 1793047035.0,
+    "detected_at": "2026-10-26T22:36:10.805808+00:00",
     "returns": {
       "60": null,
       "240": null
