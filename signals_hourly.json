@@ -8793,7 +8793,7 @@
     "detected_at": "2026-10-25T21:40:16.515159+00:00",
     "returns": {
       "60": 0.48374613003095973,
-      "240": null
+      "240": 0.9992260061919506
     }
   },
   {
@@ -10141,7 +10141,7 @@
     "trade_ts": 1792972952.0,
     "detected_at": "2026-10-26T00:07:43.886184+00:00",
     "returns": {
-      "60": null,
+      "60": 0.11016949152542384,
       "240": null
     }
   },
@@ -13389,6 +13389,253 @@
     "condition_id": "0x4b82c0dd6196c7325a465b74b30c50c5df0acebf44a0ea756155e5053fa14bcf",
     "trade_ts": 1792966041.0,
     "detected_at": "2026-10-26T00:07:43.886628+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 3588.8853000000004,
+    "whale_price": 0.323,
+    "now_price": null,
+    "moved": null,
+    "title": "Seoul: Alibek Kachmazov vs Woobin Shin",
+    "outcome": "Alibek Kachmazov",
+    "token_id": "4379524431268160736164599332506578851920891032735094198142446805261765278873",
+    "condition_id": "0xc3d7527a0d53df894c641dd13e4bd319f6945a310217c968b99dd07182a2e871",
+    "trade_ts": 1792986608.0,
+    "detected_at": "2026-10-26T04:38:55.957187+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 4489.590000075181,
+    "whale_price": 0.8991228246,
+    "now_price": null,
+    "moved": null,
+    "title": "Israel x Iran ceasefire continues through October 31?",
+    "outcome": "Yes",
+    "token_id": "36595575197199846398267481972385180643951985822505187477756829088194676076340",
+    "condition_id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
+    "trade_ts": 1792986567.0,
+    "detected_at": "2026-10-26T04:38:55.957205+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2416.2023504619,
+    "whale_price": 0.2609501148,
+    "now_price": null,
+    "moved": null,
+    "title": "Seoul: Alibek Kachmazov vs Woobin Shin",
+    "outcome": "Woobin Shin",
+    "token_id": "17735095040862811468845234838803981896906459834030566354888121605190963136747",
+    "condition_id": "0xc3d7527a0d53df894c641dd13e4bd319f6945a310217c968b99dd07182a2e871",
+    "trade_ts": 1792985979.0,
+    "detected_at": "2026-10-26T04:38:55.957208+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 2658.0544,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "Chiefs vs. Seahawks: O/U 24.5",
+    "outcome": "Under",
+    "token_id": "108738583580074472462029565437992011070560520033300628868174068758447843384694",
+    "condition_id": "0x60facb035f4911daed967f10f556b65d0feb2e1d1413da37ff68d1c9205e9d85",
+    "trade_ts": 1792983285.0,
+    "detected_at": "2026-10-26T04:38:55.957211+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 4909.999998,
+    "whale_price": 0.75,
+    "now_price": null,
+    "moved": null,
+    "title": "Grizzlies vs. Kings",
+    "outcome": "Grizzlies",
+    "token_id": "51977761926656720879542604376212176637582402196707804095192632291942111953413",
+    "condition_id": "0x801561a0810c3ec27b046068244cccd5320256146c151a9b3cf785c23979345f",
+    "trade_ts": 1792983263.0,
+    "detected_at": "2026-10-26T04:38:55.957213+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 6664.9999970399995,
+    "whale_price": 0.84,
+    "now_price": null,
+    "moved": null,
+    "title": "Bab el-Mandeb Strait effectively closed by December 31?",
+    "outcome": "No",
+    "token_id": "33460385394344753109351907923235209397225125746318923726067817676780036931403",
+    "condition_id": "0xd8659b58a90d0d69fb1170f25b2b896871a1328115fd11c6f4cfe2b01a2a8ba0",
+    "trade_ts": 1792983218.0,
+    "detected_at": "2026-10-26T04:38:55.957216+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 2255.3100001099997,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Seahawks (-10.5)",
+    "outcome": "Chiefs",
+    "token_id": "6246492951077452305834579668513404965918107197204240415217792428431867040770",
+    "condition_id": "0xb98ed5b3c8fdb631824204dd77bdc4578d570030b9331c55d13fd0ad341ffacb",
+    "trade_ts": 1792983188.0,
+    "detected_at": "2026-10-26T04:38:55.957218+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 2776.3199999301,
+    "whale_price": 0.6856804149,
+    "now_price": null,
+    "moved": null,
+    "title": "Chiefs vs. Seahawks: O/U 24.5",
+    "outcome": "Under",
+    "token_id": "108738583580074472462029565437992011070560520033300628868174068758447843384694",
+    "condition_id": "0x60facb035f4911daed967f10f556b65d0feb2e1d1413da37ff68d1c9205e9d85",
+    "trade_ts": 1792983171.0,
+    "detected_at": "2026-10-26T04:38:55.957220+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 9999.999999,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "Club Tijuana vs. Club Santos Laguna: O/U 1.5",
+    "outcome": "Over",
+    "token_id": "79655061888682775871416015273776268163385827302086655134566562061599081671087",
+    "condition_id": "0x2b2b4b6e6bdb42eb0141732ea9d0bcf54fcfd7a1d30eff08fc65291b71d5b3c9",
+    "trade_ts": 1792983059.0,
+    "detected_at": "2026-10-26T04:38:55.957222+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 2192.52,
+    "whale_price": 0.66,
+    "now_price": null,
+    "moved": null,
+    "title": "Chiefs vs. Seahawks: O/U 24.5",
+    "outcome": "Under",
+    "token_id": "108738583580074472462029565437992011070560520033300628868174068758447843384694",
+    "condition_id": "0x60facb035f4911daed967f10f556b65d0feb2e1d1413da37ff68d1c9205e9d85",
+    "trade_ts": 1792983056.0,
+    "detected_at": "2026-10-26T04:38:55.957224+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x558f2f82cf0394c28ce3c8e117ee747aeab51a56",
+    "name": "LesterDiamond",
+    "side": "BUY",
+    "usdc": 2310.42730010787,
+    "whale_price": 0.667523973,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Seahawks (-10.5)",
+    "outcome": "Chiefs",
+    "token_id": "6246492951077452305834579668513404965918107197204240415217792428431867040770",
+    "condition_id": "0xb98ed5b3c8fdb631824204dd77bdc4578d570030b9331c55d13fd0ad341ffacb",
+    "trade_ts": 1792983027.0,
+    "detected_at": "2026-10-26T04:38:55.957226+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 7670.2514,
+    "whale_price": 0.89,
+    "now_price": null,
+    "moved": null,
+    "title": "Israel x Iran ceasefire continues through October 31?",
+    "outcome": "Yes",
+    "token_id": "36595575197199846398267481972385180643951985822505187477756829088194676076340",
+    "condition_id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
+    "trade_ts": 1792982498.0,
+    "detected_at": "2026-10-26T04:38:55.957228+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 2836.99999605,
+    "whale_price": 0.89,
+    "now_price": null,
+    "moved": null,
+    "title": "Israel x Iran ceasefire continues through October 31?",
+    "outcome": "Yes",
+    "token_id": "36595575197199846398267481972385180643951985822505187477756829088194676076340",
+    "condition_id": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
+    "trade_ts": 1792982426.0,
+    "detected_at": "2026-10-26T04:38:55.957230+00:00",
     "returns": {
       "60": null,
       "240": null
