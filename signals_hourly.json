@@ -8716,7 +8716,7 @@
     "trade_ts": 1792964351.0,
     "detected_at": "2026-10-25T21:40:15.963990+00:00",
     "returns": {
-      "60": null,
+      "60": -0.2538461538461537,
       "240": null
     }
   },
@@ -8735,7 +8735,7 @@
     "trade_ts": 1792964340.0,
     "detected_at": "2026-10-25T21:40:16.102354+00:00",
     "returns": {
-      "60": null,
+      "60": -0.4714285714285714,
       "240": null
     }
   },
@@ -8792,7 +8792,7 @@
     "trade_ts": 1792964210.0,
     "detected_at": "2026-10-25T21:40:16.515159+00:00",
     "returns": {
-      "60": null,
+      "60": 0.48374613003095973,
       "240": null
     }
   },
@@ -10121,6 +10121,3274 @@
     "condition_id": "0x9df86fd67b044c2cae1fe48e9ce1eae6ee9294979cba61c8fbb52ad879f7a0b5",
     "trade_ts": 1792957236.0,
     "detected_at": "2026-10-25T21:40:16.515379+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 7127.2,
+    "whale_price": 0.59,
+    "now_price": 0.59,
+    "moved": 0.0,
+    "title": "Chiefs vs. Seahawks",
+    "outcome": "Seahawks",
+    "token_id": "93995507154001427575574582811896861027002638929981177760560576954856608112512",
+    "condition_id": "0x4c0d60ebe6cdb84659ef5fd13955f9d87b6ef2da4d9447f7a46c4e57c988d5b4",
+    "trade_ts": 1792972952.0,
+    "detected_at": "2026-10-26T00:07:43.886184+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xabea08725590a4c6ae7c8e63214c9628bbc772ae",
+    "name": "0xaBea08725590a4C6Ae7c8E63214C9628BbC772AE-1781431873018",
+    "side": "BUY",
+    "usdc": 5558.895700819145,
+    "whale_price": 0.3124378865,
+    "now_price": null,
+    "moved": null,
+    "title": "Chiefs vs. Seahawks: O/U 42.5 AND Spread: Seahawks (-3.5)",
+    "outcome": "",
+    "token_id": "1620072035164924055195575872977215848967246380098234291886583393197309820928",
+    "condition_id": "0x0394eda392eb638553b4ef6e7c43cb3bb30000000000000000000000000000",
+    "trade_ts": 1792972568.0,
+    "detected_at": "2026-10-26T00:07:43.886209+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 3210.4224,
+    "whale_price": 0.72,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792972185.0,
+    "detected_at": "2026-10-26T00:07:43.886213+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 3571.2658,
+    "whale_price": 0.71425316,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792972154.0,
+    "detected_at": "2026-10-26T00:07:43.886216+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2600.0,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-6.5)",
+    "outcome": "Pistons",
+    "token_id": "113117703569320259335397125549609837191612901522304822837521334754849370611308",
+    "condition_id": "0xdd02e29c6c5a8b2549b894d36d2f05811431136bf780aea706ad7ffa9c344adf",
+    "trade_ts": 1792971953.0,
+    "detected_at": "2026-10-26T00:07:43.886219+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 8736.639999892896,
+    "whale_price": 0.5005729582,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-10.5)",
+    "outcome": "Thunder",
+    "token_id": "44801861545023913268306084165631784810332043968188030337799017380125247763968",
+    "condition_id": "0xa7fa42daec70dd343cfd856b28aad547c10db24016b7c6dc2848a4226038f08e",
+    "trade_ts": 1792971923.0,
+    "detected_at": "2026-10-26T00:07:43.886221+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 8707.8600001,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-11.5)",
+    "outcome": "Thunder",
+    "token_id": "59776464317266938405921583724718955614014413759236977450587085821234352670268",
+    "condition_id": "0xc5facbd5428e86e335295d2e7cbf47e6286789e66a4e4fd296457c86b1e2a125",
+    "trade_ts": 1792971915.0,
+    "detected_at": "2026-10-26T00:07:43.886224+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 9085.62000017,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-10.5)",
+    "outcome": "Thunder",
+    "token_id": "44801861545023913268306084165631784810332043968188030337799017380125247763968",
+    "condition_id": "0xa7fa42daec70dd343cfd856b28aad547c10db24016b7c6dc2848a4226038f08e",
+    "trade_ts": 1792971890.0,
+    "detected_at": "2026-10-26T00:07:43.886226+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2909.339380330633,
+    "whale_price": 0.3767614166,
+    "now_price": null,
+    "moved": null,
+    "title": "Atlas FC vs. Club Puebla: O/U 3.5 AND Atlético Nacional vs. Independiente Medellín: O/U 1.5",
+    "outcome": "",
+    "token_id": "1514743560112566862132766156905203409464342498578210402318867834770049466368",
+    "condition_id": "0x035950814c8094071dbff75cacabced69c0000000000000000000000000000",
+    "trade_ts": 1792971471.0,
+    "detected_at": "2026-10-26T00:07:43.886229+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 4032.0000000000005,
+    "whale_price": 0.56,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792971392.0,
+    "detected_at": "2026-10-26T00:07:43.886232+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2051.9946,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-1.5)",
+    "outcome": "Pistons",
+    "token_id": "102954275732686169997686989798041447446516845748246845850419021451901057601675",
+    "condition_id": "0x7bd379c00a1dc7088d5a46ae3f680de45201e6dff7f9715e817ed8fe86747508",
+    "trade_ts": 1792971279.0,
+    "detected_at": "2026-10-26T00:07:43.886234+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2071.9944,
+    "whale_price": 0.56,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792970991.0,
+    "detected_at": "2026-10-26T00:07:43.886236+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 6498.4201,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-1.5)",
+    "outcome": "Pistons",
+    "token_id": "102954275732686169997686989798041447446516845748246845850419021451901057601675",
+    "condition_id": "0x7bd379c00a1dc7088d5a46ae3f680de45201e6dff7f9715e817ed8fe86747508",
+    "trade_ts": 1792970922.0,
+    "detected_at": "2026-10-26T00:07:43.886239+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 102964.66400000002,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792970912.0,
+    "detected_at": "2026-10-26T00:07:43.886241+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 25391.2561,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-2.5)",
+    "outcome": "Pistons",
+    "token_id": "96439415971385351603119062168350725912261264481177959595960958759542249371766",
+    "condition_id": "0xc3dc81d5f2e0147f3b080ac8c0b8d013b697cba7924d35d69d96ecb155527586",
+    "trade_ts": 1792970880.0,
+    "detected_at": "2026-10-26T00:07:43.886244+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 43981.6949,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-1.5)",
+    "outcome": "Pistons",
+    "token_id": "102954275732686169997686989798041447446516845748246845850419021451901057601675",
+    "condition_id": "0x7bd379c00a1dc7088d5a46ae3f680de45201e6dff7f9715e817ed8fe86747508",
+    "trade_ts": 1792970864.0,
+    "detected_at": "2026-10-26T00:07:43.886246+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 2000.0,
+    "whale_price": 0.2,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Bitcoin reach $85,000 in October?",
+    "outcome": "Yes",
+    "token_id": "75235269184794259013127819692804074045167548792002535411503865311931726043391",
+    "condition_id": "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f",
+    "trade_ts": 1792970864.0,
+    "detected_at": "2026-10-26T00:07:43.886249+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 111741.93250000001,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792970840.0,
+    "detected_at": "2026-10-26T00:07:43.886252+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 13800.0,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "76ers",
+    "token_id": "25705652539211000049828052654955285259248063017881179788056869565795237414203",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792970651.0,
+    "detected_at": "2026-10-26T00:07:43.886254+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 20498.652319778605,
+    "whale_price": 0.8964129893,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792970595.0,
+    "detected_at": "2026-10-26T00:07:43.886257+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3301.2600000899997,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "Vitality",
+    "token_id": "84871881585067384987155480814643600424069653259589588594215061146114258446907",
+    "condition_id": "0x9924e2a043daa7684b4006e09e73b2646c2bc81b5a72114b6c161dc6c539ceeb",
+    "trade_ts": 1792970457.0,
+    "detected_at": "2026-10-26T00:07:43.886260+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 3212.4048,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-2.5)",
+    "outcome": "Pistons",
+    "token_id": "96439415971385351603119062168350725912261264481177959595960958759542249371766",
+    "condition_id": "0xc3dc81d5f2e0147f3b080ac8c0b8d013b697cba7924d35d69d96ecb155527586",
+    "trade_ts": 1792970442.0,
+    "detected_at": "2026-10-26T00:07:43.886262+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "name": "Siddhartha1",
+    "side": "SELL",
+    "usdc": 29857.3808,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "Pacers vs. Nets",
+    "outcome": "Pacers",
+    "token_id": "77364324137255345604331420995513567086774095194364166143934058984043878909542",
+    "condition_id": "0x2c5d30455890fae3deaf528488e86939f9ff1ce0e936bfe97b446808092977ce",
+    "trade_ts": 1792970232.0,
+    "detected_at": "2026-10-26T00:07:43.886265+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 12177.3184,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-1.5)",
+    "outcome": "Pistons",
+    "token_id": "102954275732686169997686989798041447446516845748246845850419021451901057601675",
+    "condition_id": "0x7bd379c00a1dc7088d5a46ae3f680de45201e6dff7f9715e817ed8fe86747508",
+    "trade_ts": 1792970168.0,
+    "detected_at": "2026-10-26T00:07:43.886268+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 2045.730710185008,
+    "whale_price": 0.1057543256,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970165.0,
+    "detected_at": "2026-10-26T00:07:43.886270+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+    "name": "spendingmoney",
+    "side": "SELL",
+    "usdc": 3922.3030000000003,
+    "whale_price": 0.11,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970144.0,
+    "detected_at": "2026-10-26T00:07:43.886272+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 2566.06173,
+    "whale_price": 0.1026424692,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792970135.0,
+    "detected_at": "2026-10-26T00:07:43.886275+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 4781.806880233251,
+    "whale_price": 0.1118969851,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792970127.0,
+    "detected_at": "2026-10-26T00:07:43.886277+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "name": "Siddhartha1",
+    "side": "BUY",
+    "usdc": 26881.146000000004,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792970118.0,
+    "detected_at": "2026-10-26T00:07:43.886280+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 9664.9462656,
+    "whale_price": 0.1006765236,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970114.0,
+    "detected_at": "2026-10-26T00:07:43.886282+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 2039.46768,
+    "whale_price": 0.101973384,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970099.0,
+    "detected_at": "2026-10-26T00:07:43.886284+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 2761.38492,
+    "whale_price": 0.1104553968,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970075.0,
+    "detected_at": "2026-10-26T00:07:43.886286+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 5668.5218,
+    "whale_price": 0.113370436,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970067.0,
+    "detected_at": "2026-10-26T00:07:43.886288+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+    "name": "spendingmoney",
+    "side": "SELL",
+    "usdc": 3720.6526406439602,
+    "whale_price": 0.120093729,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970061.0,
+    "detected_at": "2026-10-26T00:07:43.886290+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 2483.1051,
+    "whale_price": 0.124155255,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970057.0,
+    "detected_at": "2026-10-26T00:07:43.886292+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2974bd0059e48f215c391882976e0f1b4c8c9c23",
+    "name": "65765757",
+    "side": "SELL",
+    "usdc": 2022.497279424988,
+    "whale_price": 0.1304774662,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970051.0,
+    "detected_at": "2026-10-26T00:07:43.886294+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xcf0c70317fd5e4e4429758b3d80a7b7f3762f2bb",
+    "name": "oxe78sh4w98",
+    "side": "SELL",
+    "usdc": 4009.7985587545927,
+    "whale_price": 0.1311630877,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970039.0,
+    "detected_at": "2026-10-26T00:07:43.886297+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x074a3a0ffc6e1077a9d7fcbd774029e0cc6ef0e0",
+    "name": "adururu",
+    "side": "SELL",
+    "usdc": 4074.78156867505,
+    "whale_price": 0.1332965285,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792970009.0,
+    "detected_at": "2026-10-26T00:07:43.886299+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 3774.3439999102047,
+    "whale_price": 0.8677550551,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969938.0,
+    "detected_at": "2026-10-26T00:07:43.886301+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.999998024818,
+    "whale_price": 0.8691828998,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969931.0,
+    "detected_at": "2026-10-26T00:07:43.886303+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.999997156974,
+    "whale_price": 0.8741719489,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969922.0,
+    "detected_at": "2026-10-26T00:07:43.886306+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.999998575116,
+    "whale_price": 0.868286386,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969914.0,
+    "detected_at": "2026-10-26T00:07:43.886308+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.999999640513,
+    "whale_price": 0.8595636263,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969904.0,
+    "detected_at": "2026-10-26T00:07:43.886310+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.9999991479,
+    "whale_price": 0.8590920286,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969896.0,
+    "detected_at": "2026-10-26T00:07:43.886312+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.999997760755,
+    "whale_price": 0.8591728601,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969887.0,
+    "detected_at": "2026-10-26T00:07:43.886314+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 9999.99999506,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969878.0,
+    "detected_at": "2026-10-26T00:07:43.886316+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 19999.999994901336,
+    "whale_price": 0.8690191581,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969869.0,
+    "detected_at": "2026-10-26T00:07:43.886318+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 18999.999997966646,
+    "whale_price": 0.8643050592,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969859.0,
+    "detected_at": "2026-10-26T00:07:43.886321+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 13999.99999741325,
+    "whale_price": 0.8639844483,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969850.0,
+    "detected_at": "2026-10-26T00:07:43.886323+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 13999.999998059871,
+    "whale_price": 0.864675683,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969838.0,
+    "detected_at": "2026-10-26T00:07:43.886325+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 9999.999996619474,
+    "whale_price": 0.874808242,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969827.0,
+    "detected_at": "2026-10-26T00:07:43.886327+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5791.159988929028,
+    "whale_price": 0.1324409044,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969821.0,
+    "detected_at": "2026-10-26T00:07:43.886329+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 9999.999998032,
+    "whale_price": 0.872,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969815.0,
+    "detected_at": "2026-10-26T00:07:43.886331+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 6779.24,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pistons (-1.5)",
+    "outcome": "Pistons",
+    "token_id": "102954275732686169997686989798041447446516845748246845850419021451901057601675",
+    "condition_id": "0x7bd379c00a1dc7088d5a46ae3f680de45201e6dff7f9715e817ed8fe86747508",
+    "trade_ts": 1792969796.0,
+    "detected_at": "2026-10-26T00:07:43.886333+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2492.481080237348,
+    "whale_price": 0.2656399641,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers: 1H Moneyline AND 1H Spread: Knicks (-4.5)",
+    "outcome": "",
+    "token_id": "1396242417286492177161570630648054313135007556124439391026008599905399996416",
+    "condition_id": "0x03163ec59ed8e93a720adaa3c53db82daf0000000000000000000000000000",
+    "trade_ts": 1792969794.0,
+    "detected_at": "2026-10-26T00:07:43.886336+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "BUY",
+    "usdc": 4305.89058008066,
+    "whale_price": 0.8786760713,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969793.0,
+    "detected_at": "2026-10-26T00:07:43.886338+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 17385.2514,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792969784.0,
+    "detected_at": "2026-10-26T00:07:43.886340+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 7918.0000003124605,
+    "whale_price": 0.8722520457,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969754.0,
+    "detected_at": "2026-10-26T00:07:43.886342+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 19999.99999501736,
+    "whale_price": 0.8744143,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969731.0,
+    "detected_at": "2026-10-26T00:07:43.886344+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 19999.999998282194,
+    "whale_price": 0.8724425369,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969722.0,
+    "detected_at": "2026-10-26T00:07:43.886347+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2323.4796,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792969721.0,
+    "detected_at": "2026-10-26T00:07:43.886349+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 4668.95,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792969713.0,
+    "detected_at": "2026-10-26T00:07:43.886351+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 20000.000000482567,
+    "whale_price": 0.8605741211,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969706.0,
+    "detected_at": "2026-10-26T00:07:43.886353+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 19999.999997,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969697.0,
+    "detected_at": "2026-10-26T00:07:43.886355+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 19999.999997,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969683.0,
+    "detected_at": "2026-10-26T00:07:43.886357+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 19999.99999691489,
+    "whale_price": 0.8623632474,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969676.0,
+    "detected_at": "2026-10-26T00:07:43.886360+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 19999.9999965914,
+    "whale_price": 0.856631067,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969664.0,
+    "detected_at": "2026-10-26T00:07:43.886363+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "BUY",
+    "usdc": 10000.000000181983,
+    "whale_price": 0.8459122806,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969655.0,
+    "detected_at": "2026-10-26T00:07:43.886365+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "SELL",
+    "usdc": 3241.179899829993,
+    "whale_price": 0.8102970007,
+    "now_price": null,
+    "moved": null,
+    "title": "Bab el-Mandeb Strait effectively closed by December 31?",
+    "outcome": "No",
+    "token_id": "33460385394344753109351907923235209397225125746318923726067817676780036931403",
+    "condition_id": "0xd8659b58a90d0d69fb1170f25b2b896871a1328115fd11c6f4cfe2b01a2a8ba0",
+    "trade_ts": 1792969637.0,
+    "detected_at": "2026-10-26T00:07:43.886367+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2786.7549400000003,
+    "whale_price": 0.139337747,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969632.0,
+    "detected_at": "2026-10-26T00:07:43.886368+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2855.8136600000003,
+    "whale_price": 0.142790683,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969623.0,
+    "detected_at": "2026-10-26T00:07:43.886384+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 3056.562,
+    "whale_price": 0.1528281,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969608.0,
+    "detected_at": "2026-10-26T00:07:43.886386+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 3000.62,
+    "whale_price": 0.150031,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969601.0,
+    "detected_at": "2026-10-26T00:07:43.886388+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2899.9719,
+    "whale_price": 0.144998595,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969589.0,
+    "detected_at": "2026-10-26T00:07:43.886391+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2903.48675,
+    "whale_price": 0.1451743375,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969577.0,
+    "detected_at": "2026-10-26T00:07:43.886392+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2846.51535,
+    "whale_price": 0.1423257675,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969568.0,
+    "detected_at": "2026-10-26T00:07:43.886394+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 33538.908,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792969562.0,
+    "detected_at": "2026-10-26T00:07:43.886396+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2113.4294595,
+    "whale_price": 0.1408952973,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969560.0,
+    "detected_at": "2026-10-26T00:07:43.886398+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 3095.84397,
+    "whale_price": 0.1547921985,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969551.0,
+    "detected_at": "2026-10-26T00:07:43.886400+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2356.0200795,
+    "whale_price": 0.1570680053,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969545.0,
+    "detected_at": "2026-10-26T00:07:43.886402+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2875.41042,
+    "whale_price": 0.143770521,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969541.0,
+    "detected_at": "2026-10-26T00:07:43.886404+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 3072.23818,
+    "whale_price": 0.153611909,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969527.0,
+    "detected_at": "2026-10-26T00:07:43.886406+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 18448.743469447272,
+    "whale_price": 0.1607774408,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969451.0,
+    "detected_at": "2026-10-26T00:07:43.886407+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 9143.042579104922,
+    "whale_price": 0.1554883947,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969415.0,
+    "detected_at": "2026-10-26T00:07:43.886410+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2308.075249797031,
+    "whale_price": 0.1424921641,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969415.0,
+    "detected_at": "2026-10-26T00:07:43.886412+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 3510.6901000000003,
+    "whale_price": 0.175534505,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969386.0,
+    "detected_at": "2026-10-26T00:07:43.886414+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 9311.9999987,
+    "whale_price": 0.1900408163,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969370.0,
+    "detected_at": "2026-10-26T00:07:43.886416+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 3130.9874505,
+    "whale_price": 0.2087324967,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969338.0,
+    "detected_at": "2026-10-26T00:07:43.886418+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 3204.2422,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792969314.0,
+    "detected_at": "2026-10-26T00:07:43.886420+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6040.276911,
+    "whale_price": 0.2013425637,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969314.0,
+    "detected_at": "2026-10-26T00:07:43.886422+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6171.947199,
+    "whale_price": 0.2057315733,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969302.0,
+    "detected_at": "2026-10-26T00:07:43.886424+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6087.204309,
+    "whale_price": 0.2029068103,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969295.0,
+    "detected_at": "2026-10-26T00:07:43.886426+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6053.963181,
+    "whale_price": 0.2017987727,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969283.0,
+    "detected_at": "2026-10-26T00:07:43.886428+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 3942.0000000000005,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792969281.0,
+    "detected_at": "2026-10-26T00:07:43.886431+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6012.255279,
+    "whale_price": 0.2004085093,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969274.0,
+    "detected_at": "2026-10-26T00:07:43.886433+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6351.159069,
+    "whale_price": 0.2117053023,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969266.0,
+    "detected_at": "2026-10-26T00:07:43.886435+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6384.134991,
+    "whale_price": 0.2128044997,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969257.0,
+    "detected_at": "2026-10-26T00:07:43.886438+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6300.080999999999,
+    "whale_price": 0.2100027,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969250.0,
+    "detected_at": "2026-10-26T00:07:43.886439+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 2438.0,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792969244.0,
+    "detected_at": "2026-10-26T00:07:43.886442+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6450.175461,
+    "whale_price": 0.2150058487,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969238.0,
+    "detected_at": "2026-10-26T00:07:43.886444+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6450.122001,
+    "whale_price": 0.2150040667,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969220.0,
+    "detected_at": "2026-10-26T00:07:43.886446+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 6599.2938,
+    "whale_price": 0.21997646,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969212.0,
+    "detected_at": "2026-10-26T00:07:43.886448+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x88c4919de76e526d55a32c1f8afb439dd1f1129a",
+    "name": "Votei14Voude22",
+    "side": "SELL",
+    "usdc": 2007.17306,
+    "whale_price": 0.200717306,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792969202.0,
+    "detected_at": "2026-10-26T00:07:43.886450+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 50000.0,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792969182.0,
+    "detected_at": "2026-10-26T00:07:43.886453+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5850.745,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792969181.0,
+    "detected_at": "2026-10-26T00:07:43.886456+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 4992.000000789131,
+    "whale_price": 0.2152966349,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969145.0,
+    "detected_at": "2026-10-26T00:07:43.886458+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5062.1634,
+    "whale_price": 0.21,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792969142.0,
+    "detected_at": "2026-10-26T00:07:43.886460+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5920.8856000000005,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792969109.0,
+    "detected_at": "2026-10-26T00:07:43.886480+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 4864.927800261732,
+    "whale_price": 0.4874931159,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792969010.0,
+    "detected_at": "2026-10-26T00:07:43.886484+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 3102.794,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968959.0,
+    "detected_at": "2026-10-26T00:07:43.886487+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 50000.0,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792968929.0,
+    "detected_at": "2026-10-26T00:07:43.886490+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "SELL",
+    "usdc": 9788.273,
+    "whale_price": 0.83,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Indiana enact a data center moratorium by December 31, 2027?",
+    "outcome": "No",
+    "token_id": "20621519246800373463929283328591050251154112436099078193801249547038917389982",
+    "condition_id": "0x90eb090b7cfb854b88e4252c9c2a74dcc875558212b71c10dc86188323e3e5c3",
+    "trade_ts": 1792968923.0,
+    "detected_at": "2026-10-26T00:07:43.886492+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 2470.881250052215,
+    "whale_price": 0.6849384607,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968761.0,
+    "detected_at": "2026-10-26T00:07:43.886494+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 12033.636800136594,
+    "whale_price": 0.7268650898,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968758.0,
+    "detected_at": "2026-10-26T00:07:43.886498+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "SELL",
+    "usdc": 2043.5514000000003,
+    "whale_price": 0.22,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968644.0,
+    "detected_at": "2026-10-26T00:07:43.886500+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 3106.8799990800003,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968614.0,
+    "detected_at": "2026-10-26T00:07:43.886502+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2039.2064000000003,
+    "whale_price": 0.77,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968609.0,
+    "detected_at": "2026-10-26T00:07:43.886504+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4102.610099806256,
+    "whale_price": 0.8046763336,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968507.0,
+    "detected_at": "2026-10-26T00:07:43.886506+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 2416.5244,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Pistons vs. 76ers",
+    "outcome": "Pistons",
+    "token_id": "87156947636951840685661152031080965227739896050388550952486363715409583787815",
+    "condition_id": "0x9ea47f0acf34fc1b7bc61575546656775c34341d48e85a4da180b679e5a8bd73",
+    "trade_ts": 1792968482.0,
+    "detected_at": "2026-10-26T00:07:43.886508+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 7441.049,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968458.0,
+    "detected_at": "2026-10-26T00:07:43.886511+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 14968.771999999997,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968425.0,
+    "detected_at": "2026-10-26T00:07:43.886513+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 27767.219999999998,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968399.0,
+    "detected_at": "2026-10-26T00:07:43.886516+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 2086.28748994013,
+    "whale_price": 0.6097724015,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968399.0,
+    "detected_at": "2026-10-26T00:07:43.886518+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2449.2088,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968368.0,
+    "detected_at": "2026-10-26T00:07:43.886522+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 4527.974839668659,
+    "whale_price": 0.601038927,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968368.0,
+    "detected_at": "2026-10-26T00:07:43.886524+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3993.2999999999997,
+    "whale_price": 0.18,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "LYON",
+    "token_id": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968360.0,
+    "detected_at": "2026-10-26T00:07:43.886526+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 7483.0521204778415,
+    "whale_price": 0.6211450239,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968357.0,
+    "detected_at": "2026-10-26T00:07:43.886528+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe221be3b45dfe5ed562ee9dc16f47205728e06f6",
+    "name": "Jokerxing7",
+    "side": "BUY",
+    "usdc": 32941.279,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792968321.0,
+    "detected_at": "2026-10-26T00:07:43.886530+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 14044.986099999998,
+    "whale_price": 0.83,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968315.0,
+    "detected_at": "2026-10-26T00:07:43.886532+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 4779.834639896029,
+    "whale_price": 0.6689817745,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968288.0,
+    "detected_at": "2026-10-26T00:07:43.886534+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "SELL",
+    "usdc": 2949.2084903703158,
+    "whale_price": 0.3240681902,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792968287.0,
+    "detected_at": "2026-10-26T00:07:43.886537+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 226800.0,
+    "whale_price": 0.84,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968270.0,
+    "detected_at": "2026-10-26T00:07:43.886539+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 57960.5517,
+    "whale_price": 0.83,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+    "outcome": "Gen.G",
+    "token_id": "49034142710911177848677487318167086676369622954124732364472696557941530445492",
+    "condition_id": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+    "trade_ts": 1792968218.0,
+    "detected_at": "2026-10-26T00:07:43.886541+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 10786.924799999999,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792968083.0,
+    "detected_at": "2026-10-26T00:07:43.886544+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3751.25000018,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: TS (-1.5) vs FURIA (+1.5)",
+    "outcome": "Spirit",
+    "token_id": "99846855022010129058184303651845843627713537584111760397208162650371782203731",
+    "condition_id": "0x242e0c10850405b62a8dcc26eee411bb562f54acfaab0ad2036eca7d0913a744",
+    "trade_ts": 1792968063.0,
+    "detected_at": "2026-10-26T00:07:43.886547+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 7710.6567204729,
+    "whale_price": 0.6909927421,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792968020.0,
+    "detected_at": "2026-10-26T00:07:43.886549+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 35203.36469891894,
+    "whale_price": 0.6799660339,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792967879.0,
+    "detected_at": "2026-10-26T00:07:43.886551+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 2000.0000000201464,
+    "whale_price": 0.3299211818,
+    "now_price": null,
+    "moved": null,
+    "title": "Lakers vs. Jazz",
+    "outcome": "Jazz",
+    "token_id": "24652808062575696232537101078481394574142094102444623728069067753043071669418",
+    "condition_id": "0x88b7e613ec70694ceca726fc74705903ca62548f4920ece7ea4ee5697e8ce988",
+    "trade_ts": 1792967744.0,
+    "detected_at": "2026-10-26T00:07:43.886553+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 13331.589899331426,
+    "whale_price": 0.6787432528,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967727.0,
+    "detected_at": "2026-10-26T00:07:43.886555+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 3265.49721,
+    "whale_price": 0.326549721,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967720.0,
+    "detected_at": "2026-10-26T00:07:43.886557+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 3186.19139,
+    "whale_price": 0.318619139,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967688.0,
+    "detected_at": "2026-10-26T00:07:43.886559+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 3045.42622,
+    "whale_price": 0.304542622,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967672.0,
+    "detected_at": "2026-10-26T00:07:43.886562+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 7133.000000100001,
+    "whale_price": 0.34,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792967670.0,
+    "detected_at": "2026-10-26T00:07:43.886564+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 3028.47732,
+    "whale_price": 0.302847732,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967655.0,
+    "detected_at": "2026-10-26T00:07:43.886567+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2008.9999999999998,
+    "whale_price": 0.41,
+    "now_price": null,
+    "moved": null,
+    "title": "Raptors vs. Timberwolves",
+    "outcome": "Raptors",
+    "token_id": "59874349050144263449740314915962841177544394267769472360666756279674463358287",
+    "condition_id": "0x4d3b279606d656c8cd73a837293acdf65fe675ddf910daab34e4acce7e39000a",
+    "trade_ts": 1792967630.0,
+    "detected_at": "2026-10-26T00:07:43.886569+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 7919.6373592,
+    "whale_price": 0.2828441914,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967625.0,
+    "detected_at": "2026-10-26T00:07:43.886571+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 7099.999999999999,
+    "whale_price": 0.284,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967606.0,
+    "detected_at": "2026-10-26T00:07:43.886573+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 6000.0,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-16.5)",
+    "outcome": "Thunder",
+    "token_id": "52634639717657232662021501814327673189236772830744659585309575785997911338402",
+    "condition_id": "0xc1a04d21908de94e4a0cf3e3118f68b18a8ee2cfd8e9d778f289bbbe7efc764c",
+    "trade_ts": 1792967603.0,
+    "detected_at": "2026-10-26T00:07:43.886575+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "SELL",
+    "usdc": 7132.6255,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "2026 Balance of Power: D Senate, D House",
+    "outcome": "Yes",
+    "token_id": "34722410608062854697106861099776685947172185964394483545370684749662285977831",
+    "condition_id": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+    "trade_ts": 1792967576.0,
+    "detected_at": "2026-10-26T00:07:43.886578+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5494.9268,
+    "whale_price": 0.11,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792967139.0,
+    "detected_at": "2026-10-26T00:07:43.886580+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 3412.560599865267,
+    "whale_price": 0.8130893989,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "30630994248667897740988010928640156931882346081873066002335460180076741328029",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792967093.0,
+    "detected_at": "2026-10-26T00:07:43.886582+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 3608.8510104,
+    "whale_price": 0.3007375842,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966919.0,
+    "detected_at": "2026-10-26T00:07:43.886583+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 5701.124400700512,
+    "whale_price": 0.3199971936,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "79191939610100241429039499950443680906623179487184628479206155805558220344190",
+    "condition_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+    "trade_ts": 1792966868.0,
+    "detected_at": "2026-10-26T00:07:43.886585+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 7837.399800064801,
+    "whale_price": 0.329389704,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966857.0,
+    "detected_at": "2026-10-26T00:07:43.886589+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+    "name": "spendingmoney",
+    "side": "SELL",
+    "usdc": 2007.5645700091802,
+    "whale_price": 0.3312484853,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966836.0,
+    "detected_at": "2026-10-26T00:07:43.886591+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 2854.0318199999997,
+    "whale_price": 0.3567539775,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966821.0,
+    "detected_at": "2026-10-26T00:07:43.886593+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 5186.931499793685,
+    "whale_price": 0.6397356045,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966818.0,
+    "detected_at": "2026-10-26T00:07:43.886595+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 2921.90642038,
+    "whale_price": 0.3698615722,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966811.0,
+    "detected_at": "2026-10-26T00:07:43.886597+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 3687.90784,
+    "whale_price": 0.368790784,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966799.0,
+    "detected_at": "2026-10-26T00:07:43.886599+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 2401.5325302,
+    "whale_price": 0.4002554217,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966698.0,
+    "detected_at": "2026-10-26T00:07:43.886601+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "BUY",
+    "usdc": 3778.07900000131,
+    "whale_price": 0.5799981578,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966656.0,
+    "detected_at": "2026-10-26T00:07:43.886604+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 2312.946619910829,
+    "whale_price": 0.5741986033,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966638.0,
+    "detected_at": "2026-10-26T00:07:43.886606+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7f9e2d1df78614564a70becc7fa14aa9a6623a0e",
+    "name": "LulaVaiPerder",
+    "side": "SELL",
+    "usdc": 4118.70475,
+    "whale_price": 0.411870475,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966604.0,
+    "detected_at": "2026-10-26T00:07:43.886608+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8806a6f1a847ba4360599ce0f54ce96167712e83",
+    "name": "spendingmoney",
+    "side": "SELL",
+    "usdc": 2003.547949963532,
+    "whale_price": 0.4307630677,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966581.0,
+    "detected_at": "2026-10-26T00:07:43.886611+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 7780.04184,
+    "whale_price": 0.578,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "No",
+    "token_id": "38310927461258927563020508025396887688249787380193911540547071417200646834355",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966508.0,
+    "detected_at": "2026-10-26T00:07:43.886613+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "BUY",
+    "usdc": 2593.967999942058,
+    "whale_price": 0.4869774174,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966134.0,
+    "detected_at": "2026-10-26T00:07:43.886616+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5555.49500005,
+    "whale_price": 0.49999955,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+    "outcome": "Yes",
+    "token_id": "109876868437950584369987384406356259939519193117253465815665152916226511121427",
+    "condition_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
+    "trade_ts": 1792966118.0,
+    "detected_at": "2026-10-26T00:07:43.886618+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "SELL",
+    "usdc": 7691.2896,
+    "whale_price": 0.64,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Republicans win the Texas Senate race in 2026?",
+    "outcome": "No",
+    "token_id": "9846414914422486942750462555692240718767368950832862364324602361738794436048",
+    "condition_id": "0x94521176f57d2ce81dde01e0b7699ca4279423042d37ed53908f0c8bfefe7e14",
+    "trade_ts": 1792966109.0,
+    "detected_at": "2026-10-26T00:07:43.886620+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 25015.17000045826,
+    "whale_price": 0.4992625574,
+    "now_price": null,
+    "moved": null,
+    "title": "Clippers vs. Thunder: O/U 223.5",
+    "outcome": "Under",
+    "token_id": "81296051263252795993346205109669165079127953677570439804892347777684417187592",
+    "condition_id": "0x71eb927b899f1cc45dbc71d764a92a3e7144fddd4433f82e159b446fc40b265a",
+    "trade_ts": 1792966077.0,
+    "detected_at": "2026-10-26T00:07:43.886622+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "name": "Siddhartha1",
+    "side": "BUY",
+    "usdc": 22627.5532,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pacers (-6.5)",
+    "outcome": "Pacers",
+    "token_id": "90155329881748979617768618019333685212081901784939922351680769204160901045514",
+    "condition_id": "0x9023d2dd1a57817e294a000c3f7bf489c113851b17b45d78740c4d5e7d301411",
+    "trade_ts": 1792966073.0,
+    "detected_at": "2026-10-26T00:07:43.886624+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc95ed399d2fbaec9461f2abd70e0d96df1921288",
+    "name": "Siddhartha1",
+    "side": "BUY",
+    "usdc": 21536.647500000003,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "Pacers vs. Nets",
+    "outcome": "Pacers",
+    "token_id": "77364324137255345604331420995513567086774095194364166143934058984043878909542",
+    "condition_id": "0x2c5d30455890fae3deaf528488e86939f9ff1ce0e936bfe97b446808092977ce",
+    "trade_ts": 1792966049.0,
+    "detected_at": "2026-10-26T00:07:43.886626+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 8431.264000000001,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Gen.G vs LYON - Game 2 Winner",
+    "outcome": "Gen.G",
+    "token_id": "51137589046515265921830059856432478288040475876568161617998630350593321061750",
+    "condition_id": "0x4b82c0dd6196c7325a465b74b30c50c5df0acebf44a0ea756155e5053fa14bcf",
+    "trade_ts": 1792966041.0,
+    "detected_at": "2026-10-26T00:07:43.886628+00:00",
     "returns": {
       "60": null,
       "240": null
