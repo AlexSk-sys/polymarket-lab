@@ -18181,5 +18181,537 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2329.6042,
+    "whale_price": 0.77,
+    "now_price": 0.62,
+    "moved": -0.19480519480519484,
+    "title": "Erste Bank Open: Alexander Zverev vs Martin Landaluce",
+    "outcome": "Alexander Zverev",
+    "token_id": "50341914741854025382280796763875460476922473576830846316197107406914374663506",
+    "condition_id": "0x9df74cb293333dd8b3d2b0c6a186bc3385ac41203f9cdf6d2888c1d89257c749",
+    "trade_ts": 1793131107.0,
+    "detected_at": "2026-10-27T20:00:42.148350+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2e3ecedec4b004c61670f0dcda382ec0da1f0f92",
+    "name": "hello.67",
+    "side": "BUY",
+    "usdc": 2127.51000004,
+    "whale_price": 0.62,
+    "now_price": 0.74,
+    "moved": 0.1935483870967742,
+    "title": "Will the highest temperature in Panama City be 33°C on October 28?",
+    "outcome": "No",
+    "token_id": "42661254006885373167243334077105794966720611853848516865688437934617975038867",
+    "condition_id": "0x2e0bfe2d8027d3f1f43a696033b2be90bd88cc558e6f39c75e298e873dab66ad",
+    "trade_ts": 1793131086.0,
+    "detected_at": "2026-10-27T20:00:42.257745+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2483.245299965125,
+    "whale_price": 0.6456276373,
+    "now_price": 0.41,
+    "moved": -0.3649590316260149,
+    "title": "Erste Bank Open: Alexander Zverev vs Martin Landaluce",
+    "outcome": "Martin Landaluce",
+    "token_id": "110436235741890728192405405650404192778559231291344130652831864140873154881285",
+    "condition_id": "0x9df74cb293333dd8b3d2b0c6a186bc3385ac41203f9cdf6d2888c1d89257c749",
+    "trade_ts": 1793130965.0,
+    "detected_at": "2026-10-27T20:00:42.362550+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "SELL",
+    "usdc": 9744.3372,
+    "whale_price": 0.78,
+    "now_price": 0.63,
+    "moved": 0.19230769230769232,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793130753.0,
+    "detected_at": "2026-10-27T20:00:42.460844+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "BUY",
+    "usdc": 4688.8856000000005,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "No",
+    "token_id": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+    "condition_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "trade_ts": 1793130066.0,
+    "detected_at": "2026-10-27T20:00:42.460863+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 5384.81209965545,
+    "whale_price": 0.397449745,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Democratic Party win the NC-03 House seat?",
+    "outcome": "Yes",
+    "token_id": "35652027990529722940871226835745538038129467293726461013865152464520199065964",
+    "condition_id": "0xa74ddc3ce66416b679703e087afd5d2047a58a2974d7730cab76a0176eda6933",
+    "trade_ts": 1793129711.0,
+    "detected_at": "2026-10-27T20:00:42.460868+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 17290.441600000002,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "No",
+    "token_id": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+    "condition_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "trade_ts": 1793129708.0,
+    "detected_at": "2026-10-27T20:00:42.460872+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 2031.876899814984,
+    "whale_price": 0.3736001831,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Republican Party win the NC-13 House seat?",
+    "outcome": "No",
+    "token_id": "41840882112142297606602696932537647023114811864602072712743312635792002847544",
+    "condition_id": "0x0536145e60528ca32583b13961a328a679b868f9fc6a775c2845776d8aa70cbe",
+    "trade_ts": 1793129393.0,
+    "detected_at": "2026-10-27T20:00:42.460875+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 4364.9338,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco",
+    "outcome": "Rodrigo Pacheco",
+    "token_id": "66887932040016313993596176911717376562947435309840949386404980233318281441092",
+    "condition_id": "0x6f14b703d9315d55473ef63c73d21b09850b853a3850642ee812e898b6efd56a",
+    "trade_ts": 1793129318.0,
+    "detected_at": "2026-10-27T20:00:42.460878+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 6905.248500034935,
+    "whale_price": 0.8098240851,
+    "now_price": null,
+    "moved": null,
+    "title": "Guayaquil: Juan Pablo Varillas vs Rodrigo Pacheco",
+    "outcome": "Rodrigo Pacheco",
+    "token_id": "66887932040016313993596176911717376562947435309840949386404980233318281441092",
+    "condition_id": "0x6f14b703d9315d55473ef63c73d21b09850b853a3850642ee812e898b6efd56a",
+    "trade_ts": 1793129307.0,
+    "detected_at": "2026-10-27T20:00:42.460881+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 8732.6008,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "Yes",
+    "token_id": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
+    "condition_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "trade_ts": 1793129247.0,
+    "detected_at": "2026-10-27T20:00:42.460884+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "BUY",
+    "usdc": 8500.142600000001,
+    "whale_price": 0.67,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "Yes",
+    "token_id": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
+    "condition_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "trade_ts": 1793128919.0,
+    "detected_at": "2026-10-27T20:00:42.460888+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 3998.254,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "No",
+    "token_id": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+    "condition_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "trade_ts": 1793128502.0,
+    "detected_at": "2026-10-27T20:00:42.460891+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 5285.293200000001,
+    "whale_price": 0.66,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "Yes",
+    "token_id": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
+    "condition_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "trade_ts": 1793128490.0,
+    "detected_at": "2026-10-27T20:00:42.460893+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 3279.7947,
+    "whale_price": 0.39,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Envy vs GamerLegion (BO3) - Tesla Cup Group B",
+    "outcome": "GamerLegion",
+    "token_id": "86503771849718349811655533347270437058311747911509461519846289560874988934594",
+    "condition_id": "0xa5835bcb97c601108a67233a9ad60bc4d76cf07299aa004f54e5159850775a60",
+    "trade_ts": 1793128394.0,
+    "detected_at": "2026-10-27T20:00:42.460897+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 3245.2160000000003,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Erste Bank Open: Lorenzo Musetti vs Frances Tiafoe",
+    "outcome": "Frances Tiafoe",
+    "token_id": "8091218663316781082962036789012436536739992429318730533853822486951107605621",
+    "condition_id": "0xf55f2a93d156ae767d276a9c56d93b8e43fff09d422045227fcb5c4bf4f99e5d",
+    "trade_ts": 1793128323.0,
+    "detected_at": "2026-10-27T20:00:42.460900+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991",
+    "name": "foodenjoyer",
+    "side": "BUY",
+    "usdc": 5572.0275,
+    "whale_price": 0.75,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793128092.0,
+    "detected_at": "2026-10-27T20:00:42.460904+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 9677.1793693715,
+    "whale_price": 0.5561916797,
+    "now_price": null,
+    "moved": null,
+    "title": "AS Roma vs. Cagliari Calcio: O/U 1.5 AND Torino FC vs. Como 1907: O/U 1.5 AND Leicester City FC vs. Wigan Athletic FC: O/U 1.5",
+    "outcome": "",
+    "token_id": "1586153874352505475692729466778359138737169397511682056257872026842395836416",
+    "condition_id": "0x0381bb35111d1454d41b9ea885db24319d0000000000000000000000000000",
+    "trade_ts": 1793127977.0,
+    "detected_at": "2026-10-27T20:00:42.460907+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "SELL",
+    "usdc": 70056.4725,
+    "whale_price": 0.75,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "outcome": "No",
+    "token_id": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+    "condition_id": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+    "trade_ts": 1793127671.0,
+    "detected_at": "2026-10-27T20:00:42.460910+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 28783.836300960174,
+    "whale_price": 0.6874868349,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "No",
+    "token_id": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+    "condition_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "trade_ts": 1793127347.0,
+    "detected_at": "2026-10-27T20:00:42.460913+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 15864.49879910862,
+    "whale_price": 0.6798393017,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "Yes",
+    "token_id": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
+    "condition_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "trade_ts": 1793127339.0,
+    "detected_at": "2026-10-27T20:00:42.460916+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 2905.5606,
+    "whale_price": 0.73,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "Yes",
+    "token_id": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
+    "condition_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "trade_ts": 1793125356.0,
+    "detected_at": "2026-10-27T20:00:42.460919+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 9086.4414,
+    "whale_price": 0.73,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "No",
+    "token_id": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+    "condition_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "trade_ts": 1793125352.0,
+    "detected_at": "2026-10-27T20:00:42.460922+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 2404.2532096349914,
+    "whale_price": 0.2729817501,
+    "now_price": null,
+    "moved": null,
+    "title": "AS Roma vs. Cagliari Calcio: O/U 1.5 AND Torino FC vs. Como 1907: O/U 1.5 AND Leicester City FC vs. Wigan Athletic FC: O/U 1.5 AND Will Al Hilal SFC win on 2026-10-27? AND Will AS Roma win on 2026-10-27?",
+    "outcome": "",
+    "token_id": "1748236419954299996024274125822262290654836305713357508583864399303022739456",
+    "condition_id": "0x03dd777cd147d794cb4c8d22bbfdf082980000000000000000000000000000",
+    "trade_ts": 1793124921.0,
+    "detected_at": "2026-10-27T20:00:42.460925+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 6255.225600000001,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "Queretaro: Polona Hercog vs Martina Capurro",
+    "outcome": "Polona Hercog",
+    "token_id": "77891280586581463657590013495776045243306190416727137971931546449667536574876",
+    "condition_id": "0xf82c97dd53fb3d0b53735f82daf0fe8d3ad25b625eca7d7e3487e946b497e9f1",
+    "trade_ts": 1793124684.0,
+    "detected_at": "2026-10-27T20:00:42.460928+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 6690.989999836,
+    "whale_price": 0.869976596,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: SS Lazio (-1.5)",
+    "outcome": "SS Lazio",
+    "token_id": "111011439206424964554064316984813105938302938715141103877951903660362565228872",
+    "condition_id": "0x11071274169db7ceb045948f64ebf3d61c4ea4cc5f6d0d839016c5e010260cea",
+    "trade_ts": 1793124356.0,
+    "detected_at": "2026-10-27T20:00:42.460931+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 3270.0897999999997,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: SS Lazio (-1.5)",
+    "outcome": "SS Lazio",
+    "token_id": "111011439206424964554064316984813105938302938715141103877951903660362565228872",
+    "condition_id": "0x11071274169db7ceb045948f64ebf3d61c4ea4cc5f6d0d839016c5e010260cea",
+    "trade_ts": 1793124345.0,
+    "detected_at": "2026-10-27T20:00:42.460934+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 7439.25,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "Queretaro: Polona Hercog vs Martina Capurro",
+    "outcome": "Polona Hercog",
+    "token_id": "77891280586581463657590013495776045243306190416727137971931546449667536574876",
+    "condition_id": "0xf82c97dd53fb3d0b53735f82daf0fe8d3ad25b625eca7d7e3487e946b497e9f1",
+    "trade_ts": 1793124329.0,
+    "detected_at": "2026-10-27T20:00:42.460937+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
