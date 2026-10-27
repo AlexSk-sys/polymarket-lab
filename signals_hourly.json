@@ -18010,5 +18010,176 @@
       "60": null,
       "240": null
     }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 5443.505599497205,
+    "whale_price": 0.5160439985,
+    "now_price": null,
+    "moved": null,
+    "title": "Beijing Guoan vs. Jeonbuk FC: O/U 4.5",
+    "outcome": "Under",
+    "token_id": "97922644388669307355673723837494344827450368353101805324176044581914209182438",
+    "condition_id": "0x759e82feb05c00db2ab42f4b3b455ff104a804824c3a47aa44514208ea18ec69",
+    "trade_ts": 1793108972.0,
+    "detected_at": "2026-10-27T14:21:59.517239+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 16852.280000000002,
+    "whale_price": 0.79,
+    "now_price": null,
+    "moved": null,
+    "title": "Courmayeur: Adrienn Nagy vs Oksana Selekhmeteva",
+    "outcome": "Oksana Selekhmeteva",
+    "token_id": "65395268650467643521861116767154674963974535759136852632650184883869718607489",
+    "condition_id": "0xfc74061af9fdd973b3e5d85aaba994e4ffe7c25e9cca3f5306c6f030f84f7c3d",
+    "trade_ts": 1793108871.0,
+    "detected_at": "2026-10-27T14:21:59.517258+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4100.0000000297205,
+    "whale_price": 0.6486197845,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: Astra Invicta vs LEGION (BO1) - PARI Universe Group B",
+    "outcome": "LEGION",
+    "token_id": "66615377876173334447289598839442715679685853475539906348291154128536435027294",
+    "condition_id": "0x33b0858cf15d0f5fc1ba0a93a25a79837bc31ffaf17762b8aea73f2df36793e8",
+    "trade_ts": 1793108595.0,
+    "detected_at": "2026-10-27T14:21:59.517262+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9e0720ee9e83fbebed019651a038793970c76e49",
+    "name": "ShadowRealms",
+    "side": "BUY",
+    "usdc": 4433.30948,
+    "whale_price": 0.607,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Liquid vs Aurora Gaming (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Aurora Gaming",
+    "token_id": "108722652282832774715911874188788366649198767708491443860314343249390873561468",
+    "condition_id": "0xb3190794885f832e508d086ffa82d4b84ca1e0ada9c734550637e6fdd9bb1cff",
+    "trade_ts": 1793107437.0,
+    "detected_at": "2026-10-27T14:21:59.517264+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "name": "wan123",
+    "side": "BUY",
+    "usdc": 2128.9037,
+    "whale_price": 0.77,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "No",
+    "token_id": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+    "condition_id": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+    "trade_ts": 1793106603.0,
+    "detected_at": "2026-10-27T14:21:59.517266+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "SELL",
+    "usdc": 2146.321899513398,
+    "whale_price": 0.1405690358,
+    "now_price": null,
+    "moved": null,
+    "title": "Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew",
+    "outcome": "Mananchaya Sawangkaew",
+    "token_id": "110509069876599274930117372175578565716484021568751778649714331994372134523295",
+    "condition_id": "0x089ee30a60852635851212d62403b7345b07da69dc791597c8019f357dfcd2e2",
+    "trade_ts": 1793105105.0,
+    "detected_at": "2026-10-27T14:21:59.517268+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "name": "HVAB",
+    "side": "BUY",
+    "usdc": 3664.5143999999996,
+    "whale_price": 0.24,
+    "now_price": null,
+    "moved": null,
+    "title": "Guangzhou Open: Xinran Sun vs Mananchaya Sawangkaew",
+    "outcome": "Mananchaya Sawangkaew",
+    "token_id": "110509069876599274930117372175578565716484021568751778649714331994372134523295",
+    "condition_id": "0x089ee30a60852635851212d62403b7345b07da69dc791597c8019f357dfcd2e2",
+    "trade_ts": 1793104830.0,
+    "detected_at": "2026-10-27T14:21:59.517270+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 3076.38,
+    "whale_price": 0.81,
+    "now_price": null,
+    "moved": null,
+    "title": "Beijing Guoan vs. Jeonbuk FC: Beijing Guoan O/U 0.5",
+    "outcome": "Over",
+    "token_id": "50932522624533830702830566890458509533247957770476550674572463468980856152016",
+    "condition_id": "0x86a7d846cfe35bf42a70f6d05d2f76af3efa038ee0f2db275cd34669e61262ea",
+    "trade_ts": 1793104425.0,
+    "detected_at": "2026-10-27T14:21:59.517271+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x614dc8d3542c12103d2c6a3553fd761e391d1546",
+    "name": "mr.ozi",
+    "side": "BUY",
+    "usdc": 3755.1710999999996,
+    "whale_price": 0.73,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+    "outcome": "Yes",
+    "token_id": "9025448570994866714151390167666974197623007132973626623412960268955048642964",
+    "condition_id": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+    "trade_ts": 1793104404.0,
+    "detected_at": "2026-10-27T14:21:59.517274+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
   }
 ]
