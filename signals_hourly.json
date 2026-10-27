@@ -16525,7 +16525,7 @@
     "trade_ts": 1793066085.0,
     "detected_at": "2026-10-27T02:00:13.565769+00:00",
     "returns": {
-      "60": null,
+      "60": -0.14583333333333334,
       "240": null
     }
   },
@@ -16544,7 +16544,7 @@
     "trade_ts": 1793065994.0,
     "detected_at": "2026-10-27T02:00:13.742610+00:00",
     "returns": {
-      "60": null,
+      "60": -0.86,
       "240": null
     }
   },
@@ -17835,6 +17835,177 @@
     "condition_id": "0xaad63df82dcb1c268450e1f481beecc20e4328817fc5286a67c3ea6c0db7837e",
     "trade_ts": 1793059308.0,
     "detected_at": "2026-10-27T02:00:13.742809+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 2018.5200000000002,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Celtics (-12.5)",
+    "outcome": "Nets",
+    "token_id": "7312846480258339875039341904794742820799557075450083924766198166730607459601",
+    "condition_id": "0x96deee7829b8a97de5340945cef29ee9973ee3745b4ae83c2d80388076ad511f",
+    "trade_ts": 1793086025.0,
+    "detected_at": "2026-10-27T07:41:33.374845+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 3510.0000000000005,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Knicks (-3.5)",
+    "outcome": "Knicks",
+    "token_id": "53111993040634476206776134746786359233447934229731463463267755382749611867652",
+    "condition_id": "0x92ee2aa6399fd54aab16b5f30f1f550661a0fc66cf48add15c2d8fd4a87c9921",
+    "trade_ts": 1793085975.0,
+    "detected_at": "2026-10-27T07:41:33.374866+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 25900.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A",
+    "outcome": "K27",
+    "token_id": "67574052148959962975421407902463445998153500936503980625871489071503894219542",
+    "condition_id": "0xac4f737d77e80ff0400586eb50479e8e43943bdc5808581bb8d081cf5176c8e6",
+    "trade_ts": 1793085909.0,
+    "detected_at": "2026-10-27T07:41:33.374871+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 4075.0526,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Pan Pacific Open: Aliaksandra Sasnovich vs Nikola Bartunkova",
+    "outcome": "Nikola Bartunkova",
+    "token_id": "36711102674069787758950905556858396057433730661910759976016068761450715953242",
+    "condition_id": "0x72aeacd50a9a5365ea08d15dc9e83a0f1264768a6913bcd1a135aef7e4246eb1",
+    "trade_ts": 1793084108.0,
+    "detected_at": "2026-10-27T07:41:33.374874+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 4259.255,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Pan Pacific Open: Aliaksandra Sasnovich vs Nikola Bartunkova",
+    "outcome": "Nikola Bartunkova",
+    "token_id": "36711102674069787758950905556858396057433730661910759976016068761450715953242",
+    "condition_id": "0x72aeacd50a9a5365ea08d15dc9e83a0f1264768a6913bcd1a135aef7e4246eb1",
+    "trade_ts": 1793084102.0,
+    "detected_at": "2026-10-27T07:41:33.374877+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 49200.0,
+    "whale_price": 0.41,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "DENDELE CS",
+    "token_id": "52988084884432112870614933495883862277736179547799387163141126504306402804747",
+    "condition_id": "0x8989cb82cb1c0888615337a3b65b935cc4f25b86732e3288e2fc79c3f5469182",
+    "trade_ts": 1793084012.0,
+    "detected_at": "2026-10-27T07:41:33.374879+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 10082.477399453732,
+    "whale_price": 0.7894611998,
+    "now_price": null,
+    "moved": null,
+    "title": "Pan Pacific Open: Aliaksandra Sasnovich vs Nikola Bartunkova",
+    "outcome": "Aliaksandra Sasnovich",
+    "token_id": "7722063001499518489814168644405652119104722631392685277946111298932183502205",
+    "condition_id": "0x72aeacd50a9a5365ea08d15dc9e83a0f1264768a6913bcd1a135aef7e4246eb1",
+    "trade_ts": 1793082722.0,
+    "detected_at": "2026-10-27T07:41:33.374882+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 13593.306599832,
+    "whale_price": 0.5381356532,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Celtics (-12.5)",
+    "outcome": "Nets",
+    "token_id": "7312846480258339875039341904794742820799557075450083924766198166730607459601",
+    "condition_id": "0x96deee7829b8a97de5340945cef29ee9973ee3745b4ae83c2d80388076ad511f",
+    "trade_ts": 1793081322.0,
+    "detected_at": "2026-10-27T07:41:33.374884+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 5713.700100068754,
+    "whale_price": 0.5350161946,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Knicks (-3.5)",
+    "outcome": "Knicks",
+    "token_id": "53111993040634476206776134746786359233447934229731463463267755382749611867652",
+    "condition_id": "0x92ee2aa6399fd54aab16b5f30f1f550661a0fc66cf48add15c2d8fd4a87c9921",
+    "trade_ts": 1793081217.0,
+    "detected_at": "2026-10-27T07:41:33.374887+00:00",
     "returns": {
       "60": null,
       "240": null
