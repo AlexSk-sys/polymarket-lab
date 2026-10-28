@@ -185,6 +185,10 @@ class StrategyRowsTest(unittest.TestCase):
         out = pm_lab.strategy_rows(self.ROWS, 0.02, True)
         self.assertEqual({x["condition_id"] for x in out}, {"a", "c"})
 
+    def test_abs_move_filter(self):
+        out = pm_lab.strategy_rows(self.ROWS, max_abs_move=0.02)
+        self.assertEqual({x["condition_id"] for x in out}, {"a", "c"})
+
 
 def _lag_row(lag_seconds: int, backfilled: bool = False) -> dict:
     detected = datetime(2026, 10, 25, 1, 0, tzinfo=UTC)

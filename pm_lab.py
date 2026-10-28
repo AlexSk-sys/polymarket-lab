@@ -1029,6 +1029,7 @@ def strategy_rows(
     max_adverse_move: float | None = None,
     one_per_market: bool = False,
     max_lag: float | None = None,
+    max_abs_move: float | None = None,
 ) -> list[dict]:
     """Rows a copy strategy could actually hold, without double counting.
 
@@ -1040,6 +1041,10 @@ def strategy_rows(
     * `max_lag` keeps only signals detected within this many seconds of the
       whale's fill. The replay edge decays from +7.8% (60s) to +2.3% (30m), so
       a slow sample and a fast sample are not the same strategy.
+    * `max_abs_move` is the price-impact filter: keep only rows where the price
+      has barely moved in EITHER direction. If the book already repriced the
+      whale's information, the edge is gone; the historical +7.7% (t=3.1) and
+      the live +28.4% (t=2.2) both live inside the +/-2% band.
     """
     out = list(rows)
     if max_lag is not None:
@@ -1063,6 +1068,12 @@ def strategy_rows(
             if lag <= max_lag:
                 fresh.append(x)
         out = fresh
+    if max_abs_move is not None:
+        out = [
+            x
+            for x in out
+            if x.get("moved") is None or abs(float(x["moved"])) <= max_abs_move
+        ]
     if max_adverse_move is not None:
         out = [
             x
@@ -2441,10 +2452,15 @@ def cmd_chart(args) -> int:
         args.one_per_market
         or args.max_adverse_move is not None
         or args.max_lag is not None
+        or args.max_abs_move is not None
     ):
         total = len(rows)
         rows = strategy_rows(
-            rows, args.max_adverse_move, args.one_per_market, args.max_lag
+            rows,
+            max_adverse_move=args.max_adverse_move,
+            one_per_market=args.one_per_market,
+            max_lag=args.max_lag,
+            max_abs_move=args.max_abs_move,
         )
         print(f"strategy rows: {len(rows)} of {total}")
 
@@ -2767,7 +2783,11 @@ def cmd_dashboard(args) -> int:
         except json.JSONDecodeError:
             rows = []
         rows = strategy_rows(
-            rows, args.max_adverse_move, args.one_per_market, args.max_lag
+            rows,
+            max_adverse_move=args.max_adverse_move,
+            one_per_market=args.one_per_market,
+            max_lag=args.max_lag,
+            max_abs_move=args.max_abs_move,
         )
         for h in (60, 240):
             payload["signals"][str(h)] = cumulative(rows, "", h)
@@ -2975,15 +2995,21 @@ def cmd_evaluate(args) -> int:
         args.one_per_market
         or args.max_adverse_move is not None
         or args.max_lag is not None
+        or args.max_abs_move is not None
     ):
         picked = strategy_rows(
-            rows, args.max_adverse_move, args.one_per_market, args.max_lag
+            rows,
+            max_adverse_move=args.max_adverse_move,
+            one_per_market=args.one_per_market,
+            max_lag=args.max_lag,
+            max_abs_move=args.max_abs_move,
         )
         print()
         print(
             f"=== executable strategy: {len(picked)} of {len(rows)} rows "
             f"(one per market={args.one_per_market}, "
             f"max adverse move={args.max_adverse_move}, "
+            f"max abs move={args.max_abs_move}, "
             f"max lag={args.max_lag}) ==="
         )
         table(picked)
@@ -3234,7 +3260,12 @@ def cmd_resolve(args) -> int:
     closed = [s for s in signals if s.get("resolution") is not None]
     open_rows = [s for s in signals if s.get("resolution") is None]
     scored = [s for s in closed if (s.get("returns") or {}).get("res") is not None]
-    picked = strategy_rows(scored, args.max_adverse_move, True)
+    picked = strategy_rows(
+        scored,
+        max_adverse_move=args.max_adverse_move,
+        one_per_market=True,
+        max_abs_move=args.max_abs_move,
+    )
     ordered = sorted(picked, key=_sort_ts)
     vals = [s["returns"]["res"] for s in ordered]
     print(
@@ -3617,6 +3648,13 @@ def main(argv: list[str] | None = None) -> int:
         metavar="SECONDS",
         help="keep only signals detected within this many seconds of the whale",
     )
+    ch.add_argument(
+        "--max-abs-move",
+        type=float,
+        default=None,
+        metavar="FRAC",
+        help="keep only entries whose price moved less than FRAC in either direction",
+    )
     ch.set_defaults(func=cmd_chart)
 
     db = sub.add_parser("dashboard", help="live HTML dashboard, auto-refreshing")
@@ -3627,6 +3665,7 @@ def main(argv: list[str] | None = None) -> int:
     db.add_argument("--max-adverse-move", type=float, default=None, metavar="FRAC")
     db.add_argument("--one-per-market", action="store_true")
     db.add_argument("--max-lag", type=float, default=None, metavar="SECONDS")
+    db.add_argument("--max-abs-move", type=float, default=None, metavar="FRAC")
     db.set_defaults(func=cmd_dashboard)
 
     bs = sub.add_parser("build-static", help="render dashboard for a static host")
@@ -3662,6 +3701,13 @@ def main(argv: list[str] | None = None) -> int:
         help="in the executable view, keep only signals detected within this many seconds",
     )
     e.add_argument(
+        "--max-abs-move",
+        type=float,
+        default=None,
+        metavar="FRAC",
+        help="in the executable view, keep only entries whose price moved less than FRAC either way",
+    )
+    e.add_argument(
         "--walk-forward",
         type=int,
         default=0,
@@ -3678,6 +3724,7 @@ def main(argv: list[str] | None = None) -> int:
     rs.add_argument("--write-back", action="store_true")
     rs.add_argument("--cache", default=str(RESOLUTION_CACHE))
     rs.add_argument("--max-adverse-move", type=float, default=0.02)
+    rs.add_argument("--max-abs-move", type=float, default=None)
     rs.add_argument("--stake", type=float, default=20.0)
     rs.add_argument("--bankroll", type=float, default=1000.0)
     rs.add_argument("--risk", type=float, default=0.02)
