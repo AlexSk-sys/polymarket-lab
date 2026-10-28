@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-10-28T10:53:08.643993+00:00",
+  "generated_at": "2026-10-28T12:15:02.795051+00:00",
   "file": "signals_hourly.json",
-  "signals": 791,
-  "resolved": 709,
-  "open": 82,
+  "since": "2026-10-28T12:10:00+00:00",
+  "signals": 812,
+  "resolved": 714,
+  "open": 98,
   "strategy": {
-    "n": 70,
-    "mean": 0.19397720969752255,
-    "median": 0.515151515151515,
-    "win": 0.6571428571428571,
-    "t": 1.7346194743610013,
-    "pnl": 271.5680935765315,
-    "max_drawdown": -94.48275862068965,
-    "worst_12": -75.57984330693138,
-    "full_losses": 21,
-    "longest_loss_streak": 5
+    "n": 0,
+    "mean": null,
+    "median": null,
+    "win": null,
+    "t": null,
+    "pnl": 0.0,
+    "max_drawdown": 0.0,
+    "worst_12": 0.0,
+    "full_losses": 0,
+    "longest_loss_streak": 0
   },
   "sizing": {
     "bankroll": 1000.0,
     "stake": 20.0,
     "risk": 0.02,
-    "max_drawdown_pct": 0.09448275862068965
+    "max_drawdown_pct": 0.0
   },
   "review_at_resolved": 150,
   "checkpoint": {
     "review_at": 150,
-    "remaining": 80,
+    "remaining": 150,
     "stop_after": 100,
     "stop_mean": -0.05,
     "stop_dd": 0.2,

@@ -1092,12 +1092,32 @@ def horizon_window_valid(signal: dict, horizon: int) -> bool:
     return age < horizon * 60
 
 
+def _row_time(row: dict) -> float | None:
+    """Decision time of a row: detection for live, trade time for backfill."""
+    if row.get("backfilled"):
+        try:
+            return float(row.get("trade_ts") or 0.0)
+        except (TypeError, ValueError):
+            return None
+    detected = row.get("detected_at")
+    if detected:
+        try:
+            return datetime.fromisoformat(detected).timestamp()
+        except (TypeError, ValueError):
+            return None
+    try:
+        return float(row.get("trade_ts") or 0.0)
+    except (TypeError, ValueError):
+        return None
+
+
 def strategy_rows(
     rows: list[dict],
     max_adverse_move: float | None = None,
     one_per_market: bool = False,
     max_lag: float | None = None,
     max_abs_move: float | None = None,
+    since: str | None = None,
 ) -> list[dict]:
     """Rows a copy strategy could actually hold, without double counting.
 
@@ -1115,6 +1135,13 @@ def strategy_rows(
       the live +28.4% (t=2.2) both live inside the +/-2% band.
     """
     out = list(rows)
+    if since:
+        try:
+            cut = datetime.fromisoformat(since).timestamp()
+        except (TypeError, ValueError):
+            cut = None
+        if cut is not None:
+            out = [x for x in out if (_row_time(x) or 0.0) >= cut]
     if max_lag is not None:
         fresh = []
         for x in out:
@@ -3335,6 +3362,7 @@ def cmd_resolve(args) -> int:
         max_adverse_move=args.max_adverse_move,
         one_per_market=True,
         max_abs_move=args.max_abs_move,
+        since=args.since,
     )
     ordered = sorted(picked, key=_sort_ts)
     vals = [s["returns"]["res"] for s in ordered]
@@ -3342,6 +3370,8 @@ def cmd_resolve(args) -> int:
         f"{args.signals}: {len(signals)} signals, "
         f"{len(closed)} resolved, {len(open_rows)} open"
     )
+    if args.since:
+        print(f"  forward freeze: {args.since} (only rows at/after this count)")
     if args.write_back:
         Path(args.signals).write_text(
             json.dumps(signals, indent=2, ensure_ascii=False), encoding="utf-8"
@@ -3382,6 +3412,7 @@ def cmd_resolve(args) -> int:
     report = {
         "generated_at": datetime.now(UTC).isoformat(),
         "file": args.signals,
+        "since": args.since,
         "signals": len(signals),
         "resolved": len(closed),
         "open": len(open_rows),
@@ -3825,6 +3856,11 @@ def main(argv: list[str] | None = None) -> int:
     rs.add_argument("--cache", default=str(RESOLUTION_CACHE))
     rs.add_argument("--max-adverse-move", type=float, default=0.02)
     rs.add_argument("--max-abs-move", type=float, default=None)
+    rs.add_argument(
+        "--since",
+        default=None,
+        help="forward freeze: only rows detected/traded at or after this ISO timestamp",
+    )
     rs.add_argument("--stake", type=float, default=20.0)
     rs.add_argument("--bankroll", type=float, default=1000.0)
     rs.add_argument("--risk", type=float, default=0.02)

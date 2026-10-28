@@ -16332,7 +16332,7 @@
     "detected_at": "2026-10-28T08:00:25.109908+00:00",
     "returns": {
       "60": -0.009615384615384623,
-      "240": null,
+      "240": -0.019230769230769246,
       "res": null
     },
     "resolution": null
@@ -16353,7 +16353,7 @@
     "detected_at": "2026-10-28T08:00:25.203887+00:00",
     "returns": {
       "60": -0.009615384615384623,
-      "240": null,
+      "240": -0.028846153846153872,
       "res": null
     },
     "resolution": null
@@ -16374,7 +16374,7 @@
     "detected_at": "2026-10-28T08:00:25.304241+00:00",
     "returns": {
       "60": -0.009615384615384623,
-      "240": null,
+      "240": -0.028846153846153872,
       "res": null
     },
     "resolution": null
@@ -16395,7 +16395,7 @@
     "detected_at": "2026-10-28T08:00:25.402818+00:00",
     "returns": {
       "60": -0.055555555555555455,
-      "240": null,
+      "240": 0.13888888888888887,
       "res": null
     },
     "resolution": null
@@ -16416,7 +16416,7 @@
     "detected_at": "2026-10-28T08:00:25.494069+00:00",
     "returns": {
       "60": 0.010869565217391313,
-      "240": null,
+      "240": -0.010869565217391313,
       "res": null
     },
     "resolution": null
@@ -16520,7 +16520,7 @@
     "trade_ts": 1793181556.0,
     "detected_at": "2026-10-28T10:00:41.401670+00:00",
     "returns": {
-      "60": null,
+      "60": -0.1136363636363636,
       "240": null,
       "res": null
     },
@@ -16541,7 +16541,7 @@
     "trade_ts": 1793180728.0,
     "detected_at": "2026-10-28T10:00:41.476541+00:00",
     "returns": {
-      "60": null,
+      "60": -0.013157894736842117,
       "240": null,
       "res": null
     },
@@ -16562,7 +16562,7 @@
     "trade_ts": 1793179807.0,
     "detected_at": "2026-10-28T10:00:41.556814+00:00",
     "returns": {
-      "60": null,
+      "60": 1.324418604651163,
       "240": null,
       "res": 1.3255813953488373
     },
@@ -16583,7 +16583,7 @@
     "trade_ts": 1793179766.0,
     "detected_at": "2026-10-28T10:00:41.631391+00:00",
     "returns": {
-      "60": null,
+      "60": 1.324418604651163,
       "240": null,
       "res": 1.3255813953488373
     },
@@ -16604,10 +16604,451 @@
     "trade_ts": 1793179258.0,
     "detected_at": "2026-10-28T10:00:41.704557+00:00",
     "returns": {
-      "60": null,
+      "60": 1.324418604651163,
       "240": null,
       "res": 1.3255813953488373
     },
     "resolution": 1.0
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "name": "aenews2",
+    "side": "BUY",
+    "usdc": 15919.593197892937,
+    "whale_price": 0.3132374786,
+    "now_price": 0.35,
+    "moved": 0.11736309960196432,
+    "title": "Will the Democratic Party win the NC-09 House seat?",
+    "outcome": "Yes",
+    "token_id": "19487052203651431192481379552438807185630235920667385514559604134738032022407",
+    "condition_id": "0xdc23b5a54616abf57d7f89f57a29dbacc0d836ab6f3994f5533c8c41ba929ebb",
+    "trade_ts": 1793185159.0,
+    "detected_at": "2026-10-28T11:00:42.707554+00:00",
+    "returns": {
+      "60": 0.0714285714285715,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3164.850599952007,
+    "whale_price": 0.7803328591,
+    "now_price": 0.81,
+    "moved": 0.03801857188766434,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 2 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "6165307522685232661925140095906476254478824795353371070291172355078932706925",
+    "condition_id": "0x666bddf2d03508606972a69e687b49b3621e85e4d2c9be4b5f0a5480e847bbb8",
+    "trade_ts": 1793185007.0,
+    "detected_at": "2026-10-28T11:00:42.784172+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": 0.23456790123456783
+    },
+    "resolution": 1.0
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3528.5735999999997,
+    "whale_price": 0.76,
+    "now_price": 0.81,
+    "moved": 0.06578947368421058,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 2 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "6165307522685232661925140095906476254478824795353371070291172355078932706925",
+    "condition_id": "0x666bddf2d03508606972a69e687b49b3621e85e4d2c9be4b5f0a5480e847bbb8",
+    "trade_ts": 1793184688.0,
+    "detected_at": "2026-10-28T11:00:42.860735+00:00",
+    "returns": {
+      "60": 0.2339506172839506,
+      "240": null,
+      "res": 0.23456790123456783
+    },
+    "resolution": 1.0
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4000.0000001500002,
+    "whale_price": 0.77,
+    "now_price": 0.81,
+    "moved": 0.05194805194805199,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 2 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "6165307522685232661925140095906476254478824795353371070291172355078932706925",
+    "condition_id": "0x666bddf2d03508606972a69e687b49b3621e85e4d2c9be4b5f0a5480e847bbb8",
+    "trade_ts": 1793184623.0,
+    "detected_at": "2026-10-28T11:00:42.941482+00:00",
+    "returns": {
+      "60": 0.2339506172839506,
+      "240": null,
+      "res": 0.23456790123456783
+    },
+    "resolution": 1.0
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 22484.99999991738,
+    "whale_price": 0.7165076161,
+    "now_price": 0.81,
+    "moved": 0.13048344748780966,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 2 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "6165307522685232661925140095906476254478824795353371070291172355078932706925",
+    "condition_id": "0x666bddf2d03508606972a69e687b49b3621e85e4d2c9be4b5f0a5480e847bbb8",
+    "trade_ts": 1793184389.0,
+    "detected_at": "2026-10-28T11:00:43.025293+00:00",
+    "returns": {
+      "60": 0.2339506172839506,
+      "240": null,
+      "res": 0.23456790123456783
+    },
+    "resolution": 1.0
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 3210.047200257118,
+    "whale_price": 0.2982902182,
+    "now_price": 0.2,
+    "moved": -0.32951203962745296,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 2 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "9160965839853605214108064338235334679980287609828864121094862543158184829720",
+    "condition_id": "0x666bddf2d03508606972a69e687b49b3621e85e4d2c9be4b5f0a5480e847bbb8",
+    "trade_ts": 1793184364.0,
+    "detected_at": "2026-10-28T11:00:43.098588+00:00",
+    "returns": {
+      "60": -0.9975,
+      "240": null,
+      "res": -1.0
+    },
+    "resolution": 0.0
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 10553.4576,
+    "whale_price": 0.56,
+    "now_price": 0.56,
+    "moved": 0.0,
+    "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "TheMongolz",
+    "token_id": "102507815230929592661204265757952138052654984413287839153352652109396003942335",
+    "condition_id": "0xdca0a71af8c33eae017a97b77070bb2c13e09030d2a87578e3ffd34c1b759f68",
+    "trade_ts": 1793183221.0,
+    "detected_at": "2026-10-28T11:00:43.172624+00:00",
+    "returns": {
+      "60": -0.3303571428571429,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xa2a78bb796f56b1b174b29eff72af4f0c558627b",
+    "name": "0x30E4E574AF95340e873444bCa776d4D9372b8744-1770499771900",
+    "side": "BUY",
+    "usdc": 28795.92667372529,
+    "whale_price": 0.1637196852,
+    "now_price": null,
+    "moved": null,
+    "title": "Will FC Internazionale Milano win on 2026-10-28? AND Will AC Milan win on 2026-10-28? AND Will Juventus FC win on 2026-10-28? AND Will SSC Napoli win on 2026-10-28?",
+    "outcome": "",
+    "token_id": "1619832578754916021437408637957055679328108500028290500669733117476764385280",
+    "condition_id": "0x0394caf1a45b2957deaa7e3009b3d16b350000000000000000000000000000",
+    "trade_ts": 1793182858.0,
+    "detected_at": "2026-10-28T11:01:07.341628+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x9e0720ee9e83fbebed019651a038793970c76e49",
+    "name": "ShadowRealms",
+    "side": "BUY",
+    "usdc": 19551.9296,
+    "whale_price": 0.64,
+    "now_price": 0.64,
+    "moved": 0.0,
+    "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "Nemiga",
+    "token_id": "13797241740551337802768798388081207437990521277463798366509151071255203851190",
+    "condition_id": "0xdca0a71af8c33eae017a97b77070bb2c13e09030d2a87578e3ffd34c1b759f68",
+    "trade_ts": 1793188469.0,
+    "detected_at": "2026-10-28T12:00:24.079715+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4000.0,
+    "whale_price": 0.64,
+    "now_price": 0.85,
+    "moved": 0.32812499999999994,
+    "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - PARI Universe Playoffs",
+    "outcome": "PARIVISION",
+    "token_id": "76130368388457148590932377609482280306601915007959429957240855163649991687139",
+    "condition_id": "0x3e516412436ae7224bd06b65e0af1f23dc7758913daa6ac9719575e8c56fb923",
+    "trade_ts": 1793188258.0,
+    "detected_at": "2026-10-28T12:00:24.154557+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4000.0000001800004,
+    "whale_price": 0.67,
+    "now_price": 0.85,
+    "moved": 0.26865671641791034,
+    "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - PARI Universe Playoffs",
+    "outcome": "PARIVISION",
+    "token_id": "76130368388457148590932377609482280306601915007959429957240855163649991687139",
+    "condition_id": "0x3e516412436ae7224bd06b65e0af1f23dc7758913daa6ac9719575e8c56fb923",
+    "trade_ts": 1793188229.0,
+    "detected_at": "2026-10-28T12:00:24.228706+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 8133.000001018756,
+    "whale_price": 0.3523853949,
+    "now_price": 0.16,
+    "moved": -0.5459516702007333,
+    "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - PARI Universe Playoffs",
+    "outcome": "Team Liquid",
+    "token_id": "72493512010942481404116692535899579158249340891153170021010546033521599069878",
+    "condition_id": "0x3e516412436ae7224bd06b65e0af1f23dc7758913daa6ac9719575e8c56fb923",
+    "trade_ts": 1793188141.0,
+    "detected_at": "2026-10-28T12:00:24.304809+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 2559.6064,
+    "whale_price": 0.52,
+    "now_price": 0.53,
+    "moved": 0.019230769230769246,
+    "title": "Will Fulham FC win on 2026-10-28?",
+    "outcome": "Yes",
+    "token_id": "53122281834304617476494202262953352177525349067342364796038188799882098027680",
+    "condition_id": "0x2d69b9b5abc4d980b2911a5738cb4a00e0879d9492b6790825ca47f8b1ccec94",
+    "trade_ts": 1793188082.0,
+    "detected_at": "2026-10-28T12:00:24.386773+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 2365.3435,
+    "whale_price": 0.65,
+    "now_price": 0.85,
+    "moved": 0.3076923076923076,
+    "title": "Dota 2: PARIVISION vs Team Liquid (BO3) - PARI Universe Playoffs",
+    "outcome": "PARIVISION",
+    "token_id": "76130368388457148590932377609482280306601915007959429957240855163649991687139",
+    "condition_id": "0x3e516412436ae7224bd06b65e0af1f23dc7758913daa6ac9719575e8c56fb923",
+    "trade_ts": 1793188076.0,
+    "detected_at": "2026-10-28T12:00:24.464527+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 13225.746200000001,
+    "whale_price": 0.37,
+    "now_price": 0.37,
+    "moved": 0.0,
+    "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "TheMongolz",
+    "token_id": "102507815230929592661204265757952138052654984413287839153352652109396003942335",
+    "condition_id": "0xdca0a71af8c33eae017a97b77070bb2c13e09030d2a87578e3ffd34c1b759f68",
+    "trade_ts": 1793187835.0,
+    "detected_at": "2026-10-28T12:00:24.543077+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 16408.8144,
+    "whale_price": 0.36,
+    "now_price": 0.37,
+    "moved": 0.027777777777777804,
+    "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "TheMongolz",
+    "token_id": "102507815230929592661204265757952138052654984413287839153352652109396003942335",
+    "condition_id": "0xdca0a71af8c33eae017a97b77070bb2c13e09030d2a87578e3ffd34c1b759f68",
+    "trade_ts": 1793187799.0,
+    "detected_at": "2026-10-28T12:00:24.620615+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 5203.758,
+    "whale_price": 0.7,
+    "now_price": 0.7,
+    "moved": 0.0,
+    "title": "Counter-Strike: Liquid vs FURIA - Map 1 Winner",
+    "outcome": "FURIA",
+    "token_id": "111103372265525028660772367324918518603628680411114430973335947940450908714637",
+    "condition_id": "0x9786a091e0ccd17991de15142d4a447928d3efdb7eb2eb1d77398dc022e27721",
+    "trade_ts": 1793187589.0,
+    "detected_at": "2026-10-28T12:00:24.697352+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 2048.4542,
+    "whale_price": 0.79,
+    "now_price": null,
+    "moved": null,
+    "title": "Gamba Osaka vs. Buriram United: O/U 1.5",
+    "outcome": "Over",
+    "token_id": "113193840016860510110909077472628373098785020833146312871230495070078885837264",
+    "condition_id": "0x04b459285f801bdceacec9aa57654c02699e5011721037ceb5eaf20aabf6ada5",
+    "trade_ts": 1793186465.0,
+    "detected_at": "2026-10-28T12:00:24.772922+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 2751.1,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "Gamba Osaka vs. Buriram United: O/U 1.5",
+    "outcome": "Over",
+    "token_id": "113193840016860510110909077472628373098785020833146312871230495070078885837264",
+    "condition_id": "0x04b459285f801bdceacec9aa57654c02699e5011721037ceb5eaf20aabf6ada5",
+    "trade_ts": 1793186215.0,
+    "detected_at": "2026-10-28T12:00:24.852072+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 2224.06440006036,
+    "whale_price": 0.8298500045,
+    "now_price": null,
+    "moved": null,
+    "title": "Gamba Osaka vs. Buriram United: O/U 1.5",
+    "outcome": "Over",
+    "token_id": "113193840016860510110909077472628373098785020833146312871230495070078885837264",
+    "condition_id": "0x04b459285f801bdceacec9aa57654c02699e5011721037ceb5eaf20aabf6ada5",
+    "trade_ts": 1793186077.0,
+    "detected_at": "2026-10-28T12:00:24.926587+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 42749.99999999999,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+    "outcome": "TheMongolz",
+    "token_id": "102507815230929592661204265757952138052654984413287839153352652109396003942335",
+    "condition_id": "0xdca0a71af8c33eae017a97b77070bb2c13e09030d2a87578e3ffd34c1b759f68",
+    "trade_ts": 1793185115.0,
+    "detected_at": "2026-10-28T12:00:24.926602+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
   }
 ]

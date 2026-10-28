@@ -252,5 +252,23 @@ class ResolutionRecordTest(unittest.TestCase):
         self.assertFalse(rec["closed"])
 
 
+class StrategySinceTest(unittest.TestCase):
+    def test_since_filters_by_detection(self):
+        rows = [
+            {
+                "condition_id": "old",
+                "detected_at": "2026-10-28T11:00:00+00:00",
+                "moved": 0.0,
+            },
+            {
+                "condition_id": "new",
+                "detected_at": "2026-10-28T13:00:00+00:00",
+                "moved": 0.0,
+            },
+        ]
+        out = pm_lab.strategy_rows(rows, since="2026-10-28T12:00:00+00:00")
+        self.assertEqual({x["condition_id"] for x in out}, {"new"})
+
+
 if __name__ == "__main__":
     unittest.main()
