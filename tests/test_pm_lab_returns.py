@@ -228,5 +228,29 @@ class EquityDrawdownTest(unittest.TestCase):
         self.assertEqual(pm_lab.equity_drawdown([], 10.0), (0.0, 0.0))
 
 
+class ResolutionRecordTest(unittest.TestCase):
+    def test_closed_market_maps_winner(self):
+        rec = pm_lab._resolution_record(
+            {
+                "closed": True,
+                "outcomePrices": '["1","0"]',
+                "clobTokenIds": '["a","b"]',
+            }
+        )
+        self.assertTrue(rec["closed"])
+        self.assertTrue(rec["tokens"]["a"]["winner"])
+        self.assertFalse(rec["tokens"]["b"]["winner"])
+
+    def test_open_market_is_not_closed(self):
+        rec = pm_lab._resolution_record(
+            {
+                "closed": False,
+                "outcomePrices": '["0.4","0.6"]',
+                "clobTokenIds": '["a","b"]',
+            }
+        )
+        self.assertFalse(rec["closed"])
+
+
 if __name__ == "__main__":
     unittest.main()

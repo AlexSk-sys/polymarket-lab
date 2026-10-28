@@ -16457,7 +16457,7 @@
     "trade_ts": 1793177582.0,
     "detected_at": "2026-10-28T09:00:21.399055+00:00",
     "returns": {
-      "60": null,
+      "60": -0.1250000000000001,
       "240": null,
       "res": null
     },
@@ -16478,7 +16478,7 @@
     "trade_ts": 1793176580.0,
     "detected_at": "2026-10-28T09:00:21.469268+00:00",
     "returns": {
-      "60": null,
+      "60": -0.010638297872340436,
       "240": null,
       "res": null
     },
@@ -16499,10 +16499,115 @@
     "trade_ts": 1793175994.0,
     "detected_at": "2026-10-28T09:00:21.545959+00:00",
     "returns": {
+      "60": -0.014084507042253534,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2100.0,
+    "whale_price": 0.21,
+    "now_price": 0.22,
+    "moved": 0.047619047619047665,
+    "title": "Will Bitcoin reach $85,000 in October?",
+    "outcome": "Yes",
+    "token_id": "75235269184794259013127819692804074045167548792002535411503865311931726043391",
+    "condition_id": "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f",
+    "trade_ts": 1793181556.0,
+    "detected_at": "2026-10-28T10:00:41.401670+00:00",
+    "returns": {
       "60": null,
       "240": null,
       "res": null
     },
     "resolution": null
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2627.0,
+    "whale_price": 0.37,
+    "now_price": 0.38,
+    "moved": 0.027027027027027053,
+    "title": "Will Bitcoin reach $84,000 October 26-November 1?",
+    "outcome": "Yes",
+    "token_id": "76676263767334909174066853217135247027109702172942197864902966143713239811281",
+    "condition_id": "0xd47420d0eb814cd7ae73a3309c988a2264666bbf18c598e5aad0f38132050407",
+    "trade_ts": 1793180728.0,
+    "detected_at": "2026-10-28T10:00:41.476541+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "0xc1de5ffb02d2b354932ccf5e31172545965e21f5",
+    "name": "Barbozaaa321",
+    "side": "BUY",
+    "usdc": 3300.0000000000005,
+    "whale_price": 0.55,
+    "now_price": 0.43,
+    "moved": -0.21818181818181825,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "40317376574385346455436809421906610960879556002443927443049260096383663878807",
+    "condition_id": "0x522764b5de94956e169e37da5676f35f391ea17a3e5bc9da9ae07e92220103e1",
+    "trade_ts": 1793179807.0,
+    "detected_at": "2026-10-28T10:00:41.556814+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": 1.3255813953488373
+    },
+    "resolution": 1.0
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3002.507500227626,
+    "whale_price": 0.5127434138,
+    "now_price": 0.43,
+    "moved": -0.16137391836353218,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "40317376574385346455436809421906610960879556002443927443049260096383663878807",
+    "condition_id": "0x522764b5de94956e169e37da5676f35f391ea17a3e5bc9da9ae07e92220103e1",
+    "trade_ts": 1793179766.0,
+    "detected_at": "2026-10-28T10:00:41.631391+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": 1.3255813953488373
+    },
+    "resolution": 1.0
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 9328.000000150998,
+    "whale_price": 0.3608488077,
+    "now_price": 0.43,
+    "moved": 0.1916348088850842,
+    "title": "Dota 2: PARIVISION vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "40317376574385346455436809421906610960879556002443927443049260096383663878807",
+    "condition_id": "0x522764b5de94956e169e37da5676f35f391ea17a3e5bc9da9ae07e92220103e1",
+    "trade_ts": 1793179258.0,
+    "detected_at": "2026-10-28T10:00:41.704557+00:00",
+    "returns": {
+      "60": null,
+      "240": null,
+      "res": 1.3255813953488373
+    },
+    "resolution": 1.0
   }
 ]

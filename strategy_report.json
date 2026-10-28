@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T09:56:15.409788+00:00",
+  "generated_at": "2026-10-28T10:53:08.643993+00:00",
   "file": "signals_hourly.json",
-  "signals": 786,
-  "resolved": 706,
-  "open": 80,
+  "signals": 791,
+  "resolved": 709,
+  "open": 82,
   "strategy": {
     "n": 70,
     "mean": 0.19397720969752255,
@@ -22,5 +22,15 @@
     "risk": 0.02,
     "max_drawdown_pct": 0.09448275862068965
   },
-  "review_at_resolved": 50
+  "review_at_resolved": 150,
+  "checkpoint": {
+    "review_at": 150,
+    "remaining": 80,
+    "stop_after": 100,
+    "stop_mean": -0.05,
+    "stop_dd": 0.2,
+    "stop_armed": false,
+    "stop_triggered": false,
+    "stop_reasons": []
+  }
 }

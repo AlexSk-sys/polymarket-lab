@@ -967,23 +967,91 @@ def save_resolution_cache(cache: dict, path: Path = RESOLUTION_CACHE) -> None:
     path.write_text(json.dumps(cache, ensure_ascii=False), encoding="utf-8")
 
 
+def _resolution_record(market: dict) -> dict:
+    """Map a Gamma market to {closed, tokens: {token_id: {winner}}}."""
+    try:
+        prices = json.loads(market.get("outcomePrices") or "[]")
+        tokens = json.loads(market.get("clobTokenIds") or "[]")
+    except (json.JSONDecodeError, TypeError):
+        return {"closed": False, "tokens": {}, "checked_at": time.time()}
+    final = len(prices) == len(tokens) and all(
+        str(p) in ("0", "1", "0.0", "1.0") for p in prices
+    )
+    by_token = {}
+    for tok, px in zip(tokens, prices):
+        by_token[str(tok)] = {"winner": str(px) in ("1", "1.0"), "outcome": ""}
+    return {
+        "closed": bool(market.get("closed")) and final,
+        "tokens": by_token,
+        "checked_at": time.time(),
+    }
+
+
+def _gamma_markets(cids: list[str], closed: bool) -> dict[str, dict]:
+    """Batch Gamma lookup; repeated condition_ids with limit=100."""
+    out: dict[str, dict] = {}
+    flag = "true" if closed else "false"
+    for i in range(0, len(cids), 80):
+        part = cids[i : i + 80]
+        qs = "&".join("condition_ids=" + c for c in part)
+        try:
+            rows = api_get(f"{GAMMA}/markets?limit=100&closed={flag}&{qs}", {})
+        except RuntimeError:
+            continue
+        if isinstance(rows, list):
+            for m in rows:
+                cid = str(m.get("conditionId", "")).lower()
+                if cid:
+                    out[cid] = m
+    return out
+
+
+def prefetch_resolutions(cids: list[str], cache: dict) -> None:
+    """Fill the cache for many markets in ~1 s instead of one CLOB call each.
+
+    The per-market CLOB call takes ~5.7 s; an hourly resolve with 60 open
+    markets spent ten minutes on it. Gamma returns closed markets with final
+    outcomePrices in batches, and open markets separately.
+    """
+    missing = [
+        c for c in cids if not cache.get(c.lower(), cache.get(c, {})).get("closed")
+    ]
+    if not missing:
+        return
+    closed = _gamma_markets(missing, True)
+    for cid, market in closed.items():
+        cache[cid.lower()] = _resolution_record(market)
+    rest = [c for c in missing if c.lower() not in closed]
+    if rest:
+        opened = _gamma_markets(rest, False)
+        for cid, market in opened.items():
+            cache[cid.lower()] = _resolution_record(market)
+        # Placeholder for ids that neither endpoint knows (the data API emits
+        # truncated 0x...000 ids for some multi-leg markets). Without it every
+        # signal falls back to a 5.7 s CLOB call and the hourly task hangs.
+        for c in rest:
+            if c.lower() not in opened:
+                cache[c.lower()] = {
+                    "closed": False,
+                    "tokens": {},
+                    "checked_at": time.time(),
+                }
+
+
 def fetch_resolution(condition_id: str, cache: dict) -> dict | None:
-    """Closed markets are final and cached forever; open ones are re-read."""
-    hit = cache.get(condition_id)
-    if hit and hit.get("closed"):
+    """Closed markets are final and cached forever; open ones for 5 minutes."""
+    key = condition_id.lower()
+    hit = cache.get(key) or cache.get(condition_id)
+    if hit and (
+        hit.get("closed") or time.time() - float(hit.get("checked_at", 0.0)) < 300.0
+    ):
         return hit
     try:
         market = api_get(f"{CLOB}/markets/{condition_id}", {})
     except RuntimeError:
         return hit
-    tokens = {}
-    for t in market.get("tokens") or []:
-        tokens[t.get("token_id") or ""] = {
-            "winner": bool(t.get("winner")),
-            "outcome": t.get("outcome") or "",
-        }
-    rec = {"closed": bool(market.get("closed")), "tokens": tokens}
-    cache[condition_id] = rec
+    rec = _resolution_record(market)
+    cache[key] = rec
     return rec
 
 
@@ -3240,6 +3308,8 @@ def cmd_resolve(args) -> int:
         return 0
     signals = json.loads(Path(args.signals).read_text(encoding="utf-8"))
     cache = load_resolution_cache(Path(args.cache))
+    unique = {s.get("condition_id") for s in signals if s.get("condition_id")}
+    prefetch_resolutions(list(unique), cache)
     changed = 0
     for s in signals:
         cid = s.get("condition_id")
@@ -3300,6 +3370,15 @@ def cmd_resolve(args) -> int:
         win = sum(1 for v in vals if v > 0) / n
         t = mean / se
 
+    dd_pct = (abs(drawdown) / args.bankroll) if args.bankroll else None
+    stop_armed = n >= args.stop_after
+    stop_reasons = []
+    if stop_armed:
+        if mean is not None and mean < args.stop_mean:
+            stop_reasons.append(f"mean {fpct(mean)} < {fpct(args.stop_mean)}")
+        if dd_pct is not None and dd_pct > args.stop_dd:
+            stop_reasons.append(f"DD {dd_pct:.1%} > {args.stop_dd:.1%}")
+
     report = {
         "generated_at": datetime.now(UTC).isoformat(),
         "file": args.signals,
@@ -3327,6 +3406,16 @@ def cmd_resolve(args) -> int:
             else None,
         },
         "review_at_resolved": args.review_at,
+        "checkpoint": {
+            "review_at": args.review_at,
+            "remaining": max(0, args.review_at - n),
+            "stop_after": args.stop_after,
+            "stop_mean": args.stop_mean,
+            "stop_dd": args.stop_dd,
+            "stop_armed": n >= args.stop_after,
+            "stop_triggered": bool(stop_reasons),
+            "stop_reasons": stop_reasons,
+        },
     }
     Path(args.report).write_text(
         json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8"
@@ -3348,9 +3437,14 @@ def cmd_resolve(args) -> int:
     )
     if n < args.review_at:
         print(
-            f"  forward verdict at {args.review_at} resolved "
-            f"(+{args.review_at - n} to go)"
+            f"  checkpoint: {n}/{args.review_at} closed; "
+            f"stop rule {'ARMED' if stop_armed else 'arms at ' + str(args.stop_after)}; "
+            f"{'+' + str(args.review_at - n) if n < args.review_at else ''}"
         )
+    if stop_reasons:
+        print("  STOP TRIGGERED: " + "; ".join(stop_reasons))
+    elif stop_armed:
+        print("  stop rule clear")
     return 0
 
 
@@ -3364,6 +3458,12 @@ def cmd_select(args) -> int:
     """
     files = [Path(p.strip()) for p in args.files.split(",") if p.strip()]
     cache = load_resolution_cache(Path(args.cache))
+    all_cids = set()
+    for p in files:
+        for s in json.loads(p.read_text(encoding="utf-8")):
+            if s.get("condition_id"):
+                all_cids.add(s["condition_id"])
+    prefetch_resolutions(list(all_cids), cache)
     rows = []
     for p in files:
         for s in json.loads(p.read_text(encoding="utf-8")):
@@ -3729,7 +3829,10 @@ def main(argv: list[str] | None = None) -> int:
     rs.add_argument("--bankroll", type=float, default=1000.0)
     rs.add_argument("--risk", type=float, default=0.02)
     rs.add_argument("--report", default="strategy_report.json")
-    rs.add_argument("--review-at", type=int, default=50)
+    rs.add_argument("--review-at", type=int, default=150)
+    rs.add_argument("--stop-after", type=int, default=100)
+    rs.add_argument("--stop-mean", type=float, default=-0.05)
+    rs.add_argument("--stop-dd", type=float, default=0.20)
     rs.set_defaults(func=cmd_resolve)
 
     sel = sub.add_parser(
