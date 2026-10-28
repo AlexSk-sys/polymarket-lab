@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-10-28T08:01:50.280581+00:00",
+  "file": "signals_selected.json",
+  "signals": 88,
+  "resolved": 76,
+  "open": 12,
+  "strategy": {
+    "n": 37,
+    "mean": -0.2992316538858357,
+    "median": -1.0,
+    "win": 0.43243243243243246,
+    "t": -2.1321334570590897,
+    "pnl": -221.43142387551842,
+    "max_drawdown": -233.12984972473134,
+    "worst_12": -143.3744221879815,
+    "full_losses": 21,
+    "longest_loss_streak": 4
+  },
+  "sizing": {
+    "bankroll": 1000.0,
+    "stake": 20.0,
+    "risk": 0.02,
+    "max_drawdown_pct": 0.23312984972473133
+  },
+  "review_at_resolved": 50
+}
