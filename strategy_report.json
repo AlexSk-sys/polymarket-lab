@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T08:58:54.573410+00:00",
+  "generated_at": "2026-10-28T09:09:13.537853+00:00",
   "file": "signals_hourly.json",
-  "signals": 783,
+  "signals": 786,
   "resolved": 706,
-  "open": 77,
+  "open": 80,
   "strategy": {
     "n": 144,
     "mean": 0.1554463650720904,
