@@ -15675,7 +15675,7 @@
     "detected_at": "2026-10-28T09:00:21.399055+00:00",
     "returns": {
       "60": -0.1250000000000001,
-      "240": null
+      "240": -0.875
     },
     "resolution": null
   },
@@ -15735,7 +15735,7 @@
     "detected_at": "2026-10-28T10:00:41.401670+00:00",
     "returns": {
       "60": -0.1136363636363636,
-      "240": null
+      "240": -0.4318181818181818
     },
     "resolution": null
   },
@@ -15755,7 +15755,7 @@
     "detected_at": "2026-10-28T10:00:41.476541+00:00",
     "returns": {
       "60": -0.013157894736842117,
-      "240": null
+      "240": -0.32894736842105265
     },
     "resolution": null
   },
@@ -15835,7 +15835,7 @@
     "detected_at": "2026-10-28T11:00:42.707554+00:00",
     "returns": {
       "60": 0.0714285714285715,
-      "240": null
+      "240": -0.12857142857142853
     },
     "resolution": null
   },
@@ -15994,7 +15994,7 @@
     "trade_ts": 1793188469.0,
     "detected_at": "2026-10-28T12:00:24.079715+00:00",
     "returns": {
-      "60": null,
+      "60": -0.08593750000000007,
       "240": null
     },
     "resolution": null
@@ -16014,7 +16014,7 @@
     "trade_ts": 1793188258.0,
     "detected_at": "2026-10-28T12:00:24.154557+00:00",
     "returns": {
-      "60": null,
+      "60": -0.15882352941176472,
       "240": null
     },
     "resolution": null
@@ -16034,7 +16034,7 @@
     "trade_ts": 1793188229.0,
     "detected_at": "2026-10-28T12:00:24.228706+00:00",
     "returns": {
-      "60": null,
+      "60": -0.15882352941176472,
       "240": null
     },
     "resolution": null
@@ -16054,7 +16054,7 @@
     "trade_ts": 1793188141.0,
     "detected_at": "2026-10-28T12:00:24.304809+00:00",
     "returns": {
-      "60": null,
+      "60": 0.9375,
       "240": null
     },
     "resolution": null
@@ -16074,8 +16074,8 @@
     "trade_ts": 1793188082.0,
     "detected_at": "2026-10-28T12:00:24.386773+00:00",
     "returns": {
-      "60": null,
-      "240": null
+      "60": -0.009433962264150952,
+      "240": 0.047169811320754755
     },
     "resolution": null
   },
@@ -16094,7 +16094,7 @@
     "trade_ts": 1793188076.0,
     "detected_at": "2026-10-28T12:00:24.464527+00:00",
     "returns": {
-      "60": null,
+      "60": -0.10588235294117644,
       "240": null
     },
     "resolution": null
@@ -16114,7 +16114,7 @@
     "trade_ts": 1793187835.0,
     "detected_at": "2026-10-28T12:00:24.543077+00:00",
     "returns": {
-      "60": null,
+      "60": 0.5000000000000001,
       "240": null
     },
     "resolution": null
@@ -16134,7 +16134,7 @@
     "trade_ts": 1793187799.0,
     "detected_at": "2026-10-28T12:00:24.620615+00:00",
     "returns": {
-      "60": null,
+      "60": 0.5000000000000001,
       "240": null
     },
     "resolution": null
@@ -16272,6 +16272,481 @@
     "condition_id": "0x3e516412436ae7224bd06b65e0af1f23dc7758913daa6ac9719575e8c56fb923",
     "trade_ts": 1793189744.0,
     "detected_at": "2026-10-28T12:40:56.688586+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa20924e5daa77c491b0700f045eff43a61f7ffbe",
+    "name": "spyGoodLuck77",
+    "side": "BUY",
+    "usdc": 3000.0000001991116,
+    "whale_price": 0.3227346535,
+    "now_price": 0.29,
+    "moved": -0.10142900102297209,
+    "title": "Will SC Freiburg vs. VfL Wolfsburg end in a draw?",
+    "outcome": "No",
+    "token_id": "7276038865894564723338692977008201047052269362559593652403068640444995501493",
+    "condition_id": "0xde998bca6b7ecc10d11ac91de443ba1448cf87156e0d1a58fca00431f958b97e",
+    "trade_ts": 1793213230.0,
+    "detected_at": "2026-10-28T18:47:54.865429+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa20924e5daa77c491b0700f045eff43a61f7ffbe",
+    "name": "spyGoodLuck77",
+    "side": "BUY",
+    "usdc": 3000.0000002735947,
+    "whale_price": 0.2407968375,
+    "now_price": 0.2,
+    "moved": -0.1694243077424137,
+    "title": "Will SC Freiburg win on 2026-10-28?",
+    "outcome": "Yes",
+    "token_id": "41302717528939204661512423937706654584936295610740487838426641190754464339223",
+    "condition_id": "0xb0667d16e62706079f3631f9bd20a256b5999cf8110a30627adb148a02bdc10e",
+    "trade_ts": 1793213230.0,
+    "detected_at": "2026-10-28T18:47:54.965329+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x46072f22bc5624f7ff43489d570fdc7e745ad542",
+    "name": "0x46072f22bC5624f7Ff43489d570FDc7e745Ad542-1774720903403",
+    "side": "BUY",
+    "usdc": 4000.0000002,
+    "whale_price": 0.6,
+    "now_price": 0.58,
+    "moved": -0.03333333333333337,
+    "title": "Will FC Internazionale Milano win on 2026-10-28?",
+    "outcome": "Yes",
+    "token_id": "62249074570908124498339486697886544776573955467674159944459288396472416845537",
+    "condition_id": "0xd92c45397d9a4aac6d0b460b9adf3a8606d8290118ae6e23f1caabbe541d7f90",
+    "trade_ts": 1793213096.0,
+    "detected_at": "2026-10-28T18:47:55.083556+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2025.0,
+    "whale_price": 0.45,
+    "now_price": null,
+    "moved": null,
+    "title": "Maple Leafs vs. Kraken",
+    "outcome": "Kraken",
+    "token_id": "30370228032192153495530356835877805899650693987503922351352101876550654016321",
+    "condition_id": "0xafac62dcb1494cb8d99498a1f926c8f73882463036b82ef371495cf824d1e468",
+    "trade_ts": 1793212583.0,
+    "detected_at": "2026-10-28T18:47:55.083575+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 7763.752899512581,
+    "whale_price": 0.6777273326,
+    "now_price": null,
+    "moved": null,
+    "title": "Erste Bank Open: Jakub Mensik vs Adrian Mannarino",
+    "outcome": "Adrian Mannarino",
+    "token_id": "70026625436932027854024597157135023392435572937846466007347445293658035206738",
+    "condition_id": "0x693c206729fea44421e75006bb56c77fe91087599185e619f5d19277caf8fe55",
+    "trade_ts": 1793211854.0,
+    "detected_at": "2026-10-28T18:47:55.083581+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 18438.985499638664,
+    "whale_price": 0.6450756921,
+    "now_price": null,
+    "moved": null,
+    "title": "Erste Bank Open: Jakub Mensik vs Adrian Mannarino",
+    "outcome": "Adrian Mannarino",
+    "token_id": "70026625436932027854024597157135023392435572937846466007347445293658035206738",
+    "condition_id": "0x693c206729fea44421e75006bb56c77fe91087599185e619f5d19277caf8fe55",
+    "trade_ts": 1793211850.0,
+    "detected_at": "2026-10-28T18:47:55.083585+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa20924e5daa77c491b0700f045eff43a61f7ffbe",
+    "name": "spyGoodLuck77",
+    "side": "BUY",
+    "usdc": 3000.0000001626536,
+    "whale_price": 0.4884496634,
+    "now_price": null,
+    "moved": null,
+    "title": "Will VfL Wolfsburg win on 2026-10-28?",
+    "outcome": "Yes",
+    "token_id": "105012413428235387022548996032115401885691065776201817867929732369391853030380",
+    "condition_id": "0x756759a43b8e9f26e2f7795431d286bf7b7a2536bb74fea62a8ee38e5968fd30",
+    "trade_ts": 1793211412.0,
+    "detected_at": "2026-10-28T18:47:55.083589+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 2728.0006001093307,
+    "whale_price": 0.6716880591,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Manchester City FC (-1.5)",
+    "outcome": "Brighton & Hove Albion FC",
+    "token_id": "15547037061986574801262765998322660987853446557261349569857641607398609215323",
+    "condition_id": "0x8e15db6706621c524004ddde168656f3a345611c6ff58be630676fd6fcd4e00e",
+    "trade_ts": 1793210713.0,
+    "detected_at": "2026-10-28T18:47:55.083592+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 2288.2608,
+    "whale_price": 0.42,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Manchester City FC win on 2026-10-28?",
+    "outcome": "No",
+    "token_id": "18692717745624238415799261326319873448928971923757144825894067150918291828549",
+    "condition_id": "0x7c427e8a1bcf8618a758a31905125103aa270cf733d1c1b1b671760bde2df80f",
+    "trade_ts": 1793210708.0,
+    "detected_at": "2026-10-28T18:47:55.083597+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 11458.181900305943,
+    "whale_price": 0.4167898344,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Manchester City FC win on 2026-10-28?",
+    "outcome": "No",
+    "token_id": "18692717745624238415799261326319873448928971923757144825894067150918291828549",
+    "condition_id": "0x7c427e8a1bcf8618a758a31905125103aa270cf733d1c1b1b671760bde2df80f",
+    "trade_ts": 1793210708.0,
+    "detected_at": "2026-10-28T18:47:55.083600+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 7004.735,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Cavaliers (-9.5)",
+    "outcome": "Wizards",
+    "token_id": "53524959970058583713482768304726382784474618756471700401141541302615041857604",
+    "condition_id": "0x3acdc18e182b2f4f382403ecaec6f97eaeac591affd4b538b194403df615e946",
+    "trade_ts": 1793210369.0,
+    "detected_at": "2026-10-28T18:47:55.083604+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa797d6bd8fe6e404bb4d8e4ab3d97c38336fdede",
+    "name": "LonnieHawkinss",
+    "side": "SELL",
+    "usdc": 3964.8700000000003,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Will AC Milan win on 2026-10-28?",
+    "outcome": "No",
+    "token_id": "35469146943904024285615096383636397892531997992002353210718233235295216911274",
+    "condition_id": "0x4d7a192d096ca158142b6c2f337ffdc480751dbacde00905817463349cd81b20",
+    "trade_ts": 1793209219.0,
+    "detected_at": "2026-10-28T18:47:55.083608+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa797d6bd8fe6e404bb4d8e4ab3d97c38336fdede",
+    "name": "LonnieHawkinss",
+    "side": "BUY",
+    "usdc": 2752.3500002793,
+    "whale_price": 0.4509831231,
+    "now_price": null,
+    "moved": null,
+    "title": "Will AC Milan win on 2026-10-28?",
+    "outcome": "No",
+    "token_id": "35469146943904024285615096383636397892531997992002353210718233235295216911274",
+    "condition_id": "0x4d7a192d096ca158142b6c2f337ffdc480751dbacde00905817463349cd81b20",
+    "trade_ts": 1793209123.0,
+    "detected_at": "2026-10-28T18:47:55.083612+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2136.6667002,
+    "whale_price": 0.3561111167,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner",
+    "outcome": "Natus Vincere",
+    "token_id": "84500798648124306024420642305064357264538032722974707642516644165770410916576",
+    "condition_id": "0x858717afa33d4496779754221332e290b38d2d62e4091a16630de4e4f098fb04",
+    "trade_ts": 1793208910.0,
+    "detected_at": "2026-10-28T18:47:55.083615+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "name": "THEHIGHLIFE",
+    "side": "BUY",
+    "usdc": 5619.202499999999,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner",
+    "outcome": "Natus Vincere",
+    "token_id": "84500798648124306024420642305064357264538032722974707642516644165770410916576",
+    "condition_id": "0x858717afa33d4496779754221332e290b38d2d62e4091a16630de4e4f098fb04",
+    "trade_ts": 1793208556.0,
+    "detected_at": "2026-10-28T18:47:55.083619+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 10513.417950273953,
+    "whale_price": 0.8295852817,
+    "now_price": null,
+    "moved": null,
+    "title": "AC Milan vs. Bologna FC 1909: AC Milan O/U 0.5 AND Venezia FC vs. FC Internazionale Milano: FC Internazionale Milano O/U 0.5",
+    "outcome": "",
+    "token_id": "1399116193429422273601390018406013234360858507310761263775321872972034080768",
+    "condition_id": "0x0317df27e6e60de9e99ba13cad7e8601740000000000000000000000000000",
+    "trade_ts": 1793208553.0,
+    "detected_at": "2026-10-28T18:47:55.083622+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2280.0,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum dip to $2,250 by December 31, 2026?",
+    "outcome": "Yes",
+    "token_id": "66335306745821529065179061745515953781644081595464464996921948603911228936814",
+    "condition_id": "0x99a1879635bc8873891cc472d5e39ca0efaf2017c562ae244810747a7f8edbd5",
+    "trade_ts": 1793208475.0,
+    "detected_at": "2026-10-28T18:47:55.083627+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4607.7128,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: Team Spirit vs OG - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "token_id": "59846502768084145605586069826387165870643469068699496650756460797642752567513",
+    "condition_id": "0x40d3816339e35c7420e71ffa4b0678a50c41a0cf8a7fa070b39c27354ad3d10a",
+    "trade_ts": 1793208080.0,
+    "detected_at": "2026-10-28T18:47:55.083631+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x446884aa55e3dcf7123d9a3d6243c4e34b70b165",
+    "name": "0x446884aa55e3dCF7123D9A3D6243c4E34B70B165-1791060354625",
+    "side": "BUY",
+    "usdc": 6162.2,
+    "whale_price": 0.44,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs",
+    "outcome": "fnatic",
+    "token_id": "62443061746095640732684195360463369051074886536548048930406513221901725636835",
+    "condition_id": "0x8319a0142ddaa1426401b406d6ede6fa5a1bd60aa5aedbd082f92d1e89b1a846",
+    "trade_ts": 1793207429.0,
+    "detected_at": "2026-10-28T18:47:55.083634+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 9400.27000023,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Wizards vs. Cavaliers: O/U 238.5",
+    "outcome": "Over",
+    "token_id": "57205522450384724465157247011606792215687389913991943844362522884644917333212",
+    "condition_id": "0xfe9f60b4c52e7be59305d42fd79876736919617d0518f3e72d6327b2405d1f5b",
+    "trade_ts": 1793207212.0,
+    "detected_at": "2026-10-28T18:47:55.083638+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 14419.12299957675,
+    "whale_price": 0.6368448645,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Manchester City FC (-1.5)",
+    "outcome": "Brighton & Hove Albion FC",
+    "token_id": "15547037061986574801262765998322660987853446557261349569857641607398609215323",
+    "condition_id": "0x8e15db6706621c524004ddde168656f3a345611c6ff58be630676fd6fcd4e00e",
+    "trade_ts": 1793206621.0,
+    "detected_at": "2026-10-28T18:47:55.083642+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 5161.307400660639,
+    "whale_price": 0.389908712,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Manchester City FC win on 2026-10-28?",
+    "outcome": "No",
+    "token_id": "18692717745624238415799261326319873448928971923757144825894067150918291828549",
+    "condition_id": "0x7c427e8a1bcf8618a758a31905125103aa270cf733d1c1b1b671760bde2df80f",
+    "trade_ts": 1793206621.0,
+    "detected_at": "2026-10-28T18:47:55.083645+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "name": "Jsram",
+    "side": "BUY",
+    "usdc": 7186.422699473738,
+    "whale_price": 0.3775755934,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Manchester City FC win on 2026-10-28?",
+    "outcome": "No",
+    "token_id": "18692717745624238415799261326319873448928971923757144825894067150918291828549",
+    "condition_id": "0x7c427e8a1bcf8618a758a31905125103aa270cf733d1c1b1b671760bde2df80f",
+    "trade_ts": 1793206621.0,
+    "detected_at": "2026-10-28T18:47:55.083648+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2280.0,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum dip to $2,250 by December 31, 2026?",
+    "outcome": "Yes",
+    "token_id": "66335306745821529065179061745515953781644081595464464996921948603911228936814",
+    "condition_id": "0x99a1879635bc8873891cc472d5e39ca0efaf2017c562ae244810747a7f8edbd5",
+    "trade_ts": 1793206588.0,
+    "detected_at": "2026-10-28T18:47:55.083653+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 22499.99000011,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Rockets (-8.5)",
+    "outcome": "Rockets",
+    "token_id": "59211714279370623236232340600820514891746509441723631925059284106422644234625",
+    "condition_id": "0x23086a7a5e4e199779f54269629b29cddef511570fdbfb2240f396e60d2106ee",
+    "trade_ts": 1793206372.0,
+    "detected_at": "2026-10-28T18:47:55.083657+00:00",
     "returns": {
       "60": null,
       "240": null
