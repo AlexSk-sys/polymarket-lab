@@ -16292,7 +16292,7 @@
     "trade_ts": 1793213230.0,
     "detected_at": "2026-10-28T18:47:54.865429+00:00",
     "returns": {
-      "60": null,
+      "60": 2.4465517241379313,
       "240": null
     }
   },
@@ -16311,7 +16311,7 @@
     "trade_ts": 1793213230.0,
     "detected_at": "2026-10-28T18:47:54.965329+00:00",
     "returns": {
-      "60": null,
+      "60": 3.9975000000000005,
       "240": null
     }
   },
@@ -16747,6 +16747,1032 @@
     "condition_id": "0x23086a7a5e4e199779f54269629b29cddef511570fdbfb2240f396e60d2106ee",
     "trade_ts": 1793206372.0,
     "detected_at": "2026-10-28T18:47:55.083657+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2720.0,
+    "whale_price": 0.68,
+    "now_price": 0.58,
+    "moved": -0.14705882352941188,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "token_id": "66353224350021704653099195844660610824342140426921367369957357900944153552144",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793228738.0,
+    "detected_at": "2026-10-28T23:07:42.488133+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 4917.999999767723,
+    "whale_price": 0.7598139089,
+    "now_price": 0.74,
+    "moved": -0.02607731796945526,
+    "title": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+    "outcome": "GamerLegion",
+    "token_id": "90366439975671252447260308043387353193568278515750348493381906366780624570530",
+    "condition_id": "0xf31c1ee63e33d491a78c98f54a39b17749f6b92278092d0af61aa537bc82b151",
+    "trade_ts": 1793228717.0,
+    "detected_at": "2026-10-28T23:07:42.645021+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 14284.967999961564,
+    "whale_price": 0.7379327196,
+    "now_price": 0.74,
+    "moved": 0.0028014483503599314,
+    "title": "Dota 2: GamerLegion vs LEGION (BO3) - PARI Universe Playoffs",
+    "outcome": "GamerLegion",
+    "token_id": "90366439975671252447260308043387353193568278515750348493381906366780624570530",
+    "condition_id": "0xf31c1ee63e33d491a78c98f54a39b17749f6b92278092d0af61aa537bc82b151",
+    "trade_ts": 1793228687.0,
+    "detected_at": "2026-10-28T23:07:42.803461+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2400.0,
+    "whale_price": 0.48,
+    "now_price": 0.34,
+    "moved": -0.2916666666666666,
+    "title": "Kennesaw State vs. Middle Tennessee: O/U 49.5",
+    "outcome": "Under",
+    "token_id": "75462476027182999618177742723415748794144495952377287023755439085968924581933",
+    "condition_id": "0x6dd3fcaf93da738af8e9db0169adedd6329d3b929cbed621ea4fa0d559c71e30",
+    "trade_ts": 1793228596.0,
+    "detected_at": "2026-10-28T23:07:42.960814+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 7000.25,
+    "whale_price": 0.5,
+    "now_price": 0.51,
+    "moved": 0.020000000000000018,
+    "title": "Spread: Pistons (-7.5)",
+    "outcome": "Pistons",
+    "token_id": "21368547849706690970734314184917304772189890061958747245981922667331253891519",
+    "condition_id": "0x418f08111bbf2002bc0bce408329fcfd9ba84bbfb8dc84fa9adc25099e6fe22f",
+    "trade_ts": 1793228548.0,
+    "detected_at": "2026-10-28T23:07:43.129810+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 8875.699200000001,
+    "whale_price": 0.48,
+    "now_price": 0.48,
+    "moved": 0.0,
+    "title": "Spread: Raptors (-4.5)",
+    "outcome": "Magic",
+    "token_id": "73169036423283532710191838801043191690908778897122558137164432748842523078239",
+    "condition_id": "0x6eee82e286ff57081a50486afcf9132b83c389573f6e36ff79182d9814017041",
+    "trade_ts": 1793228510.0,
+    "detected_at": "2026-10-28T23:07:43.300881+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 2256.0,
+    "whale_price": 0.47,
+    "now_price": 0.47,
+    "moved": 0.0,
+    "title": "Spread: 76ers (-6.5)",
+    "outcome": "Pacers",
+    "token_id": "7564208994081004803791414798056978399520752316915080169069175969137966180768",
+    "condition_id": "0xa47ba44ca5f5cecca68779c4de5bf9519ea61ccebd9f3972fdc132b5223c6355",
+    "trade_ts": 1793228441.0,
+    "detected_at": "2026-10-28T23:07:43.464593+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "SELL",
+    "usdc": 4896.216,
+    "whale_price": 0.39,
+    "now_price": 0.39,
+    "moved": -0.0,
+    "title": "Warriors vs. Timberwolves",
+    "outcome": "Warriors",
+    "token_id": "41424811810090436635418852622590712864128153307552382181298046819630366692836",
+    "condition_id": "0xeff6ba00ee2dbabb77d67d61b389c7bec409998b35de4dda4d332a45205b4f9a",
+    "trade_ts": 1793228428.0,
+    "detected_at": "2026-10-28T23:07:43.618307+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2160.0,
+    "whale_price": 0.54,
+    "now_price": 0.58,
+    "moved": 0.07407407407407393,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "token_id": "66353224350021704653099195844660610824342140426921367369957357900944153552144",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793228422.0,
+    "detected_at": "2026-10-28T23:07:43.794013+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 4473.280000000001,
+    "whale_price": 0.56,
+    "now_price": 0.58,
+    "moved": 0.035714285714285546,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "token_id": "66353224350021704653099195844660610824342140426921367369957357900944153552144",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793228365.0,
+    "detected_at": "2026-10-28T23:07:43.965237+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2240.0,
+    "whale_price": 0.56,
+    "now_price": 0.58,
+    "moved": 0.035714285714285546,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "token_id": "66353224350021704653099195844660610824342140426921367369957357900944153552144",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793228341.0,
+    "detected_at": "2026-10-28T23:07:44.117348+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "name": "para-Vision",
+    "side": "BUY",
+    "usdc": 2756.8944,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "token_id": "66353224350021704653099195844660610824342140426921367369957357900944153552144",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793228144.0,
+    "detected_at": "2026-10-28T23:07:44.117355+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2980.362,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FUT (-1.5) vs Nemiga (+1.5)",
+    "outcome": "Nemiga",
+    "token_id": "33159376792202007208938640780593811109652151029166749763536701569109830230427",
+    "condition_id": "0x79884749ee8f4decda00772c9ee3fa36facd307abdda5d6b7d2f4d13a75c18dd",
+    "trade_ts": 1793227976.0,
+    "detected_at": "2026-10-28T23:07:44.117357+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 73100.0,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "LYON",
+    "token_id": "247770351480664905409204749537800184705240485188141207174851624225895359981",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793227906.0,
+    "detected_at": "2026-10-28T23:07:44.117359+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2093.55,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "76ers vs. Pacers: O/U 233.5",
+    "outcome": "Over",
+    "token_id": "68011304602359414071858633465072710212840070033143121276096505515420682127986",
+    "condition_id": "0x416b41c206db0d96d143b686df0f2b35177bb35fda2c8ff956cf9c63a27e6bce",
+    "trade_ts": 1793227861.0,
+    "detected_at": "2026-10-28T23:07:44.117360+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "name": "BreakTheBank",
+    "side": "BUY",
+    "usdc": 17062.54,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Thunder (-5.5)",
+    "outcome": "Mavericks",
+    "token_id": "111879819517911274408654756892568610005436997493373271328681000378349089052577",
+    "condition_id": "0x55d049440a0d5205f4d97d94dce63d232798cb637d67a2e9091ab55712d06e5f",
+    "trade_ts": 1793227858.0,
+    "detected_at": "2026-10-28T23:07:44.117362+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2788.8126,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "76ers vs. Pacers: O/U 233.5",
+    "outcome": "Over",
+    "token_id": "68011304602359414071858633465072710212840070033143121276096505515420682127986",
+    "condition_id": "0x416b41c206db0d96d143b686df0f2b35177bb35fda2c8ff956cf9c63a27e6bce",
+    "trade_ts": 1793227858.0,
+    "detected_at": "2026-10-28T23:07:44.117363+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 3626.4213,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "76ers vs. Pacers: O/U 233.5",
+    "outcome": "Over",
+    "token_id": "68011304602359414071858633465072710212840070033143121276096505515420682127986",
+    "condition_id": "0x416b41c206db0d96d143b686df0f2b35177bb35fda2c8ff956cf9c63a27e6bce",
+    "trade_ts": 1793227853.0,
+    "detected_at": "2026-10-28T23:07:44.117364+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 4175.3547,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "76ers vs. Pacers: O/U 233.5",
+    "outcome": "Over",
+    "token_id": "68011304602359414071858633465072710212840070033143121276096505515420682127986",
+    "condition_id": "0x416b41c206db0d96d143b686df0f2b35177bb35fda2c8ff956cf9c63a27e6bce",
+    "trade_ts": 1793227847.0,
+    "detected_at": "2026-10-28T23:07:44.117366+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 4046.63000016,
+    "whale_price": 0.44,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "LYON",
+    "token_id": "247770351480664905409204749537800184705240485188141207174851624225895359981",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793227832.0,
+    "detected_at": "2026-10-28T23:07:44.117367+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 7614.44,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "LYON",
+    "token_id": "247770351480664905409204749537800184705240485188141207174851624225895359981",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793227826.0,
+    "detected_at": "2026-10-28T23:07:44.117368+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4200.0,
+    "whale_price": 0.42,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "LYON",
+    "token_id": "247770351480664905409204749537800184705240485188141207174851624225895359981",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793227810.0,
+    "detected_at": "2026-10-28T23:07:44.117370+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 6580.0,
+    "whale_price": 0.47,
+    "now_price": null,
+    "moved": null,
+    "title": "Magic vs. Raptors: O/U 223.5",
+    "outcome": "Under",
+    "token_id": "74474444483240111428478385756289188018340511323042304161940721252812897234511",
+    "condition_id": "0x7772274b83fcd9a34584e026b26c3a3800759d29ee11e165b6ef8cb0d563d31f",
+    "trade_ts": 1793227468.0,
+    "detected_at": "2026-10-28T23:07:44.117371+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2293.2388,
+    "whale_price": 0.58,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: B8 vs HOTU (BO3) - Tesla Cup Playoffs",
+    "outcome": "B8",
+    "token_id": "90865264970100826906877172690188269346706577943790326814648181921100619524318",
+    "condition_id": "0x967a09b104b8ed32600bec74338bd5096dc8d96b845ad0b2354cc8595e7fac69",
+    "trade_ts": 1793227025.0,
+    "detected_at": "2026-10-28T23:07:44.117372+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x92839e2d4f467ae41dc141913585afad1d474277",
+    "name": "wangyou1288",
+    "side": "BUY",
+    "usdc": 20172.2031,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "token_id": "66353224350021704653099195844660610824342140426921367369957357900944153552144",
+    "condition_id": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+    "trade_ts": 1793226980.0,
+    "detected_at": "2026-10-28T23:07:44.117374+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 7350.0,
+    "whale_price": 0.49,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Hawks (-2.5)",
+    "outcome": "Heat",
+    "token_id": "62751705816819319052378389720579007279549698737881624220782617095584179303512",
+    "condition_id": "0xd5b6f866c9ca3f2df4c33813364d6a2a5cdf6c0af7bc6fb99fd82bb46982a782",
+    "trade_ts": 1793226929.0,
+    "detected_at": "2026-10-28T23:07:44.117375+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3507.7400000000002,
+    "whale_price": 0.64,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Aurora Gaming vs MOUZ (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "MOUZ",
+    "token_id": "89289279717434476411317650311595099155832726516993470469662730377021980763528",
+    "condition_id": "0x9ef14276ecbd5e5aa2f2d2ff69b841f0b6bcbdd887018102576515ca2a2bf006",
+    "trade_ts": 1793226658.0,
+    "detected_at": "2026-10-28T23:07:44.117377+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 3291.2483999999995,
+    "whale_price": 0.57,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: B8 vs HOTU (BO3) - Tesla Cup Playoffs",
+    "outcome": "B8",
+    "token_id": "90865264970100826906877172690188269346706577943790326814648181921100619524318",
+    "condition_id": "0x967a09b104b8ed32600bec74338bd5096dc8d96b845ad0b2354cc8595e7fac69",
+    "trade_ts": 1793226229.0,
+    "detected_at": "2026-10-28T23:07:44.117378+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2534.9704,
+    "whale_price": 0.59,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FUT (-1.5) vs Nemiga (+1.5)",
+    "outcome": "Nemiga",
+    "token_id": "33159376792202007208938640780593811109652151029166749763536701569109830230427",
+    "condition_id": "0x79884749ee8f4decda00772c9ee3fa36facd307abdda5d6b7d2f4d13a75c18dd",
+    "trade_ts": 1793226223.0,
+    "detected_at": "2026-10-28T23:07:44.117379+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x41d28673f6fbcf28d08e6b2bd87072b34073d7c9",
+    "name": "Shimi1234",
+    "side": "BUY",
+    "usdc": 3375.570630104405,
+    "whale_price": 0.2627653952,
+    "now_price": null,
+    "moved": null,
+    "title": "Fluminense FC vs. SC Internacional: O/U 2.5 AND Santos FC vs. SE Palmeiras: O/U 2.5",
+    "outcome": "",
+    "token_id": "1535262962650498017424349764025627164098360788262111840888338967295674023936",
+    "condition_id": "0x0364ed943d6758dab1304c1d24c17e1f200000000000000000000000000000",
+    "trade_ts": 1793226113.0,
+    "detected_at": "2026-10-28T23:07:44.117380+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 5999.999999022366,
+    "whale_price": 0.7585857433,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "75239783043629241322063601005830739559147880062903080933912137350819051564273",
+    "condition_id": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
+    "trade_ts": 1793225519.0,
+    "detected_at": "2026-10-28T23:07:44.117382+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 6000.00000006,
+    "whale_price": 0.69,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "75239783043629241322063601005830739559147880062903080933912137350819051564273",
+    "condition_id": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
+    "trade_ts": 1793225473.0,
+    "detected_at": "2026-10-28T23:07:44.117384+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 3994.5242,
+    "whale_price": 0.59,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FUT (-1.5) vs Nemiga (+1.5)",
+    "outcome": "Nemiga",
+    "token_id": "33159376792202007208938640780593811109652151029166749763536701569109830230427",
+    "condition_id": "0x79884749ee8f4decda00772c9ee3fa36facd307abdda5d6b7d2f4d13a75c18dd",
+    "trade_ts": 1793225252.0,
+    "detected_at": "2026-10-28T23:07:44.117385+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 3824.13760009,
+    "whale_price": 0.3942409897,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 1 Winner",
+    "outcome": "LYON",
+    "token_id": "32203911284770340215087876216163674798439521700724212996492453120282787329968",
+    "condition_id": "0x994e7f67ce416aa4193c6ef234347dc028f8dc089587ec9fc3f4bc2c9a7046e3",
+    "trade_ts": 1793225140.0,
+    "detected_at": "2026-10-28T23:07:44.117386+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 8578.999998650253,
+    "whale_price": 0.7367593495,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "75239783043629241322063601005830739559147880062903080933912137350819051564273",
+    "condition_id": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
+    "trade_ts": 1793225014.0,
+    "detected_at": "2026-10-28T23:07:44.117388+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 11230.919,
+    "whale_price": 0.38,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Invictus Gaming vs LYON - Game 1 Winner",
+    "outcome": "LYON",
+    "token_id": "32203911284770340215087876216163674798439521700724212996492453120282787329968",
+    "condition_id": "0x994e7f67ce416aa4193c6ef234347dc028f8dc089587ec9fc3f4bc2c9a7046e3",
+    "trade_ts": 1793224933.0,
+    "detected_at": "2026-10-28T23:07:44.117389+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 3531.661500195792,
+    "whale_price": 0.7383501144,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "75239783043629241322063601005830739559147880062903080933912137350819051564273",
+    "condition_id": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
+    "trade_ts": 1793224924.0,
+    "detected_at": "2026-10-28T23:07:44.117390+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 16741.20800093916,
+    "whale_price": 0.6964589242,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "75239783043629241322063601005830739559147880062903080933912137350819051564273",
+    "condition_id": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
+    "trade_ts": 1793224909.0,
+    "detected_at": "2026-10-28T23:07:44.117392+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2031.318,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FUT (-1.5) vs Nemiga (+1.5)",
+    "outcome": "Nemiga",
+    "token_id": "33159376792202007208938640780593811109652151029166749763536701569109830230427",
+    "condition_id": "0x79884749ee8f4decda00772c9ee3fa36facd307abdda5d6b7d2f4d13a75c18dd",
+    "trade_ts": 1793224366.0,
+    "detected_at": "2026-10-28T23:07:44.117393+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2244.3869999999997,
+    "whale_price": 0.3,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "Nemiga",
+    "token_id": "36217957356823369295513374701486226579727660051046833459677344458377849019967",
+    "condition_id": "0x7a5f40916856c70b970fd7493c4adf38e85846b143891ae4c9feb0fd7fcf0da6",
+    "trade_ts": 1793224361.0,
+    "detected_at": "2026-10-28T23:07:44.117394+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 9803.695439650804,
+    "whale_price": 0.5990602469,
+    "now_price": null,
+    "moved": null,
+    "title": "EC Bahia vs. São Paulo FC: O/U 1.5 AND Red Bull Bragantino vs. Associação Chapecoense de Futebol: O/U 1.5 AND Fluminense FC vs. SC Internacional: Fluminense FC O/U 0.5",
+    "outcome": "",
+    "token_id": "1556986305224625957157658248143773046100719307275485846864613223908681711616",
+    "condition_id": "0x03713917cc7b0dcf2d8627cab67e45a9890000000000000000000000000000",
+    "trade_ts": 1793224040.0,
+    "detected_at": "2026-10-28T23:07:44.117395+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2681.6271999631003,
+    "whale_price": 0.7577872475,
+    "now_price": null,
+    "moved": null,
+    "title": "Brest: Francesco Maestrelli vs Gabriel Diallo",
+    "outcome": "Francesco Maestrelli",
+    "token_id": "2792336476223049261696957049511292717529834033701221980525004436700746308247",
+    "condition_id": "0x334c1a190ca4de152b59b5c08d49488fa9317a1ae802a714f8f435f007476d1b",
+    "trade_ts": 1793223557.0,
+    "detected_at": "2026-10-28T23:07:44.117397+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "name": "tenniz",
+    "side": "BUY",
+    "usdc": 52081.38439852129,
+    "whale_price": 0.650158608,
+    "now_price": null,
+    "moved": null,
+    "title": "Brest: Francesco Maestrelli vs Gabriel Diallo",
+    "outcome": "Francesco Maestrelli",
+    "token_id": "2792336476223049261696957049511292717529834033701221980525004436700746308247",
+    "condition_id": "0x334c1a190ca4de152b59b5c08d49488fa9317a1ae802a714f8f435f007476d1b",
+    "trade_ts": 1793223557.0,
+    "detected_at": "2026-10-28T23:07:44.117398+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xeae1e3f0da9c9adcdd69c021cd0385d9a6b4a67b",
+    "name": "tenniz",
+    "side": "BUY",
+    "usdc": 53299.97280279897,
+    "whale_price": 0.7026145289,
+    "now_price": null,
+    "moved": null,
+    "title": "Brest: Francesco Maestrelli vs Gabriel Diallo",
+    "outcome": "Francesco Maestrelli",
+    "token_id": "2792336476223049261696957049511292717529834033701221980525004436700746308247",
+    "condition_id": "0x334c1a190ca4de152b59b5c08d49488fa9317a1ae802a714f8f435f007476d1b",
+    "trade_ts": 1793223557.0,
+    "detected_at": "2026-10-28T23:07:44.117399+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2174.8439999999996,
+    "whale_price": 0.3,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "Nemiga",
+    "token_id": "36217957356823369295513374701486226579727660051046833459677344458377849019967",
+    "condition_id": "0x7a5f40916856c70b970fd7493c4adf38e85846b143891ae4c9feb0fd7fcf0da6",
+    "trade_ts": 1793223427.0,
+    "detected_at": "2026-10-28T23:07:44.117400+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 2836.3299998714615,
+    "whale_price": 0.7299999999,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: Vitality vs Natus Vincere (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "Vitality",
+    "token_id": "51887153318162640211508555999864918561117369184938003207815890950893510335809",
+    "condition_id": "0x8c68fb42cecf5da51ef32047c056d08423f58ca1ea2eb5156658dabcb551786b",
+    "trade_ts": 1793222998.0,
+    "detected_at": "2026-10-28T23:07:44.117402+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 16155.4441,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Milwaukee Brewers vs. Tampa Bay Rays: O/U 6.5",
+    "outcome": "Under",
+    "token_id": "67560973720287194988692863422208780905859074896288581207199886891676725374849",
+    "condition_id": "0x9cb6ae02ed1b50d3e5353829131b325c45b3e0537c34a94684422160c31f0e2f",
+    "trade_ts": 1793222902.0,
+    "detected_at": "2026-10-28T23:07:44.117403+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2000.0000001299998,
+    "whale_price": 0.43,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "106497463055786295061829707731959720232198149718306426834859568550242598189680",
+    "condition_id": "0xc4dec30140b18c65e5c76feebd42ae3ed694c9a56615dda2f03465d836ec07da",
+    "trade_ts": 1793222594.0,
+    "detected_at": "2026-10-28T23:07:44.117404+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2593.2554,
+    "whale_price": 0.31,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "Nemiga",
+    "token_id": "36217957356823369295513374701486226579727660051046833459677344458377849019967",
+    "condition_id": "0x7a5f40916856c70b970fd7493c4adf38e85846b143891ae4c9feb0fd7fcf0da6",
+    "trade_ts": 1793222582.0,
+    "detected_at": "2026-10-28T23:07:44.117405+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4000.0000001,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: GamerLegion vs LEGION - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "106497463055786295061829707731959720232198149718306426834859568550242598189680",
+    "condition_id": "0xc4dec30140b18c65e5c76feebd42ae3ed694c9a56615dda2f03465d836ec07da",
+    "trade_ts": 1793222308.0,
+    "detected_at": "2026-10-28T23:07:44.117406+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 165787.58091,
+    "whale_price": 0.789464671,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "token_id": "110921508528129511315945995094697714103757501421118244068042588902860854226912",
+    "condition_id": "0xfd252ae1dbd74da58652fb3c4746f28e8efe8f17b560f372eccf3b768a053b03",
+    "trade_ts": 1793221994.0,
+    "detected_at": "2026-10-28T23:07:44.117408+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 62400.0,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "token_id": "110921508528129511315945995094697714103757501421118244068042588902860854226912",
+    "condition_id": "0xfd252ae1dbd74da58652fb3c4746f28e8efe8f17b560f372eccf3b768a053b03",
+    "trade_ts": 1793221981.0,
+    "detected_at": "2026-10-28T23:07:44.117409+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 12380.939999999999,
+    "whale_price": 0.75,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "token_id": "110921508528129511315945995094697714103757501421118244068042588902860854226912",
+    "condition_id": "0xfd252ae1dbd74da58652fb3c4746f28e8efe8f17b560f372eccf3b768a053b03",
+    "trade_ts": 1793221891.0,
+    "detected_at": "2026-10-28T23:07:44.117411+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xa3566f3411369de654e2c83e9fa10392b83bcb94",
+    "name": "ubetteruuuu",
+    "side": "BUY",
+    "usdc": 5124.000000000001,
+    "whale_price": 0.28,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Movistar KOI vs T1 - Game 2 Winner",
+    "outcome": "Movistar KOI",
+    "token_id": "24947497595309427359361238398629808178657787998714916253144269066951525709812",
+    "condition_id": "0xfd252ae1dbd74da58652fb3c4746f28e8efe8f17b560f372eccf3b768a053b03",
+    "trade_ts": 1793221762.0,
+    "detected_at": "2026-10-28T23:07:44.117412+00:00",
     "returns": {
       "60": null,
       "240": null
