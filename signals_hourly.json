@@ -16768,7 +16768,7 @@
     "detected_at": "2026-10-28T23:07:42.488133+00:00",
     "returns": {
       "60": -0.9991379310344829,
-      "240": null
+      "240": -0.9991379310344829
     }
   },
   {
@@ -16901,7 +16901,7 @@
     "detected_at": "2026-10-28T23:07:43.618307+00:00",
     "returns": {
       "60": -0.06410256410256401,
-      "240": null
+      "240": -1.5628205128205128
     }
   },
   {
@@ -16920,7 +16920,7 @@
     "detected_at": "2026-10-28T23:07:43.794013+00:00",
     "returns": {
       "60": -0.9991379310344829,
-      "240": null
+      "240": -0.9991379310344829
     }
   },
   {
@@ -16939,7 +16939,7 @@
     "detected_at": "2026-10-28T23:07:43.965237+00:00",
     "returns": {
       "60": -0.9991379310344829,
-      "240": null
+      "240": -0.9991379310344829
     }
   },
   {
@@ -16958,7 +16958,7 @@
     "detected_at": "2026-10-28T23:07:44.117348+00:00",
     "returns": {
       "60": -0.9991379310344829,
-      "240": null
+      "240": -0.9991379310344829
     }
   },
   {
@@ -17793,7 +17793,7 @@
     "trade_ts": 1793240375.0,
     "detected_at": "2026-10-29T02:23:49.322315+00:00",
     "returns": {
-      "60": null,
+      "60": 0.054878048780487854,
       "240": null
     }
   },
@@ -17812,7 +17812,7 @@
     "trade_ts": 1793240341.0,
     "detected_at": "2026-10-29T02:23:49.497095+00:00",
     "returns": {
-      "60": null,
+      "60": 0.054878048780487854,
       "240": null
     }
   },
@@ -18324,6 +18324,253 @@
     "condition_id": "0x43e751cffb559900058e6e38839c93c144311073c78b3d671ee6ba55d94a33c5",
     "trade_ts": 1793233613.0,
     "detected_at": "2026-10-29T02:23:49.497202+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x77d9009e5e22d8b7187530c862dd058949b906ed",
+    "name": "UNIVERSEMVP",
+    "side": "BUY",
+    "usdc": 3461.91000001,
+    "whale_price": 0.77,
+    "now_price": 0.89,
+    "moved": 0.15584415584415584,
+    "title": "Dota 2: Team Liquid vs Astra Invicta - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "111234445573875635638491875816593788161039821956914874203653188696579053340446",
+    "condition_id": "0xefefa86c8c1c68cf6894eda236627ad27a90c7d9bda87b829420d2dd4aa727f5",
+    "trade_ts": 1793266744.0,
+    "detected_at": "2026-10-29T09:48:57.189066+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 15936.000000950427,
+    "whale_price": 0.6624905639,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: Team Liquid vs Astra Invicta - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "token_id": "111234445573875635638491875816593788161039821956914874203653188696579053340446",
+    "condition_id": "0xefefa86c8c1c68cf6894eda236627ad27a90c7d9bda87b829420d2dd4aa727f5",
+    "trade_ts": 1793265307.0,
+    "detected_at": "2026-10-29T09:48:57.189088+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 9104.513200000001,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: TS (-1.5) vs LEGION (+1.5)",
+    "outcome": "Team Spirit",
+    "token_id": "40838016695643310095079653297478375912420089992331107126808066819830303318421",
+    "condition_id": "0x892123cd2e833a72579022d6c6b23bfcc786499f5e1a24af17f68e9b290fe6c7",
+    "trade_ts": 1793264930.0,
+    "detected_at": "2026-10-29T09:48:57.189093+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 4241.976000000001,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FUT Esports",
+    "token_id": "79376490105340204135665423920661653255981132449103444567216720329714488949085",
+    "condition_id": "0x7a5f40916856c70b970fd7493c4adf38e85846b143891ae4c9feb0fd7fcf0da6",
+    "trade_ts": 1793264812.0,
+    "detected_at": "2026-10-29T09:48:57.189097+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2457.99999908,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: TS (-1.5) vs LEGION (+1.5)",
+    "outcome": "Team Spirit",
+    "token_id": "40838016695643310095079653297478375912420089992331107126808066819830303318421",
+    "condition_id": "0x892123cd2e833a72579022d6c6b23bfcc786499f5e1a24af17f68e9b290fe6c7",
+    "trade_ts": 1793264804.0,
+    "detected_at": "2026-10-29T09:48:57.189100+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 14224.32,
+    "whale_price": 0.48,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FUT Esports",
+    "token_id": "79376490105340204135665423920661653255981132449103444567216720329714488949085",
+    "condition_id": "0x7a5f40916856c70b970fd7493c4adf38e85846b143891ae4c9feb0fd7fcf0da6",
+    "trade_ts": 1793264750.0,
+    "detected_at": "2026-10-29T09:48:57.189103+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2881.46000016,
+    "whale_price": 0.36,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Bitcoin reach $82,000 October 26-November 1?",
+    "outcome": "Yes",
+    "token_id": "60603152927209579761433288623268775004817185962857357305731410827159123984525",
+    "condition_id": "0x9f7993cc0936607f3cee5e5da62f024c03525a399e622d5761f7cdac700927b2",
+    "trade_ts": 1793264537.0,
+    "detected_at": "2026-10-29T09:48:57.189107+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 2599.5385,
+    "whale_price": 0.65,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum reach $2,400 October 26-November 1?",
+    "outcome": "No",
+    "token_id": "31335300645438974795910918308981352362141747298072468200463818143711332691443",
+    "condition_id": "0x291dae888f95a91112d0295b2977a4c7ce5a9b9e660788906653b51d9069668b",
+    "trade_ts": 1793264521.0,
+    "detected_at": "2026-10-29T09:48:57.189110+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2343.0,
+    "whale_price": 0.33,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Bitcoin dip to $78,000 October 26-November 1?",
+    "outcome": "Yes",
+    "token_id": "98652794425029533254627514367004604309847922790000894345246965547790562082420",
+    "condition_id": "0x6a86676c28a428f9f0d72951b8c7fe7f65b22b9243c8a901d54f89dc901c3762",
+    "trade_ts": 1793264507.0,
+    "detected_at": "2026-10-29T09:48:57.189113+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2319.5881999999997,
+    "whale_price": 0.58,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum reach $2,400 October 26-November 1?",
+    "outcome": "No",
+    "token_id": "31335300645438974795910918308981352362141747298072468200463818143711332691443",
+    "condition_id": "0x291dae888f95a91112d0295b2977a4c7ce5a9b9e660788906653b51d9069668b",
+    "trade_ts": 1793264416.0,
+    "detected_at": "2026-10-29T09:48:57.189116+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 15921.016000000001,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster (BO3) - Worlds Group Stage",
+    "outcome": "Karmine Corp",
+    "token_id": "8649045562680816991177543311715660384104927029640858305404831862415985912126",
+    "condition_id": "0xe8d2386607969434a3e1d2ea4bf088611025f95f84eac370ec093d02ebdca511",
+    "trade_ts": 1793261962.0,
+    "detected_at": "2026-10-29T09:48:57.189120+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 15200.0,
+    "whale_price": 0.76,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "token_id": "100303304541039896017512295802358625437912951494334280533034536072770767981362",
+    "condition_id": "0xcd8f56f758d08d500257946bfcd7c16d6de8c1fa3ba574511e5186139376b8a7",
+    "trade_ts": 1793261603.0,
+    "detected_at": "2026-10-29T09:48:57.189123+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x285faa3e3d1465cf3ff1bff1e1d14891f5b8495f",
+    "name": "yabanci",
+    "side": "BUY",
+    "usdc": 4150.247200014652,
+    "whale_price": 0.4674354527,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FUT (-1.5) vs Nemiga (+1.5)",
+    "outcome": "FUT Esports",
+    "token_id": "74603303353310798408969574577329976627761382679846613902331687675957320894311",
+    "condition_id": "0x79884749ee8f4decda00772c9ee3fa36facd307abdda5d6b7d2f4d13a75c18dd",
+    "trade_ts": 1793261266.0,
+    "detected_at": "2026-10-29T09:48:57.189126+00:00",
     "returns": {
       "60": null,
       "240": null
