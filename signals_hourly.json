@@ -18591,7 +18591,7 @@
     "trade_ts": 1793292479.0,
     "detected_at": "2026-10-29T16:52:24.085465+00:00",
     "returns": {
-      "60": null,
+      "60": 1.49875,
       "240": null
     }
   },
@@ -18629,8 +18629,8 @@
     "trade_ts": 1793292122.0,
     "detected_at": "2026-10-29T16:52:40.460421+00:00",
     "returns": {
-      "60": null,
-      "240": null
+      "60": 0.0,
+      "240": 0.4698529411764706
     }
   },
   {
@@ -19274,6 +19274,424 @@
     "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
     "trade_ts": 1793285926.0,
     "detected_at": "2026-10-29T16:52:40.460510+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 16309.944000000001,
+    "whale_price": 0.46,
+    "now_price": 0.47,
+    "moved": 0.021739130434782507,
+    "title": "Swiss Indoors Basel: Ben Shelton vs Jerome Kym",
+    "outcome": "Jerome Kym",
+    "token_id": "55219775744333211542901265137405908679933053197564246918345375726919516202722",
+    "condition_id": "0x1e216e41631b9948489c50cd989a59bf9bc9d8fb879601a1f3d022d21ed26e61",
+    "trade_ts": 1793310243.0,
+    "detected_at": "2026-10-29T21:45:26.293111+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2194.3775,
+    "whale_price": 0.25,
+    "now_price": 0.47,
+    "moved": 0.8799999999999999,
+    "title": "Swiss Indoors Basel: Ben Shelton vs Jerome Kym",
+    "outcome": "Jerome Kym",
+    "token_id": "55219775744333211542901265137405908679933053197564246918345375726919516202722",
+    "condition_id": "0x1e216e41631b9948489c50cd989a59bf9bc9d8fb879601a1f3d022d21ed26e61",
+    "trade_ts": 1793310043.0,
+    "detected_at": "2026-10-29T21:45:26.448325+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2705.6400000400004,
+    "whale_price": 0.68,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner",
+    "outcome": "CTBC Flying Oyster",
+    "token_id": "23432776793039626512560661525050747615707324649468663590666307157848637221242",
+    "condition_id": "0x185a02504c275878eb0997e8a547664934a51fb98a1c349cf50199316f33abe5",
+    "trade_ts": 1793308320.0,
+    "detected_at": "2026-10-29T21:45:26.448343+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2185.7700001131266,
+    "whale_price": 0.5515429923,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner",
+    "outcome": "Karmine Corp",
+    "token_id": "48604425324960999359860470452978680002283992807734641859622086060385172516453",
+    "condition_id": "0x185a02504c275878eb0997e8a547664934a51fb98a1c349cf50199316f33abe5",
+    "trade_ts": 1793308108.0,
+    "detected_at": "2026-10-29T21:45:26.448348+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 8700.0,
+    "whale_price": 0.87,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Bitcoin reach $82,500 in October?",
+    "outcome": "No",
+    "token_id": "97948818299805593349169876683763026467576272125947257525378877248778151229783",
+    "condition_id": "0x5ce14dd9eb04b5a41104cef63b33194b64b70ae4bb8587957632b99288782822",
+    "trade_ts": 1793307870.0,
+    "detected_at": "2026-10-29T21:45:26.448353+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "SELL",
+    "usdc": 5599.1016,
+    "whale_price": 0.72,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Republicans win the South Carolina Senate race in 2026?",
+    "outcome": "Yes",
+    "token_id": "84368524152268016512433556151474175385160499638069024812438264090070245734708",
+    "condition_id": "0x1c017cbb38a9d0ab233ebb265b25c78290317e6a2470657ca18a73a112397b55",
+    "trade_ts": 1793307817.0,
+    "detected_at": "2026-10-29T21:45:26.448357+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "SELL",
+    "usdc": 13697.866,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Democrats win the Texas Senate race in 2026?",
+    "outcome": "Yes",
+    "token_id": "15290572385458522370285732869432740297199321382471116558439914335588167718663",
+    "condition_id": "0x34918035a590555ba1fb1d6a019d766ab6e557d63e7f3140b63b4550eee7f417",
+    "trade_ts": 1793307793.0,
+    "detected_at": "2026-10-29T21:45:26.448360+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+    "name": "defillama7",
+    "side": "SELL",
+    "usdc": 43041.89399999999,
+    "whale_price": 0.7,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Republicans win the Texas Senate race in 2026?",
+    "outcome": "No",
+    "token_id": "9846414914422486942750462555692240718767368950832862364324602361738794436048",
+    "condition_id": "0x94521176f57d2ce81dde01e0b7699ca4279423042d37ed53908f0c8bfefe7e14",
+    "trade_ts": 1793307783.0,
+    "detected_at": "2026-10-29T21:45:26.448364+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9e0720ee9e83fbebed019651a038793970c76e49",
+    "name": "ShadowRealms",
+    "side": "BUY",
+    "usdc": 3900.0,
+    "whale_price": 0.26,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner",
+    "outcome": "CTBC Flying Oyster",
+    "token_id": "23432776793039626512560661525050747615707324649468663590666307157848637221242",
+    "condition_id": "0x185a02504c275878eb0997e8a547664934a51fb98a1c349cf50199316f33abe5",
+    "trade_ts": 1793307583.0,
+    "detected_at": "2026-10-29T21:45:26.448368+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9e0720ee9e83fbebed019651a038793970c76e49",
+    "name": "ShadowRealms",
+    "side": "BUY",
+    "usdc": 2923.8612000000003,
+    "whale_price": 0.26,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Karmine Corp vs CTBC Flying Oyster - Game 2 Winner",
+    "outcome": "CTBC Flying Oyster",
+    "token_id": "23432776793039626512560661525050747615707324649468663590666307157848637221242",
+    "condition_id": "0x185a02504c275878eb0997e8a547664934a51fb98a1c349cf50199316f33abe5",
+    "trade_ts": 1793307583.0,
+    "detected_at": "2026-10-29T21:45:26.448371+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2844.359300104028,
+    "whale_price": 0.8300554468,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Everton FC win on 2026-10-29?",
+    "outcome": "Yes",
+    "token_id": "9986425088368052819207667578725113165745162979351753735002246029677908960555",
+    "condition_id": "0xcb647a344d1a9f80e303e34d5b4f9fd63d3d4e2c34c14912f4585f874d4eed44",
+    "trade_ts": 1793307391.0,
+    "detected_at": "2026-10-29T21:45:26.448375+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 3468.8499987493888,
+    "whale_price": 0.6299999999,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "MOUZ",
+    "token_id": "100928372101610062223841489371085312066858202269868246975824586361850707170781",
+    "condition_id": "0xd54ab598791633e900a51014de0f74046c0340e21b0b1d809f21edfd40fd6055",
+    "trade_ts": 1793307060.0,
+    "detected_at": "2026-10-29T21:45:26.448378+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4000.000000008698,
+    "whale_price": 0.6809893195,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+    "condition_id": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+    "trade_ts": 1793306223.0,
+    "detected_at": "2026-10-29T21:45:26.448382+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 4099.999999197009,
+    "whale_price": 0.6641460601,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+    "condition_id": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+    "trade_ts": 1793306197.0,
+    "detected_at": "2026-10-29T21:45:26.448385+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 3200.0,
+    "whale_price": 0.8,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum reach $2,400 October 26-November 1?",
+    "outcome": "No",
+    "token_id": "31335300645438974795910918308981352362141747298072468200463818143711332691443",
+    "condition_id": "0x291dae888f95a91112d0295b2977a4c7ce5a9b9e660788906653b51d9069668b",
+    "trade_ts": 1793306091.0,
+    "detected_at": "2026-10-29T21:45:26.448389+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 2015.4779997534,
+    "whale_price": 0.2260011213,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum dip to $2,200 in October?",
+    "outcome": "Yes",
+    "token_id": "108679926568012877397161935021238243526582075242968821356216075610177202992013",
+    "condition_id": "0x01c095bc497836950399c90f1233c81a99d052b1b81b2a729371f7b928e4510e",
+    "trade_ts": 1793306058.0,
+    "detected_at": "2026-10-29T21:45:26.448392+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 5006.329997744149,
+    "whale_price": 0.8380431325,
+    "now_price": null,
+    "moved": null,
+    "title": "W100 New Braunfels, TX: Arantxa Rus vs Kristina Liutova",
+    "outcome": "Kristina Liutova",
+    "token_id": "4019981311770317258081300600242718277447879913387216601512744211198599935442",
+    "condition_id": "0x1ff43ad8ac2dc09e7b9ca7dbd4ebf627205234ee3ad1aaa74d5a9b552a20757a",
+    "trade_ts": 1793305951.0,
+    "detected_at": "2026-10-29T21:45:26.448396+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 3024.7700000668,
+    "whale_price": 0.8362648604,
+    "now_price": null,
+    "moved": null,
+    "title": "W100 New Braunfels, TX: Arantxa Rus vs Kristina Liutova",
+    "outcome": "Kristina Liutova",
+    "token_id": "4019981311770317258081300600242718277447879913387216601512744211198599935442",
+    "condition_id": "0x1ff43ad8ac2dc09e7b9ca7dbd4ebf627205234ee3ad1aaa74d5a9b552a20757a",
+    "trade_ts": 1793305950.0,
+    "detected_at": "2026-10-29T21:45:26.448399+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 5441.027199586944,
+    "whale_price": 0.5833405379,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+    "condition_id": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+    "trade_ts": 1793305455.0,
+    "detected_at": "2026-10-29T21:45:26.448403+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 6170.0147001448295,
+    "whale_price": 0.5665871151,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+    "condition_id": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+    "trade_ts": 1793305432.0,
+    "detected_at": "2026-10-29T21:45:26.448406+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 5257.225799619696,
+    "whale_price": 0.5513863041,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+    "outcome": "GamerLegion",
+    "token_id": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+    "condition_id": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+    "trade_ts": 1793305372.0,
+    "detected_at": "2026-10-29T21:45:26.448409+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 10713.774000000001,
+    "whale_price": 0.51,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Trail Blazers (-7.5)",
+    "outcome": "Trail Blazers",
+    "token_id": "112286671879323624911378461891070670291199828536403247916149758687493491973064",
+    "condition_id": "0xc734669e3773a6311c6abefbfabb4a019c85abd68368602db246b3ddaf704fe8",
+    "trade_ts": 1793303484.0,
+    "detected_at": "2026-10-29T21:45:26.448413+00:00",
     "returns": {
       "60": null,
       "240": null
