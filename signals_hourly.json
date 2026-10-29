@@ -18344,7 +18344,7 @@
     "trade_ts": 1793266744.0,
     "detected_at": "2026-10-29T09:48:57.189066+00:00",
     "returns": {
-      "60": null,
+      "60": 0.12303370786516858,
       "240": null
     }
   },
@@ -18571,6 +18571,709 @@
     "condition_id": "0x79884749ee8f4decda00772c9ee3fa36facd307abdda5d6b7d2f4d13a75c18dd",
     "trade_ts": 1793261266.0,
     "detected_at": "2026-10-29T09:48:57.189126+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5600.000000000001,
+    "whale_price": 0.56,
+    "now_price": 0.4,
+    "moved": -0.28571428571428575,
+    "title": "Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "token_id": "62138914562150495915686172883422001884473441424634886114007850653732719597158",
+    "condition_id": "0xd4c594954a55520912e1f3c1da5c797dba9651b0e0347a2d60058f98d249e4df",
+    "trade_ts": 1793292479.0,
+    "detected_at": "2026-10-29T16:52:24.085465+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc7285a98c485b4350ce50fa0b67f067693de3e5b",
+    "name": "0xc7285A98C485b4350cE50fA0B67f067693dE3E5b-1768074690253",
+    "side": "BUY",
+    "usdc": 4913.489620217466,
+    "whale_price": 0.647865792,
+    "now_price": null,
+    "moved": null,
+    "title": "Al Nassr Saudi Club vs. Al Kholood Saudi Club: Al Nassr Saudi Club O/U 1.5 AND Al Riyadh Saudi Club vs. Al Qadisiyah Saudi Club: O/U 1.5 AND Frosinone Calcio vs. US Lecce: O/U 1.5 AND Will Al Nassr Saudi Club win on 2026-10-29?",
+    "outcome": "",
+    "token_id": "1694225698154132435497449680186321415873638740988742131645743786825443442688",
+    "condition_id": "0x03bee5d3cd6e048692d1648ab5f39dd3390000000000000000000000000000",
+    "trade_ts": 1793292383.0,
+    "detected_at": "2026-10-29T16:52:40.320631+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf880add3ab145ec40627abe09217bc7b51bd89c0",
+    "name": "fakeky",
+    "side": "BUY",
+    "usdc": 5439.9932,
+    "whale_price": 0.68,
+    "now_price": 0.68,
+    "moved": 0.0,
+    "title": "Will Hammarby IF win on 2026-10-29?",
+    "outcome": "Yes",
+    "token_id": "66827137624188451056125761962793103832676061308181616263547601466035323269426",
+    "condition_id": "0xf627498c1334cf57d2efa643ed0a0574213d41e5200e6dcfcc2d8bdeeaa46aeb",
+    "trade_ts": 1793292122.0,
+    "detected_at": "2026-10-29T16:52:40.460421+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 4263.71,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "token_id": "62138914562150495915686172883422001884473441424634886114007850653732719597158",
+    "condition_id": "0xd4c594954a55520912e1f3c1da5c797dba9651b0e0347a2d60058f98d249e4df",
+    "trade_ts": 1793292101.0,
+    "detected_at": "2026-10-29T16:52:40.460429+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 27500.000000000004,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "token_id": "62138914562150495915686172883422001884473441424634886114007850653732719597158",
+    "condition_id": "0xd4c594954a55520912e1f3c1da5c797dba9651b0e0347a2d60058f98d249e4df",
+    "trade_ts": 1793291993.0,
+    "detected_at": "2026-10-29T16:52:40.460432+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 6920.9400000000005,
+    "whale_price": 0.78,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the price of Ethereum be above $2,400 on October 30?",
+    "outcome": "No",
+    "token_id": "34532484335318460947399470682884059252638227006944939271717554022026003590710",
+    "condition_id": "0xea3566a30bca35823bf7ccf383566f0e739c6ef50cead15ba98fef23db0753d1",
+    "trade_ts": 1793291938.0,
+    "detected_at": "2026-10-29T16:52:40.460436+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5500.0,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "token_id": "62138914562150495915686172883422001884473441424634886114007850653732719597158",
+    "condition_id": "0xd4c594954a55520912e1f3c1da5c797dba9651b0e0347a2d60058f98d249e4df",
+    "trade_ts": 1793291807.0,
+    "detected_at": "2026-10-29T16:52:40.460438+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 5500.0,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "token_id": "62138914562150495915686172883422001884473441424634886114007850653732719597158",
+    "condition_id": "0xd4c594954a55520912e1f3c1da5c797dba9651b0e0347a2d60058f98d249e4df",
+    "trade_ts": 1793291728.0,
+    "detected_at": "2026-10-29T16:52:40.460441+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2396.8494,
+    "whale_price": 0.33,
+    "now_price": null,
+    "moved": null,
+    "title": "Jets vs. Lightning",
+    "outcome": "Jets",
+    "token_id": "75883873993426275985456887749969804909837637025116988399864649375334496067418",
+    "condition_id": "0x9cacd9966ee3191c1eae2ef1fb6644a906d880d9ea57f8cff55fa7ab2d3a2106",
+    "trade_ts": 1793291657.0,
+    "detected_at": "2026-10-29T16:52:40.460443+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 12095.6742,
+    "whale_price": 0.79,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793291608.0,
+    "detected_at": "2026-10-29T16:52:40.460446+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2339.1335000000004,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Lightning (-1.5)",
+    "outcome": "Jets",
+    "token_id": "44645751671063216366275284634504691414590079165071576359298023659921514034831",
+    "condition_id": "0x2bd1a11b85a21664bca824d90db67f4d705fa3d806a7216a50394e4e63a95e51",
+    "trade_ts": 1793291587.0,
+    "detected_at": "2026-10-29T16:52:40.460448+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x77d9009e5e22d8b7187530c862dd058949b906ed",
+    "name": "UNIVERSEMVP",
+    "side": "SELL",
+    "usdc": 2486.515,
+    "whale_price": 0.5,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "token_id": "82424529713297748091672221437996452297998478024642354993733275253229924918397",
+    "condition_id": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
+    "trade_ts": 1793291413.0,
+    "detected_at": "2026-10-29T16:52:40.460452+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x09bed1976600971fd9f9db454a9c302c7a559c32",
+    "name": "Momo63",
+    "side": "BUY",
+    "usdc": 2397.8347999999996,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "Swiss Indoors Basel: Alex Michelsen vs Arthur Fils",
+    "outcome": "Arthur Fils",
+    "token_id": "108524754254892543996782403092245593388646497704455735435855296361837368360713",
+    "condition_id": "0x5e076ba43fad448621221110d3468bc84079e9c7215baef8223564ef7ee7a86b",
+    "trade_ts": 1793290648.0,
+    "detected_at": "2026-10-29T16:52:40.460454+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 6300.0,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287694.0,
+    "detected_at": "2026-10-29T16:52:40.460457+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 3722.7285000133797,
+    "whale_price": 0.633835007,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "79518680020685324702040039730147779136309954774363553281767575939009884738892",
+    "condition_id": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
+    "trade_ts": 1793287679.0,
+    "detected_at": "2026-10-29T16:52:40.460459+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 30942.2547,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287666.0,
+    "detected_at": "2026-10-29T16:52:40.460462+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 25200.0,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287651.0,
+    "detected_at": "2026-10-29T16:52:40.460464+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6e553015227ef6f43683a866bec357d6608368d0",
+    "name": "yadens",
+    "side": "BUY",
+    "usdc": 2375.0757000471062,
+    "whale_price": 0.6410927922,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "79518680020685324702040039730147779136309954774363553281767575939009884738892",
+    "condition_id": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
+    "trade_ts": 1793287619.0,
+    "detected_at": "2026-10-29T16:52:40.460467+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 14328.1341,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287589.0,
+    "detected_at": "2026-10-29T16:52:40.460469+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4839.4038,
+    "whale_price": 0.62,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287501.0,
+    "detected_at": "2026-10-29T16:52:40.460472+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 12000.0,
+    "whale_price": 0.6,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287474.0,
+    "detected_at": "2026-10-29T16:52:40.460474+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 31460.1085,
+    "whale_price": 0.62920217,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287462.0,
+    "detected_at": "2026-10-29T16:52:40.460476+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 12319.0964,
+    "whale_price": 0.61,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287453.0,
+    "detected_at": "2026-10-29T16:52:40.460478+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
+    "name": "",
+    "side": "BUY",
+    "usdc": 13129.999999730719,
+    "whale_price": 0.5626937918,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+    "outcome": "PARIVISION",
+    "token_id": "79518680020685324702040039730147779136309954774363553281767575939009884738892",
+    "condition_id": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
+    "trade_ts": 1793287432.0,
+    "detected_at": "2026-10-29T16:52:40.460481+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "name": "SineNooneEI",
+    "side": "BUY",
+    "usdc": 2845.2688000000003,
+    "whale_price": 0.44,
+    "now_price": null,
+    "moved": null,
+    "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "token_id": "82424529713297748091672221437996452297998478024642354993733275253229924918397",
+    "condition_id": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
+    "trade_ts": 1793287429.0,
+    "detected_at": "2026-10-29T16:52:40.460484+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 18900.0,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287355.0,
+    "detected_at": "2026-10-29T16:52:40.460486+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 4487.49,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287208.0,
+    "detected_at": "2026-10-29T16:52:40.460488+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 8763.86000033,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "BetBoom Team",
+    "token_id": "87173237793347417116880425165434603079455692816853445173807952081538734716458",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287183.0,
+    "detected_at": "2026-10-29T16:52:40.460491+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 2493.225,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287174.0,
+    "detected_at": "2026-10-29T16:52:40.460492+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747",
+    "name": "juice-fruit",
+    "side": "BUY",
+    "usdc": 75242.5546,
+    "whale_price": 0.376212773,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "BetBoom Team",
+    "token_id": "87173237793347417116880425165434603079455692816853445173807952081538734716458",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793287168.0,
+    "detected_at": "2026-10-29T16:52:40.460495+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 18500.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
+    "outcome": "FURIA",
+    "token_id": "21273050963516666660794316170137726066970290521320734896111891837828405776413",
+    "condition_id": "0x50a426dcb66be360b51b3977c8cb50416eb929cca173fb3a2d9143d6cc2d770a",
+    "trade_ts": 1793287099.0,
+    "detected_at": "2026-10-29T16:52:40.460496+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 3054.5379000000003,
+    "whale_price": 0.362,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Republicans win the Texas governor race in 2026?",
+    "outcome": "No",
+    "token_id": "1866695229821909795321299492017203124655045093500207568743162324352894510180",
+    "condition_id": "0xcd953913ecd5bf5387092bf447fe13190871b2bc9436c85b0918b4767c3fa58a",
+    "trade_ts": 1793286229.0,
+    "detected_at": "2026-10-29T16:52:40.460499+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 2720.6964,
+    "whale_price": 0.36,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Democrats win the Texas governor race in 2026?",
+    "outcome": "Yes",
+    "token_id": "48232987449750988261789196083999659380058157021032932634331257492238853387252",
+    "condition_id": "0x12b727031b38130d945b3e164386874360d9a32fdd7e3d00ed2adb13857e089b",
+    "trade_ts": 1793286224.0,
+    "detected_at": "2026-10-29T16:52:40.460501+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6575759174ad221bba9947bc3f18750ec769b198",
+    "name": "dromedaryy",
+    "side": "BUY",
+    "usdc": 5387.745489584519,
+    "whale_price": 0.3615439144,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the Republicans win the Texas governor race in 2026?",
+    "outcome": "No",
+    "token_id": "1866695229821909795321299492017203124655045093500207568743162324352894510180",
+    "condition_id": "0xcd953913ecd5bf5387092bf447fe13190871b2bc9436c85b0918b4767c3fa58a",
+    "trade_ts": 1793286188.0,
+    "detected_at": "2026-10-29T16:52:40.460503+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xe18ecc345e00ee7c4f2d1f676f3dd2acb112f826",
+    "name": "ArielFilipino",
+    "side": "BUY",
+    "usdc": 10902.3737991,
+    "whale_price": 0.5191606571,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "token_id": "1823204993699831935606546453310133467584296830072981803106932362090411410220",
+    "condition_id": "0xf5339fa8c6c34185924a6be703fde2e7241b2931e3be9d07af962eee0067cbfe",
+    "trade_ts": 1793286119.0,
+    "detected_at": "2026-10-29T16:52:40.460506+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 37000.0,
+    "whale_price": 0.37,
+    "now_price": null,
+    "moved": null,
+    "title": "Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)",
+    "outcome": "FURIA",
+    "token_id": "21273050963516666660794316170137726066970290521320734896111891837828405776413",
+    "condition_id": "0x50a426dcb66be360b51b3977c8cb50416eb929cca173fb3a2d9143d6cc2d770a",
+    "trade_ts": 1793285948.0,
+    "detected_at": "2026-10-29T16:52:40.460508+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 144900.0,
+    "whale_price": 0.63,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: BetBoom Team vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+    "outcome": "FURIA",
+    "token_id": "89363738638564612318070746792293555176381906553270671964065804153832647471213",
+    "condition_id": "0x6e13843dcffefff9f4985198ddc5721daa3585d0ae554474aeebe1ca8bc74414",
+    "trade_ts": 1793285926.0,
+    "detected_at": "2026-10-29T16:52:40.460510+00:00",
     "returns": {
       "60": null,
       "240": null
