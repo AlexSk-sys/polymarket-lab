@@ -16,7 +16,8 @@
     "returns": {
       "res": null
     },
-    "resolution": null
+    "resolution": null,
+    "event": "binance_hack"
   },
   {
     "wallet": "news",
@@ -35,6 +36,7 @@
     "returns": {
       "res": null
     },
-    "resolution": null
+    "resolution": null,
+    "event": "houthi_oil"
   }
 ]

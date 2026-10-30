@@ -158,7 +158,7 @@ async def main():
         except:
             pass
     out.sort(key=lambda x: (-x["hits"], -x["volume"]))
-    Path(__file__).resolve().parent / "news_signals.json".write_text(
+    (Path(__file__).resolve().parent / "news_signals.json").write_text(
         json.dumps(
             {
                 "generated_at": now.isoformat(),

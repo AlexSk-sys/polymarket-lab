@@ -8,6 +8,7 @@ __pycache__/
 dashboard_local_data.json
 dashboard_local.html
 capture_error.log
+news_cycle.log
 .resolution_cache.json
 
 # large throwaway research dumps; the runtime state is tracked on purpose
