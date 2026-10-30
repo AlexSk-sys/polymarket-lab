@@ -19294,7 +19294,7 @@
     "trade_ts": 1793310243.0,
     "detected_at": "2026-10-29T21:45:26.293111+00:00",
     "returns": {
-      "60": null,
+      "60": 0.41489361702127675,
       "240": null
     }
   },
@@ -19313,7 +19313,7 @@
     "trade_ts": 1793310043.0,
     "detected_at": "2026-10-29T21:45:26.448325+00:00",
     "returns": {
-      "60": null,
+      "60": 0.4574468085106385,
       "240": null
     }
   },
@@ -19692,6 +19692,747 @@
     "condition_id": "0xc734669e3773a6311c6abefbfabb4a019c85abd68368602db246b3ddaf704fe8",
     "trade_ts": 1793303484.0,
     "detected_at": "2026-10-29T21:45:26.448413+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2350.0,
+    "whale_price": 0.47,
+    "now_price": 0.5,
+    "moved": 0.06382978723404262,
+    "title": "Cavaliers vs. Hawks: O/U 231.5",
+    "outcome": "Over",
+    "token_id": "42662753011833337252866538944932284962132613032905001069940963386019500047962",
+    "condition_id": "0x63e7e5d9f755ce9b8632d03cc09e5946bff002ac8c76d126e70b71cca1c0e6e1",
+    "trade_ts": 1793324863.0,
+    "detected_at": "2026-10-30T01:51:39.947235+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 6278.42000005,
+    "whale_price": 0.55,
+    "now_price": 0.61,
+    "moved": 0.10909090909090897,
+    "title": "Cavaliers vs. Hawks: O/U 229.5",
+    "outcome": "Over",
+    "token_id": "44393116941595913778156257950180164501362845890685747362998426118358174537924",
+    "condition_id": "0x9f0e70c9de8dcba055b99a74af0df590c01da82d4243fc5c4eb74054c2c9e638",
+    "trade_ts": 1793324850.0,
+    "detected_at": "2026-10-30T01:51:40.055499+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2350.0,
+    "whale_price": 0.47,
+    "now_price": 0.5,
+    "moved": 0.06382978723404262,
+    "title": "Cavaliers vs. Hawks: O/U 231.5",
+    "outcome": "Over",
+    "token_id": "42662753011833337252866538944932284962132613032905001069940963386019500047962",
+    "condition_id": "0x63e7e5d9f755ce9b8632d03cc09e5946bff002ac8c76d126e70b71cca1c0e6e1",
+    "trade_ts": 1793324803.0,
+    "detected_at": "2026-10-30T01:51:40.153825+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2350.0,
+    "whale_price": 0.47,
+    "now_price": 0.5,
+    "moved": 0.06382978723404262,
+    "title": "Cavaliers vs. Hawks: O/U 231.5",
+    "outcome": "Over",
+    "token_id": "42662753011833337252866538944932284962132613032905001069940963386019500047962",
+    "condition_id": "0x63e7e5d9f755ce9b8632d03cc09e5946bff002ac8c76d126e70b71cca1c0e6e1",
+    "trade_ts": 1793324802.0,
+    "detected_at": "2026-10-30T01:51:40.252546+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2350.0,
+    "whale_price": 0.47,
+    "now_price": 0.5,
+    "moved": 0.06382978723404262,
+    "title": "Cavaliers vs. Hawks: O/U 231.5",
+    "outcome": "Over",
+    "token_id": "42662753011833337252866538944932284962132613032905001069940963386019500047962",
+    "condition_id": "0x63e7e5d9f755ce9b8632d03cc09e5946bff002ac8c76d126e70b71cca1c0e6e1",
+    "trade_ts": 1793324800.0,
+    "detected_at": "2026-10-30T01:51:40.354814+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2350.0,
+    "whale_price": 0.47,
+    "now_price": 0.5,
+    "moved": 0.06382978723404262,
+    "title": "Cavaliers vs. Hawks: O/U 231.5",
+    "outcome": "Over",
+    "token_id": "42662753011833337252866538944932284962132613032905001069940963386019500047962",
+    "condition_id": "0x63e7e5d9f755ce9b8632d03cc09e5946bff002ac8c76d126e70b71cca1c0e6e1",
+    "trade_ts": 1793324797.0,
+    "detected_at": "2026-10-30T01:51:40.454440+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2350.0,
+    "whale_price": 0.47,
+    "now_price": 0.5,
+    "moved": 0.06382978723404262,
+    "title": "Cavaliers vs. Hawks: O/U 231.5",
+    "outcome": "Over",
+    "token_id": "42662753011833337252866538944932284962132613032905001069940963386019500047962",
+    "condition_id": "0x63e7e5d9f755ce9b8632d03cc09e5946bff002ac8c76d126e70b71cca1c0e6e1",
+    "trade_ts": 1793324797.0,
+    "detected_at": "2026-10-30T01:51:40.561336+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x558f2f82cf0394c28ce3c8e117ee747aeab51a56",
+    "name": "LesterDiamond",
+    "side": "BUY",
+    "usdc": 2122.407,
+    "whale_price": 0.59,
+    "now_price": 0.62,
+    "moved": 0.05084745762711869,
+    "title": "Spread: Pelicans (-9.5)",
+    "outcome": "Pelicans",
+    "token_id": "13409960846269946982835576734927160660464107766936138236157013824878645892311",
+    "condition_id": "0x16a8d97b72bd7167245db8d13ae537b8d516a5d275d90397f7bcb4a73e74ddf2",
+    "trade_ts": 1793324790.0,
+    "detected_at": "2026-10-30T01:51:40.669412+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 16453.860001509907,
+    "whale_price": 0.5189218577,
+    "now_price": 0.52,
+    "moved": 0.002077658290939301,
+    "title": "Spread: Trail Blazers (-7.5)",
+    "outcome": "Trail Blazers",
+    "token_id": "112286671879323624911378461891070670291199828536403247916149758687493491973064",
+    "condition_id": "0xc734669e3773a6311c6abefbfabb4a019c85abd68368602db246b3ddaf704fe8",
+    "trade_ts": 1793324775.0,
+    "detected_at": "2026-10-30T01:51:40.764678+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 4982.0,
+    "whale_price": 0.53,
+    "now_price": 0.54,
+    "moved": 0.018867924528301903,
+    "title": "Spread: Trail Blazers (-8.5)",
+    "outcome": "Grizzlies",
+    "token_id": "78149378723296559607206363305601335593071940260154960237742988190496412245881",
+    "condition_id": "0x901ae963c9b018920aff97e39d8d025782d4f932740dddfa261905c599a640ca",
+    "trade_ts": 1793324601.0,
+    "detected_at": "2026-10-30T01:51:40.863881+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 3718.6292000000003,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Grizzlies vs. Trail Blazers: O/U 232.5",
+    "outcome": "Over",
+    "token_id": "91096419718856294408971834791338666118950535963158904478771562977805341066208",
+    "condition_id": "0xb4949875e1189704f364428ab3818547ade1edd3ba0447b9d64413fad1237a19",
+    "trade_ts": 1793324296.0,
+    "detected_at": "2026-10-30T01:51:40.863898+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x91feec8af2b517f024d91564ee108d707cc0c1c6",
+    "name": "NordhavenCap",
+    "side": "BUY",
+    "usdc": 2304.339998948511,
+    "whale_price": 0.5599999999,
+    "now_price": null,
+    "moved": null,
+    "title": "Islanders vs. Wild",
+    "outcome": "Islanders",
+    "token_id": "84054908444756228994588857730974100511948784056814037515022028994998988427187",
+    "condition_id": "0x398340841ea9eb67c0eae353ae924f6044fbe9a70793baf6fb0b8d4453dd9809",
+    "trade_ts": 1793324029.0,
+    "detected_at": "2026-10-30T01:51:40.863903+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x14494e6733e86a05888610dfabf3c98eeffea618",
+    "name": "SadSquid54333",
+    "side": "BUY",
+    "usdc": 2460.0,
+    "whale_price": 0.82,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers",
+    "outcome": "Packers",
+    "token_id": "14454103804194723330483648549716480987369769098696900994775497216980487558661",
+    "condition_id": "0x3e5dab364ce5d5be651c1e9afac62577be5d7680497606e401afd06f5ea068af",
+    "trade_ts": 1793323942.0,
+    "detected_at": "2026-10-30T01:51:40.863907+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "BUY",
+    "usdc": 2374.5040000296,
+    "whale_price": 0.4279927902,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum dip to $2,100 in October?",
+    "outcome": "No",
+    "token_id": "114717913687846771535385918688511656168520389690457491879109157259172401776464",
+    "condition_id": "0xc02f22c25226ff155f018908878fe2ca79e8a9150dbcc474f66992f0c4c14d1a",
+    "trade_ts": 1793323909.0,
+    "detected_at": "2026-10-30T01:51:40.863911+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 9673.440000319999,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "token_id": "1823204993699831935606546453310133467584296830072981803106932362090411410220",
+    "condition_id": "0xf5339fa8c6c34185924a6be703fde2e7241b2931e3be9d07af962eee0067cbfe",
+    "trade_ts": 1793323800.0,
+    "detected_at": "2026-10-30T01:51:40.863915+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 9707.13000012,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "token_id": "1823204993699831935606546453310133467584296830072981803106932362090411410220",
+    "condition_id": "0xf5339fa8c6c34185924a6be703fde2e7241b2931e3be9d07af962eee0067cbfe",
+    "trade_ts": 1793323797.0,
+    "detected_at": "2026-10-30T01:51:40.863918+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 9761.220000340001,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "token_id": "1823204993699831935606546453310133467584296830072981803106932362090411410220",
+    "condition_id": "0xf5339fa8c6c34185924a6be703fde2e7241b2931e3be9d07af962eee0067cbfe",
+    "trade_ts": 1793323791.0,
+    "detected_at": "2026-10-30T01:51:40.863921+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 11576.21000044,
+    "whale_price": 0.46,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "token_id": "1823204993699831935606546453310133467584296830072981803106932362090411410220",
+    "condition_id": "0xf5339fa8c6c34185924a6be703fde2e7241b2931e3be9d07af962eee0067cbfe",
+    "trade_ts": 1793323783.0,
+    "detected_at": "2026-10-30T01:51:40.863924+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
+    "name": "",
+    "side": "BUY",
+    "usdc": 3843.160799777506,
+    "whale_price": 0.7395714398,
+    "now_price": null,
+    "moved": null,
+    "title": "Cavaliers vs. Hawks",
+    "outcome": "Hawks",
+    "token_id": "11234332954131189575658873103086066857368405563296373560568776922697137810841",
+    "condition_id": "0x1d06cb74c42d371dd4ce3c26f239df4eaf534c6e252dc5459723f41774158223",
+    "trade_ts": 1793323779.0,
+    "detected_at": "2026-10-30T01:51:40.863927+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2750.0,
+    "whale_price": 0.55,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers: O/U 52.5",
+    "outcome": "Over",
+    "token_id": "13222076641044235382219640846240348001371651530747880936540265042734567428276",
+    "condition_id": "0x74e94b791e5000a85ea08ea2dab322a9fcebf44e88800b413ce0f83f8f1f8a76",
+    "trade_ts": 1793323494.0,
+    "detected_at": "2026-10-30T01:51:40.863931+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 3049.9999998291237,
+    "whale_price": 0.6098880205,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers: O/U 50.5",
+    "outcome": "Over",
+    "token_id": "62184165316332330735202663233956555607706286659358148213651673582151721415860",
+    "condition_id": "0x7ffcd3ec4037fb9dca8025e912e2b204864d62e9d47e7f0090b0cef03f5daa1a",
+    "trade_ts": 1793323359.0,
+    "detected_at": "2026-10-30T01:51:40.863934+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 2700.4,
+    "whale_price": 0.86,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Ethereum reach $2,400 October 26-November 1?",
+    "outcome": "No",
+    "token_id": "31335300645438974795910918308981352362141747298072468200463818143711332691443",
+    "condition_id": "0x291dae888f95a91112d0295b2977a4c7ce5a9b9e660788906653b51d9069668b",
+    "trade_ts": 1793322825.0,
+    "detected_at": "2026-10-30T01:51:40.863937+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 2625.8379999999997,
+    "whale_price": 0.817,
+    "now_price": null,
+    "moved": null,
+    "title": "Will Bitcoin dip to $72,000 October 26-November 1?",
+    "outcome": "No",
+    "token_id": "86555266069142500304420712959893408682847946423382963881636987059466833363890",
+    "condition_id": "0x6e452427de7f44cd74e9711c25d372d4994e6abaf213e3d2117921a25f0d6fc4",
+    "trade_ts": 1793322306.0,
+    "detected_at": "2026-10-30T01:51:40.863940+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 8885.11999986127,
+    "whale_price": 0.5489176799,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers",
+    "outcome": "Packers",
+    "token_id": "14454103804194723330483648549716480987369769098696900994775497216980487558661",
+    "condition_id": "0x3e5dab364ce5d5be651c1e9afac62577be5d7680497606e401afd06f5ea068af",
+    "trade_ts": 1793321835.0,
+    "detected_at": "2026-10-30T01:51:40.863944+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 3337.3588,
+    "whale_price": 0.61,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers: O/U 48.5",
+    "outcome": "Over",
+    "token_id": "51738773412503724868470665366616831783919934002779474423251259140585283579356",
+    "condition_id": "0x122617f2d7fa7782c4efa838722812e6784d81bbfb542c5095b99cfb7fbd50ac",
+    "trade_ts": 1793321398.0,
+    "detected_at": "2026-10-30T01:51:40.863947+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 2945.28330020322,
+    "whale_price": 0.4628437876,
+    "now_price": null,
+    "moved": null,
+    "title": "CR Vasco da Gama vs. CR Flamengo: O/U 4.5",
+    "outcome": "Under",
+    "token_id": "59257714797535006371725467059513167169219547368948958455265874191694455501278",
+    "condition_id": "0x2f71a0e1281c93c0eb36c836f74c7b21959333476a849f173cf82b07d2d97af9",
+    "trade_ts": 1793321289.0,
+    "detected_at": "2026-10-30T01:51:40.863950+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2679.999999187004,
+    "whale_price": 0.6699469817,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "20418726026244459418892066085346350650248266661330089276254401620653630065990",
+    "condition_id": "0xcd8f56f758d08d500257946bfcd7c16d6de8c1fa3ba574511e5186139376b8a7",
+    "trade_ts": 1793320798.0,
+    "detected_at": "2026-10-30T01:51:40.863953+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xdbc0dc10ef6ef687c18ff739ef1dd344b6d6cc4f",
+    "name": "yong32",
+    "side": "BUY",
+    "usdc": 2679.9999999057322,
+    "whale_price": 0.6698533895,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "20418726026244459418892066085346350650248266661330089276254401620653630065990",
+    "condition_id": "0xcd8f56f758d08d500257946bfcd7c16d6de8c1fa3ba574511e5186139376b8a7",
+    "trade_ts": 1793320795.0,
+    "detected_at": "2026-10-30T01:51:40.863957+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2b46bb71681777202368d095196f266944a1684d",
+    "name": "betdge",
+    "side": "BUY",
+    "usdc": 2700.0,
+    "whale_price": 0.54,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Packers (-3.5)",
+    "outcome": "Packers",
+    "token_id": "112469401159737993565010983864812775750896874463326981308331168983178363155663",
+    "condition_id": "0x779318e9e3139b81d551cbfe78077f5ed6e7fea06e27b1bf7fc3ae68322297ed",
+    "trade_ts": 1793320686.0,
+    "detected_at": "2026-10-30T01:51:40.863959+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x558f2f82cf0394c28ce3c8e117ee747aeab51a56",
+    "name": "LesterDiamond",
+    "side": "BUY",
+    "usdc": 3208.6103999999996,
+    "whale_price": 0.69,
+    "now_price": null,
+    "moved": null,
+    "title": "Cavaliers vs. Hawks",
+    "outcome": "Cavaliers",
+    "token_id": "58969701902967634160572556308711400957395746439148514066891391663292549876888",
+    "condition_id": "0x1d06cb74c42d371dd4ce3c26f239df4eaf534c6e252dc5459723f41774158223",
+    "trade_ts": 1793320533.0,
+    "detected_at": "2026-10-30T01:51:40.863962+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x558f2f82cf0394c28ce3c8e117ee747aeab51a56",
+    "name": "LesterDiamond",
+    "side": "BUY",
+    "usdc": 3133.8582000000006,
+    "whale_price": 0.66,
+    "now_price": null,
+    "moved": null,
+    "title": "Cavaliers vs. Hawks",
+    "outcome": "Cavaliers",
+    "token_id": "58969701902967634160572556308711400957395746439148514066891391663292549876888",
+    "condition_id": "0x1d06cb74c42d371dd4ce3c26f239df4eaf534c6e252dc5459723f41774158223",
+    "trade_ts": 1793320161.0,
+    "detected_at": "2026-10-30T01:51:40.863965+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x2879ded7fe05df00eddbb2fba412a0d30964411a",
+    "name": "chongchong37",
+    "side": "BUY",
+    "usdc": 2900.0,
+    "whale_price": 0.29,
+    "now_price": null,
+    "moved": null,
+    "title": "Grizzlies vs. Trail Blazers",
+    "outcome": "Grizzlies",
+    "token_id": "106276744878539450078764807876981394100253045031785691396751308869542735250182",
+    "condition_id": "0x92c9c48af78d045a419a6e08b1affb483ff5732cfc89902d84103f0c0ff01811",
+    "trade_ts": 1793320158.0,
+    "detected_at": "2026-10-30T01:51:40.863968+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x9697b2aca70df21056088d7094f8d7dfb5bd18e9",
+    "name": "relativesignificance",
+    "side": "BUY",
+    "usdc": 5526.009999619842,
+    "whale_price": 0.6399548708,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Bilibili Gaming",
+    "token_id": "100303304541039896017512295802358625437912951494334280533034536072770767981362",
+    "condition_id": "0xcd8f56f758d08d500257946bfcd7c16d6de8c1fa3ba574511e5186139376b8a7",
+    "trade_ts": 1793319900.0,
+    "detected_at": "2026-10-30T01:51:40.863971+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf1c9a36fd5e982f27337a8692c78b2b1b2e3363f",
+    "name": "rookie765",
+    "side": "BUY",
+    "usdc": 3586.931820472,
+    "whale_price": 0.3583348472,
+    "now_price": null,
+    "moved": null,
+    "title": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "outcome": "Top Esports",
+    "token_id": "20418726026244459418892066085346350650248266661330089276254401620653630065990",
+    "condition_id": "0xcd8f56f758d08d500257946bfcd7c16d6de8c1fa3ba574511e5186139376b8a7",
+    "trade_ts": 1793319874.0,
+    "detected_at": "2026-10-30T01:51:40.863974+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7",
+    "name": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
+    "side": "BUY",
+    "usdc": 13732.71999912,
+    "whale_price": 0.72,
+    "now_price": null,
+    "moved": null,
+    "title": "Florida Atlantic vs. North Texas",
+    "outcome": "North Texas",
+    "token_id": "84082156082682201170465155082250081047538279661480977192631833734670487375884",
+    "condition_id": "0xff26e688aa89799bfc65e107f2ebbb0f55ce6a3af2199c739c96f8438cbff92d",
+    "trade_ts": 1793319597.0,
+    "detected_at": "2026-10-30T01:51:40.863977+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 51974.55640000001,
+    "whale_price": 0.52,
+    "now_price": null,
+    "moved": null,
+    "title": "Spread: Pelicans (-6.5)",
+    "outcome": "Kings",
+    "token_id": "1823204993699831935606546453310133467584296830072981803106932362090411410220",
+    "condition_id": "0xf5339fa8c6c34185924a6be703fde2e7241b2931e3be9d07af962eee0067cbfe",
+    "trade_ts": 1793319343.0,
+    "detected_at": "2026-10-30T01:51:40.863980+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x0d6a1ada6d7ff785ab4b7263d9ce8e2baa85aa98",
+    "name": "keeptheblueflagflyinghigh",
+    "side": "BUY",
+    "usdc": 3416.09,
+    "whale_price": 0.64,
+    "now_price": null,
+    "moved": null,
+    "title": "Kings vs. Pelicans",
+    "outcome": "Pelicans",
+    "token_id": "10130191341488022709826159345266789532499164135367927185216861667201459939250",
+    "condition_id": "0x7588538456737566d4ba3821ce5da504a97ba1215e5d002e84a810143eac40df",
+    "trade_ts": 1793319342.0,
+    "detected_at": "2026-10-30T01:51:40.863983+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 5000.0,
+    "whale_price": 0.4,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers: O/U 50.5",
+    "outcome": "Over",
+    "token_id": "62184165316332330735202663233956555607706286659358148213651673582151721415860",
+    "condition_id": "0x7ffcd3ec4037fb9dca8025e912e2b204864d62e9d47e7f0090b0cef03f5daa1a",
+    "trade_ts": 1793318814.0,
+    "detected_at": "2026-10-30T01:51:40.863986+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "name": "primm",
+    "side": "BUY",
+    "usdc": 4999.9900002800005,
+    "whale_price": 0.44,
+    "now_price": null,
+    "moved": null,
+    "title": "Panthers vs. Packers: O/U 48.5",
+    "outcome": "Over",
+    "token_id": "51738773412503724868470665366616831783919934002779474423251259140585283579356",
+    "condition_id": "0x122617f2d7fa7782c4efa838722812e6784d81bbfb542c5095b99cfb7fbd50ac",
+    "trade_ts": 1793318814.0,
+    "detected_at": "2026-10-30T01:51:40.863989+00:00",
     "returns": {
       "60": null,
       "240": null
