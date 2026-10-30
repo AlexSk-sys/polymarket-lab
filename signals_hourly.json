@@ -19864,7 +19864,7 @@
     "trade_ts": 1793324775.0,
     "detected_at": "2026-10-30T01:51:40.764678+00:00",
     "returns": {
-      "60": null,
+      "60": -0.019230769230769246,
       "240": null
     }
   },
@@ -19883,7 +19883,7 @@
     "trade_ts": 1793324601.0,
     "detected_at": "2026-10-30T01:51:40.863881+00:00",
     "returns": {
-      "60": null,
+      "60": -0.009259259259259267,
       "240": null
     }
   },
@@ -20433,6 +20433,101 @@
     "condition_id": "0x122617f2d7fa7782c4efa838722812e6784d81bbfb542c5095b99cfb7fbd50ac",
     "trade_ts": 1793318814.0,
     "detected_at": "2026-10-30T01:51:40.863989+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2000.9999999999998,
+    "whale_price": 0.69,
+    "now_price": 0.69,
+    "moved": 0.0,
+    "title": "Counter-Strike: Low Cortisol vs ALKA (BO3) - Gamers Club Masters Group A",
+    "outcome": "Low Cortisol",
+    "token_id": "56051942003668568867730340337654237922097589343549296551400825673180168186595",
+    "condition_id": "0x32061d81d2abe8824e91bac6bbb4052a1cb4253842390c1568cdc1ace91c8d8a",
+    "trade_ts": 1793348536.0,
+    "detected_at": "2026-10-30T08:31:10.326131+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "name": "",
+    "side": "SELL",
+    "usdc": 3237.3599999999997,
+    "whale_price": 0.84,
+    "now_price": null,
+    "moved": null,
+    "title": "Will the price of Ethereum be above $2,300 on October 30?",
+    "outcome": "No",
+    "token_id": "64969923305329904895805562214829252189450802179475910214642404358953197548147",
+    "condition_id": "0x67ad1f9544ffb4422756b25b1188da16aadba33e3a2ac56bbb761d13e2d737d4",
+    "trade_ts": 1793343442.0,
+    "detected_at": "2026-10-30T08:31:10.326154+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
+    "name": "0xC9BFc7986767173b4f1c3FC9B2c6b255F",
+    "side": "BUY",
+    "usdc": 2013.2074,
+    "whale_price": 0.61,
+    "now_price": null,
+    "moved": null,
+    "title": "Counter-Strike: MIBR vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs",
+    "outcome": "MIBR",
+    "token_id": "7743269440545636065495978438778741693307655374793910369474222948871399904386",
+    "condition_id": "0x234e06ff19928faf83799cbb2f16b0cbaade5b02353e279ad14e896caf39004b",
+    "trade_ts": 1793343216.0,
+    "detected_at": "2026-10-30T08:31:10.326159+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x57a85952044f2c8e4d31b475aab6987d2f98ebc2",
+    "name": "Mooseborzoiii",
+    "side": "BUY",
+    "usdc": 57743.90810000001,
+    "whale_price": 0.53,
+    "now_price": null,
+    "moved": null,
+    "title": "Game Handicap: HLE (-1.5) vs G2 Esports (+1.5)",
+    "outcome": "Hanwha Life Esports",
+    "token_id": "48515237947471038722377373900901370310830964970036077875323615847746286443506",
+    "condition_id": "0xb3d4a34dcda2d7531df6ddb0596a4f87537197aa31d9240cca0c8c36b37a8539",
+    "trade_ts": 1793342097.0,
+    "detected_at": "2026-10-30T08:31:10.326163+00:00",
+    "returns": {
+      "60": null,
+      "240": null
+    }
+  },
+  {
+    "wallet": "0x5bfe9469c7c4035325024c846bc530c9d29e3258",
+    "name": "01258787xy48487484545122",
+    "side": "BUY",
+    "usdc": 2417.757799872906,
+    "whale_price": 0.3882339207,
+    "now_price": null,
+    "moved": null,
+    "title": "Guangzhou Open: Paula Badosa vs Harriet Dart",
+    "outcome": "Paula Badosa",
+    "token_id": "41537119152206220878336394234314022263173045400543415658542118569283854517362",
+    "condition_id": "0xd3810009e8ba640bfb74ce9ce4523d4997d4afd84d707fa710d5252554220618",
+    "trade_ts": 1793342037.0,
+    "detected_at": "2026-10-30T08:31:10.326166+00:00",
     "returns": {
       "60": null,
       "240": null
