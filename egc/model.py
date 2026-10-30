@@ -137,7 +137,7 @@ def _parse_strike(question: str) -> float | None:
     q = question.lower().replace(",", "")
     m = re.search(
         r"(?:dip to|reach|hit|above|below|over|under|close at|be above|be below|exceed)"
-        r"\s*\$?\s*([0-9]+(?:\.[0-9]+)?)\s*([kmb])?",
+        r"\s*\$?\s*([0-9]+(?:\.[0-9]+)?)([kmb])?(?![a-z0-9])",
         q,
     )
     if not m:

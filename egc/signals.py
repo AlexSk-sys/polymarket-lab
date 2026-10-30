@@ -25,8 +25,13 @@ def signals_for_model(
         spread = m["ask"] - m["bid"]
         if spread > max_spread:
             continue
-        yes_edge = q - m["ask"] - fee(m["ask"])
-        no_edge = m["bid"] - q - fee(1.0 - m["bid"])
+        # Round-trip, not entry-only. A position is entered at ask/bid and
+        # exited at the opposite side, so the spread is paid twice and both
+        # fees are real. The old q - ask - fee(ask) overstated every edge by
+        # half a spread plus the exit fee.
+        fees = fee(m["ask"]) + fee(m["bid"])
+        yes_edge = q - m["mid"] - spread - fees
+        no_edge = m["mid"] - q - spread - fees
         if yes_edge >= no_edge and yes_edge > min_edge:
             side, edge, entry = "YES", yes_edge, m["ask"]
             token = m["tokens"][0]

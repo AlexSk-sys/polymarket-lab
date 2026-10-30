@@ -24,3 +24,6 @@ signals_forward*.json
 signals_norebate.json
 calls_check.jsonl
 equity_*.png
+
+# EGC generated research outputs
+egc_*.json

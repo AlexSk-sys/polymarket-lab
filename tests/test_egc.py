@@ -1,7 +1,7 @@
 import unittest
 
 from egc.gamma import parse_market
-from egc.model import fair_exclusive, isotonic
+from egc.model import _parse_strike, fair_exclusive, isotonic
 from egc.signals import fee, signals_for_model
 
 
@@ -20,6 +20,20 @@ class FairExclusiveTest(unittest.TestCase):
         q = fair_exclusive([0.6, 0.6], other_price=0.001)
         self.assertTrue(all(x < 0.6 for x in q))
         self.assertLess(sum(q), 1.0)
+
+
+class StrikeParserTest(unittest.TestCase):
+    def test_comma_number_before_by_is_not_a_multiplier(self):
+        # Regression: the "b" in "by" used to be captured as the "billion"
+        # suffix, turning $90,000 into 9e13 and corrupting strike ladders.
+        self.assertEqual(
+            _parse_strike("Will Bitcoin reach $90,000 by December 31, 2026?"),
+            90000.0,
+        )
+
+    def test_suffixes_still_work(self):
+        self.assertEqual(_parse_strike("Will BTC reach $150k by 2027?"), 150000.0)
+        self.assertEqual(_parse_strike("FDV above $5B one day after launch?"), 5e9)
 
 
 class IsotonicTest(unittest.TestCase):
@@ -56,7 +70,12 @@ class SignalTest(unittest.TestCase):
         sigs = signals_for_model(model)
         self.assertEqual(len(sigs), 1)
         self.assertEqual(sigs[0]["side"], "YES")
-        self.assertAlmostEqual(sigs[0]["edge"], 0.6 - 0.51 - fee(0.51), places=4)
+        spread = 0.51 - 0.49
+        self.assertAlmostEqual(
+            sigs[0]["edge"],
+            0.6 - 0.5 - spread - fee(0.51) - fee(0.49),
+            places=4,
+        )
 
 
 class ParseMarketTest(unittest.TestCase):
