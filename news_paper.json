@@ -1,0 +1,40 @@
+[
+  {
+    "wallet": "news",
+    "name": "binance_hack",
+    "side": "BUY",
+    "usdc": 20.0,
+    "whale_price": 0.1,
+    "now_price": 0.1,
+    "moved": 0.0,
+    "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "outcome": "Yes",
+    "token_id": "115462087336983275104521488923966022755348986822352694745153736621832003960847",
+    "condition_id": "0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c",
+    "trade_ts": 1793346901.334375,
+    "detected_at": "2026-10-30T07:55:01.334353+00:00",
+    "returns": {
+      "res": null
+    },
+    "resolution": null
+  },
+  {
+    "wallet": "news",
+    "name": "houthi_oil",
+    "side": "BUY",
+    "usdc": 20.0,
+    "whale_price": 0.9,
+    "now_price": 0.9,
+    "moved": 0.0,
+    "title": "Strait of Hormuz traffic returns to normal by December 31?",
+    "outcome": "No",
+    "token_id": "48727431314333088243693016929623363710488980152833544156961659445129455301311",
+    "condition_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
+    "trade_ts": 1793346901.334387,
+    "detected_at": "2026-10-30T07:55:01.334353+00:00",
+    "returns": {
+      "res": null
+    },
+    "resolution": null
+  }
+]
