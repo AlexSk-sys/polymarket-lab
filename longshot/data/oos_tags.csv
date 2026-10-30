@@ -1,0 +1,241 @@
+event_id,tag,year,price,outcome,volume,question,end_date
+10150,crypto,2024,0.029,0,26313.39,Will Trump mention $boden before May?,2024-04-30
+10174,politics,2024,0.03,0,11196.02,Will a Republican win Maine's 1st congressional district?,2024-11-05
+10238,politics,2024,0.06,0,47505.22,Will a Republican win New Mexico US Senate Election?,2024-11-05
+10292,crypto,2024,0.038,0,17303.0,FriendTech ATH volume in April?,2024-04-30
+10329,crypto,2024,0.02,0,17760.78,$DEGEN all time high in April?,2024-04-30
+10330,politics,2024,0.1,0,42785.12,South Africa Election: Will ANC win a majority of seats?,2024-05-29
+10331,politics,2024,0.03,0,28244.9,U.S. drop charges against Assange before June?,2024-05-31
+10502,middle-east,2024,0.07,0,17147.31,ICC arrest warrants for Israeli leaders by May 15?,2024-05-15
+10547,politics,2024,0.03,0,34786.38,Joseph Kony found by May 31?,2024-05-31
+10606,politics,2024,0.024,0,25269.52,Will a Republican win Delaware Governor Election?,2024-11-05
+10726,crypto,2024,0.05,0,19261.56,Will Milady flip BAYC in May?,2024-05-31
+10745,crypto,2024,0.02,0,21792.91,Will SOL hit $200 in May?,2024-05-31
+10755,politics,2024,0.021,0,27636.28,Will Conservative Party win 170-184 seats in the next UK Election?,2024-07-04
+10755,politics,2024,0.03,0,37346.83,Will Conservative Party win 140-154 seats in the next UK Election?,2024-07-04
+10777,crypto,2024,0.03,0,13760.52,Will Trump mention $MAGA before July?,2024-06-30
+10807,crypto,2024,0.025,0,45968.33,Ansem criminal charges in 2024?,2024-12-31
+10809,crypto,2024,0.029997,0,24265.02,Iggy Azalea criminal charges in 2024?,2024-12-31
+10831,politics,2024,0.09,0,36124.71,Trump sentenced to house arrest?,2024-07-11
+10896,politics,2024,0.04,0,49907.24,Will Joe Manchin run for West Virginia Governor?,2024-08-01
+10983,politics,2024,0.1,0,11499.62,North Korea missile test by June 21?,2024-06-21
+11022,politics,2024,0.04,0,22029.88,Next Israel x Hamas ceasefire in June?,2024-06-30
+11022,politics,2024,0.1,0,27059.76,Next Israel x Hamas ceasefire in July?,2024-07-31
+11078,crypto,2024,0.03,0,13399.35,Will $DADDY hit $1b FDV by next Friday?,2024-06-21
+11094,crypto,2024,0.07,0,10389.51,Lil Pump Solana face tattoo real?,2024-06-30
+11214,politics,2024,0.06,1,10229.26,Will Ensemble win 130 or more seats in the French election?,2024-07-07
+11353,crypto,2024,0.1,0,35344.16,Will $ETH reach 3.9k in July?,2024-07-31
+11474,crypto,2024,0.04,0,107817.82,"Trump says ""mog"" at Bitcoin Conference?",2024-07-27
+11720,geopolitics,2024,0.05,0,16925.19,France train attack claimed by terror org?,2024-08-05
+11754,geopolitics,2024,0.03,0,28184.43,Ben Gvir out as Israel Minister of National Security by August 31?,2024-08-31
+11804,geopolitics,2024,0.08,0,242109.13,Israel military action against Iran in August?,2024-08-31
+11867,geopolitics,2024,0.031,0,110561.06,Iran strike on US military in August?,2024-08-31
+12182,geopolitics,2024,0.064678,0,95330.84,Crimean bridge hit before September?,2024-08-31
+12266,crypto,2024,0.020005,0,442747.76,"Ethereum dips below $2,000 by Sept 30?",2024-09-30
+12318,crypto,2024,0.041,0,613246.81,Will $BTC reach 75k before October?,2024-09-30
+12325,geopolitics,2024,0.023,0,36101.18,Another South American country bans X?,2024-09-30
+12546,crypto,2024,0.04,0,83529.24,Caroline Ellison sentenced to 36-47 months in prison?,2024-09-24
+12546,crypto,2024,0.07,0,147871.51,Caroline Ellison sentenced to 60 or more months in prison?,2024-09-24
+12546,crypto,2024,0.07,1,148393.9,Caroline Ellison sentenced to 24-35 months in prison?,2024-09-24
+12643,geopolitics,2024,0.032,0,98662.96,Hezbollah enters Israel in September?,2024-09-30
+12766,crypto,2024,0.06295,0,223161.73,Will Berachain launch a token in December?,2024-12-31
+12858,crypto,2024,0.021001,0,45545.81,Rainbow airdrop in 2024?,2024-12-31
+12946,geopolitics,2024,0.07,0,66319.44,Ukraine strike on Moscow before November?,2024-10-31
+12954,geopolitics,2024,0.022,0,19705.79,Israel withdraws from Gaza before November?,2024-10-31
+13114,crypto,2024,0.08,0,1382860.13,"Will Ethereum reach $3,000 in October?",2024-10-31
+13116,crypto,2024,0.025,0,379816.21,"Will Bitcoin dip to $55,000 in October?",2024-10-31
+13117,crypto,2024,0.044122,0,314358.47,Will Solana dip to $130 in October?,2024-10-31
+13145,geopolitics,2024,0.02955,0,66003.36,Strike on Dimonah nuclear base in October?,2024-10-31
+13385,middle-east,2024,0.05,0,103954.49,Will Israel strike Iran on Saturday Oct 19?,2024-10-19
+13483,geopolitics,2024,0.044961,0,609294.77,Will Russia recapture Sudzha before December?,2024-11-30
+13528,geopolitics,2024,0.059,0,26181.02,Will Israel strike Iran on Sunday Oct 27?,2024-10-27
+13676,economy,2024,0.02,0,145735.13,US bank failure before December?,2024-11-30
+13715,economy,2024,0.09,0,182466.84,26-50 bps decrease in ECB interest rates after 2024 December meeting?,2024-12-12
+13944,geopolitics,2024,0.07,0,1317271.58,Iran strike on Israel before December?,2024-11-30
+13945,bitcoin,2024,0.033,0,721440.74,"Will Bitcoin reach $130,000 in November?",2024-11-30
+13945,bitcoin,2024,0.07895,0,1476721.05,"Will Bitcoin reach $120,000 in November?",2024-11-30
+14414,economy,2024,0.080001,0,66405.05,Will inflation increase by 2.5% or less in November?,2024-12-11
+14619,geopolitics,2024,0.024839,0,113979.67,Benjamin Netanyahu arrested in 2024?,2024-12-31
+14886,bitcoin,2024,0.02,0,279061.97,Will MicroStrategy market cap dip to $50b in 2024?,2024-12-31
+15388,geopolitics,2024,0.021988,0,224300.43,Will Russia abandon Syrian naval base before 2025?,2024-12-31
+15676,economy,2025,0.09,0,39278.66,"Will Powell say ""deport"" or ""deportation"" during January press conference?",2025-01-29
+16695,economy,2025,0.1,1,18005.73,Will there be 100-150k jobs added in January 2025?,2025-02-07
+16787,geopolitics,2025,0.031176,0,101588.26,Will Greenland vote for independence in 2025?,2025-04-06
+17111,bitcoin,2025,0.047,0,97271.2,Will Ross Ulbricht sell Bitcoin before February?,2025-01-31
+17155,geopolitics,2025,0.044,0,13251.0,Will Trump meet with Lula da Silva in his first 100 days?,2025-04-29
+17155,geopolitics,2025,0.072,0,74601.78,Will Trump meet with Mohammed bin Salman in his first 100 days?,2025-04-29
+17155,geopolitics,2025,0.099,0,223904.66,Will Trump meet with Lai Ching-te in his first 100 days?,2025-04-29
+17398,geopolitics,2025,0.020439,0,271264.36,DeepSeek confirmed to have used banned Nvidia chips?,2025-02-28
+17460,bitcoin,2025,0.02,0,11968.01,Will ETHBTC be between .032-.033 on February 7?,2025-02-07
+17478,geopolitics,2025,0.08,0,50261.25,North Korea missile test by February 14?,2025-02-14
+17544,geopolitics,2025,0.02,0,355651.51,Egypt/Jordan agree to take 100k+ Gazan refugees before April?,2025-03-31
+17691,world,2025,0.05,0,525233.88,Will Trump remove tariff on Mexico before May?,2025-04-30
+17693,world,2025,0.025,0,227295.81,Will Trump remove tariff on China before May?,2025-04-30
+17708,economy,2025,0.032,0,45393.63,Will egg prices be between $5.50 and $5.75 in February?,2025-03-12
+17710,geopolitics,2025,0.023,0,99988.14,Will Russia capture territory in Dnipropetrovsk Oblast by February 28?,2025-02-28
+17780,geopolitics,2025,0.033,0,341892.52,Israel x Hamas Ceasefire Phase II by March 15?,2025-03-15
+17880,economy,2025,0.05,0,901289.86,Will inflation reach more than 3% in 2025?,2025-12-31
+18120,economy,2025,0.049,0,38726.05,Will more than 300k jobs be added in February?,2025-03-07
+18490,economy,2025,0.059421,0,182732.06,Will egg prices be between $5.25 and $5.50 in March?,2025-04-10
+18966,world,2025,0.028,0,103999.1,Israel withdraws from Lebanon before July?,2025-06-30
+19007,world,2025,0.029126,0,443229.96,Trump bans China from buying US farmland?,2025-06-30
+19039,world,2025,0.022,0,15491.08,Bolsonaro arrested before April?,2025-03-31
+19118,world,2025,0.044001,0,315785.63,US lifts Russia sanctions before April?,2025-03-31
+19636,economy,2025,0.02,0,147643.05,10-year Treasury yield below 4% before April?,2025-03-31
+19831,bitcoin,2025,0.0245,0,553848.97,Will MicroStrategy hold 550k+ BTC before April?,2025-03-31
+19931,world,2025,0.035,0,341877.57,Trump meets with Zelenskyy in March?,2025-03-31
+20319,economy,2025,0.062,0,162013.21,Will U.S. GDP growth be less than -2% in Q1 2025?,2025-04-30
+20319,economy,2025,0.081,0,80917.71,Will U.S. GDP growth be between -1% and -2% in Q1 2025?,2025-04-30
+20378,economy,2025,0.021,0,83278.59,Will Canada remove retaliatory tariffs on USA in March?,2025-03-31
+20462,economy,2025,0.02,0,68695.7,Howard Lutnick out as Secretary of Commerce before July?,2025-06-30
+20464,world,2025,0.03,0,140681.18,Will the ECB announce no change?,2025-04-17
+20519,economy,2025,0.032,0,16842.88,Will the March 2025 unemployment rate be ≤3.9%?,2025-04-04
+20519,economy,2025,0.09,0,13277.68,Will the March 2025 unemployment rate be 4.0%?,2025-04-04
+20521,economy,2025,0.027,0,17973.19,Will the US add more than 250k jobs in March?,2025-04-04
+20521,economy,2025,0.07,1,11207.97,Will the US add between 200-250k jobs in March?,2025-04-04
+20813,world,2025,0.034,0,129943.2,Trump meets with Carney in March?,2025-03-31
+21172,world,2025,0.031878,0,19048.25,Canada backs out of F-35 deal?,2025-05-31
+21197,world,2025,0.033,0,107651.07,Israel military action against Iran in March?,2025-03-31
+21199,world,2025,0.021,0,147964.53,US military action against Iran before April?,2025-03-31
+21217,world,2025,0.06,0,88517.47,Another Trump x Putin talk in March?,2025-03-31
+21252,world,2025,0.024,0,32614.85,Istanbul mayor İmamoğlu released from custody in March?,2025-03-31
+21256,world,2025,0.041,0,1150899.68,Israel x Hamas ceasefire before May?,2025-04-30
+21260,world,2025,0.08,0,163042.57,Mahmoud Khalil released from custody before May?,2025-04-30
+21314,world,2025,0.02,0,67092.54,Will Ukraine agree to Trump nuclear plant deal before July?,2025-06-30
+21316,world,2025,0.1,0,149636.6,Will the New Democratic Party win the third most seats in the next Canadian Election?,2025-04-28
+21322,world,2025,0.092,0,14163.05,Will Ukraine control Grafovka on March 31?,2025-03-31
+21623,world,2025,0.098,0,284782.22,Will the Bloc Québécois win the most seats in Quebec in the next Canadian Election?,2025-04-28
+21685,ukraine,2025,0.07,0,564665.05,Will Trump increase sanctions on Russia before June?,2025-05-31
+21904,world,2025,0.05,0,30370.85,Israel retaliates against Houthis before May?,2025-04-30
+22046,world,2025,0.072,0,114640.04,Will the Conservative Party win the most seats in Nova Scotia in the next Canadian Election?,2025-04-28
+22047,world,2025,0.07,0,70699.48,Will the Conservative Party win the most seats in New Brunswick in the next Canadian Election?,2025-04-28
+22048,world,2025,0.057,0,112022.93,Will the Conservative Party win the most seats in Newfoundland and Labrador in the next Canadian Election?,2025-04-28
+22174,economy,2025,0.031,0,230846.07,Will Trump remove 10% blanket tariff in April?,2025-04-30
+22418,economy,2025,0.04,0,13787.48,Will the April 2025 unemployment rate be ≥4.6%?,2025-05-02
+22426,economy,2025,0.035,0,14612.68,Will the US add less than 50k jobs in April?,2025-05-02
+22432,economy,2025,0.023,0,163440.7,Will Trump remove 10% blanket tariff before July?,2025-06-30
+22469,economy,2025,0.025624,0,58273.95,Peter Navarro out of Trump administration in April?,2025-04-30
+22502,world,2025,0.06,0,1470233.63,Yoon in jail before July?,2025-06-30
+22522,elections,2025,0.08,0,21700.07,Will voter turnout in the 2025 Canadian federal election be greater than 21m?,2025-04-28
+22534,world,2025,0.046,0,116572.78,Will Russia capture Yunakivka before June?,2025-05-31
+22582,economy,2025,0.036,0,100315.37,Will annual inflation increase by 2.7% or more in April?,2025-05-13
+22583,economy,2025,0.04,0,120601.34,Will egg prices be less than $4.75 in April?,2025-05-13
+22601,world,2025,0.044,0,326264.9,US-EU trade deal before June?,2025-05-31
+22636,world,2025,0.03,0,15019.58,North Korean soldier caught in Ukraine before May?,2025-04-30
+22666,world,2025,0.05047,1,87865.59,Will the Labor Party win by 40 or more seats?,2025-05-03
+22793,elections,2025,0.04,0,1304420.26,Will FrP win the most seats in the next Norwegian parliamentary election?,2025-09-08
+22983,middle-east,2025,0.029,0,121137.34,Will Trump announce withdrawal from Syria before July?,2025-06-30
+23324,elections,2025,0.08,0,19317.41,Will PAP win between 75 and 77 seats in the Singapore election?,2025-05-03
+23632,economy,2025,0.042022,0,43814.55,Will Elon Musk's net worth be between $340b and $350b on May 31?,2025-05-31
+23690,ethereum,2025,0.026444,0,987191.29,Will Ethereum dip to $1700 in May?,2025-05-31
+24447,economy,2025,0.035001,0,198932.69,Will the U.S. tariff rate on China be between 40% and 60% on August 15?,2025-08-15
+24685,elections,2025,0.081,0,241190.83,Will the Patriotic Electoral Bloc win the most seats in the 2025 Moldova parliamentary election?,2025-09-28
+24809,elections,2025,0.026,0,231772.77,Will voter turnout in the 2025 Polish presidential election be between 64-66%?,2025-06-01
+24880,elections,2025,0.031,0,200115.85,Will Lee Jae-myung win by between 20-23%?,2025-06-03
+24961,elections,2025,0.037,0,29487.9,Will Dr Viliami Uasike Latu be the next Prime Minister of Tonga after the election?,2025-11-30
+25047,ukraine,2025,0.041591,0,286700.92,Will Trump increase sanctions on Russia before July?,2025-06-30
+25325,economy,2025,0.049867,0,47288.62,Will Elon Musk's net worth be more than $400b on June 30?,2025-06-30
+26236,economy,2025,0.041,0,43299.01,Will the US add 200k or more jobs in June?,2025-07-03
+26500,economy,2025,0.029,0,258526.24,Will the ECB announce a 25 bps decrease at the July meeting?,2025-07-24
+26716,economy,2025,0.035,0,41247.11,Will a dozen eggs be between $4.25-4.5 in June?,2025-07-15
+26717,economy,2025,0.039813,0,179415.11,Will monthly inflation increase by 0.0% or less in June?,2025-07-15
+26717,economy,2025,0.06,0,179843.16,Will monthly inflation increase by 0.4% or more in June?,2025-07-15
+26718,economy,2025,0.054,0,111562.56,Will annual inflation increase by 2.4% in June?,2025-07-15
+26723,middle-east,2025,0.033682,0,213428.09,U.S. evacuates Baghdad Embassy before July?,2025-06-30
+26878,elections,2025,0.05,0,232418.68,Will Zohran Mamdani’s RCV margin of victory be between 6% and 9% in the New York City Mayoral Democratic Primary?,2025-06-24
+26878,elections,2025,0.05,0,116658.12,Will Zohran Mamdani’s RCV margin of victory be between 3% and 6% in the New York City Mayoral Democratic Primary?,2025-06-24
+26878,elections,2025,0.08,0,67057.07,Will Zohran Mamdani’s RCV margin of victory be between 0% and 3% in the New York City Mayoral Democratic Primary?,2025-06-24
+26878,elections,2025,0.091,1,269703.88,Will Zohran Mamdani’s RCV margin of victory be greater than 9% in the New York City Mayoral Democratic Primary?,2025-06-24
+26891,middle-east,2025,0.06,0,1469123.99,Israel military action against Iran in July?,2025-07-31
+27166,middle-east,2025,0.066667,0,674446.3,Iranian coup attempt before July?,2025-06-30
+28201,economy,2025,0.1,1,119974.55,"Will Powell say ""Trump"" during July Press Conference?",2025-07-30
+30834,economy,2025,0.031,0,19928.41,Will the US add more than 200k jobs in July?,2025-08-01
+32574,economy,2025,0.04,0,49857.51,Will a dozen eggs be below $3.25 in July?,2025-08-12
+32575,economy,2025,0.070215,0,197065.34,Will monthly inflation increase by 0.4% in July?,2025-08-15
+32592,elections,2025,0.02,0,106796.48,Will Zohran Mamdani win 2 boroughs in the 2025 New York City Mayoral General Election?,2025-11-04
+32768,economy,2025,0.029,0,268635.64,Will Trump try to fire Powell by July 31?,2025-07-31
+33665,russia,2025,0.07,0,264459.04,Will Russia capture Novopavlivka by August 31?,2025-08-31
+33667,russia,2025,0.09,0,471024.39,Will Russia capture Rodynske by August 31?,2025-08-31
+33686,russia,2025,0.021,0,33084.79,More EU sanctions on Russia by August 31?,2025-08-31
+33808,ukraine,2025,0.08,0,80865.33,Ukraine hits Moscow by August 31?,2025-08-31
+34049,elections,2025,0.07,0,19416.66,Will Unity win the most seats in the next Bolivia Senate election?,2025-08-17
+34575,economy,2025,0.08,0,57780.68,Will the US add between 150k and 200k jobs in August?,2025-09-05
+34577,economy,2025,0.068,0,31704.12,August jobs report prints negative?,2025-09-05
+35440,economy,2025,0.02,0,206529.78,Will US GDP growth in Q3 2025 be less than 1.0%?,2025-10-30
+35440,economy,2025,0.03,0,79795.07,Will US GDP growth in Q3 2025 be between 1.5% and 2.0?,2025-10-30
+35925,russia,2025,0.04,0,65246.82,Will Russia capture Ivanopillya by September 30?,2025-09-30
+35928,russia,2025,0.06,0,42919.95,Will Russia capture Stepanivka by September 30?,2025-09-30
+35931,russia,2025,0.021,0,31080.18,Will Russia capture Dovha Balka by November 30?,2025-11-30
+35931,russia,2025,0.028,0,75120.96,Will Russia capture Dovha Balka by October 31?,2025-10-31
+36070,ukraine,2025,0.03,0,64731.36,India agrees to reduce purchases Russian oil by August 31?,2025-08-31
+36102,ukraine,2025,0.02,0,564853.44,Russia announces air truce by August 31?,2025-08-31
+37170,economy,2025,0.031,0,173482.58,Will annual inflation increase by 2.7% in August?,2025-09-11
+37171,economy,2025,0.1,0,105482.5,Will monthly inflation increase by 0.2% in August?,2025-09-11
+38906,elections,2025,0.021,0,16479.3,Will H win the fourth most seats in the Norway election?,2025-09-09
+38906,elections,2025,0.027,0,51381.71,Will V win the fourth most seats in the Norway election?,2025-09-09
+38906,elections,2025,0.1,0,86732.65,Will MDG win the fourth most seats in the Norway election?,2025-09-09
+39411,elections,2025,0.048,0,31168.29,Will SPD get more than 16% of the vote in the Czech election?,2025-10-03
+39624,elections,2025,0.052,0,25346.28,Will Motoristé get more than 9% of the vote in the Czech election?,2025-10-03
+39637,elections,2025,0.087802,1,26453.84,Will turnout be between 66% and 69% in the Czech election?,2025-10-03
+39639,elections,2025,0.024,0,170245.71,Will Petr Fiala be the next Prime Minister of the Czech Republic after the elections?,2025-10-03
+39874,ukraine,2025,0.023,0,47654.02,India agrees to reduce purchases Russian oil by September 30?,2025-09-30
+41300,elections,2025,0.1,0,441333.64,Will Aftyn Behn win TN-7 Special Election?,2025-12-02
+42244,economy,2025,0.09,0,35168.07,Will the September 2025 unemployment rate be 4.2%?,2025-10-03
+42272,elections,2025,0.034,0,53396.66,Will Curtis Sliwa get more than 25% of the vote in 2025 NYC mayoral election?,2025-11-04
+42290,elections,2025,0.08,0,306035.3,Will Zohran Mamdani get between 60% and 70% of the vote in 2025 NYC mayoral election?,2025-11-04
+42628,russia,2025,0.02,0,33438.09,Russia x Ukraine buffer zone agreement by December 31?,2025-12-31
+43173,elections,2025,0.083,0,76129.93,Will Abigail Spanberger win by 18%+?,2025-11-04
+43187,russia,2025,0.025,0,45435.84,NATO downs another Russian drone by December 31?,2025-12-31
+44065,economy,2025,0.06,0,40883.78,US bank failure by November 30?,2025-11-30
+44981,elections,2025,0.05,1,45208.29,Will PAS win by greater than >16% of the vote?,2025-09-28
+48782,russia,2025,0.06,0,53132.78,Will Russia capture Drobysheve by October 31?,2025-10-31
+48782,russia,2025,0.095,0,26461.35,Will Russia capture Drobysheve by November 30?,2025-11-30
+51135,russia,2025,0.021,0,14776.04,Will Russia capture Stepanivka by October 31?,2025-10-31
+53217,elections,2025,0.046664,0,43806.72,Will turnout be between 69% and 72% in the Netherlands Parliamentary Election 2025?,2025-10-29
+54971,elections,2025,0.048,0,30793.19,Will Heather Humphreys win by 5–10%?,2025-10-24
+54974,elections,2025,0.07,0,11012.25,Will turnout be 56% or higher in the 2025 Irish Presidential Election?,2025-10-24
+56992,ukraine,2025,0.045,0,318024.95,Will Trump send Tomahawk to Ukraine by October 31?,2025-10-31
+62364,elections,2025,0.04,0,18240.54,Will GL/PvdA win the fewest seats in the next Netherlands General Election?,2025-10-29
+62364,elections,2025,0.05,1,22918.78,Will CDA win the fewest seats in the next Netherlands General Election?,2025-10-29
+73599,elections,2025,0.1,0,10176.21,Will José Antonio Kast win less than 16% of votes in the first round?,2025-11-16
+73613,elections,2025,0.031,0,11650.33,Will Johannes Kaiser win between 7% and 10% of votes in the first round?,2025-11-16
+73613,elections,2025,0.06,0,10458.29,Will Johannes Kaiser win between 10% and 13% of votes in the first round?,2025-11-16
+73825,elections,2025,0.022,0,28869.05,Will Cambio por Chile hold the most seats in the Chamber of Deputies?,2025-11-16
+74045,elections,2025,0.026,0,164632.13,Will Evelyn Matthei come in second in the 1st round of the 2025 Chilean presidential election?,2025-11-16
+74794,elections,2025,0.023,1,55568.18,Will Franco Parisi come in third in the 1st round of the 2025 Chilean presidential election?,2025-11-16
+75585,russia,2025,0.090043,0,265242.33,Will Russia capture all of Myrnohrad by November 30?,2025-11-30
+75600,elections,2025,0.02,0,20311.99,Will Félix González come in fourth in the 1st round of the 2025 Chilean presidential election?,2025-11-16
+75600,elections,2025,0.02,0,20013.37,Will Alberto Undurraga come in fourth in the 1st round of the 2025 Chilean presidential election?,2025-11-16
+86262,elections,2025,0.032,0,61882.71,Will Franco Parisi endorse José Antonio Kast for President of Chile?,2025-12-14
+87050,russia,2025,0.02,0,72013.73,Will Trump announce a cut to U.S. military or intelligence aid to Ukraine by December 31?,2025-12-31
+91444,ukraine,2025,0.035,0,710796.19,Ukraine officially agrees to a US backed ceasefire framework by December 31?,2025-12-31
+107720,ukraine,2026,0.032,0,244534.06,Ukraine signs peace deal with Russia by January 31?,2026-01-31
+119546,ukraine,2026,0.09,1,57681.93,"Ukraine strikes another tanker in Black Sea by January 15, 2026?",2026-01-15
+147974,russia,2026,0.021,0,710489.59,Will United Russia win fewer than 280 seats in the next Russian State Duma election?,2026-09-20
+178011,russia,2026,0.02,0,65282.85,Will France join the Board of Peace?,2026-02-28
+178011,russia,2026,0.029,0,133201.67,Will the U.K. join the Board of Peace?,2026-02-28
+178011,russia,2026,0.034,0,132376.7,Will Germany join the Board of Peace?,2026-02-28
+178011,russia,2026,0.039,0,345455.65,Will Denmark join the Board of Peace?,2026-02-28
+178011,russia,2026,0.05117,0,50657.0,Will Palestine join the Board of Peace?,2026-02-28
+178011,russia,2026,0.06,0,288163.68,Will the Netherlands join the Board of Peace?,2026-02-28
+179655,russia,2026,0.03,0,46239.63,Will Russia strike on Kyiv municipality on January 23?,2026-01-31
+190463,russia,2026,0.06,0,32853.64,"Will Russia strike Kyiv on February 21, 2026?",2026-02-28
+190590,russia,2026,0.046543,0,91734.78,"Ukraine hits Moscow by February 28, 2026?",2026-02-28
+190590,russia,2026,0.052,0,20334.33,"Ukraine hits Moscow by April 30, 2026?",2026-04-30
+287380,russia,2026,0.06,0,47356.73,Will the Bank of Russia make no change to the key rate after the June Meeting?,2026-06-19
+48935,russia,2026,0.02713,0,1554949.72,Russian strike on a NATO member by March 31?,2026-03-31
+574643,russia,2026,0.087379,1,37515.74,"Russia x Ukraine diplomatic meeting by June 30, 2026?",2026-06-30
+627652,russia,2026,0.055583,0,362707.58,Will the Bank of Russia increase the key rate after the September Meeting?,2026-09-11
+648380,russia,2026,0.04,0,73435.49,"Will Russia and Ukraine hold any diplomatic meeting by August 15, 2026?",2026-08-15
+711257,russia,2026,0.03546,0,17124.97,Yevhen Khmara appointed as Ukrainian Minister of Defence by July 31?,2026-07-31
+743553,russia,2026,0.09,0,168518.25,Will the Bank of Russia decrease the key rate after the October Meeting?,2026-10-24
+80029,elections,2026,0.026389,0,51396.14,Will Yang Hyang-ja win the 2026 Gyeonggi Province Gubernatorial Election?,2026-06-03
+80037,elections,2026,0.069877,0,94269.42,Will Julie Gonzales be the Democratic nominee for Senate in Colorado?,2026-06-30
+80071,elections,2026,0.049148,0,41402.18,Will Steve Marshall be the Republican nominee for Senate in Alabama?,2026-05-19
+878226,russia,2026,0.1,0,89227.41,"Will Russia and Ukraine hold any diplomatic meeting by October 15, 2026?",2026-10-16
+89386,elections,2026,0.033,0,27263.97,Will Saikat Chakrabarti receive the most votes in the CA-11 primary?,2026-06-02
+90350,elections,2026,0.079,0,25982.62,Will Aisha Farooqi be the Democratic nominee for MI-11?,2026-08-04
+90376,elections,2026,0.026,0,30606.97,Will Ala Stanford be the Democratic nominee for PA-03?,2026-05-19
+90402,elections,2026,0.1,0,78752.38,Will Nate Blouin be the Democratic nominee for UT-01?,2026-06-23
+91444,ukraine,2026,0.025,0,229781.82,Ukraine officially agrees to a US backed ceasefire framework by March 31?,2026-03-31
+951073,russia,2026,0.052372,0,23825.34,Will New People (NL) win between 45 and 54 seats in the next Russian State Duma election?,2026-09-20

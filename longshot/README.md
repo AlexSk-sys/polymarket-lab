@@ -1,13 +1,14 @@
 # Longshot NO
 
-A paper strategy for Polymarket: seven days before resolution, buy **NO** on
-markets whose YES price is **0.02–0.10**, one market per event, and hold to
-resolution.
+A research system for Polymarket longshot calibration. The original thesis:
+seven days before resolution, buy **NO** on markets whose YES price is
+**0.02–0.10**, one market per event, and hold to resolution.
 
-The thesis is the longshot bias: low-probability outcomes are priced above their
-empirical frequency. Buying NO collects the overpricing, but the position is
-held to 0/1, so the tail is real: if the longshot wins, the NO position loses
-90–98% of its stake. This is a research/paper system; it places no orders.
+**Status: broad scanning is paused.** A 211-event out-of-sample test on newly
+fetched politics/crypto/geopolitics/economy tags did **not** confirm the edge
+(mean −1.13%, 11 losses vs 10.1 expected, p=0.69). The 244-event core result
+below is a historical, selection-biased sample, not a validated live edge. Only
+existing paper positions are being resolved; no new broad positions are opened.
 
 ## Evidence
 
@@ -46,10 +47,32 @@ The 1-day-before-resolution horizon has **no edge** (67 events, 2 losses,
 p=0.38). The mispricing is in the final week, not the last hours. The live
 scanner enters only when the market is 3–8 days from resolution.
 
-## Scaling
+## Out-of-sample failure
+
+The 244-event core sample was built from a volume-ranked universe. A second,
+independent sample was fetched from politics/crypto/geopolitics/economy tags:
+**211 event-diversified longshots**, 11 losses vs 10.1 expected, mean **−1.13%**,
+p=0.69. Reproduce with `python -m longshot.cli project --data data/oos_tags.csv`. Sports longshots were also negative (57 events, 8 losses vs 2.9
+expected, −10.0%). The broad longshot edge does **not** survive this
+out-of-sample test; the core result was selection and luck, not a durable
+mispricing.
+
+What remains, and is not core:
+
+| Niche | n | Mean | Status |
+|---|---:|---:|---|
+| Crypto longshots | 88 | +2.61% | p=0.11, 2025 near zero |
+| Mid 0.40–0.60 NO | 215 | +11.16% | p=0.038, but 2024 negative and t=1.64 |
+| Sports longshots | 57 | −10.0% | rejected |
+
+Broad scanning is paused. The next research direction is a structural edge
+(order flow / market making / cross-venue), not another calibration bucket.
+
+## Scaling (historical, not validated OOS)
 
 `python -m longshot.cli project --stakes 20,100,500,1000` uses the historical
-event dates to compute peak simultaneous capital:
+event dates to compute peak simultaneous capital. These numbers describe the
+selection-biased core sample, not an expected live return:
 
 | Stake | 3-year P&L | Max open | Peak capital | Return on peak | P&L after 3 extra losses |
 |---:|---:|---:|---:|---:|---:|
@@ -115,5 +138,6 @@ resolution:
 | 0.963 | Will the Democratic Party win the TX-36 House seat? |
 | 0.972 | Will the Democratic Party win the KS-04 House seat? |
 
-Open stake: $100. The daily task `PolymarketLongshot` runs core resolve → scan →
-report, then the experimental mid sleeve resolve → scan → report.
+Open stake: $100. The daily task `PolymarketLongshot` now runs **resolve and
+report only** for the core and mid ledgers; new scanning is disabled until a
+structurally validated edge replaces the broad longshot thesis.
