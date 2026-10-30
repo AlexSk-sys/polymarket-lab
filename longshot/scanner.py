@@ -122,6 +122,7 @@ def scan(
     min_volume: float = MIN_VOLUME,
     max_spread: float = MAX_SPREAD,
     max_pages: int = 10,
+    strategy: str = "core",
 ) -> dict:
     """Return one candidate per event, closest to the 0.05 target."""
     markets = fetch_live_markets(
@@ -137,6 +138,7 @@ def scan(
             continue
         if candidate["volume"] < min_volume or candidate["spread"] > max_spread:
             continue
+        candidate["strategy"] = strategy
         by_event[candidate["event_id"]].append(candidate)
 
     picks = []

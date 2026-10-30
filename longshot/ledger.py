@@ -68,6 +68,7 @@ def add_positions(
         shares = stake / entry
         position = {
             "id": cid,
+            "strategy": candidate.get("strategy") or "core",
             "event_id": candidate.get("event_id") or "",
             "event_title": candidate.get("event_title") or "",
             "question": candidate.get("question") or "",
@@ -162,6 +163,13 @@ def summarize(ledger: dict) -> dict:
         peak = max(peak, value)
         drawdown = min(drawdown, value - peak)
     closed_stake = sum(float(p.get("stake") or 0) for p in closed)
+    by_strategy: dict[str, dict] = {}
+    for p in ledger["positions"]:
+        name = p.get("strategy") or "core"
+        row = by_strategy.setdefault(name, {"open": 0, "closed": 0, "pnl": 0.0})
+        row["open" if p.get("status") == "open" else "closed"] += 1
+        if p.get("status") == "closed":
+            row["pnl"] = round(row["pnl"] + float(p.get("pnl") or 0), 2)
     return {
         "open": len(open_rows),
         "closed": len(closed),
@@ -181,6 +189,7 @@ def summarize(ledger: dict) -> dict:
         "expectancy_per_position": round(sum(pnls) / len(closed), 2)
         if closed
         else None,
+        "by_strategy": by_strategy,
     }
 
 

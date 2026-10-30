@@ -9,7 +9,14 @@
   "win_rate": null,
   "mean_return": null,
   "max_drawdown": 0.0,
-  "expectancy_per_position": null
+  "expectancy_per_position": null,
+  "by_strategy": {
+   "core": {
+    "open": 5,
+    "closed": 0,
+    "pnl": 0.0
+   }
+  }
  },
  "positions": [
   {

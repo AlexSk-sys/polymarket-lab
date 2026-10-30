@@ -51,6 +51,7 @@ def load_history(path: str | Path) -> list[dict]:
                         "outcome": int(float(row["outcome"])),
                         "volume": float(row["volume"]),
                         "question": (row.get("question") or "").strip(),
+                        "end_date": (row.get("end_date") or "").strip(),
                     }
                 )
             except (KeyError, TypeError, ValueError):
@@ -59,9 +60,13 @@ def load_history(path: str | Path) -> list[dict]:
 
 
 def no_return(price: float, outcome: int, buffer: float = 0.005) -> float:
-    """Return on capital for buying NO at ``1 - price`` and holding to 0/1."""
-    entry = min(0.999, max(0.001, price + buffer))
-    cost = 1.0 - entry
+    """Return on capital for buying NO and holding to 0/1.
+
+    ``price`` is the YES mid/last. Buying NO costs ``1 - price`` plus a spread
+    buffer, so a larger buffer must make the entry **more expensive**. The
+    earlier version subtracted the buffer, overstating every NO return.
+    """
+    cost = min(0.999, max(0.001, 1.0 - price + buffer))
     pnl = (1.0 - outcome) - cost - fee(cost)
     return pnl / cost
 

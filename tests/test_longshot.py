@@ -7,6 +7,7 @@ from unittest.mock import patch
 
 from longshot.backtest import event_portfolio, load_history, no_return
 from longshot.ledger import add_positions, load_ledger, resolve, summarize
+from longshot.project import project
 from longshot.scanner import parse_candidate, scan
 
 
@@ -110,6 +111,47 @@ class BacktestTest(unittest.TestCase):
     def test_no_return_positive_when_longshot_loses(self):
         self.assertGreater(no_return(0.05, 0), 0)
         self.assertLess(no_return(0.05, 1), 0)
+
+    def test_project_capital(self):
+        rows = [
+            {
+                "event_id": "e1",
+                "year": "2025",
+                "price": 0.05,
+                "outcome": 0,
+                "volume": 100000.0,
+                "question": "q1",
+                "end_date": "2025-01-10",
+            },
+            {
+                "event_id": "e2",
+                "year": "2025",
+                "price": 0.05,
+                "outcome": 0,
+                "volume": 100000.0,
+                "question": "q2",
+                "end_date": "2025-01-12",
+            },
+            {
+                "event_id": "e3",
+                "year": "2025",
+                "price": 0.05,
+                "outcome": 1,
+                "volume": 100000.0,
+                "question": "q3",
+                "end_date": "2025-01-14",
+            },
+        ]
+        result = project(rows, stake=100.0)
+        self.assertIsNotNone(result)
+        self.assertEqual(result["n"], 3)
+        self.assertEqual(result["max_open"], 3)
+        self.assertAlmostEqual(result["peak_capital"], 300.0)
+        self.assertAlmostEqual(
+            result["total_pnl"],
+            sum(no_return(0.05, r["outcome"]) for r in rows) * 100.0,
+            places=2,
+        )
 
     def test_event_portfolio(self):
         with tempfile.TemporaryDirectory() as tmp:

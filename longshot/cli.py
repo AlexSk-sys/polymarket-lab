@@ -16,6 +16,7 @@ from .ledger import (
     save_ledger,
     summarize,
 )
+from .project import project_table
 from .scanner import scan
 
 
@@ -28,6 +29,7 @@ def cmd_scan(args) -> int:
         min_volume=args.min_volume,
         max_spread=args.max_spread,
         max_pages=args.pages,
+        strategy=args.strategy,
     )
     ledger = load_ledger(args.ledger)
     added = add_positions(
@@ -130,6 +132,49 @@ def cmd_backtest(args) -> int:
     return 0
 
 
+def cmd_project(args) -> int:
+    path = Path(args.data)
+    if not path.is_absolute():
+        path = Path(__file__).parent / path
+    from .backtest import load_history
+
+    rows = load_history(path)
+    stakes = [float(x) for x in args.stakes.split(",") if x.strip()]
+    table = project_table(
+        rows,
+        stakes,
+        buffer=args.buffer,
+        stress_losses=args.stress,
+        min_price=args.min_price,
+        max_price=args.max_price,
+        target=args.target,
+    )
+    print(
+        f"{'stake':>8} {'events':>7} {'mean':>8} {'t':>6} "
+        f"{'total P&L':>10} {'max open':>9} {'peak cap':>10} "
+        f"{'ret/peak':>9} {'stress':>10}"
+    )
+    for p in table:
+        stress_key = f"stress_{args.stress}_extra_losses"
+        print(
+            f"{p['stake']:8.0f} {p['n']:7d} {p['mean_return']:+8.2%} {p['t']:+6.2f} "
+            f"{p['total_pnl']:+10.0f} {p['max_open'] or 0:9d} {p['peak_capital'] or 0:10.0f} "
+            f"{p['return_on_peak_capital'] or 0:+9.2%} {p[stress_key]:+10.0f}"
+        )
+    print("\nby year:")
+    for p in table:
+        years = " ".join(
+            f"{year}: n={v['n']} pnl=${v['pnl']:+.0f}"
+            for year, v in p["by_year"].items()
+        )
+        print(f"  stake ${p['stake']:.0f}: {years}")
+    if args.out:
+        Path(args.out).write_text(
+            json.dumps(table, indent=1, ensure_ascii=False), encoding="utf-8"
+        )
+    return 0
+
+
 def main(argv=None) -> int:
     import sys
 
@@ -156,6 +201,7 @@ def main(argv=None) -> int:
     s.add_argument("--max-new", type=int, default=5)
     s.add_argument("--pages", type=int, default=10)
     s.add_argument("--top", type=int, default=10)
+    s.add_argument("--strategy", default="core")
     s.set_defaults(func=cmd_scan)
 
     r = sub.add_parser("resolve", help="resolve open paper positions")
@@ -172,6 +218,17 @@ def main(argv=None) -> int:
     b.add_argument("--data", default="data/history.csv")
     b.add_argument("--out", default="")
     b.set_defaults(func=cmd_backtest)
+
+    pr = sub.add_parser("project", help="P&L and capital at different stakes")
+    pr.add_argument("--data", default="data/history.csv")
+    pr.add_argument("--stakes", default="20,100,500,1000")
+    pr.add_argument("--buffer", type=float, default=0.005)
+    pr.add_argument("--min-price", type=float, default=0.02)
+    pr.add_argument("--max-price", type=float, default=0.10)
+    pr.add_argument("--target", type=float, default=0.05)
+    pr.add_argument("--stress", type=int, default=3)
+    pr.add_argument("--out", default="")
+    pr.set_defaults(func=cmd_project)
 
     args = p.parse_args(argv)
     return args.func(args)

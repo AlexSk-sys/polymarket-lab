@@ -1,0 +1,16 @@
+{
+ "summary": {
+  "open": 0,
+  "closed": 0,
+  "open_stake": 0,
+  "closed_stake": 0,
+  "pnl": 0,
+  "return_on_closed_stake": null,
+  "win_rate": null,
+  "mean_return": null,
+  "max_drawdown": 0.0,
+  "expectancy_per_position": null,
+  "by_strategy": {}
+ },
+ "positions": []
+}

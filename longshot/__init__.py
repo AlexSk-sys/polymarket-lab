@@ -8,6 +8,7 @@ from .backtest import (
     run_backtest,
 )
 from .ledger import add_positions, load_ledger, resolve, save_ledger, summarize
+from .project import project, project_table
 from .scanner import fetch_live_markets, parse_candidate, scan
 
 __all__ = [
@@ -19,6 +20,8 @@ __all__ = [
     "load_ledger",
     "no_return",
     "parse_candidate",
+    "project",
+    "project_table",
     "resolve",
     "run_backtest",
     "save_ledger",
