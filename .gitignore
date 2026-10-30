@@ -27,3 +27,7 @@ equity_*.png
 
 # EGC generated research outputs
 egc_*.json
+
+# Longshot generated outputs (the paper ledger and report are tracked)
+longshot_backtest.json
+longshot_cycle.log

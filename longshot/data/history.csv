@@ -1,0 +1,1764 @@
+event_id,year,price,outcome,volume,question
+5853,2024,0.002,0,80797.38,[Single Market] Will Hillary Clinton win the U.S. 2024 Democratic presidential nomination?
+5853,2024,0.99,1,86512.57,[Single Market] Will Kamala Harris win the U.S. 2024 Democratic presidential nomination?
+5853,2024,0.003041,0,641848.95,[Single Market] Will Robert F. Kennedy Jr. win the U.S. 2024 Democratic presidential nomination?
+902323,2024,0.85,1,59808.94,Will Man City win the Premier League?
+901206,2024,0.99,1,250000.87,"Will Joe Biden be President of the United States on February 1, 2024?"
+902541,2024,0.962931,1,137704.3,Will Adam Schiff advance from the 2024 CA Senate Primary?
+902643,2024,0.008,0,148098.61,Saudi and Israel peace deal by March 2024?
+902796,2024,0.92,1,270567.59,Indonesia Election: Prabowo Subianto wins?
+902846,2024,0.987,1,384569.35,Will Putin be reelected?
+902918,2024,0.018,0,161523.24,Will the Blast bridge be exploited by end of February?
+902925,2024,0.12959,0,275764.31,Will an AI win the $5 million AI Math Olympiad Prize before August?
+902772,2024,0.13,0,620031.71,Taiwan Presidential Election: Will Hou Yu-ih win?
+902772,2024,0.76,1,1809553.58,Taiwan Presidential Election: Will Lai Ching-te win?
+902950,2024,0.016163,0,200703.25,Will Circle IPO by June?
+902951,2024,0.021,0,139682.02,LayerZero airdrop by April?
+902938,2024,0.016,0,1078101.79,Will ≥10% of Votes go to 3rd Party Candidates in the 2024 US Presidential Election?
+902954,2024,0.078,0,108133.4,EigenLayer airdrop by April?
+902952,2024,0.103793,0,102611.7,zkSync airdrop by April?
+902772,2024,0.16,0,1356952.12,Taiwan Presidential Election: Will Ko Wen-je win?
+903022,2024,0.03182,0,58887.6,Will the Fed decrease interest rates by 25 bps after its January meeting?
+903019,2024,0.989,1,172813.33,Will Zelensky remain President of Ukraine through March?
+903089,2024,0.014,0,1608415.7,Fed rate cut by May 1?
+903026,2024,0.005,0,70542.16,All 3 University Presidents who testified on antisemitism out by Jan 31?
+903055,2024,0.034,0,126577.4,Taylor Swift engaged by April 1?
+903047,2024,0.002,0,357703.46,Ceasefire between Russia and Ukraine by June 30?
+903062,2024,0.004,0,224191.0,Hunter Biden arrested before April?
+903065,2024,0.05,0,123245.33,Another Israel x Hamas ceasefire before February?
+903191,2024,0.003,0,58238.26,Ethereum spot ETF approved by Mar 31?
+903089,2024,0.016,0,1907759.26,Fed rate cut by March 20?
+903098,2024,0.65,1,244342.63,Will U.S. Supreme Court vote to reinstate Trump on Colorado's 2024 ballot?
+903099,2024,0.982,1,110449.14,Will Trump appear on Colorado primary ballot?
+903100,2024,0.06,0,85276.74,Will another state court disqualify Trump from ballot by Jan 31?
+903101,2024,0.007426,0,94761.79,Will Trump be Speaker by Mar 1?
+903089,2024,0.005,0,413985.13,Fed rate cut by January 31?
+903120,2024,0.013,0,382872.44,CZ jail before March?
+903125,2024,0.007,0,284782.16,TikTok banned in the US by June 30?
+902965,2024,0.39,0,338289.91,OpenSea token announcement in 2024?
+903134,2024,0.13,0,97476.01,“All I want for Christmas is You” #1 on Billboard Hot 100 first week of 2024?
+903130,2024,0.038,0,878477.52,"Will BTC hit $50,000 by Jan 31?"
+903137,2024,0.034,0,74954.88,Will Ye say something antisemitic before February?
+903139,2024,0.031,0,110285.05,Will SpaceX's Starship launch before March?
+902205,2024,0.006,0,151137.53,North Korea nuke by March 31?
+896616,2024,0.015,0,90600.63,"Will a nuclear weapon detonate by June 30, 2024?"
+903161,2024,0.013,0,340320.88,Netanyahu out by June 30?
+903175,2024,0.979,1,121016.43,Will Trump appear on Maine primary ballot?
+903171,2024,0.015,0,63916.61,Will Iran officially join the war before February?
+903151,2024,0.2,1,731344.66,Hamas lose power in Gaza before February?
+903176,2024,0.14,0,61630.36,Will Solana Network go down in January?
+903184,2024,0.033,0,68624.96,Will Hezbollah deploy ground forces in Israel in January?
+903188,2024,0.004,0,421132.57,Meissner effect confirmed near room temperature?
+903189,2024,0.994,1,99623.58,Will Putin remain President of Russia through March?
+903179,2024,0.67,1,849344.72,Who will get more votes in Taiwan Election: Hou Yu-ih (侯友宜) or Ko Wen-je (柯文哲)?
+903174,2024,0.03,0,907184.58,OpenAI announces it has achieved AGI in 2024?
+903197,2024,0.54,0,284791.83,Will the San Francisco 49ers win Super Bowl LVIII?
+903198,2024,0.32,0,1305920.99,Will Nikki Haley win the New Hampshire Republican Primary?
+903198,2024,0.001,0,381188.35,Will Vivek Ramaswamy win the New Hampshire Republican Primary?
+903198,2024,0.001,0,61152.1,Will Chris Christie win the New Hampshire Republican Primary?
+903198,2024,0.003,0,702175.69,Will Ron DeSantis win the New Hampshire Republican Primary?
+903198,2024,0.004,0,497060.76,Will Asa Hutchinson win the New Hampshire Republican Primary?
+903198,2024,0.003,0,833479.61,Will anyone else win the New Hampshire Republican Primary?
+903197,2024,0.001,0,150606.77,Will the Baltimore Ravens win Super Bowl LVIII?
+903198,2024,0.68,1,1385145.33,Will Donald Trump win the New Hampshire Republican Primary?
+903197,2024,0.001,0,98303.15,Will the Detroit Lions win Super Bowl LVIII?
+903197,2024,0.47,1,426345.8,Will the Kansas City Chiefs win Super Bowl LVIII?
+903204,2024,0.12,0,686502.8,Mexican Presidential Election: Will Xóchitl Gálvez win?
+903204,2024,0.9,1,747925.29,Mexican Presidential Election: Will Claudia Sheinbaum win?
+903214,2024,0.004282,0,452582.18,Will Vivek Ramaswamy win the 2024 Republican Presidential Nomination?
+903214,2024,0.001,0,416207.43,Will Ron DeSantis win the 2024 Republican Presidential Nomination?
+903218,2024,0.045,0,61818.63,Will Israel invade Lebanon by January 20?
+903214,2024,0.009,0,854534.26,Will Nikki Haley win the 2024 Republican Presidential Nomination?
+903225,2024,0.133603,0,124889.43,Will there be a US government shutdown by Jan 20?
+903208,2024,0.016,0,1272190.64,Will North Korea invade South Korea in 2024?
+903230,2024,0.026,0,604171.53,BTC ETFs first week combined AUM under $10 billion?
+903230,2024,0.02,0,154511.21,BTC ETFs first week combined AUM over $60 billion?
+903230,2024,0.19,1,149306.39,BTC ETFs first week combined AUM between $10-30 billion?
+903230,2024,0.78,0,109277.68,BTC ETFs first week combined AUM between $30-60 billion?
+903237,2024,0.448,0,429236.59,Will Sweden join NATO by February 29?
+903240,2024,0.001,0,361916.75,Will Indiana Pacers be 2023-24 NBA Champions?
+903240,2024,0.05821,0,233107.79,Will Minnesota Timberwolves be 2023-24 NBA Champions?
+903240,2024,0.295,0,577307.82,Will Dallas Mavericks be 2023-24 NBA Champions?
+903240,2024,0.65,1,520370.7,Will Boston Celtics 2023-24 NBA Champions?
+903241,2024,0.34,1,52577.0,Will Microsoft be the largest company in the world on January 31?
+903246,2024,0.025,0,81772.25,"Will ""Poor Things"" win the Oscar for Best Picture?"
+903246,2024,0.018485,0,90746.29,"Will ""Killers of the Flower Moon"" win the Oscar for Best Picture?"
+903214,2024,0.004,0,827477.86,Will Donald Trump Jr. win the 2024 Republican Presidential Nomination?
+903246,2024,0.93,1,168512.63,"Will ""Oppenheimer"" win the Oscar for Best Picture?"
+903246,2024,0.013,0,74684.98,"Will ""Barbie"" win the Oscar for Best Picture?"
+903246,2024,0.006,0,69242.83,"Will ""The Zone of Interest"" win the Oscar for Best Picture?"
+903248,2024,0.012,0,129230.27,"Will ETH hit $3,000 in January?"
+903247,2024,0.44,0,160034.5,Will Novak Djokovic win the Australian Open?
+903250,2024,0.88,1,229590.36,Finnish Presidential Election: Will Alexander Stubb win?
+903250,2024,0.16,0,221233.4,Finnish Presidential Election: Will Pekka Haavisto win?
+903214,2024,0.003,0,771652.86,Will someone else win the 2024 Republican Presidential Nomination?
+903250,2024,0.05,0,103857.34,Finnish Presidential Election: Will Jussi Halla-aho win?
+903204,2024,0.002,0,415551.52,Mexican Presidential Election: Will Jorge Álvarez Máynez win?
+903204,2024,0.001,0,232879.55,Mexican Presidential Election: Will another candidate win?
+903263,2024,0.009,0,914028.82,Will weed be rescheduled in 2024?
+903267,2024,0.985,1,784485.33,Will Donald Trump win the South Carolina Republican Primary?
+903266,2024,0.001,0,1397015.7,Will Kamala Harris be the Democratic VP nominee?
+903267,2024,0.007,0,285432.6,Will Nikki Haley win the South Carolina Republican Primary?
+903267,2024,0.002,0,490761.5,Will Ron DeSantis win the South Carolina Republican Primary?
+903267,2024,0.005,0,100521.58,Will another candidate win the South Carolina Republican Primary?
+903276,2024,0.985,1,117537.23,El Salvador Presidential Election: Will Nayib Bukele win?
+903277,2024,0.89,1,108524.03,Will Cillian Murphy win the Oscar for Best Actor?
+903271,2024,0.007954,0,494113.82,Andrew Tate guilty of human trafficking in 2024?
+903277,2024,0.08,0,52276.66,Will Paul Giamatti win the Oscar for Best Actor?
+903277,2024,0.001,0,75139.6,Will someone else win the Oscar for Best Actor?
+903278,2024,0.88,1,642842.83,NY-3 Special Election for Santos seat: Suozzi (D) vs. Pilip (R)
+903285,2024,0.33,0,151219.43,Will 'Dune: Part Two' gross between $70m-80m opening weekend?
+903285,2024,0.15,0,196971.51,Will 'Dune: Part Two' gross under $70m opening weekend?
+903285,2024,0.3,1,128647.26,Will 'Dune: Part Two' gross between $80m-90m opening weekend?
+903285,2024,0.15,0,376596.01,Will 'Dune: Part Two' gross between $90m-100m opening weekend?
+903285,2024,0.11,0,474792.37,Will 'Dune: Part Two' gross over $100m opening weekend?
+903288,2024,0.93,0,134062.45,Will Nawaz Sharif be next prime minister of Pakistan?
+903290,2024,0.003001,0,369835.86,Will Argentina dollarize in 2024?
+5821,2024,0.002,0,134093.44,"Will Donald Trump be President of the USA on April 30, 2024?"
+903293,2024,0.049,0,109432.02,WIF listed on Coinbase or Binance?
+903292,2024,0.01,0,567277.88,Sundar Pichai out as Google CEO in 2024?
+903305,2024,0.37,0,66979.62,Edmonton Oilers longest winning streak in NHL history? (>17 games)
+903301,2024,0.999,1,74934.74,US call for Gaza ceasefire before March?
+903304,2024,0.02,0,408699.99,Will Israel invade Lebanon before March?
+903309,2024,0.036,0,237401.15,Will US attack Iran by February 15?
+903307,2024,0.03,0,649853.54,Will Nikki Haley drop out before South Carolina primary?
+903318,2024,0.95,1,50472.62,Will Christopher Nolan win the Oscar for Best Director?
+903314,2024,0.75,1,192214.28,Will Kanye release ‘Vultures’ Vol. 1 by Feb 9?
+903319,2024,0.48,0,95948.08,Will Tyson Fury beat Oleksandr Usyk in Ring of Fire?
+903319,2024,0.041,0,60090.42,Will Ring of Fire have no official winner?
+903319,2024,0.47,1,151516.18,Will Oleksandr Usyk beat Tyson Fury in Ring of Fire?
+903316,2024,0.32,1,53004.85,Will Emma Stone win the Oscar for Best Actress?
+903327,2024,0.03,0,843811.73,Will Trump win the South Carolina Primary by between 10-20% of the vote?
+903327,2024,0.17,1,420917.37,Will Trump win the South Carolina Primary by between 20-30% of the vote?
+903327,2024,0.27,0,265205.57,Will Trump win the South Carolina Primary by between 30-40% of the vote?
+903327,2024,0.28,0,217925.21,Will Trump win the South Carolina Primary by between 40-50% of the vote?
+903327,2024,0.19,0,487250.31,Will Trump win the South Carolina Primary by more than 50% of the vote?
+903328,2024,0.027,0,59337.99,Will Israel attack Iran by February 15?
+903327,2024,0.019,0,1109418.39,Will Trump win the South Carolina Primary by less than 10% of the vote?
+903326,2024,0.004991,0,305736.93,Will America ban Zyn in 2024?
+903335,2024,0.045,0,75006.53,Border + Ukraine aid deal by Feb 9?
+903347,2024,0.016,0,153134.41,Will Trump tweet again by April 1?
+903336,2024,0.077714,1,388204.08,US government shutdown by Mar 9?
+903353,2024,0.952509,1,111034.7,Will Taylor Swift attend the Super Bowl?
+903350,2024,0.16,0,208098.23,Israel x Hamas ceasefire before March?
+903354,2024,0.06,0,77328.47,Will Travis Kelce propose to Taylor Swift at the Super Bowl?
+903349,2024,0.012,0,349344.26,Will the US ban sharing deepfake nudes in 2024?
+903358,2024,0.009,0,61994.34,US/Iran declare war before March?
+903355,2024,0.09,0,377957.64,Will Nikki Haley drop out before Super Tuesday?
+903329,2024,0.028744,0,690266.86,COVID lab leak confirmed by US in 2024?
+903363,2024,0.023,0,63384.14,Will Taylor Swift endorse Biden at the Super Bowl?
+903365,2024,0.253,0,188245.65,Will Dortmund win the 2023-24 Champions League?
+903365,2024,0.75,1,207108.72,Will Real Madrid win the 2023-24 Champions League?
+903370,2024,0.01,0,115453.44,Will FTX payouts start in Q2 2024?
+903370,2024,0.006,0,576292.26,Will FTX payouts start in Q4 2024?
+903370,2024,0.008,0,386476.52,Will FTX payouts start in Q3 2024?
+903370,2024,0.991964,1,952525.12,FTX doesn't start payouts in 2024?
+903377,2024,0.973,1,63023.46,No change in Fed raise interest rates after its 2024 March meeting?
+903377,2024,0.003,0,197105.48,Will the Fed raise interest rates by 25+ bps after its 2024 March meeting?
+903379,2024,0.05,0,117045.91,US bank failure in February?
+903089,2024,0.02,0,1253483.92,Fed rate cut by June 12?
+903376,2024,0.007,0,1863854.44,Canada federal election in 2024?
+903399,2024,0.03,0,63446.81,Will Solana Network go down again in February?
+903386,2024,0.021,0,146544.38,Ukraine aid package in February?
+903406,2024,0.019,0,84698.94,Will Adam Neumann buy back WeWork in 2024?
+903382,2024,0.053,0,1483098.4,Will Michelle Obama announce presidential run before August?
+903410,2024,0.02,0,81831.67,Will Ronna Mcdaniel step down as RNC Chair before Super Tuesday?
+903420,2024,0.65,1,171982.15,Will 2024 have the hottest February on record?
+903423,2024,0.39,0,490789.37,Will Ether Rock sell for over $600k at Sotheby’s?
+903425,2024,0.006,0,68450.73,Will Sam Altman raise >$1 trillion in Q1 2024?
+903428,2024,0.021,0,60730.8,Will Venezuela invade Guyana in February?
+903424,2024,0.999,1,277741.15,"Will ETH hit $3,000 in February?"
+903430,2024,0.027234,0,162172.18,Taylor Swift pregnant in 2024?
+903426,2024,0.01,0,111271.14,Will Trump election interference trial start in September or October?
+903433,2024,0.312712,1,473880.33,"Will BTC hit $55,000 in February?"
+903435,2024,0.002,0,421416.49,Was the Super Bowl rigged?
+903434,2024,0.066485,0,551481.3,Taylor Swift engaged in 2024?
+903452,2024,0.003,0,377945.44,EigenLayer airdrop by June 30?
+903447,2024,0.005,0,159137.03,Biden cognitive test before April?
+903450,2024,0.61,1,108991.82,CZ sentenced to prison?
+903452,2024,0.016,0,174682.26,Aleo airdrop by June 30?
+903452,2024,0.003,0,268035.62,Base airdrop by June 30?
+903452,2024,0.011,0,93645.92,Rabby airdrop by June 30?
+903089,2024,0.046,0,1727507.99,Fed rate cut by July 31?
+903452,2024,0.034612,0,64058.71,Rainbow airdrop by June 30?
+903454,2024,0.18,0,69424.48,Will Google or NVIDIA be worth more on March 1?
+903468,2024,0.016,0,56463.29,Will Ian Miles Cheong be arrested in February?
+903467,2024,0.999,1,104970.96,Will WIF hit $1 by March 15?
+903452,2024,0.95,1,366875.08,Blast airdrop by June 30?
+903452,2024,0.999,1,1735369.91,zkSync airdrop by June 30?
+903452,2024,0.005,0,81059.89,Linea airdrop by June 30?
+903452,2024,0.999,1,729959.92,LayerZero airdrop by June 30?
+903452,2024,0.015,0,94595.62,Berachain airdrop by June 30?
+903452,2024,0.004,0,138679.52,Scroll airdrop by June 30?
+903470,2024,0.04,0,139310.84,Will Azerbaijan invade Armenia before April?
+903486,2024,0.01,0,65354.58,Will Matt Gaetz be expelled from Congress before May?
+903493,2024,0.972,1,67882.65,Will 'Dune: Part Two' get a 90% or higher Tomatometer Score?
+903498,2024,0.06,0,64601.08,Will Ukraine win Eurovision 2024?
+903498,2024,0.17,0,87217.04,Will Italy win Eurovision 2024?
+903498,2024,0.19,0,149719.88,Will Croatia win Eurovision 2024?
+903498,2024,0.04,0,82898.84,Will France win Eurovision 2024?
+903498,2024,0.008,0,53091.81,Will Ireland win Eurovision 2024?
+903498,2024,0.028,0,105889.24,Will Israel win Eurovision 2024?
+903498,2024,0.016,0,57763.85,Will Greece win Eurovision 2024?
+903498,2024,0.132301,0,97779.93,Will another country win Eurovision 2024?
+903499,2024,0.013,0,55339.9,Ukraine aid package by March 31?
+903498,2024,0.275,1,162710.87,Will Switzerland win Eurovision 2024?
+903503,2024,0.44,1,109674.41,"ETH above $3,000 on March 1?"
+903500,2024,0.005,0,778183.73,Will Trump be Speaker by April 1?
+903506,2024,0.15,0,85164.36,Israel x Hamas ceasefire before April?
+903452,2024,0.011,0,121927.73,Swell airdrop by June 30?
+903452,2024,0.013,0,70678.52,Puffer airdrop by June 30?
+903513,2024,0.002,0,82503.59,Will Sony release the Playstation 5 Pro in Q3 2024?
+903532,2024,0.031693,0,139050.58,Will Israel invade Lebanon before April?
+903534,2024,0.018,0,77254.56,NVIDIA flips Apple in market cap by April 30?
+903541,2024,0.979,1,98199.37,Will Caleb Williams be taken with the 1st pick in the 2024 NFL Draft?
+903540,2024,0.01,0,399921.96,Will Satoshi Nakamoto's identity be proven in Q4 2024?
+903540,2024,0.962407,1,273034.37,Will Satoshi Nakamoto's identity not be proven in 2024?
+903559,2024,0.05,0,64914.5,Ethereum all time high in Q1 2024?
+903560,2024,0.017,0,56920.04,Solana all time high in Q2?
+903560,2024,0.005,0,335641.93,Solana all time high in Q3?
+903559,2024,0.011,0,198007.22,Ethereum all time high in Q2 2024?
+903563,2024,0.019,0,228579.56,NATO/EU troops fighting in Ukraine before July?
+903566,2024,0.01,0,243703.22,Biden to drop out before April?
+903579,2024,0.19,0,70271.84,Fani Willis removed from Trump case by March 15?
+903452,2024,0.011,0,79814.82,Zircuit airdrop by June 30?
+903581,2024,0.022531,0,153821.25,"Will BTC hit $90,000 in March?"
+903581,2024,0.01,0,104995.13,"Will BTC hit $100,000 in March?"
+903581,2024,0.07,0,261879.58,"Will BTC hit $80,000 in March?"
+903584,2024,0.34,1,120196.71,Bitcoin all time high by next Friday?
+903589,2024,0.19,0,184917.23,SBF reduced sentence because autism?
+903621,2024,0.02,0,154307.72,Will 'Ghostbusters: Frozen Empire' gross under $35m opening weekend?
+903625,2024,0.997,1,54280.0,Will 'Dune: Part Two' gross between $250m-300m by May 15?
+903595,2024,0.033431,0,338209.05,Will a new country buy Bitcoin in 2024?
+903625,2024,0.003,0,170859.63,Will 'Dune: Part Two' gross more than $300m by May 15?
+903631,2024,0.001,0,241200.09,Will a candidate from another party win Alabama Presidential Election?
+903631,2024,0.003,0,101648.31,Will a Democrat win Alabama Presidential Election?
+903633,2024,0.006,0,67716.53,Will a Democrat win Montana Presidential Election?
+903631,2024,0.984127,1,218302.37,Will a Republican win Alabama Presidential Election?
+903633,2024,0.98,1,153723.25,Will a Republican win Montana Presidential Election?
+903634,2024,0.008,0,102474.09,Will a Democrat win Nebraska Presidential Election?
+903635,2024,0.059,0,835760.56,Will a Democrat win Alaska Presidential Election?
+903633,2024,0.004,0,205722.06,Will a candidate from another party win Montana Presidential Election?
+903635,2024,0.003,0,426228.13,Will a candidate from another party win Alaska Presidential Election?
+903634,2024,0.99,1,102307.55,Will a Republican win Nebraska Presidential Election?
+903638,2024,0.007,0,56355.39,Will a Democrat win Arkansas Presidential Election?
+903635,2024,0.95,1,796279.06,Will a Republican win Alaska Presidential Election?
+903638,2024,0.986,1,156941.38,Will a Republican win Arkansas Presidential Election?
+903634,2024,0.002,0,1040397.24,Will a candidate from another party win Nebraska Presidential Election?
+903639,2024,0.001,0,1065194.38,Will a candidate from another party win California Presidential Election?
+903639,2024,0.98,1,1078748.42,Will a Democrat win California Presidential Election?
+903639,2024,0.021,0,990768.22,Will a Republican win California Presidential Election?
+903640,2024,0.001,0,1970001.38,Will a candidate from another party win New Hampshire Presidential Election?
+903641,2024,0.038,0,1022853.79,Will a Republican win Colorado Presidential Election?
+903642,2024,0.019,0,152403.69,Will a Republican win Connecticut Presidential Election?
+903642,2024,0.983,1,189595.43,Will a Democrat win Connecticut Presidential Election?
+903642,2024,0.001,0,203064.6,Will a candidate from another party win Connecticut Presidential Election?
+903643,2024,0.001,0,1668816.27,Will a candidate from another party win New Jersey Presidential Election?
+903640,2024,0.8,1,1829308.96,Will a Democrat win New Hampshire in the 2024 US Presidential Election?
+903649,2024,0.001,0,416702.08,Will a candidate from another party win Hawaii Presidential Election?
+903649,2024,0.007485,0,1745995.5,Will a Republican win Hawaii Presidential Election?
+903649,2024,0.986989,1,671286.45,Will a Democrat win Hawaii Presidential Election?
+903651,2024,0.006,0,71733.95,Will a Democrat win Idaho Presidential Election?
+903651,2024,0.988,1,147990.96,Will a Republican win Idaho Presidential Election?
+903652,2024,0.009,0,103909.67,Will a Democrat win North Dakota Presidential Election?
+903652,2024,0.979,1,303208.8,Will a Republican win North Dakota Presidential Election?
+903653,2024,0.027588,0,188191.4,Will a Republican win Illinois Presidential Election?
+903654,2024,0.019,0,135500.36,Will a Democrat win Indiana Presidential Election?
+903653,2024,0.975523,1,202726.09,Will a Democrat win Illinois Presidential Election?
+903652,2024,0.001457,0,904594.65,Will a candidate from another party win North Dakota Presidential Election?
+903654,2024,0.975,1,194057.81,Will a Republican win Indiana Presidential Election?
+903654,2024,0.002,0,179627.16,Will a candidate from another party win Indiana Presidential Election?
+903655,2024,0.003,0,586852.54,Will a candidate from another party win Iowa Presidential Election?
+903656,2024,0.04,0,854078.75,Will a Democrat win Ohio Presidential Election?
+903658,2024,0.002,0,146626.48,Will a Democrat win Kentucky Presidential Election?
+903657,2024,0.004,0,319580.16,Will a candidate from another party win Kansas Presidential Election?
+903657,2024,0.016,0,224269.29,Will a Democrat win Kansas Presidential Election?
+903659,2024,0.009,0,63598.12,Will a Democrat win Louisiana Presidential Election?
+903657,2024,0.976,1,330794.59,Will a Republican win Kansas Presidential Election?
+903656,2024,0.94,1,915470.46,Will a Republican win Ohio Presidential Election?
+903659,2024,0.984,1,83674.7,Will a Republican win Louisiana Presidential Election?
+903658,2024,0.990348,1,227456.17,Will a Republican win Kentucky Presidential Election?
+903659,2024,0.004,0,69180.66,Will a candidate from another party win Louisiana Presidential Election?
+903656,2024,0.004,0,371605.63,Will a candidate from another party win Ohio Presidential Election?
+903660,2024,0.86,1,945209.91,Will a Democrat win Maine Presidential Election?
+903660,2024,0.129999,0,1009297.29,Will a Republican win Maine Presidential Election?
+903661,2024,0.007,0,69422.34,Will a Democrat win Oklahoma Presidential Election?
+903661,2024,0.004,0,93284.64,Will a candidate from another party win Oklahoma Presidential Election?
+903660,2024,0.001,0,601108.61,Will a candidate from another party win Maine Presidential Election?
+903661,2024,0.989,1,86651.47,Will a Republican win Oklahoma Presidential Election?
+903662,2024,0.014,0,271261.24,Will a Republican win Massachusetts Presidential Election?
+903662,2024,0.984,1,217279.52,Will a Democrat win Massachusetts Presidential Election?
+903662,2024,0.002,0,141518.05,Will a candidate from another party win Massachusetts Presidential Election?
+903664,2024,0.963,1,276729.39,Will a Democrat win Oregon Presidential Election?
+903663,2024,0.022853,0,310841.28,Will a Republican win Maryland Presidential Election?
+903663,2024,0.977,1,283516.05,Will a Democrat win Maryland Presidential Election?
+903664,2024,0.037,0,290599.43,Will a Republican win Oregon Presidential Election?
+903663,2024,0.001119,0,444777.2,Will a candidate from another party win Maryland Presidential Election?
+903664,2024,0.003,0,156261.18,Will a candidate from another party win Oregon Presidential Election?
+903668,2024,0.004,0,186645.12,Will a candidate from another party win Mississippi Presidential Election?
+903668,2024,0.978,1,105948.98,Will a Republican win Mississippi Presidential Election?
+903666,2024,0.88,1,1452937.57,Will a Democrat win Minnesota in the 2024 US Presidential Election?
+903669,2024,0.009,0,140716.25,Will a Democrat win Missouri Presidential Election?
+903666,2024,0.139989,0,1654144.79,Will a Republican win Minnesota in the 2024 US Presidential Election?
+903669,2024,0.99,1,287953.55,Will a Republican win Missouri Presidential Election?
+903670,2024,0.98,1,114029.28,Will a Democrat win Rhode Island Presidential Election?
+903670,2024,0.022,0,102536.86,Will a Republican win Rhode Island Presidential Election?
+903670,2024,0.003,0,51561.36,Will a candidate from another party win Rhode Island Presidential Election?
+903671,2024,0.014,0,67309.14,Will a Democrat win South Carolina Presidential Election?
+903671,2024,0.001,0,169224.59,Will a candidate from another party win South Carolina Presidential Election?
+903671,2024,0.981,1,129476.53,Will a Republican win South Carolina Presidential Election?
+903672,2024,0.005,0,213694.62,Will a Democrat win South Dakota Presidential Election?
+903672,2024,0.002,0,170746.27,Will a candidate from another party win South Dakota Presidential Election?
+903673,2024,0.005,0,53356.99,Will a Democrat win Tennessee Presidential Election?
+903673,2024,0.989,1,116528.86,Will a Republican win Tennessee Presidential Election?
+903672,2024,0.976,1,267536.09,Will a Republican win South Dakota Presidential Election?
+903673,2024,0.002,0,66432.07,Will a candidate from another party win Tennessee Presidential Election?
+903676,2024,0.007,0,68515.93,Will a Democrat win Utah Presidential Election?
+903676,2024,0.979,1,199550.45,Will a Republican win Utah Presidential Election?
+903676,2024,0.006,0,102704.05,Will a candidate from another party win Utah Presidential Election?
+903677,2024,0.98,1,151103.25,Will a Democrat win Vermont Presidential Election?
+903677,2024,0.018,0,137102.64,Will a Republican win Vermont Presidential Election?
+903677,2024,0.005,0,122905.98,Will a candidate from another party win Vermont Presidential Election?
+903681,2024,0.983999,1,386592.72,Will a Democrat win Washington Presidential Election?
+903681,2024,0.016,0,228352.57,Will a Republican win Washington Presidential Election?
+903682,2024,0.012,0,55242.76,Will a Democrat win West Virginia Presidential Election?
+903681,2024,0.001,0,139558.22,Will a candidate from another party win Washington Presidential Election?
+903682,2024,0.98,1,120831.51,Will a Republican win West Virginia Presidential Election?
+903684,2024,0.003,0,427156.11,Will a Democrat win Wyoming Presidential Election?
+903684,2024,0.991,1,896320.99,Will a Republican win Wyoming Presidential Election?
+903684,2024,0.003,0,831551.16,Will a candidate from another party win Wyoming Presidential Election?
+903682,2024,0.005,0,1132009.02,Will a candidate from another party win West Virginia Presidential Election?
+903687,2024,0.999,1,68988.08,Will there be a US government shutdown by Mar 23?
+903692,2024,0.021325,0,93369.66,Ethereum all time high by end of March?
+903731,2024,0.022,0,58148.11,Coinbase a top 25 app in March?
+903728,2024,0.018,0,115160.56,Supreme Court vacancy in 2024?
+903735,2024,0.017,0,108274.4,Will Nikki Haley endorse Trump in March?
+903732,2024,0.56,0,420499.36,Ansem vs. Barney
+903747,2024,0.070349,0,98920.65,Will WIF hit $5 by April 30?
+903748,2024,0.001,0,101923.28,Will Garvey win the California Senate Primary by more than 4% of the vote?
+903748,2024,0.9,1,102210.28,Will Schiff win the California Senate Primary?
+903754,2024,0.965,1,146220.7,Congress passes bill banning TikTok by April 30?
+903746,2024,0.009,0,984737.61,Solana ETF approved in 2024?
+903756,2024,0.945999,1,377942.06,Indian Election: Modi reelected?
+903757,2024,0.94,1,283661.75,Will a Democrat win North Carolina Governor Election?
+903757,2024,0.058,0,545065.68,Will a Republican win North Carolina Governor Election?
+903757,2024,0.004,0,338125.06,Will a candidate from another party win North Carolina Governor Election?
+903759,2024,0.46,0,97030.93,Will a Democrat win New Hampshire Governor Election?
+903759,2024,0.54,1,64825.25,Will a Republican win New Hampshire Governor Election?
+903761,2024,0.073,0,87823.9,Will a Democrat win Indiana Governor Election?
+903761,2024,0.947999,1,66448.8,Will a Republican win Indiana Governor Election?
+903759,2024,0.003,0,68620.45,Will a candidate from another party win New Hampshire Governor Election?
+903761,2024,0.005,0,140745.47,Will a candidate from another party win Indiana Governor Election?
+903764,2024,0.02,0,63513.23,Will a Democrat win Montana Governor Election?
+903765,2024,0.029,0,55832.21,Will a Democrat win North Dakota Governor Election?
+903766,2024,0.021139,0,81628.35,Will a Democrat win Utah Governor Election?
+903764,2024,0.001,0,86511.38,Will a candidate from another party win Montana Governor Election?
+903768,2024,0.944,1,75067.69,Will a Democrat win Washington Governor Election?
+903766,2024,0.007,0,66744.78,Will a candidate from another party win Utah Governor Election?
+903769,2024,0.033,0,197831.89,Will a candidate from another party win West Virginia Governor Election?
+903771,2024,0.009,0,82405.06,GPT-5 announced in Q2 2024?
+903768,2024,0.004,0,153031.52,Will a candidate from another party win Washington Governor Election?
+903771,2024,0.02,0,354246.43,GPT-5 announced in Q3 2024?
+903771,2024,0.018598,0,571862.41,GPT-5 announced in Q4 2024?
+903771,2024,0.988,1,417554.33,GPT-5 not announced in 2024?
+903793,2024,0.037,0,119148.37,Israel ground offensive in Rafah by March 31?
+903799,2024,0.002,0,676897.32,Will a candidate from another party win US Michigan Senate Election?
+903799,2024,0.33,0,684107.75,Will a Republican win Michigan US Senate Election?
+903799,2024,0.68,1,394971.3,Will a Democrat win Michigan US Senate Election?
+10017,2024,0.029,0,82906.68,TikTok sale announced before August?
+10018,2024,0.001,0,295575.66,Will a candidate from another party win Nevada US Senate Election?
+10019,2024,0.006,0,613378.13,Will a candidate from another party win Pennsylvania US Senate Election?
+10018,2024,0.27,0,1056287.76,Will a Republican win Nevada US Senate Election?
+10020,2024,0.64,1,255765.59,Will a Democrat win Wisconsin US Senate Election?
+10020,2024,0.004,0,320851.22,Will a candidate from another party win Wisconsin US Senate Election?
+10020,2024,0.33,0,444672.06,Will a Republican win Wisconsin US Senate Election?
+10021,2024,0.18,0,686243.6,Will a Democrat win Montana US Senate Election?
+10018,2024,0.75,1,1540056.72,Will a Democrat win Nevada US Senate Election?
+10021,2024,0.83,1,621186.16,Will a Republican win Montana US Senate Election?
+10025,2024,0.24,1,148576.1,Boeing emergency landing by next Friday?
+10022,2024,0.389977,0,892763.55,Will a Democrat win Ohio US Senate Election?
+10047,2024,0.988887,1,262564.34,Will four SpaceX Starship launches successfully reach outer space in 2024?
+10022,2024,0.61,1,1556618.39,Will a Republican win Ohio US Senate Election?
+10056,2024,0.005,0,197747.47,SBF sentence less than 5 years?
+10056,2024,0.017,0,234855.94,SBF sentence between 5 and 10 years?
+10056,2024,0.28,1,186737.45,SBF sentence between 20 and 30 years?
+10056,2024,0.1,0,178660.31,SBF sentence between 10 and 20 years?
+10047,2024,0.008,0,286410.22,Will five or more SpaceX Starship launches successfully reach outer space in 2024?
+10056,2024,0.27,0,124488.51,SBF sentence between 30 and 40 years?
+10056,2024,0.07,0,170067.28,SBF sentence more than 50 years?
+10056,2024,0.26,0,166928.72,SBF sentence between 40 and 50 years?
+10060,2024,0.001,0,52407.41,Will Houston win the NCAA tournament?
+10060,2024,0.001,0,64873.95,Will North Carolina win the NCAA tournament?
+10060,2024,0.63,1,153501.46,Will UConn win the NCAA tournament?
+10060,2024,0.04,0,62012.6,Will Tennessee win the NCAA tournament?
+10060,2024,0.01,0,69555.58,Will Arizona win the NCAA tournament?
+10060,2024,0.001,0,111008.99,Will the Iowa State University win the NCAA tournament?
+10060,2024,0.001333,0,58287.69,Will Creighton win the NCAA tournament?
+10060,2024,0.001,0,66558.14,Will Illinois win the NCAA tournament?
+10060,2024,0.055,0,177793.62,Will Alabama win the NCAA tournament?
+10060,2024,0.001,0,89905.42,Will Clemson win the NCAA tournament?
+10069,2024,0.001,0,78505.2,NCAA Tournament 2024: Will four #1 seeds make it to the Semifinals?
+10069,2024,0.001,0,58722.74,NCAA Tournament 2024: Will no #1 seeds make it to the Semifinals?
+10060,2024,0.29,0,147514.31,Will Purdue win the NCAA tournament?
+10080,2024,0.005,0,97540.61,Damson Idris announced as next James Bond?
+10080,2024,0.00616,0,329246.26,Henry Cavill announced as next James Bond?
+10080,2024,0.011,0,220557.72,Aaron Taylor-Johnson announced as next James Bond?
+10080,2024,0.002,0,337809.07,Cosmo Jarvis announced as next James Bond?
+10080,2024,0.005,0,163225.95,Rege-Jean Page announced as next James Bond?
+10080,2024,0.003,0,128347.91,Tom Hardy announced as next James Bond?
+10080,2024,0.005,0,187468.96,James Norton announced as next James Bond?
+10083,2024,0.11,0,129294.97,Israel ground offensive in Rafah by April 30?
+10084,2024,0.028,0,186815.83,Will Israel invade Lebanon before May?
+10080,2024,0.983,1,94066.77,Another actor announced as next James Bond actor?
+10090,2024,0.61,1,58119.0,Will Man City win the Premier League?
+10098,2024,0.009,0,286083.44,Fed raises interest rates by 25+ bps after 2024 May meeting?
+10098,2024,0.976,1,165142.11,No change in Fed interest rates after 2024 May meeting?
+10098,2024,0.008,0,234731.02,Fed decreases interest rates by 25 bps after 2024 May meeting?
+10098,2024,0.007,0,214654.56,Fed decreases interest rates by 50+ bps after May 2024 meeting?
+10104,2024,0.035,0,66540.64,Shohei Ohtani suspension in March?
+10116,2024,0.04,0,62284.58,Mike Johnson out as Speaker before May?
+903452,2024,0.005,0,50193.23,Initia airdrop by June 30?
+10123,2024,0.025,0,70167.0,Israel x Hamas ceasefire before May?
+10125,2024,0.999,1,97527.71,Muslim group responsible for Moscow attack?
+10127,2024,0.03,0,349784.9,Ukraine responsible for Moscow attack?
+10133,2024,0.005,0,96470.84,Will Trump announce his VP pick in April?
+10133,2024,0.007,0,127791.02,Will Trump announce his VP pick in May?
+10128,2024,0.007,0,229198.85,Will Trump be Speaker by May 1?
+10133,2024,0.175,0,83537.73,Will Trump announce his VP pick in June?
+10147,2024,0.130001,0,72874.99,Will Hikaru Nakamura win FIDE Candidates 2024?
+10164,2024,0.985,1,160189.01,Will a Republican win Nebraska's 1st congressional district?
+10164,2024,0.014,0,52459.39,Will a Democrat win Nebraska's 1st congressional district?
+10164,2024,0.003,0,217527.45,Will a candidate from another party win Nebraska's 1st congressional district?
+10166,2024,0.968,1,196361.55,Will a Democrat win Delaware Presidential Election?
+10166,2024,0.001,0,148445.63,Will a candidate from another party win Delaware Presidential Election?
+10166,2024,0.03,0,196611.24,Will a Republican win Delaware Presidential Election?
+5821,2024,0.001,0,123498.38,"Will Donald Trump be President of the USA on July 4, 2024?"
+10172,2024,0.86,1,275387.21,Will a Democrat win Nebraska's 2nd congressional district?
+10169,2024,0.003,0,999722.94,Will a candidate from another party win New Mexico Presidential Election?
+10169,2024,0.13,0,949548.9,Will a Republican win New Mexico Presidential Election?
+10169,2024,0.89,1,906900.56,Will a Democrat win New Mexico Presidential Election?
+10172,2024,0.002,0,309380.96,Will a candidate from another party win Nebraska's 2nd congressional district?
+10172,2024,0.131,0,306337.54,Will a Republican win Nebraska's 2nd congressional district?
+10173,2024,0.995,1,82273.1,Will a Republican win Nebraska's 3rd congressional district?
+10175,2024,0.066413,0,148519.26,Will a Democrat win Maine's 2nd congressional district?
+10181,2024,0.008,0,91667.68,Biden drops out before May?
+10175,2024,0.94,1,111028.35,Will a Republican win Maine's 2nd congressional district?
+10177,2024,0.982999,1,54742.14,Ukraine aid package in April?
+10178,2024,0.023,0,115101.69,"Will Bitcoin reach $90,000 in April?"
+10178,2024,0.009,0,144019.29,"Will Bitcoin reach $100,000 in April?"
+10186,2024,0.0148,0,76374.28,Will Nikki Haley endorse Trump in April?
+10178,2024,0.044,0,144119.74,"Will Bitcoin reach $80,000 in April?"
+10199,2024,0.98,0,77160.18,Will David Hoffman defeat Nic Carter?
+10199,2024,0.51,0,71303.43,Will Nic Carter defeat David Hoffman?
+10201,2024,0.979,1,65747.04,Will 2024 have the hottest April on record?
+10210,2024,0.016,1,56886.52,US bank failure in April?
+10211,2024,0.13,0,115518.14,Bitcoin all time high in April?
+10218,2024,0.209984,0,624430.27,Will a Democrat win Texas US Senate Election?
+10219,2024,0.9,1,241087.97,Will a Democrat win Maryland US Senate Election?
+10218,2024,0.001,0,562885.52,Will a candidate from another party win Texas US Senate Election?
+10218,2024,0.8,1,371151.67,Will a Republican win Texas US Senate Election?
+10219,2024,0.09,0,311778.39,Will a Republican win Maryland US Senate Election?
+10219,2024,0.001,0,248786.97,Will a candidate from another party win Maryland US Senate Election?
+10178,2024,0.077837,0,168686.38,"Will Bitcoin reach $75,000 in April?"
+10226,2024,0.021052,0,51827.92,Will ENA hit $2 in April?
+10229,2024,0.7,0,56475.66,Will David Trone win Maryland US Senate Democratic Primary?
+10229,2024,0.33,1,63087.69,Will Angela Alsobrooks win Maryland US Senate Democratic Primary?
+10225,2024,0.002,0,659293.83,Ethena USDe flips USDC market cap in 2024?
+10231,2024,0.08,0,312748.69,Will a Democrat win Florida US Senate Election?
+10232,2024,0.021,0,56802.93,Will a Republican win California US Senate Election?
+10231,2024,0.91,1,297222.15,Will a Republican win Florida US Senate Election?
+10233,2024,0.98,1,135837.72,Will two members of The Squad lose their primaries?
+10239,2024,0.05,0,205741.15,Will Trump mention $boden before July?
+10241,2024,0.002,0,1212360.59,Will a Democrat win Nebraska US Senate Election?
+10241,2024,0.237238,0,679299.26,Will a candidate from another party win Nebraska US Senate Election?
+10242,2024,0.96,1,68619.19,Will a Democrat win Minnesota US Senate Election?
+10241,2024,0.754,1,580010.74,Will a Republican win Nebraska US Senate Election?
+10242,2024,0.039,0,75975.73,Will a Republican win Minnesota US Senate Election?
+10243,2024,0.036,0,77603.24,Will a Democrat win Missouri US Senate Election?
+10242,2024,0.003,0,186047.6,Will a candidate from another party win Minnesota US Senate Election?
+10243,2024,0.97,1,51549.04,Will a Republican win Missouri US Senate Election?
+10245,2024,0.003,0,69019.4,Will a Democrat win Mississippi US Senate Election?
+10245,2024,0.97,1,79247.02,Will a Republican win Mississippi US Senate Election?
+10244,2024,0.008,0,57229.69,Will a candidate from another party win Tennessee US Senate Election?
+10243,2024,0.002,0,115067.48,Will a candidate from another party win Missouri US Senate Election?
+10249,2024,0.939998,1,57687.97,Will a Democrat win Virginia US Senate Election?
+10249,2024,0.05,0,71515.84,Will a Republican win Virginia US Senate Election?
+10247,2024,0.007,0,66394.1,Will a candidate from another party win West Virginia US Senate Election?
+10245,2024,0.006,0,136274.05,Will a candidate from another party win Mississippi US Senate Election?
+10250,2024,0.009,0,86696.45,Will a candidate from another party win Delaware US Senate Election?
+10249,2024,0.006,0,64601.88,Will a candidate from another party win Virginia US Senate Election?
+10251,2024,0.91,1,130387.47,Will a Democrat win New Jersey US Senate Election?
+10251,2024,0.07,0,211102.26,Will a Republican win New Jersey US Senate Election?
+10251,2024,0.001,0,106697.55,Will a candidate from another party win New Jersey US Senate Election?
+10253,2024,0.030595,0,100506.15,Will a Republican win New York US Senate Election?
+10253,2024,0.003,0,90745.39,Will a candidate from another party win New York US Senate Election?
+10254,2024,0.013,0,63047.76,Will a Republican win Connecticut US Senate Election?
+10254,2024,0.982,1,70674.34,Will a Democrat win Connecticut US Senate Election?
+10253,2024,0.977,1,80896.68,Will a Democrat win New York US Senate Election?
+10257,2024,0.972999,1,160834.46,Will a Democrat win Massachusetts US Senate Election?
+10257,2024,0.005,0,327358.53,Will a candidate from another party win Massachusetts US Senate Election?
+10257,2024,0.032,0,243030.23,Will a Republican win Massachusetts US Senate Election?
+10258,2024,0.01,0,92882.4,Will a candidate from another party win Vermont US Senate Election?
+10260,2024,0.001,0,138199.09,Will a candidate from another party win Maine US Senate Election?
+10260,2024,0.975986,1,113077.77,Will a Democrat win Maine US Senate Election?
+10261,2024,0.988,1,51357.78,Will a Democrat win Hawaii US Senate Election?
+10268,2024,0.23,0,76625.6,Will Cori Bush win the MO-1 Democratic House Primary?
+10269,2024,0.005,0,67415.25,Will Sarah Gad win the MN-5 Democratic House District?
+10269,2024,0.96,1,408581.76,Will Ilhan Omar win the MN-5 Democratic House Primary?
+10269,2024,0.005,0,57543.3,Will Tim Peterson win the MN-5 Democratic House District?
+10262,2024,0.005,0,875848.14,U.S. Recession in 2024?
+10269,2024,0.002,0,60294.65,Will another candidate win the MN-5 Democratic House District?
+10269,2024,0.039,0,463464.31,Will Don Samuels win the MN-5 Democratic House District?
+10303,2024,0.849999,0,205623.84,Indian Election: Will BJP win a majority of seats?
+10314,2024,0.025,0,50273.46,"VanEck tweet ""retardio"" in April?"
+10316,2024,0.05,0,63628.97,Will April 2024 show an increase between 1.14°C-1.19°C?
+903452,2024,0.003,0,50973.54,Argent airdrop by June 30?
+903452,2024,0.001,0,113799.29,MetaMask airdrop by June 30?
+10310,2024,0.51,0,255812.76,Trump vs. Boden: First to 1B
+10316,2024,0.2,1,97500.57,Will April 2024 show an increase of greater than 1.31°C?
+10316,2024,0.332682,0,98020.36,Will April 2024 show an increase between 1.20°C-1.25°C?
+10343,2024,0.89,1,338528.21,Trump flips a 2020 Biden state?
+10342,2024,0.29,0,1064673.51,Kamala flips a 2020 Trump state?
+10351,2024,0.02,0,116621.04,Iran Nuke by July 31?
+10362,2024,0.005,0,216211.3,Will 'Deadpool & Wolverine' gross less than $110m opening weekend?
+10362,2024,0.05,0,251892.0,Will 'Deadpool & Wolverine' gross between $110m and $130m opening weekend?
+10362,2024,0.063,0,95844.19,Will 'Deadpool & Wolverine' gross between $130m and $150m opening weekend?
+10362,2024,0.23,0,75808.29,Will 'Deadpool & Wolverine' gross between $150m and $170m opening weekend?
+10362,2024,0.557554,1,260203.18,Will 'Deadpool & Wolverine' gross more than $170m opening weekend?
+10363,2024,0.8986,1,95776.98,Florida Panthers win the 2024 Stanley Cup?
+10363,2024,0.11,0,106952.47,Edmonton Oilers win the 2024 Stanley Cup?
+10369,2024,0.65,0,65704.19,Bucks vs. Pacers Series Winner
+10374,2024,0.012,0,72838.87,$DJT market cap less than $1b on April 30?
+10374,2024,0.07,0,51316.33,$DJT market cap between $2b and $3b on April 30?
+10397,2024,0.017,0,203963.08,Mike Johnson out as Speaker before June?
+10382,2024,0.994,1,93875.0,Will a Democrat win Washington DC Presidential Election?
+10382,2024,0.004,0,73030.34,Will a Republican win Washington DC Presidential Election?
+10407,2024,0.16,0,111205.5,Will the NDA win 300-325 seats?
+10407,2024,0.24,1,134649.62,Will the NDA win less than 300 seats?
+10407,2024,0.21,0,126459.58,Will the NDA win 326-350 seats?
+10407,2024,0.25,0,72067.53,Will the NDA win 351-375 seats?
+10407,2024,0.19,0,66383.03,Will the NDA win 376-400 seats?
+10407,2024,0.15,0,79905.03,Will the NDA win more than 400 seats?
+10410,2024,0.001214,0,54972.77,Taylor Swift #1 album for 7 weeks?
+10410,2024,0.012667,0,53505.92,Taylor Swift #1 album for 9 weeks?
+10373,2024,0.08,0,869286.72,Kamala Harris wins a solid red state?
+10410,2024,0.97,1,97393.49,Taylor Swift #1 album for 10 or more weeks?
+10428,2024,0.83,0,54510.62,Will Manchester City win the FA Cup?
+10428,2024,0.18,1,50892.89,Will Manchester United win the FA Cup?
+10442,2024,0.02,0,60338.29,US bank failure by June 30?
+10443,2024,0.013,0,140097.3,Will Trump be Speaker by July 1?
+10459,2024,0.005,0,57027.93,Will $MFER hit $1 Billion FDV before June?
+10451,2024,0.018,0,133184.53,Israel and Saudi Arabia normalize relations before U.S. election?
+10435,2024,0.023,0,362061.36,Derivatives_Ape/Prometheus arrested this year?
+10469,2024,0.07,0,64104.89,Will Elon tweet 140-159 times?
+10471,2024,0.013001,0,108965.1,Unrealized gains tax passed before election day?
+10480,2024,0.055629,0,119283.43,Will Bitcoin dip below $55k before June?
+10472,2024,0.005001,0,59611.27,Capital gains tax increase before election day?
+10480,2024,0.008,0,62196.83,Will Bitcoin dip below $50k before June?
+10480,2024,0.004,0,89744.11,Will Bitcoin dip below $45k before June?
+10486,2024,0.65,1,122153.45,Will Nikki Haley endorse Trump before June?
+10467,2024,0.006,0,283212.14,TikTok banned in the US in 2024?
+10483,2024,0.003,0,1492300.33,Fed rate hike in 2024?
+10520,2024,0.49,1,54952.75,"Bitcoin above $60,000 on May 10?"
+10525,2024,0.993,1,69468.15,"Will Bitcoin reach $70,000 in May?"
+10525,2024,0.18,0,139630.83,"Will Bitcoin reach $75,000 in May?"
+10525,2024,0.042,0,57494.92,"Will Bitcoin reach $80,000 in May?"
+10535,2024,0.005,0,571695.35,Fed decreases interest rates by 50+ bps after June 2024 meeting?
+10535,2024,0.022,0,602846.11,Fed decreases interest rates by 25 bps after June 2024 meeting?
+10535,2024,0.007,0,582731.69,Fed increases interest rates by 25+ bps after June 2024 meeting?
+10535,2024,0.975,1,530059.99,No change in Fed interest rates after 2024 June meeting?
+10552,2024,0.985,1,190128.48,2024 May hottest on record?
+10554,2024,0.11,1,71094.81,Timberwolves vs. Nuggets Series Winner
+903452,2024,0.999,1,77550.05,Azuro airdrop by June 30?
+10558,2024,0.001,0,711044.75,Will there be more than 25 named storms during Atlantic Hurricane Season?
+10558,2024,0.002,0,549051.36,Will there be between 21 and 25 named storms during Atlantic Hurricane Season?
+10558,2024,0.997,1,364337.61,Will there be between 16 and 20 named storms during Atlantic Hurricane Season?
+10572,2024,0.008366,0,61761.28,Drake or Kendrick higher on Billboard Hot 100 this week?
+10561,2024,0.76,0,70964.14,Knicks vs. Pacers Series Winner
+10586,2024,0.985,1,83853.33,Will Gitanas Nauseda win the 2024 Lithuanian presidential election?
+10588,2024,0.031,0,1887165.57,Will Tulsi Gabbard win the 2024 Republican VP nomination?
+10588,2024,0.017,0,1802365.77,Will Michael Flynn win the 2024 Republican VP nomination?
+10588,2024,0.003,0,820516.73,Will Tom Cotton win the 2024 Republican VP nomination?
+10588,2024,0.002,0,650022.37,Will Devin Nunes win the 2024 Republican VP nomination?
+10588,2024,0.001,0,459223.76,Will John Ratcliffe win the 2024 Republican VP nomination?
+10588,2024,0.001,0,451533.35,Will Joni Ernst win the 2024 Republican VP nomination?
+10588,2024,0.001,0,655170.59,Will Greg Abbott win the 2024 Republican VP nomination?
+10588,2024,0.079,0,1827864.59,Will Glenn Youngkin win the 2024 Republican VP nomination?
+10588,2024,0.001,0,486756.27,Will Marsha Blackburn win the 2024 Republican VP nomination?
+10588,2024,0.001,0,387492.8,Will Mike Lee win the 2024 Republican VP nomination?
+10588,2024,0.001,0,378435.48,Will Bill Lee win the 2024 Republican VP nomination?
+10586,2024,0.001,0,122708.28,Will another candidate win the 2024 Lithuanian presidential election?
+10588,2024,0.559756,1,140006.88,Will another candidate win the 2024 Republican VP nomination?
+10588,2024,0.002,0,407851.6,Will Michael Waltz win the 2024 Republican VP nomination?
+10598,2024,0.004,0,59083.25,Will Ecolo win the most seats in the Belgian federal elections?
+10598,2024,0.005,0,94057.89,Will MR win the most seats in the Belgian federal elections?
+10598,2024,0.9,0,70561.55,Will VB win the most seats in the Belgian federal elections?
+10598,2024,0.004,0,84561.7,Will Groen win the most seats in the Belgian federal elections?
+10598,2024,0.004,0,72574.23,Will Open Vld win the most seats in the Belgian federal elections?
+10598,2024,0.004,0,110146.11,Will CD&V win the most seats in the Belgian federal elections?
+10598,2024,0.003053,0,98960.33,Will Vooruit win the most seats in the Belgian federal elections?
+10598,2024,0.004,0,73283.42,Will another party win the most seats in the Belgian federal elections?
+10600,2024,0.995,1,209495.32,Zelensky remains President of Ukraine through September?
+10601,2024,0.012,0,378868.1,RFK Jr. wins a state?
+10606,2024,0.004,0,54326.52,Will a candidate from another party win Delaware Governor Election?
+10602,2024,0.019,0,451455.94,Will RFK Jr. place second in any state?
+10608,2024,0.74,1,116808.44,Real Madrid vs. Dortmund: Champions League Final
+10619,2024,0.03,0,120473.21,Solana flips ETH in daily fees in May?
+10603,2024,0.004,0,530624.5,Will RFK Jr. debate Biden/Trump?
+10634,2024,0.006001,0,128471.01,Will May 2024 show an increase of less than 1.03C?
+10634,2024,0.018,0,142041.78,Will May 2024 show an increase between 1.03°C-1.09°C
+10634,2024,0.57,0,51230.02,Will May 2024 show an increase between 1.17°C-1.23°C
+10634,2024,0.04,0,89595.82,Will May 2024 show an increase greater than 1.30C?
+10634,2024,0.03,1,67420.7,Will May 2024 show an increase between 1.10°C-1.16°C
+10634,2024,0.34,0,77492.63,Will May 2024 show an increase between 1.24°C-1.30°C
+10664,2024,0.2,0,92327.73,Will Novak Djokovic win the 2024 French Open Men's Singles?
+10664,2024,0.23,0,67843.84,Will Jannik Sinner win the 2024 French Open Men's Singles?
+10664,2024,0.26,1,89148.55,Will Carlos Alcaraz win the 2024 French Open Men's Singles?
+10664,2024,0.1,0,86234.02,Will Alexander Zverev win the 2024 French Open Men's Singles?
+10664,2024,0.06,0,73616.13,Will Casper Ruud win the 2024 French Open Men's Singles?
+10664,2024,0.001,0,65944.51,Will Rafael Nadal win the 2024 French Open Men's Singles?
+10665,2024,0.94,1,134361.09,Trump + Biden debate on June 27 as planned?
+10670,2024,0.047,0,69023.46,Trump says boden in debate?
+10701,2024,0.022,0,139520.12,Biden takes drug test before Trump debate?
+10673,2024,0.033,0,585457.0,Did Keith Gill (RoaringKitty) sell his X account?
+10696,2024,0.035917,0,137194.99,Will Russia capture Chasiv Yar before October?
+10705,2024,0.018,0,732531.83,Netanyahu out by October 31?
+10710,2024,0.084706,0,51715.02,ICC issues an arrest warrant for Netanyahu?
+10716,2024,0.993,1,61043.54,Eastern Conference Finals: Celtics vs. Pacers
+10715,2024,0.06,0,119620.74,Western Conference Finals: Timberwolves vs. Mavericks
+10717,2024,0.08,0,321803.19,Will Republicans have 50 seats in Senate after election?
+10717,2024,0.109995,0,1537159.78,Will Republicans have 49 or fewer seats in Senate after election?
+10717,2024,0.15,0,271918.96,Will Republicans have 51 seats in Senate after election?
+10717,2024,0.259991,0,760865.14,Will Republicans have 52 seats in Senate after election?
+10719,2024,0.001,0,75406.2,Will Saeed Jalili be the next President of Iran?
+10725,2024,0.1,0,215440.96,Ethereum all time high in May?
+10717,2024,0.089996,1,1285723.48,Will Republicans have 53 seats in Senate after election?
+10717,2024,0.148994,0,1046717.85,Will Republicans have 54 seats in Senate after election?
+10740,2024,0.016047,0,177517.85,Will Rishi Sunak be next UK prime minister?
+10740,2024,0.983,1,295470.71,Will Keir Starmer be next UK prime minister?
+10740,2024,0.001,0,168878.02,Will Priti Patel be next UK prime minister?
+10740,2024,0.001,0,174546.97,Will Penny Mordaunt be next UK prime minister?
+10740,2024,0.001,0,187927.37,Will Grant Shapps be next UK prime minister?
+10740,2024,0.001,0,137462.77,Will Robert Jenrick be next UK prime minister?
+10740,2024,0.001,0,138971.32,Will Kemi Badenoch be next UK prime minister?
+10740,2024,0.001,0,147509.12,Will Tom Tugendhat be next UK prime minister?
+10731,2024,0.018,0,197822.43,Will Milady flip BAYC in 2024?
+10740,2024,0.001,0,218153.84,Will Boris Johnson be next UK prime minister?
+10740,2024,0.001,0,237294.96,Will Suella Braverman be next UK prime minister?
+10740,2024,0.001,0,176795.4,Will Jeremy Hunt be next UK prime minister?
+10740,2024,0.007,0,132572.79,Will another person be next UK prime minister?
+10740,2024,0.001,0,204562.31,Will James Cleverly be next UK prime minister?
+10755,2024,0.021,0,53620.85,Will Conservative Party win 200+ seats in the next UK Election?
+10755,2024,0.82,1,79377.52,Will Conservative Party win less than 125 seats in the next UK Election?
+10748,2024,0.009,0,1086680.76,Bird flu pandemic in 2024?
+10766,2024,0.005,0,315612.94,Ceasefire between Russia and Ukraine before October?
+10796,2024,0.039,0,65694.23,Celeb charged with pumping memecoin before July?
+10778,2024,0.024975,0,252492.69,"Will Trump say ""mog"" in 2024?"
+10784,2024,0.38,0,352823.44,NVIDIA largest company before June 15?
+10798,2024,0.049779,0,1345780.16,Will Israel invade Lebanon before September?
+10785,2024,0.77,0,529779.05,Ethereum ETF begins trading by July 4?
+10799,2024,0.07,0,972382.17,Israel x Hamas ceasefire before September?
+10803,2024,0.97,1,52709.44,Yahya Sinwar still Hamas leader before September?
+10810,2024,0.025,0,83468.75,Will Trump mention $MAGA before Election?
+10824,2024,0.18,0,114492.79,Solana flips ETH in daily fees in June?
+10827,2024,0.01,0,711453.46,Trump sentenced to prison in NY case before election?
+10828,2024,0.009,0,113246.98,Trump conviction overturned before election?
+10836,2024,0.7,1,68965.02,Jaylen Brown 2024 NBA Finals MVP?
+10831,2024,0.49,0,138756.7,Trump sentenced to probation?
+10831,2024,0.06,0,234499.58,Trump fined over $1m?
+10842,2024,0.08,0,684733.29,Trump sentenced to 48 or more months prison time?
+10844,2024,0.04,0,55824.48,Israel withdraws from Gaza before September?
+10847,2024,0.022,0,57452.74,"Will Bitcoin reach $80,000 in June?"
+10847,2024,0.02,0,109252.01,"Will Bitcoin reach $75,000 in June?"
+10848,2024,0.03,0,106618.01,Ethereum all time high in June?
+10855,2024,0.001,0,334966.99,Will Germany win the 2024 Euros?
+10855,2024,0.26,0,468556.61,Will France win the 2024 Euros?
+10855,2024,0.27,0,1029758.49,Will England win the 2024 Euros?
+10855,2024,0.001,0,227209.95,Will Portugal win the 2024 Euros?
+10855,2024,0.001,0,178341.69,Will Belgium win the 2024 Euros?
+10855,2024,0.163074,0,452885.35,Will the Netherlands win the 2024 Euros?
+10855,2024,0.001,0,307188.89,Will Switzerland win the 2024 Euros?
+10855,2024,0.002,0,220472.42,Will Austria win the 2024 Euros?
+10855,2024,0.33,1,1318412.12,Will Spain win the 2024 Euros?
+10855,2024,0.001,0,293537.51,Will another team win the 2024 Euros?
+10855,2024,0.001,0,397784.67,Will Turkey win the 2024 Euros?
+10857,2024,0.001,0,426456.69,Will Javier Bertucci Win the 2024 Venezuela presidential election?
+10857,2024,0.001,0,858714.83,Will Antonio Ecarri Angola Win the 2024 Venezuela presidential election?
+10857,2024,0.002,0,537980.83,Will another candidate Win the 2024 Venezuela presidential election?
+10831,2024,0.66,0,128852.28,Trump fined over $100k?
+10862,2024,0.01,0,217074.19,Roaring Kitty charged in 2024?
+10880,2024,0.010882,0,81027.29,Hunter Biden sentenced to prison before election?
+10881,2024,0.011,0,71906.53,Hunter Biden in jail before election day?
+10885,2024,0.938035,1,326337.44,Will Nigel Farage win election to UK parliament?
+10899,2024,0.71,1,52488.64,Elon Musk's $56bn Tesla pay package approved?
+10897,2024,0.35,0,148600.32,Trump and Biden shake hands at first debate?
+10909,2024,0.012953,0,61169.06,Will the Celtics win the 2024 NBA Finals 4-0?
+10919,2024,0.05,0,97627.81,Bitcoin all time high in June?
+10890,2024,0.84,1,888499.13,Trump gets more black voters than in 2020?
+10910,2024,0.005,0,86170.39,Roaring Kitty jail in 2024?
+10925,2024,0.006,0,122727.36,Trump ineligible to run for President?
+15437,2025,0.021,0,1401484.69,Will Biden pardon Ross Ulbricht?
+10946,2024,0.97,1,114342.46,2024 June hottest on record?
+10958,2024,0.03,0,60554.37,Roaring Kitty billionaire before July?
+10920,2024,0.69,1,304715.78,Will Trump win Miami?
+10999,2024,0.005,0,73860.45,Trump convicted of another felony before election?
+11001,2024,0.015,0,116266.21,Trump conviction declared a mistrial?
+11012,2024,0.027,0,58838.34,North Korea x South Korea military clash in June?
+11020,2024,0.44,0,68734.35,Will Stancil wins Minnesota House Democratic Primary?
+11022,2024,0.06,0,82951.01,Next Israel x Hamas ceasefire in August?
+11022,2024,0.019709,0,100482.37,Next Israel x Hamas ceasefire in September?
+10998,2024,0.012,0,156729.94,Next Ethereum hard fork live by end of 2024?
+11022,2024,0.035,0,122919.97,Next Israel x Hamas ceasefire in October?
+11022,2024,0.007,0,136123.34,Next Israel x Hamas ceasefire in November?
+11022,2024,0.086,0,432308.62,Next Israel x Hamas ceasefire in December?
+11024,2024,0.21,0,81654.21,Liberal Democrats win the second most seats in next UK election?
+11022,2025,0.93,1,617817.71,No Israel x Hamas ceasefire in 2024?
+11024,2024,0.69,1,185828.82,Conservatives win the second most seats in next UK election?
+11024,2024,0.05,0,185284.93,Reform wins the second most seats in next UK election?
+11025,2024,0.003205,0,77065.35,ChatGPT integration with iPhone before October?
+11028,2024,0.01,0,99896.5,Elon Musk bans Apple devices at his companies?
+11029,2024,0.026256,0,420124.69,$BTC dips below $50k before August?
+11024,2024,0.001,0,72733.58,Labour wins the second most seats in next UK election?
+11034,2024,0.967,1,522450.49,Will National Rally win the most seats in the National Assembly?
+11029,2024,0.006,0,231253.65,$BTC dips below $45k before August?
+11034,2024,0.006,0,96066.56,Will Renaissance win the most seats in the National Assembly?
+11034,2024,0.002,0,61154.55,Will The Republicans win the most seats in the National Assembly?
+11034,2024,0.009555,0,58941.52,Will La France Insoumise win the most seats in the National Assembly?
+11034,2024,0.001,0,137287.92,Will another party win the most seats in the National Assembly?
+11043,2024,0.36,0,85142.32,National Rally coalition wins majority of seats in French Election?
+11044,2024,0.037076,0,175914.14,Canada wins Copa America 2024?
+11044,2024,0.22,0,237863.88,Colombia wins Copa America 2024?
+11044,2024,0.53,1,235586.26,Argentina wins Copa America 2024?
+11056,2024,0.98,1,53045.97,Boebert wins Colorado-4 Republican Primary?
+11069,2024,0.022,0,72476.78,Will June 2024 have a temperature increase of less than 1.09°C?
+11069,2024,0.94,0,67838.33,Will June 2024 have a temperature increase of between 1.09°C and 1.15°C?
+11074,2024,0.957,1,517320.23,No change in Fed interest rates after 2024 July meeting?
+11074,2024,0.05,0,884827.58,Fed decreases interest rates by 25 bps after July 2024 meeting?
+11074,2024,0.014,0,637520.07,Fed decreases interest rates by 50+ bps after July 2024 meeting?
+11095,2024,0.003,0,104371.4,Mike Johnson out as Speaker before Election?
+11098,2024,0.8,1,50932.38,Will Germany win Group A?
+11074,2024,0.001,0,752276.2,Fed increases interest rates by 25+ bps after July 2024 meeting?
+11109,2024,0.002,0,277606.84,Will TRUMP reach $1b first?
+11109,2024,0.001,0,58576.72,Will MAGA reach $1b first?
+11109,2024,0.002,0,604862.23,Will TREMP reach $1b first?
+11112,2024,0.08,0,79411.32,"Will ETH dip below $3,000 in June?"
+11109,2024,0.98,1,61240.86,No Trump coin reaches $1b?
+11138,2024,0.1,0,69055.9,Will Jude Bellingham be Euro 2024 top scorer?
+11126,2024,0.004,0,64161.94,Ryan Selkis arrested in 2024?
+11109,2024,0.003,0,403927.69,Will another Trump coin be first to reach $1b?
+11138,2024,0.33,1,166788.6,Will Cody Gakpo be Euro 2024 top scorer?
+11151,2024,0.117588,0,54241.16,Biden stumbles during debate?
+11153,2024,0.4,1,72325.45,Biden closes eyes for 3+ seconds during the debate?
+11152,2024,0.16,1,550532.64,Biden senile during the debate?
+11169,2024,0.009,0,111239.3,Martin Shkreli jail in 2024?
+11195,2024,0.32,0,96366.97,Faithless elector in US election?
+11202,2024,0.234516,0,156127.16,Will the election be called on Nov 5?
+11209,2024,0.17,0,68666.83,Will London Breed win the San Francisco Mayoral Election?
+11209,2024,0.15,0,133122.5,Will Mark Farrell win the San Francisco Mayoral Election?
+11209,2024,0.59,1,110209.54,Will Daniel Lurie win the San Francisco Mayoral Election?
+11209,2024,0.085,0,121947.83,Will Aaron Peskin win the San Francisco Mayoral Election?
+11209,2024,0.002,0,992452.23,Will Ahsha Safai win the San Francisco Mayoral Election?
+11209,2024,0.002,0,259139.93,Will another candidate win the San Francisco Mayoral Election?
+11232,2024,0.014,0,57947.96,Israel parliament dissolves in 2024?
+11231,2024,0.13,1,110153.4,Will NFP win the most seats in the French election?
+11231,2024,0.87,0,150481.39,Will RN/UXD win the most seats in the French election?
+11231,2024,0.015,0,99587.59,Will ENS win the most seats in the French election?
+11233,2024,0.007,0,336293.77,Biden campaign accepts crypto donations before August?
+11260,2024,0.07,0,68146.58,Barron Trump talks about $DJT by Friday?
+11265,2024,0.008,0,178541.31,Rainbow airdrop by September 30?
+11265,2024,0.016,0,126957.72,Astaria airdrop by September 30?
+11265,2024,0.004,0,103505.5,Puffer airdrop by September 30?
+11265,2024,0.05,0,306662.03,Aleo airdrop by September 30?
+11265,2024,0.02,0,54601.03,Jumper airdrop by September 30?
+11265,2024,0.021,0,55553.84,pump.fun airdrop by September 30?
+11265,2024,0.11999,0,109784.05,Zircuit airdrop by September 30?
+11265,2024,0.01,0,62600.78,Rabby airdrop by September 30?
+11265,2024,0.17,0,244247.39,Swell airdrop by September 30?
+11290,2024,0.00102,0,96281.04,Will Trump + Biden 2nd debate happen as scheduled?
+11265,2024,0.002005,0,326463.93,MetaMask airdrop by September 30?
+11265,2024,0.002705,0,303960.26,Base airdrop by September 30?
+11301,2024,0.001,0,565085.42,DNC open convention?
+11314,2024,0.001552,0,174581.73,Will Gavin Newsom announce presidential run before DNC?
+11265,2024,0.79,1,1508246.36,Eigenlayer airdrop by September 30?
+11314,2024,0.001,0,1156705.11,Will Hillary Clinton announce presidential run before DNC?
+11314,2024,0.001,0,113951.66,Will Gretchen Whitmer announce presidential run before DNC?
+11314,2024,0.001,0,94087.67,Will J. B. Pritzker announce presidential run before DNC?
+11317,2024,0.004,0,304305.94,Trump x Biden golf announced before August?
+11314,2024,0.001,0,77859.97,Will Josh Shapiro announce presidential run before DNC?
+11336,2024,0.008,0,307328.01,Will Trump be Speaker by August 1?
+11337,2024,0.001,0,326885.46,Will Trump be president by September 1?
+11341,2024,0.948,1,1063872.68,Ethereum ETF begins trading by July 26?
+11343,2024,0.044,0,121125.6,US bank failure before September?
+11342,2024,0.001,0,1413633.24,Biden nominated before Democratic convention?
+11344,2024,0.01,0,85687.5,Will Biden go on the All-In Podcast?
+11346,2024,0.009291,0,63694.57,Jill Biden charged with elder abuse?
+11345,2024,0.049,0,67304.9,NVIDIA largest company in July?
+11348,2024,0.01,0,53804.04,Garland releases Biden-Hur tape by August 31?
+11351,2024,0.013,0,190438.04,Will $BTC reach 80k in July?
+11353,2024,0.035,0,58926.73,Will $ETH reach 4.3k in July?
+11353,2024,0.32,0,164556.4,Will $ETH reach 3.7k in July?
+11351,2024,0.04,0,595220.28,Will $BTC reach 75k in July?
+11359,2024,0.28,1,103409.65,Will Carlos Alcaraz win Wimbledon Men's?
+11359,2024,0.173723,0,116506.31,Will Novak Djokovic win Wimbledon Men's?
+11356,2024,0.06,0,1170186.52,Biden nominated by July 21?
+11367,2024,0.004001,0,130640.5,Biden court packing?
+11351,2024,0.34,1,726109.15,Will $BTC reach 70k in July?
+11403,2024,0.04,0,68469.59,Andrew Tate flee the EU?
+11402,2024,0.007,0,1587440.55,Biden removed via 25th Amendment?
+11426,2024,0.11,1,69924.06,Solana flips ETH in daily fees in July?
+15437,2025,0.021,0,1401484.69,Will Biden pardon Ross Ulbricht?
+11022,2025,0.93,1,617817.71,No Israel x Hamas ceasefire in 2024?
+11933,2025,0.07,0,164302.01,Will the Falcons win the NFC South?
+11933,2025,0.92,1,194347.5,Will the Buccaneers win the NFC South?
+11934,2025,0.43,0,74770.23,Will the Vikings win the NFC North?
+11935,2025,0.001458,0,176110.01,Will the Seattle Seahawks win the NFC West
+11934,2025,0.53,1,76334.34,Will the Lions win the NFC North?
+11935,2025,0.998002,1,120987.08,Will the Los Angeles Rams win the NFC West?
+11936,2025,0.001913,0,68855.63,Will the Washington Commanders win the NFC East?
+11936,2025,0.997514,1,187188.83,Will the Philadelphia Eagles win the NFC East?
+11941,2025,0.021,0,65884.32,Will the Pittsburgh Steelers win the AFC North?
+11941,2025,0.969,1,95450.87,Will the Baltimore Ravens win the AFC North?
+11980,2025,0.001,0,198903.64,Will CeeDee Lamb be the top Fantasy Wide Reciever?
+11979,2025,0.001,0,158003.39,Will Jalen Hurts be the top Fantasy Quarterback?
+11979,2025,0.001,0,706347.43,Will Anthony Richardson be the top Fantasy Quarterback?
+11979,2025,0.001,0,641459.93,Will C.J. Stroud be the top Fantasy Quarterback?
+11979,2025,0.997,1,93103.69,Will Lamar Jackson be the top Fantasy Quarterback?
+11979,2025,0.001,0,263912.75,Will Kyler Murray be the top Fantasy Quarterback?
+11979,2025,0.002,0,633222.41,Will Jordan Love be the top Fantasy Quarterback?
+11979,2025,0.001,0,139229.94,Will Caleb Williams be the top Fantasy Quarterback?
+11979,2025,0.001,0,311568.53,Will another player be the top Fantasy Quarterback?
+11980,2025,0.001,0,275844.75,Will Amon-Ra St. Brown be the top Fantasy Wide Receiver?
+11980,2025,0.987,1,170162.2,Will Ja’Marr Chase be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,90838.17,Will Justin Jefferson be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,775376.9,Will A.J. Brown be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,144531.47,Will Puka Nacua be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,61197.73,Will Chris Olave be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,1378377.45,Will Drake London be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,863266.72,Will Michael Pittman Jr. be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,71648.65,Will Brandon Aiyuk be the top Fantasy Wide Receiver?
+11980,2025,0.001,0,1145692.08,Will Nico Collins be the top Fantasy Wide Receiver?
+11997,2025,0.001,0,212363.94,Will Christian McCaffrey be the top Fantasy Running Back?
+11997,2025,0.003,0,100850.23,Will Breece Hall be the top Fantasy Running Back?
+11997,2025,0.002,0,872327.94,Will Jonathan Taylor be the top Fantasy Running Back?
+11997,2025,0.002,1,99734.11,Will Jahmyr Gibbs be the top Fantasy Running Back?
+11997,2025,0.002,0,170348.94,Will Bijan Robinson be the top Fantasy Running Back?
+11997,2025,0.002,0,234520.45,Will Derrick Henry be the top Fantasy Running Back?
+11997,2025,0.978,0,129351.15,Will Saquon Barkley be the top Fantasy Running Back?
+11997,2025,0.001,0,81535.26,Will Kyren Williams be the top Fantasy Running Back?
+11997,2025,0.002,0,1461939.91,Will Isiah Pacheco be the top Fantasy Running Back?
+11997,2025,0.002,0,298499.07,Will De’Von Achane be the top Fantasy Running Back?
+11997,2025,0.002,0,101537.69,Will Josh Jacobs be the top Fantasy Running Back?
+11997,2025,0.001,0,152004.02,Will Alvin Kamara be the top Fantasy Running Back?
+11997,2025,0.001,0,112184.2,Will another player be the top Fantasy Running Back?
+12007,2025,0.001,0,201661.2,Will Mark Andrews be the top Fantasy Tight End?
+12007,2025,0.00239,0,296732.81,Will Sam LaPorta be the top Fantasy Tight End?
+12007,2025,0.001335,0,74562.79,Will Evan Engram be the top Fantasy Tight End?
+12007,2025,0.002,0,202037.71,Will Kyle Pitts be the top Fantasy Tight End?
+12008,2025,0.001,0,152414.01,Will Christian McCaffrey be the top Fantasy Flex Player?
+12008,2025,0.001,0,102543.88,Will CeeDee Lamb be the top Fantasy Flex Player?
+12008,2025,0.002,0,353613.8,Will Jahmyr Gibbs be the top Fantasy Flex Player?
+12008,2025,0.00212,0,513387.55,Will Amon-Ra St. Brown be the top Fantasy Flex Player?
+12008,2025,0.001594,0,230736.8,Will Breece Hall be the top Fantasy Flex Player?
+12008,2025,0.964078,1,208739.59,Will Ja’Marr Chase be the top Fantasy Flex Player?
+12008,2025,0.001,0,242982.33,Will Bijan Robinson be the top Fantasy Flex Player?
+12008,2025,0.001,0,205116.95,Will Justin Jefferson be the top Fantasy Flex Player?
+12008,2025,0.001,0,665202.42,Will A.J. Brown be the top Fantasy Flex Player?
+12008,2025,0.001,0,1564934.95,Will Puka Nacua be the top Fantasy Flex Player?
+12008,2025,0.003,0,1516987.0,Will Jonathan Taylor be the top Fantasy Flex Player?
+12008,2025,0.002,0,83215.44,Will Saquon Barkley be the top Fantasy Flex Player?
+12008,2025,0.001,0,264633.05,Will another player be the top Fantasy Flex Player?
+12008,2025,0.006,0,316950.43,Will Derrick Henry be the top Fantasy Flex Player?
+12027,2025,0.001,0,647698.44,Will Texas win the 2025 College Football Playoff?
+12027,2025,0.001,0,807973.68,Will Penn State win the 2025 College Football Playoff?
+12027,2025,0.222,0,1247609.8,Will Notre Dame win the 2025 College Football Playoff?
+12027,2025,0.001,0,758686.23,Will another team win the 2025 College Football Playoff?
+12168,2025,0.001,0,357423.16,Will Caleb Williams win NFL Offensive Rookie of the Year?
+12168,2025,0.004,0,372365.04,Will Bo Nix win NFL Offensive Rookie of the Year?
+12168,2025,0.001,0,1750150.75,Will Malik Nabers win NFL Offensive Rookie of the Year?
+12027,2025,0.78,1,1146213.45,Will Ohio State win the 2025 College Football Playoff?
+12168,2025,0.001553,0,626334.57,Will Xavier Worthy win NFL Offensive Rookie of the Year?
+12168,2025,0.993,1,569402.43,Will Jayden Daniels win NFL Offensive Rookie of the Year?
+12278,2025,0.256233,0,1392737.86,Will the Ravens win the AFC Championship?
+12278,2025,0.001,0,340701.67,Will the Broncos win the AFC Championship?
+12278,2025,0.24,0,416333.89,Will the Bills win the AFC Championship?
+12278,2025,0.001,0,325403.49,Will the Texans win the AFC Championship?
+12278,2025,0.5,1,1030952.08,Will the Chiefs win the AFC Championship?
+12279,2025,0.001,0,168229.82,Will the Packers win the NFC Championship?
+12279,2025,0.001,0,865630.02,Will the Lions win the NFC Championship?
+12279,2025,0.001,0,900204.37,Will the Vikings win the NFC Championship?
+12279,2025,0.001,0,830972.58,Will the Buccaneers win the NFC Championship?
+12279,2025,0.326,0,1625932.63,Will the Commanders win the NFC Championship?
+12279,2025,0.500017,1,929950.42,Will the Eagles win the NFC Championship?
+15437,2025,0.003,0,819434.54,Will Biden pardon Diddy?
+12756,2025,0.006727,0,577796.23,Will Erling Haaland be the top goalscorer in the EPL?
+12756,2025,0.998,1,483987.69,Will Mohamed Salah be the top goalscorer in the EPL?
+12756,2025,0.001,0,637660.42,Will Ollie Watkins be the top goalscorer in the EPL?
+12756,2025,0.002,0,327393.5,Will Alexander Isak be the top goalscorer in the EPL?
+12756,2025,0.001,0,451137.28,Will Heung-Min Son be the top goalscorer in the EPL?
+12756,2025,0.001,0,1678233.5,Will Julian Alvarez be the top goalscorer in the EPL?
+12756,2025,0.001,0,523943.19,Will Kai Havertz be the top goalscorer in the EPL?
+12756,2025,0.001,0,481673.85,Will Cole Palmer be the top goalscorer in the EPL?
+12756,2025,0.001,0,913711.22,Will Luis Diaz be the top goalscorer in the EPL?
+12756,2025,0.001,0,701692.22,Will Dominic Solanke be the top goalscorer in the EPL?
+12756,2025,0.001,0,543973.25,Will Bukayo Saka be the top goalscorer in the EPL?
+12756,2025,0.001,0,611784.23,Will Jamie Vardy be the top goalscorer in the EPL?
+12756,2025,0.001,0,448958.22,Will Diogo Jota be the top goalscorer in the EPL?
+12756,2025,0.001,0,952928.99,Will Nicolas Jackson be the top goalscorer in the EPL?
+12168,2025,0.001,0,1412882.51,Will Brock Bowers win NFL Offensive Rookie of the Year?
+12168,2025,0.002,0,482299.8,Will Brian Thomas Jr. win NFL Offensive Rookie of the Year?
+12817,2025,0.001,0,944907.2,Will Nikola Jokic win the 2024-25 NBA MVP?
+12817,2025,0.999,1,816937.75,Will Shai Gilgeous-Alexander win the 2024-25 NBA MVP?
+12817,2025,0.001,0,723079.63,Will Giannis Antetokounmpo win the 2024-25 NBA MVP?
+12831,2025,0.00103,0,180822.03,Will Athletic Bilbao win the UEFA Europa League?
+12831,2025,0.001,0,824543.74,Will Another team win the UEFA Europa League?
+12831,2025,0.551,0,523419.82,Will Manchester United win the UEFA Europa League?
+12831,2025,0.45,1,491589.02,Will Tottenham Hotspur win the UEFA Europa League?
+12851,2025,0.188656,0,94442.6,Will Aston Villa finish in the top 4 of EPL?
+12851,2025,0.73,0,246782.67,Will Newcastle United finish in the top 4 of EPL?
+12868,2025,0.013532,0,176019.53,OpenAI becomes a for-profit before April 2025?
+13290,2025,0.001,0,1249682.47,Will Luca Doncic lead the NBA in scoring?
+13290,2025,0.001,0,1584153.84,Will Giannis Antetokounmpo lead the NBA in scoring?
+13290,2025,0.001,0,1290162.01,Will Joel Embiid lead the NBA in scoring?
+13290,2025,0.001,0,987010.41,Will Trae Young lead the NBA in scoring?
+13290,2025,0.001,0,695170.16,Will Cam Thomas lead the NBA in scoring?
+13290,2025,0.001,0,852096.61,Will Stephen Curry lead the NBA in scoring?
+13290,2025,0.002,0,1417502.29,Will Nikola Jokic lead the NBA in scoring?
+13290,2025,0.001,0,854647.59,Will Jayson Tatum lead the NBA in scoring?
+13290,2025,0.001,0,920920.96,Will Donovan Mitchell lead the NBA in scoring?
+13290,2025,0.999,1,1538219.77,Will Shai Gilgeous-Alexander lead the NBA in scoring?
+13290,2025,0.001,0,1395736.08,Will LeBron James lead the NBA in scoring?
+13290,2025,0.001,0,840810.17,Will Devin Booker lead the NBA in scoring?
+13290,2025,0.001,0,1306827.94,Will Zion Williamson lead the NBA in scoring?
+13290,2025,0.001,0,770244.29,Will Kyrie Irving lead the NBA in scoring?
+13290,2025,0.001,0,633119.67,Will Kawhi Leonard lead the NBA in scoring?
+13290,2025,0.001,0,673319.96,Will DeMar DeRozan lead the NBA in scoring?
+13290,2025,0.001,0,1573351.39,Will Damian Lillard lead the NBA in scoring?
+13290,2025,0.001,0,1386908.51,Will Jalen Brunson lead the NBA in scoring?
+13290,2025,0.001,0,896614.35,Will Cade Cunningham lead the NBA in scoring?
+13290,2025,0.001,0,1173735.5,Will LaMelo Ball lead the NBA in scoring?
+13290,2025,0.001,0,753173.67,Will De’Aaron Fox lead the NBA in scoring?
+13290,2025,0.001,0,507921.2,Will Victor Wembanyama lead the NBA in scoring?
+13290,2025,0.001,0,1219154.02,Will Julius Randle lead the NBA in scoring?
+13290,2025,0.001,0,895850.59,Will Ja Morant lead the NBA in scoring?
+13290,2025,0.001,0,459173.4,Will Paolo Banchero lead the NBA in scoring?
+13290,2025,0.001,0,821482.52,Will Lauri Markkanen lead the NBA in scoring?
+13290,2025,0.001,0,1887621.21,Will Anfernee Simons lead the NBA in scoring?
+13290,2025,0.001,0,452452.99,Will another player lead the NBA in scoring?
+13299,2025,0.999,1,276473.92,Will Trae Young lead the NBA in Assists?
+13299,2025,0.001,0,907531.2,Will Tyrese Haliburton lead the NBA in Assists?
+13299,2025,0.001,0,654686.68,Will LaMelo Ball lead the NBA in Assists?
+13299,2025,0.001,0,1337228.69,Will Luka Doncic lead the NBA in Assists?
+13299,2025,0.001,0,806405.72,Will James Harden lead the NBA in Assists?
+13299,2025,0.001,0,1009768.53,Will LeBron James lead the NBA in Assists?
+13299,2025,0.001,0,742253.83,Will Chris Paul lead the NBA in Assists?
+13299,2025,0.001,0,1080253.91,Will Cade Cunningham lead the NBA in Assists?
+13299,2025,0.001,0,725610.14,Will Fred VanVleet lead the NBA in Assists?
+13299,2025,0.001,0,769789.4,Will Ja Morant lead the NBA in Assists?
+13299,2025,0.001,0,1937092.53,Will Domantas Sabonis lead the NBA in Assists?
+13299,2025,0.001,0,842434.74,Will Tyus Jones lead the NBA in Assists?
+13299,2025,0.00117,0,734508.3,Will Darius Garland lead the NBA in Assists?
+13299,2025,0.001,0,1087298.59,Will Josh Giddey lead the NBA in Assists?
+13299,2025,0.001,0,1002580.35,Will Immanuel Quickley lead the NBA in Assists?
+13299,2025,0.001,0,1736017.26,Will Draymond Green lead the NBA in Assists?
+13299,2025,0.001,0,1116671.03,Will Shai Gilgeous-Alexander lead the NBA in Assists?
+13299,2025,0.001,0,1502835.53,Will Alperen Sengun lead the NBA in Assists?
+13299,2025,0.001,0,433556.92,Will another player lead the NBA in Assists?
+13301,2025,0.001,0,459747.97,Will Rudy Gobert lead the NBA in Rebounds?
+13301,2025,0.001,0,398164.35,Will Victor Wembanyama lead the NBA in Rebounds?
+13301,2025,0.001,0,217596.97,Will Anthony Davis lead the NBA in Rebounds?
+13301,2025,0.001542,0,659524.56,Will Nikola Jokic lead the NBA in Rebounds?
+13301,2025,0.049,0,168711.6,Will Domantas Sabonis lead the NBA in Rebounds?
+13301,2025,0.001,0,570287.48,Will Giannis Antetokounmpo lead the NBA in Rebounds?
+13301,2025,0.001,0,925085.57,Will Clint Capela lead the NBA in Rebounds?
+13301,2025,0.001,0,325520.09,Will Jalen Duren lead the NBA in Rebounds?
+13301,2025,0.001,0,913989.27,Will Joel Embiid lead the NBA in Rebounds?
+13301,2025,0.001,0,422780.46,Will Deandre Ayton lead the NBA in Rebounds?
+13301,2025,0.001,0,383641.37,Will Jusuf Nurkic lead the NBA in Rebounds?
+13301,2025,0.001,0,263915.73,Will Jarrett Allen lead the NBA in Rebounds?
+13301,2025,0.001,0,284077.13,Will Nikola Vucevic lead the NBA in Rebounds?
+13301,2025,0.001,0,513173.63,Will Evan Mobley lead the NBA in Rebounds?
+13301,2025,0.001,0,518540.03,Will Karl-Anthony Towns lead the NBA in Rebounds?
+13301,2025,0.001,0,525934.13,Will Alperen Sengun lead the NBA in Rebounds?
+13301,2025,0.001,0,814913.38,Will Bam Adebayo lead the NBA in Rebounds?
+13301,2025,0.958,1,521165.96,Will another player lead the NBA in Rebounds?
+13321,2025,0.018,0,82118.08,Will TJ Watt win NFL Defensive Player of the Year?
+13321,2025,0.001,0,164475.35,Will Chris Jones win NFL Defensive Player of the Year?
+13321,2025,0.001,0,65741.65,Will Fred Warner win NFL Defensive Player of the Year?
+13321,2025,0.001,0,134597.05,Will Dexter Lawrence win NFL Defensive Player of the Year?
+13321,2025,0.001,0,129723.98,Will Will Anderson win NFL Defensive Player of the Year?
+13321,2025,0.001,0,50978.34,Will Danielle Hunter win NFL Defensive Player of the Year?
+13444,2025,0.3,0,1587525.82,Will Inter Milan win the Serie A?
+13444,2025,0.71,1,722336.02,Will Napoli win the Serie A?
+14196,2025,0.981214,1,233327.55,Will Kamala Harris attend presidential inauguration?
+13942,2025,0.013,0,349366.62,Trump declassifies UFO files in first 100 days?
+13706,2025,0.57,0,159747.74,East coast port strike in January?
+14034,2025,0.003,0,243223.26,Will Ron Paul be a member of the Trump administration?
+13789,2025,0.005,0,1368762.25,Will Trump pardon Hunter Biden?
+14034,2025,0.02,0,58494.23,Will Steve Bannon be a member of the Trump administration?
+14034,2025,0.003,0,334043.09,Will Vivek Ramaswamy be a member of the Trump administration?
+14034,2025,0.018636,0,201472.07,Will Donald Trump Jr. be a member of the Trump administration?
+14034,2025,0.001,0,759620.05,Will Mike Pompeo be a member of the Trump administration?
+14034,2025,0.003911,0,140698.85,Will Jared Kushner be a member of the Trump administration?
+14036,2025,0.003,0,296053.82,Elon Musk citizenship revoked before inauguration?
+14034,2025,0.999,1,581582.24,Will David Sacks be a member of the Trump administration?
+14162,2025,0.01,0,1413355.51,Trump signs national abortion ban?
+14178,2025,0.003,0,1312596.36,Will Trump pardon Hunter Biden in his first 100 days?
+14178,2025,0.005,0,1401581.28,Will Trump pardon Diddy in his first 100 days?
+14178,2025,0.008,0,115126.89,Will Trump pardon Young Thug in his first 100 days?
+14178,2025,0.002,0,1087166.82,Will Trump pardon himself in his first 100 days?
+14178,2025,0.007,0,805283.9,Will Trump pardon Steve Bannon in his first 100 days?
+14178,2025,0.009,0,1889163.96,Will Trump pardon Edward Snowden in his first 100 days?
+14178,2025,0.006,0,564823.14,Will Trump pardon Julian Assange in his first 100 days?
+14182,2025,0.006,0,1785059.61,Will Trump end Department of Education in first 100 days?
+14034,2025,0.003078,0,74183.26,Will Ron DeSantis be a member of the Trump administration?
+14034,2025,0.002,0,293922.82,Will Ivanka Trump be a member of the Trump administration?
+14034,2025,0.028428,0,93284.51,Will Ben Carson be a member of the Trump administration?
+14034,2025,0.001,0,448842.13,Will Nikki Haley be a member of the Trump administration?
+14193,2025,0.001,0,866539.53,Trump sentenced to prison in NY case before inauguration?
+14196,2025,0.964,1,219703.51,Will Barack Obama attend presidential inauguration?
+14196,2025,0.871,1,144481.74,Will Hillary Clinton attend presidential inauguration?
+14196,2025,0.955,1,105425.45,Will Bill Clinton attend presidential inauguration?
+14196,2025,0.96,1,71335.92,Will George W. Bush attend presidential inauguration?
+14196,2025,0.986,1,780831.53,Will Joe Biden attend presidential inauguration?
+14196,2025,0.76,0,152285.86,Will Nancy Pelosi attend presidential inauguration?
+14196,2025,0.64,1,77551.31,Will Rudy Giuliani attend presidential inauguration?
+14196,2025,0.69,0,291427.67,Will Michelle Obama attend presidential inauguration?
+14205,2025,0.001,0,1174801.62,Will Trump jail Hillary Clinton?
+14178,2025,0.007,0,993621.05,Will Trump pardon Eric Adams in his first 100 days?
+14218,2025,0.008103,0,414016.3,Will Trump remove Jerome Powell in first 100 days?
+14230,2025,0.002,0,482637.38,Sotomayor steps down from Supreme Court before inauguration?
+14229,2025,0.009,0,79492.9,Will the GOP use 'Nuclear Option' to break filibuster?
+14222,2025,0.84,1,380490.84,Trump deportation executive order on Day 1?
+14232,2025,0.024,0,802134.98,Hamas leadership out of Qatar before Trump in office?
+14260,2025,0.001,0,127348.19,Will Trump's hush money conviction be overturned?
+14271,2025,0.004,0,527587.82,Will Trump repeal Presidential term limits?
+14261,2025,0.011,0,401187.24,Trump declassifies Diddy list?
+14371,2025,0.006,0,114345.73,X and Truth Social merger announced before August?
+14375,2025,0.035,0,448725.12,Trump Admin recommends removing fluoride from water by April 29?
+14380,2025,0.110091,0,56770.26,Will the Miami Dolphins make the 2024-25 NFL Playoffs?
+14380,2025,0.056,0,203105.17,Will the Cincinnati Bengals make the 2024-25 NFL Playoffs?
+14380,2025,0.909975,1,110811.91,Will the Tampa Bay Buccaneers make the 2024-25 NFL Playoffs?
+14380,2025,0.86,1,108345.34,Will the Denver Broncos make the 2024-25 NFL Playoffs?
+12851,2025,0.29,1,106490.03,Will Chelsea finish in the top 4 of the EPL?
+12851,2025,0.748286,1,305336.48,Will Manchester City finish in the top 4 of the EPL?
+14431,2025,0.999,1,154953.29,Will Trump formally nominate RFK Jr. to the cabinet?
+14432,2025,0.999,1,183390.4,Will Trump formally nominate Tulsi Gabbard to the cabinet?
+14465,2025,0.001,0,381299.25,"Will Trump say ""McDonald's"" during his inauguration speech?"
+14465,2025,0.999,1,206041.74,"Will Trump say ""god"" 4+ times during his inauguration speech?"
+14034,2025,0.99,1,252888.89,Will Kari Lake be a member of the Trump administration?
+14465,2025,0.002,0,866745.48,"Will Trump say ""doge"" or ""Dogecoin"" during his inauguration speech?"
+14465,2025,0.003,0,480558.2,"Will Trump say ""Kamala"" during his inauguration speech?"
+14465,2025,0.001,0,137330.86,"Will Trump say ""rig"" or ""rigged"" during his inauguration speech?"
+14465,2025,0.002,0,507423.1,"Will Trump say ""illegal immigrant"" or ""illegal immigration"" during his inauguration speech?"
+14465,2025,0.001,0,161725.91,"Will Trump say ""trans"" during his inauguration speech?"
+14465,2025,0.999,1,273803.42,"Will Trump say ""drill baby drill"" during his inauguration speech?"
+14465,2025,0.002861,0,245526.49,"Will Trump say ""MAGA"" 4 or more times during his inauguration speech?"
+14465,2025,0.003,0,126939.16,"Will Trump say ""border"" 5 or more times during his inauguration speech?"
+14528,2025,0.002,0,106009.4,Trump uses a recess appointment for Cabinet?
+14530,2025,0.002,0,263544.75,Bird flu pandemic before August 2025?
+15437,2025,0.018,0,510391.25,Will Biden pardon Julian Assange?
+14583,2025,0.005,0,299666.8,Google forced to sell Chrome?
+14585,2025,0.014,0,370803.18,Will Chelsea lead the EPL in points at midway point?
+14585,2025,0.002,0,349382.8,Will Fulham lead the EPL in points at midway point?
+14585,2025,0.001,0,148974.88,Will Newcastle lead the EPL in points at midway point?
+14585,2025,0.001,0,441112.25,Will Aston Villa lead the EPL in points at midway point?
+14585,2025,0.001,0,431000.02,Will Tottenham lead the EPL in points at midway point?
+14585,2025,0.002,0,791067.4,Will Brighton lead the EPL in points at midway point?
+14593,2025,0.001,0,546558.03,No Trump Cabinet confirmations in January?
+14593,2025,0.001,0,107689.11,Two Trump Cabinet confirmations in January?
+14593,2025,0.01,0,60722.55,Four Trump Cabinet confirmations in January?
+14593,2025,0.04,0,94487.94,Five Trump Cabinet confirmations in January?
+14593,2025,0.25,0,64744.69,Seven Trump Cabinet confirmations in January?
+14593,2025,0.14,0,71433.89,Six Trump Cabinet confirmations in January?
+14593,2025,0.17,1,98958.38,Eight Trump Cabinet confirmations in January?
+14593,2025,0.175336,0,93969.57,Nine Trump Cabinet confirmations in January?
+14593,2025,0.31,0,148584.72,Ten or more Trump Cabinet confirmations in January?
+16268,2025,0.7,1,430029.39,Chopsticks catch SpaceX's 7th Starship Super Heavy?
+14608,2025,0.005,0,331372.39,Will 'New Blue Sun' win Album of the Year?
+16268,2025,0.967,1,304785.42,SpaceX Flight 7 launch before February 2025?
+14608,2025,0.21,1,153966.5,Will 'Cowboy Carter' win Album of the Year?
+14608,2025,0.17001,0,114409.46,Will 'BRAT' win Album of the Year?
+14608,2025,0.025,0,94072.4,Will 'Short n' Sweet' win Album of the Year?
+14609,2025,0.009,0,1677239.82,Will DOGE hit 69¢ by Inauguration Day?
+14608,2025,0.045,0,134874.66,Will 'The Rise and Fall of a Midwest Princess' win Album of the Year?
+14612,2025,0.011,0,195276.15,Will 'A Bar Song (Tipsy)' win Song of the Year?
+14608,2025,0.09,0,115165.11,Will 'The Tortured Poets Department' win Album of the Year?
+14608,2025,0.37,0,169864.66,Will 'Hit Me Hard and Soft' win Album of the Year?
+14608,2025,0.006,0,735551.63,Will 'Djesse Vol. 4' win Album of the Year?
+14612,2025,0.053,0,59407.63,Will 'TEXAS HOLD 'EM' win Song of the Year?
+14612,2025,0.031373,0,56159.96,Will 'Fortnight' win Song of the Year?
+14612,2025,0.55,0,177764.76,Will 'BIRDS OF A FEATHER' win Song of the Year?
+14614,2025,0.008,0,72755.73,Will 'TEXAS HOLD 'EM' win Record of the Year?
+14614,2025,0.083,0,66495.61,Will 'Now and Then' win Record of the Year?
+14614,2025,0.66,0,90971.69,Will 'Espresso' win Record of the Year?
+14614,2025,0.02,0,139741.28,"Will 'Good Luck, Babe!' win Record of the Year?"
+14614,2025,0.01561,0,146410.38,Will 'Fortnight' win Record of the Year?
+14614,2025,0.098,1,106163.53,Will 'Not Like Us' win Record of the Year?
+14178,2025,0.004001,0,236253.59,Will Trump pardon Matt Gaetz in his first 100 days?
+14630,2025,0.018,0,551430.22,Doge ETF approved by July 31?
+14634,2025,0.003,0,171795.87,Will ICC withdraw its arrest warrant against Netanyahu before July?
+14642,2025,0.77,1,231314.22,Will the Doomsday Clock move closer to Midnight?
+14034,2025,0.003,0,51055.28,Will Matt Gaetz be a member of the Trump administration?
+14661,2025,0.019,0,381253.28,Another Trump Cabinet nominee withdrawn before inauguration?
+14647,2025,0.05,0,346117.72,Tesla bot at Trump inauguration?
+14815,2025,0.001,0,549257.12,Will Zaccharie Risacher win NBA Rookie of the Year?
+14815,2025,0.998,1,554969.52,Will Stephon Castle win NBA Rookie of the Year?
+14815,2025,0.001,0,73555.08,Will Jaylen Wells win NBA Rookie of the Year?
+14874,2025,0.001,0,1986191.78,Will Krzysztof Stanowski be the next President of Poland?
+14828,2025,0.978,1,418030.31,Will 3+ Trump cabinet picks fail to get appointed?
+14874,2025,0.001,0,1423677.94,Will Magdalena Biejat be the next President of Poland?
+14874,2025,0.001,0,1899069.53,Will Adrian Zandberg be the next President of Poland?
+14882,2025,0.001,0,727212.82,Will Jan Topić win the 2025 Ecuadorian Presidential Election?
+14882,2025,0.002,0,875851.71,Will Gustavo Jalkh win the 2025 Ecuadorian Presidential Election?
+14882,2025,0.39,1,1360386.02,Will Daniel Noboa win the 2025 Ecuadorian Presidential Election?
+14882,2025,0.59,0,1274030.58,Will Luisa González win the 2025 Ecuadorian Presidential Election?
+14885,2025,0.001,0,838998.85,Will MicroStrategy announce bankruptcy by May 31?
+14978,2025,0.009,0,736775.61,Will Russia pull out of Syria before April 2025?
+14994,2025,0.07,0,271638.27,Ripple ETF approved by July 31?
+15000,2025,0.031032,0,445426.27,Will Solana hit $270 in December?
+15000,2025,0.06,0,470106.34,Will Solana hit $260 in December?
+15000,2025,0.11,0,743162.81,Will Solana hit $250 in December?
+15000,2025,0.999,1,600394.79,Will Solana hit $200 in December?
+15437,2025,0.3,1,1735202.98,Will Biden pardon Fauci?
+12851,2025,0.989,1,420260.21,Will Arsenal finish in the top 4 of the EPL?
+15437,2025,0.014,0,222488.21,Will Biden pardon Edward Snowden?
+15026,2025,0.012,0,827456.27,Will a nuclear weapon detonate by March 31?
+15039,2025,0.003,0,147790.5,Eric Adams out as NYC mayor by March 31?
+15042,2025,0.002,0,87684.22,Will GPT-5 be released by March 31?
+15042,2025,0.022,0,335574.22,Will GPT-5 be released by June 30?
+15026,2025,0.011224,0,883595.31,Will a nuclear weapon detonate by June 30?
+14387,2025,0.07,0,67247.65,Will Dan Campbell win NFL Coach of the Year?
+14387,2025,0.001088,0,368617.14,Will Jim Harbaugh win NFL Coach of the Year?
+14387,2025,0.005,0,116377.36,Will Dan Quinn win NFL Coach of the Year?
+14387,2025,0.001,0,287107.89,Will Jonathan Gannon win NFL Coach of the Year?
+14387,2025,0.004,0,152267.2,Will Sean Payton win NFL Coach of the Year?
+15049,2025,0.012241,0,266500.7,Will the Jacksonville Jaguars finish with the worst record in the NFL?
+15044,2025,0.009,0,355442.06,Will the U.S. abandon Syrian base before April 2025?
+15048,2025,0.004,0,72452.64,Will Lamar Jackson win NFL Offensive Player of the Year?
+15048,2025,0.002,0,1044462.68,Will Derrick Henry win NFL Offensive Player of the Year?
+15066,2025,0.003,0,627207.06,Will Shedeur Sanders be the first pick of the 2025 NFL Draft?
+15049,2025,0.001,0,297927.75,Will the New Orleans Saints finish with the worst record in the NFL?
+15049,2025,0.001,0,193530.1,Will the Cincinnati Bengals finish with the worst record in the NFL?
+15066,2025,0.003,0,201489.8,Will Travis Hunter be the first pick of the 2025 NFL Draft?
+15066,2025,0.002,0,268589.22,Will Jalen Milroe be the first pick of the 2025 NFL Draft?
+15058,2025,0.053,0,429774.66,Will US gov sell Bitcoin before Trump inauguration?
+15066,2025,0.003,0,324408.64,Will Jaxson Dart be the first pick of the 2025 NFL Draft?
+15066,2025,0.967,1,387168.17,Will Cameron Ward be the first pick of the 2025 NFL Draft?
+15066,2025,0.003,0,284390.41,Will Kelvin Banks Jr. be the first pick of the 2025 NFL Draft?
+15066,2025,0.011,0,305989.82,Will Abdul Carter be the first pick of the 2025 NFL Draft?
+15066,2025,0.002,0,879613.82,Will Will Campbell be the first pick of the 2025 NFL Draft?
+15066,2025,0.003,0,759754.56,Will Mykel Williams be the first pick of the 2025 NFL Draft?
+14034,2025,0.001,0,921323.99,Will Bernie Sanders be a member of the Trump administration?
+15066,2025,0.002,0,416437.42,Will Mason Graham be the first pick of the 2025 NFL Draft?
+15072,2025,0.005139,0,375166.67,Will Trump eliminate daylight saving time in first 100 days?
+14178,2025,0.003,0,67404.42,Will Trump pardon Daniel Penny in his first 100 days?
+14178,2025,0.009,0,1466254.08,Will Trump pardon Roger Ver in his first 100 days?
+15083,2025,0.005,0,738482.81,NATO article 5 before March?
+15086,2025,0.983944,1,390963.11,Lily Phillips sex event cancelled?
+15087,2025,0.004,0,327205.06,Fact Check: Luigi Mangione motivated by denied claims?
+15086,2025,0.009091,0,244927.27,Lily Phillips has sex with between 1-249 men in a day?
+15086,2025,0.001003,0,217158.84,Lily Phillips has sex with between 250-499 men in a day?
+15086,2025,0.002,0,125386.81,Lily Phillips has sex with between 500-749 men in a day?
+15086,2025,0.001031,0,314152.54,Lily Phillips has sex with between 750-999 men in a day?
+15086,2025,0.012,0,485156.96,Lily Phillips has sex with 1000+ men in a day?
+15091,2025,0.005,0,353212.92,Lily Phillips breaks record for sex in one day?
+15437,2025,0.14,1,770037.79,Will Biden pardon Adam Schiff?
+15168,2025,0.001,0,155516.01,Will Kyler Murray win NFL Comeback Player of the Year?
+15168,2025,0.001,0,81969.5,Will Kirk Cousins win NFL Comeback Player of the Year?
+15168,2025,0.001,0,52224.52,Will Justin Herbert win NFL Comeback Player of the Year?
+15168,2025,0.001,0,451225.35,Will Russell Wilson win NFL Comeback Player of the Year?
+15168,2025,0.001076,0,1392934.84,Will Bryce Young win NFL Comeback Player of the Year?
+15175,2025,0.005,0,87187.37,Hawk Tuah OnlyFans by January 31?
+15187,2025,0.13,0,163976.64,Will Michael Van Gerwen win the 2024-25 PDC World Championship?
+15187,2025,0.4,1,210004.48,Will Luke Littler win the 2024-25 PDC World Championship?
+15187,2025,0.001,0,94023.68,Will Ross Smith win the 2024-25 PDC World Championship?
+15192,2025,0.006,0,101027.26,Eric Adams a Republican before April?
+15187,2025,0.022,0,137148.19,Will Chris Dobey win the 2024-25 PDC World Championship?
+15268,2025,0.002,0,308449.99,Jay-Z in jail before April?
+15270,2025,0.004,0,54214.82,Will Jay-Z settle with his accuser before April?
+15290,2025,0.57,0,51117.05,Will 'Sing Sing' be nominated for Oscar for Best Picture?
+15271,2025,0.001,0,171113.34,Will Syria hold national elections by January 31?
+15290,2025,0.982,1,77872.38,Will 'Emilia Perez' be nominated for Oscar for Best Picture?
+15272,2025,0.02,0,188028.64,Will the U.S. remove HTS from terror list before March?
+15290,2025,0.53,0,64002.21,Will 'A Real Pain' be nominated for Oscar for Best Picture?
+15305,2025,0.009,0,179920.03,Sánchez resigns as PM of Spain before March?
+15334,2025,0.998,1,60911.89,"Will Saquon Barkley rush for 2,000 yards?"
+15290,2025,0.71,1,76240.77,Will 'Nickel Boys' be nominated for Oscar for Best Picture?
+15290,2025,0.921,1,50874.81,Will 'A Complete Unknown' be nominated for Oscar for Best Picture?
+15368,2025,0.005,0,345776.05,New pandemic before July?
+15290,2025,0.83,1,153679.55,Will 'The Substance' be nominated for Oscar for Best Picture?
+15374,2025,0.015,0,136452.95,Fact Check: Is Luigi Mangione gay?
+15381,2025,0.072,0,87089.36,Will US annual inflation be 2.7% in December?
+15381,2025,0.71,1,137023.29,Will US annual inflation be 2.9% or greater in December?
+15381,2025,0.02327,0,207723.59,Will US annual inflation be 2.6% or less in December?
+15382,2025,0.001,0,521933.93,RFK's daughter-in-law picked as CIA deputy director?
+15372,2025,0.005001,0,280301.16,Will McDonald's worker get reward money before April?
+15389,2025,0.007416,0,142867.01,Will Syria hold national elections before July?
+15391,2025,0.003,0,216154.03,Netanyahu out before April?
+15395,2025,0.010029,0,72299.67,Will Trump recognize Somaliland in first 100 days?
+15392,2025,0.016,0,144806.72,Will US add more than 300k jobs in December 2024?
+15400,2025,0.002,0,57413.63,Lula out before April?
+15398,2025,0.005,0,222916.5,Will Trump announce Kevin Warsh as next Fed Chair?
+15394,2025,0.029,0,905647.23,Will the U.S. recognize Syrian government by March 31?
+15437,2025,0.052,0,812585.34,Will Biden pardon Hillary?
+15398,2025,0.005,0,1213255.46,Will Trump announce Arthur Laffer as next Fed Chair?
+15398,2025,0.009,0,1027526.19,Will Trump announce Kevin Hassett as next Fed Chair?
+15398,2025,0.008,0,914042.0,Will Trump announce Judy Shelton as next Fed Chair?
+15398,2025,0.002,0,1030736.42,Will Trump announce Larry Kudlow as next Fed Chair?
+15402,2025,0.007,0,118907.38,Feds raid Jay-Z before April?
+15398,2025,0.974,1,413977.27,No Trump announcement of next Fed Chair by June 30?
+14196,2025,0.78025,1,229224.49,Will Mark Zuckerberg attend presidential inauguration?
+15412,2025,0.013,0,617718.67,Will Elon be worth $500b by Trump inauguration?
+15416,2025,0.998672,1,79798.88,Joe Burrow and Olivia Holzmacher break up this season?
+15414,2025,0.73,1,223395.76,Will Trump pardon January 6 protestors on Day 1?
+14196,2025,0.006,0,1460457.22,Will Xi Jinping attend presidential inauguration?
+15420,2025,0.001,0,1997354.62,"Will Ethereum hit $8,000.00 by March 31?"
+15420,2025,0.001,0,1683521.64,"Will Ethereum hit $7,000.00 by March 31?"
+14196,2025,0.12,0,479826.42,Will Volodymyr Zelensky attend presidential inauguration?
+15420,2025,0.002,0,1523652.75,"Will Ethereum hit $6,000.00 by March 31?"
+15423,2025,0.017,0,520145.33,Will an FBI agent be charged for involvement in Jan 6?
+14196,2025,0.002,0,802149.86,Will Vladimir Putin attend presidential inauguration?
+15422,2025,0.003,0,800209.34,Will Oleg Gaidukevich win the 2025 Belarus Presidential Election?
+15422,2025,0.003,0,786607.83,Will Alexander Khabnyak win the 2025 Belarus Presidential Election?
+15422,2025,0.002,0,1007836.3,Will Anna Kanopatskaya win the 2025 Belarus Presidential Election?
+15422,2025,0.003,0,703793.14,Will Olga Sustanova win the 2025 Belarus Presidential Election?
+15422,2025,0.003,0,811403.38,Will Sergei Bobrikov win the 2025 Belarus Presidential Election?
+15422,2025,0.003,0,826722.36,Will Sergei Syrankov win the 2025 Belarus Presidential Election?
+15424,2025,0.008,0,87350.15,Did Luigi Mangione's parents have UnitedHealthCare?
+15435,2025,0.999,1,71366.47,Will Alex Ovechkin break the scoring record this season?
+15442,2025,0.002,0,517033.35,Will Jimmy Butler get traded to the Brooklyn Nets?
+15441,2025,0.002,0,213870.48,Texas Strategic Bitcoin Reserve Act signed into law by March 31?
+15442,2025,0.013,0,112457.85,Will Jimmy Butler get traded to the Los Angeles Clippers?
+15442,2025,0.1965,0,65250.03,Will Jimmy Butler stay with the Miami Heat?
+15438,2025,0.43,0,477911.2,Will Biden issue more pardons than Trump?
+15478,2025,0.016972,0,70669.23,Will Lebron James be traded?
+15483,2025,0.003,0,285091.33,Will Bitcoin replace SHA-256 before June?
+14196,2025,0.98,1,97601.93,Will Elon Musk attend presidential inauguration?
+14196,2025,0.947,1,70834.13,Will Javier Milei attend presidential inauguration?
+15591,2025,0.999,1,1074403.8,Canada election called before April?
+14196,2025,0.35,1,274505.42,Will Joe Rogan attend presidential inauguration?
+15593,2025,0.75,0,116916.62,Will Liverpool win the 2024 Carabao Cup?
+15593,2025,0.24,1,93029.08,Will Newcastle United win the 2024 Carabao Cup?
+15605,2025,0.56,0,327610.2,Trump positive favorability on inauguration day?
+15606,2025,0.039,0,659914.77,Total crypto market cap over $4 trillion on Jan 20?
+15616,2025,0.002,0,59966.41,Honda and Nissan merger announced before February?
+15618,2025,0.01,0,69767.26,Will Trump privatize USPS in first 100 days?
+15609,2025,0.007,0,550988.1,OpenSea airdrop before April?
+15619,2025,0.034,0,1444184.21,Will CDU/CSU win the second most seats in the next German election?
+15619,2025,0.012,0,1422186.01,Will SPD win the second most seats in the next German election?
+15619,2025,0.004,0,1486040.47,Will the Greens win the second most seats in the next German election?
+15621,2025,0.05,0,354780.53,Litecoin ETF approved by July 31?
+15619,2025,0.94,1,1510074.19,Will AfD win the second most seats in the next German election?
+15624,2025,0.002,0,90904.68,OpenSea token market cap (FDV) <$1B one day after launch?
+15624,2025,0.003,0,105995.39,Opensea token market cap (FDV) $1-3b one day after launch?
+15624,2025,0.001,0,56331.36,Opensea token market cap (FDV) $5-10b one day after launch?
+15624,2025,0.001,0,83536.62,Opensea token market cap (FDV) $15b or more one day after launch?
+15624,2025,0.991,1,77878.12,No Opensea token launch by July?
+15624,2025,0.001,0,302901.74,Opensea token market cap (FDV) $10-15b one day after launch?
+15627,2025,0.002,0,875512.28,Will the CDU/CSU win less than 20% of the vote in the German election?
+15626,2025,0.55,0,81955.09,Will Angelina Jolie win the Golden Globe for Best Actress in a Movie - Drama?
+15627,2025,0.007952,0,487626.69,Will the CDU/CSU win 20-25% of the vote in the German election?
+15627,2025,0.055758,0,564404.47,Will the CDU/CSU win 35-40% of the vote in the German election?
+15627,2025,0.002,0,599308.02,Will the CDU/CSU win over 40% of the vote in the German election?
+15629,2025,0.41,0,212204.89,Will Jesse Eisenberg win the Golden Globe for Best Actor in a Movie - Musical or Comedy?
+15627,2025,0.68,0,639208.99,Will the CDU/CSU win 30-35% of the vote in the German election?
+15628,2025,0.464427,0,776452.58,Will the SPD win 10-15% of the vote in the German election?
+15628,2025,0.024,0,352707.88,Will the SPD win 20-25% of the vote in the German election?
+15628,2025,0.027,0,558278.25,Will the SPD win less than 10% of the vote in the German election?
+15630,2025,0.67,0,99812.96,Will 'Anora' win the Golden Globe for Best Screenplay?
+15628,2025,0.00424,0,831404.18,Will the SPD win 25-30% of the vote in the German election?
+15634,2025,0.34,0,75214.63,Will 'Conclave' win the Golden Globe for Best Original Score?
+15635,2025,0.002,0,999034.2,Israel and Saudi Arabia normalize relations before April?
+15648,2025,0.001,0,1465492.21,Will Canada join US as 51st state before July?
+15636,2025,0.389,0,91481.67,Minnesota Twins sale announced before July?
+15653,2025,0.009,0,359756.48,Mike Johnson out as Speaker before inauguration?
+15660,2025,0.05,0,302605.38,Jonathan Anderson joins Dior creative director before February?
+15667,2025,0.999,1,50333.55,Will Ohio State make the CFP National Championship Game?
+15675,2025,0.006987,0,67298.29,Bird flu declared public health emergency before April?
+15676,2025,0.977693,1,128032.2,"Will Powell say ""good afternoon"" during January press conference?"
+15676,2025,0.86,0,82928.04,"Will Powell say ""inflation"" 50 or more times during January press conference?"
+15676,2025,0.91,1,111231.57,"Will Powell say ""inflation"" 40 or more times during January press conference?"
+15676,2025,0.19,1,76877.83,"Will Powell say ""crypto"" or ""Bitcoin"" during January press conference?"
+15676,2025,0.41,0,145673.87,"Will Powell say ""Trump"" during January press conference?"
+15676,2025,0.63,0,67823.72,"Will Powell say ""inflation"" 60 or more times during January press conference?"
+15683,2025,0.002,0,344513.06,Debt ceiling abolished before Trump inauguration?
+15682,2025,0.008,0,491946.93,Debt ceiling raised or suspended by inauguration?
+15688,2025,0.072,0,126301.54,"Will the number of federal employees decrease by 25,000-50,000 between December and June?"
+15688,2025,0.019,0,152926.02,"Will the number of federal employees decrease by less than 25,000 between December and June?"
+15688,2025,0.046633,0,440848.93,"Will the number of federal employees decrease by 200,000 or more between December and June?"
+15688,2025,0.124,0,371865.05,"Will the number of federal employees decrease by 100,000-200,000 between December and June?"
+15688,2025,0.468,1,750321.46,"Will the number of federal employees decrease by 50,000-100,000 between December and June?"
+15686,2025,0.5,1,51081.44,Ponzinibbio vs. Harris
+15686,2025,0.34,1,54314.76,Rodriguez vs. Bashi
+15686,2025,0.36,1,62993.33,Soriano vs. Medic
+15686,2025,0.73,1,54447.7,Almeida vs. Alhassan
+12851,2025,0.019,0,344432.34,Will Nottingham Forest finish in the top 4 of EPL?
+15711,2025,0.001,0,86690.68,Will Netanyahu meet with MBS before April?
+15693,2025,0.865147,1,197127.96,Will The Left make it into the Bundestag as a Fraktion?
+15720,2025,0.017651,0,74345.06,MH370 underwater wreckage found by June 30?
+15728,2025,0.008,0,65478.64,Will Turkey leave NATO by June 30?
+15727,2025,0.005,0,1577522.35,Trump Admin confirms Aliens exist in first 100 days?
+15699,2025,0.07,0,226659.8,Abstract token launch by January 31?
+15730,2025,0.004,0,148817.63,Will Ukraine join NATO before July?
+15731,2025,0.995,1,1098391.83,Will Putin remain President of Russia through June?
+15729,2025,0.013818,0,1655170.96,Will MicroStrategy hold 500k+ BTC before Trump inauguration?
+15750,2025,0.25,0,784116.22,Spurs vs. Knicks
+15751,2025,0.35,1,463693.05,Timberwolves vs. Mavericks
+15754,2025,0.54,0,770738.45,Nuggets vs. Suns
+15755,2025,0.65,1,419403.58,Thunder vs. Pacers
+15752,2025,0.21,1,1130028.11,76ers vs. Celtics
+15756,2025,0.48,1,284990.84,Heat vs. Magic
+15759,2025,0.68,1,207444.15,Rockets vs. Pelicans
+15757,2025,0.62846,0,218847.75,Hornets vs. Wizards
+15753,2025,0.39,1,1098519.75,Lakers vs. Warriors
+15760,2025,0.189005,0,179643.8,Raptors vs. Grizzlies
+15761,2025,0.3,1,335782.11,Nets vs. Bucks
+15758,2025,0.36,0,279993.28,Bulls vs. Hawks
+15762,2025,0.4,0,313268.22,Jazz vs. Trail Blazers
+15764,2025,0.69,1,472104.97,Knicks vs. Magic
+15766,2025,0.16,0,241859.47,Pacers vs. Celtics
+15763,2025,0.37,1,261010.29,Pistons vs. Kings
+15765,2025,0.74,1,429698.91,Spurs vs. Nets
+15767,2025,0.73,1,263543.5,Grizzlies vs. Pelicans
+15768,2025,0.5,1,272471.28,Timberwolves vs. Rockets
+15769,2025,0.49,1,507436.75,Mavericks vs. Suns
+15770,2025,0.58,1,231005.83,Cavaliers vs. Nuggets
+15772,2025,0.52,0,403390.56,Heat vs. Hawks
+15773,2025,0.88,1,383294.41,Thunder vs. Hornets
+15771,2025,0.33,0,362247.25,Warriors vs. Clippers
+15775,2025,0.53,0,504781.75,Bucks vs. Bulls
+15777,2025,0.3,0,269892.2,Pistons vs. Nuggets
+15774,2025,0.88,1,824150.76,Knicks vs. Wizards
+15776,2025,0.31,0,360647.49,Suns vs. Warriors
+15780,2025,0.56,0,707198.12,Kings vs. Lakers
+15778,2025,0.73,1,452619.29,76ers vs. Jazz
+15779,2025,0.6,0,376244.39,Mavericks vs. Trail Blazers
+15785,2025,0.67,1,1598227.58,Seahawks vs. Bears
+15791,2025,0.54,1,281414.96,Raiders vs. Saints
+15792,2025,0.53,0,303259.39,Titans vs. Jaguars
+15789,2025,0.17,0,503623.66,Panthers vs. Buccaneers
+15793,2025,0.17,0,934948.02,Jets vs. Bills
+15786,2025,0.73,1,1619796.0,Chargers vs. Patriots
+15796,2025,0.001,0,406110.12,Cowboys vs. Eagles
+15795,2025,0.63,1,638864.85,Dolphins vs. Browns
+15794,2025,0.78,0,795451.03,Colts vs. Giants
+15821,2025,0.336195,1,50304.17,Wild vs. Stars
+15824,2025,0.7,1,53935.23,Golden Knights vs. Sharks
+15823,2025,0.569947,1,89365.72,Avalanche vs. Utah
+15830,2025,0.46,0,63637.63,Devils vs. Hurricanes
+15825,2025,0.27,1,127418.5,Canadiens vs. Panthers
+15841,2025,0.23,1,212408.33,Arkansas State vs. Bowling Green
+15839,2025,0.68,0,471741.5,Pittsburgh vs. Toledo
+15838,2025,0.51,1,488386.07,South Florida vs. San José State
+15840,2025,0.280051,0,183775.78,Rutgers vs. Kansas State
+15844,2025,0.62,0,201725.79,Texas Tech vs. Arkansas
+15842,2025,0.509236,0,273609.64,Oklahoma vs. Navy
+15845,2025,0.87,1,199739.36,Syracuse vs. Washington State
+15847,2025,0.46,1,293687.53,UConn vs. North Carolina
+15843,2025,0.58,0,375067.67,Georgia Tech vs. Vanderbilt
+15846,2025,0.62,0,417896.98,Texas A&M vs. USC
+15849,2025,0.240052,0,92377.26,Louisiana vs. TCU
+15848,2025,0.41,0,222506.74,Boston College vs. Nebraska
+15851,2025,0.519814,1,95575.94,Miami (OH) vs. Colorado State
+15852,2025,0.28,1,346523.25,East Carolina vs. NC State
+15853,2025,0.42,1,110943.13,BYU vs. Colorado
+15854,2025,0.150052,0,80183.14,Louisiana Tech vs. Army
+15856,2025,0.003,0,622057.52,Will US leave NATO by June 30?
+15850,2025,0.32,1,354618.57,Iowa State vs. Miami
+15859,2025,0.007,0,543303.26,Trump takes Panama Canal in first 100 days?
+15860,2025,0.015,0,200414.93,Will OpenAI have the top AI model on January 31?
+15860,2025,0.976,1,314509.28,Will Google have the top AI model on January 31?
+15860,2025,0.002,0,293813.7,Will xAI have the top AI model on January 31?
+15860,2025,0.003,0,219329.84,Will Anthropic have the top AI model on January 31?
+15858,2025,0.017,0,743794.58,Hyperliquid exploit before February?
+15860,2025,0.005,0,318903.84,Will another model be the top AI model on January 31?
+15860,2025,0.002,0,921340.88,Will Meta have the top AI model on January 31?
+15862,2025,0.010792,0,106337.85,Will Erdogan visit Syria by January?
+15869,2025,0.002,0,60225.07,Sisi out as President of Egypt by March 31?
+15870,2025,0.009,0,110938.35,Will Amazon purchase Bitcoin before July?
+15904,2025,0.014,0,212094.93,Megaquake in January?
+15902,2025,0.01,0,210460.41,100+ Bird Flu cases in U.S. before February?
+15919,2025,0.002,0,84997.35,Will Trump eliminate H-1B visa in first 100 days?
+15921,2025,0.95,0,389983.21,Will NVIDIA be the largest company in the world by market cap on January 31?
+15917,2025,0.006,0,186698.37,Will Trump increase cap on H-1B visas in first 100 days?
+15921,2025,0.013,0,359072.78,Will Microsoft be the largest company in the world by market cap on January 31?
+15921,2025,0.00182,0,168231.6,Will another company be the largest company in the world by market cap on January 31?
+15922,2025,0.002119,0,580070.65,Will Trump enact India travel ban in first 100 days?
+15923,2025,0.024,0,78043.68,Another state declare a state of emergency over bird flu before February?
+15921,2025,0.04,1,454981.05,Will Apple be the largest company in the world by market cap on January 31?
+15924,2025,0.002,0,160657.74,Will federal spending decrease by $500-750b between Q4 2024 and Q2 2025?
+15924,2025,0.002,0,604875.38,Will federal spending decrease by $750b-1t between Q4 2024 and Q2 2025?
+15924,2025,0.01,0,198269.79,Will federal spending decrease by $250-500b between Q4 2024 and Q2 2025?
+15924,2025,0.002,0,444793.27,Will federal spending decrease by $1-2t between Q4 2024 and Q2 2025?
+15924,2025,0.002,0,763420.27,Will federal spending decrease by more than $2t between Q4 2024 and Q2 2025?
+15938,2025,0.011659,0,196324.94,Human to human bird flu transmission before February?
+15939,2025,0.5,1,165670.88,Will Biden issue a preemptive pardon?
+15962,2025,0.25,0,431615.04,Nets vs. Magic
+15965,2025,0.27,0,311149.82,Grizzlies vs. Thunder
+15963,2025,0.49,1,396086.89,Hawks vs. Raptors
+15966,2025,0.25,1,592040.37,Heat vs. Rockets
+15964,2025,0.19,1,522593.03,Pacers vs. Celtics
+15967,2025,0.32,0,954767.76,Spurs vs. Timberwolves
+15968,2025,0.61,1,723503.34,Bulls vs. Hornets
+15969,2025,0.849654,1,381826.63,Knicks vs. Wizards
+15970,2025,0.6763,1,515819.14,Clippers vs. Pelicans
+15973,2025,0.61,1,385849.57,Cavaliers vs. Warriors
+15971,2025,0.74,1,311694.65,Nuggets vs. Jazz
+15972,2025,0.72,1,198884.48,76ers vs. Trail Blazers
+15975,2025,0.1,0,275723.6,Raptors vs. Celtics
+15974,2025,0.25,0,721175.94,Mavericks vs. Kings
+15977,2025,0.42,0,428588.08,Clippers vs. Spurs
+15979,2025,0.32,1,454903.02,Grizzlies vs. Suns
+15976,2025,0.57,1,736433.25,Bucks vs. Pacers
+15978,2025,0.28,0,650846.21,Timberwolves vs. Thunder
+15980,2025,0.630562,1,434590.27,Cavaliers vs. Lakers
+15982,2025,0.46,0,479918.22,Magic vs. Pistons
+15981,2025,0.69,0,539693.0,Bulls vs. Wizards
+15984,2025,0.46,0,342689.9,Nets vs. Raptors
+15983,2025,0.24,0,345503.37,Pelicans vs. Heat
+15985,2025,0.15,0,293199.23,Jazz vs. Knicks
+15986,2025,0.37,0,286808.44,Mavericks vs. Rockets
+15987,2025,0.25,0,272296.89,Hawks vs. Nuggets
+15988,2025,0.31,0,497108.73,76ers vs. Kings
+15990,2025,0.43,1,634475.93,Pacers vs. Heat
+15989,2025,0.56,1,651390.1,Celtics vs. Timberwolves
+15992,2025,0.14,0,437396.16,Clippers vs. Thunder
+15993,2025,0.383032,0,406876.86,76ers vs. Warriors
+15991,2025,0.15,1,788292.67,Nets vs. Bucks
+15994,2025,0.29,0,494449.94,Trail Blazers vs. Lakers
+15996,2025,0.57,1,293824.25,Magic vs. Raptors
+15995,2025,0.26,0,499451.21,Hornets vs. Pistons
+15997,2025,0.39,0,495249.3,Knicks vs. Thunder
+15998,2025,0.29,0,213994.55,Wizards vs. Pelicans
+16000,2025,0.79,1,342979.77,Cavaliers vs. Mavericks
+15999,2025,0.61,1,292878.23,Celtics vs. Rockets
+16002,2025,0.42,0,409722.1,Grizzlies vs. Kings
+16003,2025,0.43,0,263254.28,Hawks vs. Lakers
+16001,2025,0.34,1,398497.77,Spurs vs. Nuggets
+16006,2025,0.7,0,171434.33,Timberwolves vs. Pistons
+16004,2025,0.78,1,572313.54,76ers vs. Nets
+16005,2025,0.42,0,302377.01,Suns vs. Pacers
+16007,2025,0.68,0,285298.08,Knicks vs. Bulls
+16009,2025,0.57,1,467163.44,Nuggets vs. Spurs
+16008,2025,0.13,1,235959.36,Trail Blazers vs. Bucks
+16010,2025,0.24,1,334144.17,Jazz vs. Heat
+16011,2025,0.43,0,377618.28,Grizzlies vs. Warriors
+16012,2025,0.26,0,355407.38,Hawks vs. Clippers
+16013,2025,0.65,0,1331518.22,Bills vs. Patriots
+16015,2025,0.09,0,491619.91,Saints vs. Buccaneers
+16014,2025,0.23,1,700282.74,Panthers vs. Falcons
+16016,2025,0.76,1,1236823.91,Chargers vs. Raiders
+16017,2025,0.43,0,535590.27,Giants vs. Eagles
+16018,2025,0.75,1,732200.98,Commanders vs. Cowboys
+16019,2025,0.48,1,806239.04,Texans vs. Titans
+16026,2025,0.18,1,462530.07,Bears vs. Packers
+16021,2025,0.32,0,213059.87,49ers vs. Cardinals
+16020,2025,0.74,1,420731.87,Seahawks vs. Rams
+16028,2025,0.380124,0,102435.26,Jaguars vs. Colts
+16024,2025,0.5,0,988493.17,Dolphins vs. Jets
+16039,2025,0.45,0,86726.68,Predators vs. Jets
+16027,2025,0.16,0,558551.53,Chiefs vs. Broncos
+16040,2025,0.58,0,61137.74,Utah vs. Kraken
+16041,2025,0.42,0,70574.87,Bruins vs. Capitals
+16042,2025,0.44,0,51781.93,Islanders vs. Maple Leafs
+16054,2025,0.51,0,98045.62,Devils vs. Kings
+16049,2025,0.46,0,56210.84,Predators vs. Wild
+16057,2025,0.5,0,57971.94,Bruins vs. Rangers
+16059,2025,0.51,1,61529.53,Maple Leafs vs. Islanders
+16067,2025,0.360043,0,72372.25,Penguins vs. Panthers
+16056,2025,0.49,1,55473.18,Red Wings vs. Blue Jackets
+16070,2025,0.2,0,164420.58,Ducks vs. Oilers
+16071,2025,0.62,1,54926.37,Predators vs. Canucks
+16072,2025,0.4,0,94656.55,Rangers vs. Capitals
+16073,2025,0.76,0,143686.35,Devils vs. Sharks
+16077,2025,0.43,0,51272.09,Bruins vs. Maple Leafs
+16076,2025,0.5,0,66292.16,Blues vs. Blue Jackets
+16081,2025,0.65,1,132902.65,Oilers vs. Kraken
+16082,2025,0.44,1,57032.37,Predators vs. Flames
+16084,2025,0.008,0,1181258.37,Fed rate hike in 2025?
+16093,2025,0.002,0,1632096.4,Fed emergency rate cut in 2025?
+16098,2025,0.002,0,606790.96,Tether insolvent in 2025?
+16104,2025,0.001,0,245327.52,Ukraine joins NATO in 2025?
+16099,2025,0.003,0,1814446.63,USDT depeg in 2025?
+16110,2025,0.004,0,977657.13,Netanyahu out by 2025?
+16089,2025,0.01,0,1477145.97,US 10Y Treasury yield above 5% by June 30?
+16128,2025,0.5,1,57163.62,Islanders vs. Bruins
+16111,2025,0.001,0,1555322.75,Will Eric Adams win the Democratic Primary for Mayor of New York City?
+16111,2025,0.001,0,897160.53,Will Zellnor Myrie win the Democratic Primary for Mayor of New York City?
+16111,2025,0.001,0,1308592.56,Will Scott Stringer win the Democratic Primary for Mayor of New York City?
+16111,2025,0.001,0,1203460.48,Will Letitia James win the Democratic Primary for Mayor of New York City?
+16111,2025,0.001,0,748824.93,Will Jumaane Williams win the Democratic Primary for Mayor of New York City?
+16111,2025,0.001,0,1073907.94,Will Whitney Tilson win the Democratic Primary for Mayor of New York City?
+16111,2025,0.001,0,1230926.5,Will Andrew Yang win the Democratic Primary for Mayor of New York City?
+16102,2025,0.001,0,61587.61,Will SpaceX have between 140-159 launches in 2025?
+16102,2025,0.002,0,103112.7,Will SpaceX have between 180-199 launches in 2025?
+16102,2025,0.993,1,88573.71,Will SpaceX have between 160-179 launches in 2025?
+16102,2025,0.001108,0,180869.66,Will SpaceX have 200 or more launches in 2025?
+16131,2025,0.005,0,345730.77,Boeing at fault for South Korea plane crash?
+16132,2025,0.007,0,322697.38,Will Adrian Dittman prove he's not Elon Musk?
+16086,2025,0.003,0,62630.84,Sundar Pichai out as Google CEO in 2025?
+16086,2025,0.021,0,190812.53,Tim Cook out as Apple CEO in 2025?
+16086,2025,0.005415,0,210839.02,Dan Clancy out as Twitch CEO in 2025?
+16086,2025,0.006399,0,238857.98,Brian Armstrong out as Coinbase CEO in 2025?
+16086,2025,0.0055,0,134134.27,Sam Altman out as OpenAI CEO in 2025?
+16135,2025,0.005,0,536350.38,Linea airdrop in Q1 2025?
+16135,2025,0.005,0,304293.17,Pump.fun airdrop in Q1 2025?
+16135,2025,0.003,0,194179.87,Farcaster airdrop in Q1 2025?
+16135,2025,0.003,0,366519.91,Base airdrop in Q1 2025?
+16135,2025,0.001,0,174864.3,MetaMask airdrop in Q1 2025?
+16135,2025,0.002,0,323899.66,Jumper airdrop in Q1 2025?
+16153,2025,0.49,1,91678.81,Louisville vs. Washington
+16154,2025,0.78,0,224623.25,South Carolina vs. Illinois
+16152,2025,0.89,0,298606.62,Alabama vs. Michigan
+16155,2025,0.59,0,87933.18,Baylor vs. LSU
+16156,2025,0.78,1,248165.23,Penn State vs. Boise State
+16151,2025,0.003,0,294742.16,New pandemic in 2025?
+16160,2025,0.13,0,84748.15,Duke vs. Ole Miss
+16158,2025,0.56,1,908537.27,Ohio State vs. Oregon
+16162,2025,0.76,1,116515.2,Minnesota vs. Virginia Tech
+16157,2025,0.83,1,618352.03,Texas vs. Arizona State
+16161,2025,0.14,0,965630.2,North Texas vs. Texas State
+16159,2025,0.51,1,1810863.75,Notre Dame vs. Georgia
+16163,2025,0.66,1,145979.64,Buffalo State vs. Liberty
+16168,2025,0.001,0,960140.58,"Will Gold close at $2,500-2,600 at the end of 2025?"
+16168,2025,0.001,0,915143.26,"Will Gold close under $2,500 at the end of 2025?"
+16168,2025,0.001,0,624126.27,"Will Gold close at $2,600-2,700 at the end of 2025?"
+16168,2025,0.001,0,1651648.54,"Will Gold close at $2,700-2,800 at the end of 2025?"
+16168,2025,0.001,0,697011.81,"Will Gold close at $2,800-2,900 at the end of 2025?"
+16168,2025,0.001,0,1079643.14,"Will Gold close at $2,900-3,000 at the end of 2025?"
+16168,2025,0.001,0,1308153.14,"Will Gold close at $3,000-3,100 at the end of 2025?"
+16168,2025,0.999,1,1750289.74,"Will Gold close at $3,200 or more at the end of 2025?"
+16168,2025,0.001,0,1451475.03,"Will Gold close at $3,100-3,200 at the end of 2025?"
+16172,2025,0.002,0,820802.0,Will Kim Jong Un visit US in 2025?
+16174,2025,0.002,0,124296.73,Trump divorce in 2025?
+16173,2025,0.003,0,164773.07,Harry & Meghan divorce in 2025?
+16175,2025,0.004,0,262155.06,Bird flu vaccine in 2025?
+16176,2025,0.003001,0,63394.59,Jay-Z & Beyoncé divorce in 2025?
+16169,2025,0.006,0,216144.46,"Will Siqi Chen refund >$500,000 in $ZERO losses?"
+16183,2025,0.003,0,494516.53,Kraken IPO in 2025?
+14465,2025,0.998,1,266821.29,"Will Trump say ""America"" 15 or more times during his inauguration speech?"
+14196,2025,0.83,0,495365.54,Will Caitlyn Jenner attend presidential inauguration?
+14465,2025,0.998403,1,153414.66,"Will Trump say ""America first"" during his inauguration speech?"
+14465,2025,0.001,0,60466.2,"Will Trump say ""middle class"" during his inauguration speech?"
+16095,2025,0.001,0,1794862.55,Will Meta have the top AI model on December 31?
+16095,2025,0.001,0,1640869.74,Will Mistral AI have the top AI model on December 31?
+16186,2025,0.005,0,79349.23,Supreme Court vacancy in 2025?
+16095,2025,0.001,0,1728389.37,Will Moonshot have the top AI model on December 31?
+16188,2025,0.021,0,195451.97,OpenAI announces it has achieved AGI before July?
+16095,2025,0.001,0,1870945.31,Will Z.ai have the top AI model on December 31?
+16094,2025,0.014,0,603447.63,Will OpenAI have the top AI model on June 30?
+16094,2025,0.001,0,554352.15,Will Anthropic have the top AI model on June 30?
+16094,2025,0.001,0,531416.39,Will Meta have the top AI model on June 30?
+16094,2025,0.04,0,773957.58,Will xAI have the top AI model on June 30?
+16094,2025,0.001,0,378794.41,Will Alibaba have the top AI model on June 30?
+16094,2025,0.001,0,403615.83,Will DeepSeek have the top AI model on June 30?
+16194,2025,0.006,0,979746.3,NYSE marketwide circuit breaker in 2025?
+16094,2025,0.95,1,906675.51,Will Google have the top AI model on June 30?
+16200,2025,0.999,1,856694.53,MicroStrategy purchases more Bitcoin before inauguration?
+16268,2025,0.002549,0,127691.61,SpaceX Starship 7th launch by Jan 10?
+16268,2025,0.96,1,91043.79,SpaceX Starship 7th launch reaches space?
+16199,2025,0.98,1,165138.19,Will Trump attend Jimmy Carter's state funeral?
+16204,2025,0.018886,0,172648.81,Ukraine agrees to resume Russian natural gas transit in January?
+16205,2025,0.001,0,191095.71,Will 7-9 SpaceX Starship launches successfully reach Space in 2025?
+16205,2025,0.992,1,117813.66,Will 4-6 SpaceX Starship launches successfully reach Space in 2025?
+16205,2025,0.001,0,60142.53,Will 10-12 SpaceX Starship launches successfully reach Space in 2025?
+14196,2025,0.155,0,363574.22,Will Benjamin Netanyahu attend presidential inauguration?
+16206,2025,0.008,0,660013.61,South Korea First Lady Keon-hee arrested before April?
+16214,2025,0.002,0,1103410.34,Will 3 QBs get taken in the first 3 picks of the 2025 NFL Draft?
+16214,2025,0.001,0,235023.01,Will zero QBs get taken in the first 3 picks of the 2025 NFL Draft?
+16215,2025,0.005,0,61480.49,Assad leaves Russia before 2026?
+16216,2025,0.999,1,758478.78,Will Bitcoin hit $100k again by January 15?
+16219,2025,0.999,1,1791791.55,"Will Bitcoin reach $105,000 by January 31, 2025?"
+16219,2025,0.015001,0,1474130.98,"Will Bitcoin reach $140,000 by January 31, 2025?"
+16219,2025,0.002,0,317929.37,"Will Bitcoin dip to $60,000 by January 31, 2025?"
+16219,2025,0.011,0,884982.66,"Will Bitcoin dip to $70,000 by January 31, 2025?"
+16219,2025,0.002,0,468637.23,"Will Bitcoin dip to $50,000 by January 31, 2025?"
+16220,2025,0.094,0,1135027.5,"Will Ethereum hit $4,000 by January 31, 2025?"
+16220,2025,0.014,0,511796.95,"Will Ethereum hit $4,500 by January 31, 2025?"
+16220,2025,0.001,0,266222.86,"Will Ethereum dip to $1,500 by January 31?"
+16220,2025,0.012,0,520094.34,"Will Ethereum dip to $2,500 by January 31?"
+16221,2025,0.999,1,439189.52,"Will Solana hit $250 by January 31, 2025?"
+16221,2025,0.999,1,1700221.36,"Will Solana hit $275 by January 31, 2025?"
+16221,2025,0.999,1,340024.17,"Will Solana hit $225 by January 31, 2025?"
+16220,2025,0.001,0,564965.6,"Will Ethereum dip to $2,000 by January 31?"
+16220,2025,0.03,0,1331535.62,"Will Ethereum dip to $2,750 by January 31?"
+16221,2025,0.009,0,1972679.34,"Will Solana dip to $160 by January 31, 2025?"
+16221,2025,0.007825,0,335310.77,"Will Solana dip to $140 by January 31, 2025?"
+16221,2025,0.006,0,410053.83,"Will Solana dip to $120 by January 31, 2025?"
+16220,2025,0.034,0,679688.57,"Will Ethereum hit $4,250 by January 31, 2025?"
+16228,2025,0.009,0,1031999.38,AI wins IMO gold medal in 2025?
+16229,2025,0.014,0,93870.07,Will Sam Altman get OpenAI equity by June 30?
+16232,2025,0.003,0,151574.91,Will the Patriots make the first pick of the 2025 NFL Draft?
+16232,2025,0.004,0,188845.89,Will the Raiders make the first pick of the 2025 NFL Draft?
+16232,2025,0.001,0,103409.43,Will the Jaguars make the first pick of the 2025 NFL Draft?
+16233,2025,0.004,0,194846.34,Arrest in the Suchir Balaji case before April?
+16220,2025,0.005,0,625063.0,"Will Ethereum hit $4,750 by January 31, 2025?"
+16248,2025,0.009,0,627998.78,Cardano ETF in 2025?
+16241,2025,0.991,1,224103.06,Was the Cybertruck bombing a lone wolf attack?
+16249,2025,0.002,0,325506.56,Pepe ETF in 2025?
+16257,2025,0.002,0,285496.82,Will ECB raise interest rates in January 2025?
+16257,2025,0.0428,0,213761.29,Will ECB make no change in interest rates in January 2025?
+16257,2025,0.95,1,183022.05,Will ECB lower interest rates by 25bps in January 2025?
+16257,2025,0.006,0,187240.37,Will ECB lower interest rates by 50bps in January 2025?
+16258,2025,0.009,0,1371614.5,Starmer out before July?
+16257,2025,0.001,0,428317.1,Will ECB lower interest rates by more than 50bps in January 2025?
+16259,2025,0.003,0,69184.94,Starmer inquiry into grooming gangs before February?
+16265,2025,0.01919,0,218147.17,Will Aaron Rodgers retire?
+16263,2026,0.003,0,1386219.77,Macron out in 2025?
+16268,2025,0.92,1,51819.28,SpaceX 7th Starship booster survives re-entry?
+16268,2025,0.25,0,130191.75,SpaceX 7th Starship Super Heavy blows up?
+16281,2025,0.999,1,88768.99,Is the Cybertruck manifesto real?
+16282,2025,0.004,0,419524.41,"Will Trump deport 1,750,000-2,000,000 people?"
+16286,2025,0.1,0,279931.19,Hornets vs. Cavaliers
+16287,2025,0.69,1,188738.73,Pelicans vs. Wizards
+16288,2025,0.2,1,289581.77,Jazz vs. Magic
+16285,2025,0.5,0,384690.63,Celtics vs. Thunder
+16290,2025,0.408638,1,138376.94,Kings vs. Warriors
+16289,2025,0.39,0,374929.41,Lakers vs. Rockets
+16294,2025,0.848764,1,278026.43,Pacers vs. Nets
+16291,2025,0.33,0,501690.79,Trail Blazers vs. Pistons
+16293,2025,0.68,1,283570.34,Bucks vs. Raptors
+16295,2025,0.19,1,669153.93,Magic vs. Knicks
+16292,2025,0.54,1,561244.32,Suns vs. 76ers
+16296,2025,0.44,0,296483.05,Clippers vs. Timberwolves
+16297,2025,0.41,0,234167.27,Mavericks vs. Grizzlies
+16298,2025,0.57,0,297646.65,Spurs vs. Bulls
+16301,2025,0.87,1,539800.81,Rockets vs. Wizards
+16300,2025,0.640346,0,609498.11,Suns vs. Hornets
+16299,2025,0.36,0,1199561.54,Heat vs. Kings
+16302,2025,0.69,0,648510.04,Lakers vs. Mavericks
+16303,2025,0.62,1,500711.96,Timberwolves vs. Pelicans
+16304,2025,0.68,1,481318.78,Hawks vs. Jazz
+16306,2025,0.8,1,670537.77,Celtics vs. Nuggets
+16305,2025,0.22,1,415118.93,Heat vs. Warriors
+16307,2025,0.367778,0,637365.55,Bulls vs. Pacers
+16310,2025,0.79,1,213051.11,Pistons vs. Nets
+16311,2025,0.13,0,303092.1,Raptors vs. Knicks
+16308,2025,0.21,0,425947.82,Wizards vs. 76ers
+16312,2025,0.46,1,281191.04,Trail Blazers vs. Pelicans
+16313,2025,0.6,0,515131.72,Clippers vs. Nuggets
+16314,2025,0.38,0,545141.81,Spurs vs. Bucks
+16309,2025,0.42,0,637396.46,Thunder vs. Cavaliers
+16315,2025,0.57,1,937221.3,Warriors vs. Pistons
+16316,2025,0.68,1,335447.72,Timberwolves vs. Magic
+16319,2025,0.5,0,546834.46,Trail Blazers vs. Mavericks
+16318,2025,0.43,1,439219.99,Rockets vs. Grizzlies
+16317,2025,0.12,0,660188.81,Raptors vs. Cavaliers
+16320,2025,0.66,1,305883.38,Heat vs. Jazz
+16321,2025,0.3,0,317311.65,Hawks vs. Suns
+16323,2025,0.28,1,324465.51,Pelicans vs. 76ers
+16326,2025,0.57,1,508533.3,Thunder vs. Knicks
+16324,2025,0.2,0,287289.87,Warriors vs. Pacers
+16325,2025,0.68,1,301935.0,Bucks vs. Magic
+16328,2025,0.2,0,176544.68,Wizards vs. Bulls
+16327,2025,0.15,1,347857.01,Kings vs. Celtics
+16330,2025,0.51,0,335287.86,Rockets vs. Hawks
+16331,2025,0.19,0,269598.75,Jazz vs. Suns
+16329,2025,0.1,0,462563.26,Nets vs. Nuggets
+16332,2025,0.35,0,528790.45,Raptors vs. Pistons
+16334,2025,0.64007,1,347660.02,Heat vs. Trail Blazers
+16333,2025,0.46,1,463639.39,Grizzlies vs. Timberwolves
+16337,2025,0.61,0,99280.1,Capitals vs. Sabres
+16335,2025,0.48,0,87504.9,Hornets vs. Clippers
+16338,2025,0.54,0,70930.52,Canucks vs. Canadiens
+16336,2025,0.49,0,83999.38,Spurs vs. Lakers
+16339,2025,0.48,0,96390.9,Panthers vs. Avalanche
+16341,2025,0.53,0,53117.85,Senators vs. Red Wings
+16351,2025,0.7,0,65014.45,Avalanche vs. Blackhawks
+16350,2025,0.71,1,78779.84,Golden Knights vs. Sharks
+16352,2025,0.37,0,64329.53,Canucks vs. Capitals
+16353,2025,0.6,1,93329.72,Panthers vs. Utah
+16355,2025,0.41,1,58711.24,Sabres vs. Senators
+16358,2025,0.52,0,63387.18,Kraken vs. Blue Jackets
+16354,2025,0.39,0,75331.34,Flames vs. Kings
+16364,2025,0.38,1,97598.06,Islanders vs. Golden Knights
+16366,2025,0.35,1,169686.75,Canadiens vs. Capitals
+16367,2025,0.38,0,64861.44,Canucks vs. Hurricanes
+16368,2025,0.51,1,56157.67,Kings vs. Jets
+16369,2025,0.3,0,52066.6,Sharks vs. Utah
+16370,2025,0.35,1,103149.41,Bruins vs. Panthers
+16377,2025,0.36,1,187482.56,Canucks vs. Maple Leafs
+16389,2025,0.021,0,135253.72,Israel withdraws from Lebanon before February?
+16388,2025,0.006,0,267059.07,Magnificent 7 shrinks below 25% of S&P 500 in 2025?
+15437,2025,0.161,1,92678.25,Will Biden pardon Adam Kinzinger?
+16386,2025,0.92,1,178100.2,Will every president attend Trump’s inauguration?
+16401,2025,0.48,1,1164080.41,Notre Dame vs. Penn State
+16402,2025,0.7,1,857614.28,Ohio State vs. Texas
+16404,2025,0.19,0,1313824.22,Steelers vs. Ravens
+16421,2025,0.084,0,56561.13,Will the Giants draft Shedeur Sanders?
+16421,2025,0.003,0,515284.12,Will the Giants draft Tetairoa McMillan?
+16421,2025,0.005,0,224523.56,Will the Giants draft Mason Graham?
+16421,2025,0.001,0,295246.99,Will the Giants draft Will Johnson?
+16421,2025,0.003,0,384953.98,Will the Giants draft Will Campbell?
+16421,2025,0.677,1,230372.39,Will the Giants draft Abdul Carter?
+16421,2025,0.001,0,911474.4,Will the Giants draft Jalen Milroe?
+16423,2025,0.003,0,56330.88,Will the next UK election be called by June 30?
+16423,2025,0.005,0,577431.03,Will the next UK election be called by March 31?
+16423,2026,0.001542,0,91962.3,Will the next UK election be called by December 31?
+16426,2025,0.003912,0,157804.82,Andrew Tate guilty of human trafficking in 2025?
+16268,2025,0.84,0,56506.84,SpaceX 7th Starship upper stage successful splash down?
+16430,2025,0.001,0,882306.35,Will Bloc Québécois party win the most seats in the next Canadian election?
+16430,2025,0.001,0,556690.07,Will the Green Party win the most seats in the next Canadian election?
+16430,2025,0.001,0,761989.04,Will the New Democratic Party win the most seats in the next Canadian election?
+16430,2025,0.001,0,1139787.92,Will the People's party win the most seats in the next Canadian election?
+16430,2025,0.001,0,767497.09,Will another party win the most seats in the next Canadian election?
+16434,2025,0.005,0,97862.63,Will Trump cut taxes on high earners in 2025?
+14465,2025,0.001,0,386284.27,"Will Trump say ""Elon Musk"" during his inauguration speech?"
+16435,2025,0.004,0,464547.26,Will Trump cut corporate taxes in 2025?
+16437,2025,0.979268,1,1370540.29,MicroStrategy purchases more Bitcoin before inauguration?
+16439,2025,0.002,0,438750.04,Will Trump pardon less than 250 Jan 6 protestors in his first 100 days?
+16438,2025,0.011,0,93123.28,Will Elon be worth $500b before March?
+16439,2025,0.002,0,719196.34,Will Trump pardon 250-499 Jan 6 protestors in his first 100 days?
+16439,2025,0.026001,0,136990.29,"Will Trump pardon 1,500 or more Jan 6 protestors in his first 100 days?"
+16439,2025,0.001,0,1815318.79,Will Trump pardon 500-749 Jan 6 protestors in his first 100 days?
+16439,2025,0.023001,0,83009.54,"Will Trump pardon 1,000-1,249 Jan 6 protestors in his first 100 days?"
+16445,2025,0.018901,0,133894.43,Will Russia abandon Syrian naval base before July?
+16439,2025,0.9,1,226602.8,"Will Trump pardon 1,250-1,499 Jan 6 protestors in his first 100 days?"
+16448,2025,0.008,0,99589.82,Will the Jaguars draft Malaki Starks?
+14196,2025,0.46,0,102658.4,Will Alexandria Ocasio-Cortez attend presidential inauguration?
+16453,2025,0.003,0,336968.35,OpenAI announces it has achieved AGI in 2025?
+16459,2025,0.31,0,176466.12,Will Everton win on 2025-01-15?
+16457,2025,0.6,0,50997.2,Will Chelsea win on 2025-01-14?
+16455,2025,0.599954,0,103140.34,Will Manchester City win on 2025-01-14?
+16462,2025,0.13,0,51100.03,Will Tottenham win on 2025-01-15?
+16459,2025,0.43,1,73589.97,Will Aston Villa win on 2025-01-15?
+16462,2025,0.75,1,73116.98,Will Arsenal win on 2025-01-15?
+16458,2025,0.579943,0,64906.12,Will Liverpool win on 2025-01-14?
+16466,2025,0.18,0,150254.69,Will Brentford win on 2025-01-18?
+16463,2025,0.5,1,76754.59,Will Brighton win on 2025-01-16?
+16465,2025,0.58,0,73829.93,Will Newcastle win on 2025-01-18?
+16465,2025,0.18,1,51091.65,Will Bournemouth win on 2025-01-18?
+16464,2025,0.759999,1,289711.47,Will Manchester United win on 2025-01-16?
+16468,2025,0.499827,1,51075.25,Will Fulham win on 2025-01-18?
+16469,2025,0.14,0,50913.04,Will Aston Villa win on 2025-01-18?
+16466,2025,0.65,1,133322.74,Will Liverpool win on 2025-01-18?
+16470,2025,0.36,1,56221.95,Will Everton win on 2025-01-19?
+16469,2025,0.67998,0,69988.4,Will Arsenal win on 2025-01-18?
+16471,2025,0.68,1,119710.79,Will Nottingham Forest win on 2025-01-19?
+16472,2025,0.459992,0,71787.46,Will Manchester United win on 2025-01-19?
+16473,2025,0.75,1,119319.47,Will Manchester City win on 2025-01-19?
+16464,2025,0.08,0,51390.49,Will Southampton win on 2025-01-16?
+16474,2025,0.74,1,292714.55,Will Chelsea win on 2025-01-20?
+16470,2025,0.39,0,62476.8,Will Tottenham win on 2025-01-19?
+16483,2025,0.2,0,69175.27,Carabao Cup: Arsenal vs. Newcastle (To Advance)
+16478,2025,0.03,0,56627.51,"Will Facebook implement ""community notes"" before April?"
+16482,2025,0.12,0,591506.85,Bitcoin up in Q1 2025?
+16480,2025,0.005166,0,333559.26,Elon Musk trillionaire in 2025?
+16487,2025,0.51,1,142712.06,Prochazka vs. Hill
+16487,2025,0.568302,0,87404.74,Holland vs. de Ridder
+16490,2025,0.002,0,237153.74,Will Trump jail Kamala Harris?
+16487,2025,0.27,1,337196.82,Dvalishvili vs. Nurmagomedov
+16495,2025,0.35,0,65166.21,Will Trump impose tariffs on Canada in his first week?
+16495,2025,0.56,0,64636.55,Will Trump impose tariffs on China in his first week?
+16500,2025,0.27,1,184890.42,Less than 26m people watch Trump inauguration?
+16500,2025,0.24,0,97976.69,Will 26-29m people watch Trump inauguration?
+16499,2025,0.037,0,392558.97,Will Trump inauguration be the most viewed ever?
+16500,2025,0.26,0,70385.5,Will 29-32 people watch Trump inauguration?
+16500,2025,0.049635,0,79112.65,Will 35-38 people watch Trump inauguration?
+16500,2025,0.05,0,68586.57,Will 38-41 people watch Trump inauguration?
+16500,2025,0.09,0,96382.67,Will 32-35 people watch Trump inauguration?
+16500,2025,0.042615,0,132622.95,Will 41-44 people watch Trump inauguration?
+16500,2025,0.032,0,189435.53,Will 44m or more people watch Trump inauguration?
+16268,2025,0.01,0,80873.26,Will Trump attend the launch?
+14465,2025,0.997,1,182811.24,"Will Trump say ""Biden"" during his inauguration speech?"
+16504,2025,0.001,0,426828.52,Will Trump issue less than 10 executive orders on Day 1?
